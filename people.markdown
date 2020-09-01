@@ -35,7 +35,34 @@ permalink: /people/
 <!--td markdown="span">Some descriptive text. This is a markdown link to [Google](http://google.com). Or see [some link][mydoc_tags].</td-->
 </tr>
 </tbody>
+
+<thead>
+<tr class="header">
+<th><h3>Students</h3></th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td markdown="span">
+    <a href="/assets/people/seohyeon_min.jpg" data-lightbox="Seohyeon Min" >
+      <img style="width: 35%" src="/assets/people/seohyeon_min.jpg">
+      </a>
+</td>
+<td markdown="span">
+    **Seohyeon Min**<br>
+    Master student, started in Aug. 2020. <br>
+    School of Computing <br>
+    <a href="mailto:{{ threepebbles@kaist.ac.kr }}">
+       <i class="fa fa-envelope-o"></i>
+       <span class="username">{{ threepebbles@kaist.ac.kr }}</span>
+    </a>
+    <br>
+</td>
+
+<!--td markdown="span">Some descriptive text. This is a markdown link to [Google](http://google.com). Or see [some link][mydoc_tags].</td-->
+</tr>
+</tbody>
+
 </table>
-
-
 
