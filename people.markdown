@@ -53,7 +53,7 @@ permalink: /people/
     **Seohyeon Min**<br>
     Master student, started in Aug. 2020. <br>
     School of Computing <br>
-    <a href="mailto:"threepebbles@kaist.ac.kr">
+    <a href="mailto:threepebbles@kaist.ac.kr">
        <i class="fa fa-envelope-o"></i>
        <span class="username">threepebbles@kaist.ac.kr</span>
     </a>
