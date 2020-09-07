@@ -30,7 +30,7 @@ permalink: /people/
        <span class="username">{{ site.email }}</span>
     </a>
     <br>
-    [https://www.daehyungpark.com](https://daehyungpark.com/)
+    [http://www.daehyungpark.com](http://daehyungpark.com/)
 </td>
 <!--td markdown="span">Some descriptive text. This is a markdown link to [Google](http://google.com). Or see [some link][mydoc_tags].</td-->
 </tr>
