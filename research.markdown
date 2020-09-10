@@ -31,7 +31,7 @@ permalink: /research/
     </a>
 </td>
 <td markdown="span">
-**Inverse Manipulation Skill Learning**
+- **Inverse Manipulation Skill Learning**
 <!--![](//www.youtube.com/watch?v=HgaqH4PWcTI?width=100height=50)-->
 <br>
 Learning for manipulation is to obtain manipulation skills from a wide range of knowledge sources. We introduce methodologies for learning manipulation constraints and motion parameters from demonstrations.
@@ -48,7 +48,7 @@ Learning for manipulation is to obtain manipulation skills from a wide range of 
       </a>
 </td>
 <td markdown="span">
-**Dynamically Reconfigurable Task-and-Motion Planning**
+- **Dynamically Reconfigurable Task-and-Motion Planning**
 <br> We present a robust task-and-motion planning(TAMP) framework under human operator’s cooperative oradversarial interventions.
 </td>
 </tr>
@@ -60,7 +60,7 @@ Learning for manipulation is to obtain manipulation skills from a wide range of 
       </a>
 </td>
 <td markdown="span">
- **Natural Language Understanding for Manipulation**
+- **Natural Language Understanding for Manipulation**
 <br>Natural language is a convenient means to deliver a user’s high-level instruction. We introduce a language-guided manipulation framework that learns common-sense knowledge from natural language instructions and corresponding motion demonstrations.
 <br>
 <br>
@@ -76,7 +76,7 @@ Learning for manipulation is to obtain manipulation skills from a wide range of 
       </a>
 </td>
 <td markdown="span">
-**Machine Common Sense Learning for Robots**
+- **Machine Common Sense Learning for Robots**
 <br>Interpreting underspecified instructions re-quires environmental context and background knowledge about how to accomplish complex tasks. We investigate how to incorporate human-like commonsense knowledge for natural language understanding and task executions. You can find related papers as follows,
 <br>
 <br>
