@@ -12,11 +12,10 @@ permalink: /research/
 </td>
 
 
-
-<table>
+<table cellpadding="20px">
 <colgroup>
-<col width="20%" />
-<col width="80%" />
+<col width="30%" />
+<col width="70%" />
 </colgroup>
 <thead>
 <tr class="header">
@@ -29,12 +28,13 @@ permalink: /research/
 <td markdown="span">
     <a href="/assets/research/2019_CoRL_CBN_IRL2.png" data-lightbox="corl19_cbnirl" >
       <img style="width: 350px" src="/assets/research/2019_CoRL_CBN_IRL.png">
-      </a>
+    </a>
 </td>
 <td markdown="span">
 **Inverse Manipulation Skill Learning**
-![](//www.youtube.com/watch?v=HgaqH4PWcTI?width=100height=50)
-<br> Learning for manipulation is to obtain manipulation skills from a wide range of knowledge sources. We introduce methodologies for learning manipulation constraints and motion parameters from demonstrations.
+<!--![](//www.youtube.com/watch?v=HgaqH4PWcTI?width=100height=50)-->
+<br>
+Learning for manipulation is to obtain manipulation skills from a wide range of knowledge sources. We introduce methodologies for learning manipulation constraints and motion parameters from demonstrations.
 <br>
 <br>
 **Selected paper**: Daehyung Park, Michael Noseworthy, Rohan Paul, Subhro Roy, and Nicholas Roy. "Inferring Task Goals and Constraints using Bayesian Nonparametric Inverse Reinforcement Learning", Conference on Robot Learning (CoRL2019) 
