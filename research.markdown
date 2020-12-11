@@ -37,7 +37,7 @@ permalink: /research/
 Learning for manipulation is to obtain manipulation skills from a wide range of knowledge sources. We introduce methodologies for learning manipulation constraints and motion parameters from demonstrations.
 <br>
 <br>
-**Selected paper**: Daehyung Park, Michael Noseworthy, Rohan Paul, Subhro Roy, and Nicholas Roy. "Inferring Task Goals and Constraints using Bayesian Nonparametric Inverse Reinforcement Learning", Conference on Robot Learning (CoRL2019) 
+**Selected paper**: Daehyung Park et al. "Inferring Task Goals and Constraints using Bayesian Nonparametric Inverse Reinforcement Learning", CoRL, 2019.
 <a href="https://drive.google.com/open?id=1bswpgVJDXp_9vh55_Gz1cAbylhhjQqhS" target="_blank">[PDF]</a><a href="https://youtu.be/HgaqH4PWcTI" target="_blank">[Video]</a>
 </td>
 </tr>
@@ -64,7 +64,7 @@ Learning for manipulation is to obtain manipulation skills from a wide range of 
 <br>Natural language is a convenient means to deliver a user’s high-level instruction. We introduce a language-guided manipulation framework that learns common-sense knowledge from natural language instructions and corresponding motion demonstrations.
 <br>
 <br>
-**Selected paper**: Daehyung Park#, Jacob Arkin#, Subhro Roy, Matthew R. Walter, Nicholas Roy, Thomas M. Howard, and Rohan Paul. "Multi-Modal Estimation and Communication of Latent Semantic Knowledge for Robust Execution of Robot Instructions", The International Journal of Robotics Research (IJRR), 2020. (#- authors contributed equally) 
+**Selected paper**: Daehyung Park#, Jacob Arkin# et al. "Multi-Modal Estimation and Communication of Latent Semantic Knowledge for Robust Execution of Robot Instructions", IJRR, 2020. (#- authors contributed equally) 
 <a href="https://journals.sagepub.com/eprint/PSW4Z5AXF4AYTSXRN7AI/full" target="_blank">[PDF]</a><a href="https://www.youtube.com/watch?v=BfCeYsTvaOw&amp" target="_blank">[Video]</a>
 </td>
 </tr>
@@ -80,7 +80,7 @@ Learning for manipulation is to obtain manipulation skills from a wide range of 
 <br>Interpreting underspecified instructions re-quires environmental context and background knowledge about how to accomplish complex tasks. We investigate how to incorporate human-like commonsense knowledge for natural language understanding and task executions. You can find related papers as follows,
 <br>
 <br>
-**Selected paper**: Daniel Nyga, Subhro Roy, Rohan Paul, Daehyung Park, Mihai Pomarlan, Michael Beetz, and Nicholas Roy. "Grounding Robot Plans from Natural Language Instructions with Incomplete World Knowledge", Conf. on Robot Learning (CoRL2018)
+**Selected paper**: Daniel Nyga et al. "Grounding Robot Plans from Natural Language Instructions with Incomplete World Knowledge", CoRL, 2018.
 <a href="http://proceedings.mlr.press/v87/nyga18a/nyga18a.pdf" target="_blank">[PDF]</a><a href="https://youtu.be/uWv-l7XMoB8" target="_blank">[Video]</a>
 </td>
 </tr>
