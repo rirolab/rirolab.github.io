@@ -8,3 +8,9 @@ How to compile and run the server?
 ~~~~bash
 bundle exec jekyll serve
 ~~~~
+
+
+# Installation
+~~~~bash
+sudo apt install nodejs, npm
+~~~~

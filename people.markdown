@@ -4,27 +4,33 @@ title: People
 permalink: /people/
 ---
 
+<!--
+If you want to change the style of the table, please look at the table tags in _sass/_layout.scss.
+-->
+
+<!---------------- Professor --------------------->
 <table>
 <colgroup>
-<col width="30%" />
-<col width="70%" />
+<col width="15%" />
+<col width="35%" />
+<col width="15%" />
+<col width="35%" />
 </colgroup>
 <thead>
-<tr class="header">
-<th><h3>Professor</h3></th>
-<th></th>
+<tr>
+<th class="caption" colspan="4">Professor</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td markdown="span">
+<td>
     <a href="/assets/people/daehyung_park.jpg" data-lightbox="Daehyung Park" >
-      <img style="width: 35%" src="/assets/people/daehyung_park.jpg">
+      <img style="width: 75%" src="/assets/people/daehyung_park.jpg">
       </a>
 </td>
-<td markdown="span">
+<td>
     **Daehyung Park**<br>
-    Assitant Professor, started in Aug. 2020. <br>
+    Assitant Professor<br>
     <a href="mailto:{{ site.email}}">
        <i class="fa fa-envelope-o"></i>
        <span class="username">{{ site.email }}</span>
@@ -32,24 +38,59 @@ permalink: /people/
     <br>
     [http://www.daehyungpark.com](http://www.daehyungpark.com/)
 </td>
-<!--td markdown="span">Some descriptive text. This is a markdown link to [Google](http://google.com). Or see [some link][mydoc_tags].</td-->
+<td></td>
+<td></td>
 </tr>
 </tbody>
+</table>
 
+<!---------------- Postdoc and Ph.D --------------------->
+<table>
+<colgroup>
+<col width="15%" />
+<col width="35%" />
+<col width="15%" />
+<col width="35%" />
+</colgroup>
 <thead>
-<tr class="header">
-<th><h3>Students</h3></th>
-<th></th>
+<tr>
+<th class="caption" colspan="4">Ph.D. Students</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td markdown="span">
+<td colspan="2">
+</td>
+<td colspan="2">
+</td>
+</tr>
+</tbody>
+
+
+<!---------------- Master --------------------->
+<table>
+<colgroup>
+<col width="15%" />
+<col width="35%" />
+<col width="15%" />
+<col width="35%" />
+</colgroup>
+<thead>
+<tr>
+<th class="caption" colspan="4">Master Students</th>
+</tr>
+</thead>
+<tbody>
+
+<tr>
+
+<!-- Seohyeon Min -->
+<td>
     <a href="/assets/people/seohyeon_min.jpg" data-lightbox="Seohyeon Min" >
-      <img style="width: 35%" src="/assets/people/seohyeon_min.jpg">
+      <img style="width: 75%" src="/assets/people/seohyeon_min.jpg">
       </a>
 </td>
-<td markdown="span">
+<td>
     **Seohyeon Min**<br>
     Master student, started in Aug. 2020. <br>
     School of Computing <br>
@@ -60,9 +101,44 @@ permalink: /people/
     <br>
 </td>
 
-<!--td markdown="span">Some descriptive text. This is a markdown link to [Google](http://google.com). Or see [some link][mydoc_tags].</td-->
+<!-- Yeseung Kim -->
+<td>
+</td>
+<td>
+    **Yeseung Kim**<br>
+    Prospective Student, 2021.
+    <br>
+</td>
+</tr>
+
+<tr>
+<!-- Beomseok Choi -->
+<td>
+</td>
+<td>
+    **Beomseok Choi**<br>
+    Prospective Student, 2021.
+    <br>
+</td>
+
+<!-- Janghyuk Choi -->
+<td>
+</td>
+<td>
+    **Janghyuk Choi**<br>
+    Prospective Student, 2021.
+    <br>
+</td>
+
 </tr>
 </tbody>
+
+
+
+<!---------------- Undergrads --------------------->
+
+
+<!---------------- Alum. --------------------->
 
 </table>
 

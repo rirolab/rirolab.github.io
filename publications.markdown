@@ -3,8 +3,26 @@ layout: page
 title: Publications
 permalink: /publications/
 ---
+<!--
+If you want to change the style of the table, please look at the publication tag in _sass/_layout.scss.
+-->
+<!------------------- Submitted Articles --------------------->
+<div class="publication">
+<div class="pub-title"> Submitted Articles </div>
+<div class="pub-item">
+[1] T. M. Howard, E. Stump, J. Fink, J. Arkin, R. Paul, <b>D. Park</b>, S. Roy, D. Barber, R. Bendell, K. Schmeckpeper,J. Tian, J. Oh, M. Wigness, L. Quang, B. Rothrock, J. Nash, M. R. Walter, F. Jentsch, N. Roy. "An Intelligence Architecture for Grounded LanguageCommunication with Field Robots," 2020.
+</div>
+<div class="pub-item">
+[2] Shen Li*, <b>Daehyung Park*</b>, Yoonchang Sung*, Julie Shah, Nicholas Roy. "Reactive Task and Motion Planning under Temporal Logic Specifications," 2020. (*- <b>authors contributed equally</b>)
+</div>
+</div>
 
-<h3 style="background-color:rgb(238,238,238);text-align:center"><a name="TOC-Journal-Articles"></a> Journal Articles</h3>
+
+<!------------------- Journal Articles --------------------->
+<div class="publication">
+<div class="pub-title"> Journal Articles </div>
+</div>
+
 <p align="left" style="text-align:left"><font size="3" style="background-color:transparent"><span style="font-family:Times New Roman"><span style="font-family:times new roman,serif"><font size="3"> </font></span></span></font></p>
 <p align="left" style="text-align:left"><font size="3" style="background-color:transparent"><span style="font-family:Times New Roman"><span style="font-family:times new roman,serif"><font size="3">[1] <b>Daehyung Park*</b>, </font></span></span></font><font size="3" style="background-color:transparent"><span style="font-family:Times New Roman"><span style="font-family:times new roman,serif"><font size="3"><font size="3" style="background-color:transparent"><span style="font-family:Times New Roman"><span style="font-family:times new roman,serif"><font size="3">Jacob Arkin*, </font></span></span></font>Subhro Roy, Matthew R. Walter, Nicholas Roy, Thomas M. Howard, and Rohan Paul. "Multi-Modal Estimation and Communication of Latent Semantic Knowledge for Robust Execution of Robot Instructions", <i>The International Journal of Robotics Research </i>(IJRR), 2020. </font></span></span></font><font size="3" style="background-color:transparent"><span style="font-family:Times New Roman"><span style="font-family:times new roman,serif"><font size="3"><font size="3"><span style="font-family:times new roman,serif">(*- <b>authors contributed equally</b>) </span></font><a href="https://journals.sagepub.com/eprint/PSW4Z5AXF4AYTSXRN7AI/full" target="_blank">[PDF]</a></font></span><font size="3"><span style="font-family:Times New Roman"> <a href="https://www.youtube.com/watch?v=BfCeYsTvaOw&amp;feature=youtu.be" target="_blank">[Video]</a><br />
 </span></font></span></font></p>
@@ -20,7 +38,13 @@ permalink: /publications/
 <p align="left" style="text-align:left"><span style="font-family:times new roman,serif"><font size="3"><i><br />
 </i></font></span></p>
 <p align="left" style="text-align:left"><a href="https://youtu.be/gLcPZQnDmkk" target="_blank"></a></p>
-<h3 style="background-color:rgb(238,238,238);text-align:center"><a name="TOC-Conference-Articles"></a> Conference Articles</h3>
+
+
+<!------------------- Conference Articles --------------------->
+<div class="publication">
+<div class="pub-title"> Conference Articles </div>
+</div>
+
 <p align="left" style="text-align:left"><font size="3"><span style="font-family:times new roman,serif"><span style="color:rgb(102,102,102)">[1] <b>Daehyung Park</b>, Michael Noseworthy, Rohan Paul, Subhro Roy, and Nicholas Roy. "Inferring Task Goals and Constraints using Bayesian Nonparametric Inverse Reinforcement Learning", <i>Conference on Robot Learning (CoRL2019) </i><a href="https://drive.google.com/open?id=1bswpgVJDXp_9vh55_Gz1cAbylhhjQqhS" target="_blank">[PDF]</a><a href="https://youtu.be/HgaqH4PWcTI" target="_blank">[Video]</a> </span><span style="color:rgb(102,102,102)"><i><span style="color:rgb(102,102,102)"><i><span style="font-style:normal;font-weight:100;letter-spacing:normal;text-align:left;text-indent:0px;text-transform:none;white-space:normal;word-spacing:0px;background-color:rgb(255,255,255);display:inline!important;float:none">(</span></i></span></i></span></span></font><font size="3"><span style="font-family:times new roman,serif"><span style="color:rgb(102,102,102)"><i><span style="color:rgb(102,102,102)"><i><span style="font-style:normal;font-weight:100;letter-spacing:normal;text-align:left;text-indent:0px;text-transform:none;white-space:normal;word-spacing:0px;background-color:rgb(255,255,255);display:inline!important;float:none"><b><font size="3"><span style="font-family:Times New Roman"><b>Oral presentation, 5% oral acceptance rate</b></span></font></b></span></i></span></i></span></span></font><font size="3"><span style="font-family:times new roman,serif"><span style="color:rgb(102,102,102)"><i><span style="color:rgb(102,102,102)"><i><span style="font-style:normal;font-weight:100;letter-spacing:normal;text-align:left;text-indent:0px;text-transform:none;white-space:normal;word-spacing:0px;background-color:rgb(255,255,255);display:inline!important;float:none">)</span></i></span></i></span></span></font></p>
 <p align="left" style="text-align:left"><font size="3"><span style="font-family:times new roman,serif">[2] Michael Noseworthy, </span></font><font size="3"><span style="font-family:times new roman,serif"><span style="color:rgb(102,102,102)">Rohan Paul, Subhro Roy, Daehyung Park, and Nicholas Roy</span></span></font><font size="3"><span style="font-family:times new roman,serif"><span style="color:rgb(102,102,102)">. "</span>Task-Conditioned Variational Autoencoders for Learning Movement Primitives<span style="color:rgb(102,102,102)">", <i>Conference on Robot Learning (CoRL2019) </i><a href="https://drive.google.com/open?id=1HckF-IYaj3zbe2CTSL30VKuHluAtsBBl" target="_blank">[PDF]</a> </span><span style="color:rgb(102,102,102)"><i><span style="font-style:normal;font-weight:100;letter-spacing:normal;text-align:left;text-indent:0px;text-transform:none;white-space:normal;word-spacing:0px;background-color:rgb(255,255,255);display:inline!important;float:none">(27.6% Acceptance Rate)</span></i></span></span></font></p>
 <p align="left" style="text-align:left"><font size="3"><span style="font-family:times new roman,serif">[3] </span><span style="font-family:times new roman,serif">Subhro Roy, Michael Noseworthy, Rohan Paul, <b>Daehyung Park</b> and Nicholas Roy. "</span><span style="font-family:times new roman,serif">Leveraging Past References for Robust Language Grounding", </span></font><span style="font-family:times new roman,serif"><font size="3"><i>Conference on Computational Natural Language Learning</i> (CoNLL 2019) <a href="https://www.aclweb.org/anthology/K19-1040/" target="_blank">[PDF]</a></font><br />
@@ -51,8 +75,14 @@ permalink: /publications/
 <p align="left" style="text-align:left"><br />
 </p>
 <p align="left" style="text-align:left"><font size="3"><span style="font-family:Times New Roman"><i> </i></span></font></p>
-<h3 style="background-color:rgb(238,238,238);text-align:center"><a name="TOC-Workshop-papers-Abstracts-and-Posters"></a> Workshop papers, Abstracts, and Posters</h3>
-<font size="3"> </font>
+
+
+<!------------------- Workshop papers, Abstracts, and Posters --------------------->
+
+<div class="publication">
+<div class="pub-title"> Workshop papers, Abstracts, and Posters </div>
+</div>
+
 <p align="left" style="text-align:left"><font size="3"><span style="font-family:times new roman,serif"><font size="3"><span style="font-family:times new roman,serif">[1] <b>Daehyung Park</b>, Michael Noseworthy, Rohan Paul, Subhro Roy, and Nicholas Roy, "Joint Goal and Constraint Inference using Bayesian Nonparametric Inverse Reinforcement Learning," <i>The 4th Multidisciplinary Conf. on Reinforcement Learning and Decision Making</i>, 2019<span> [PDF] <br />
 </span></span></font></span></font></p>
 <p align="left" style="text-align:left"><font size="3"><span style="font-family:times new roman,serif">[2] <b>Daehyung Park</b>, Yuuna Hoshi, Harshal P. Mahajan, Wendy Rogers, and Charles C. Kemp, "Active Feeding System using a General-purpose Manipulator," <i><span>Int'l. Symp. on Medical Robotics (ISMR)</span></i>, 2018<span> <a href="http://www.daehyungpark.com/publications/ISMR2018_Poster_Park.pdf?attredirects=0" target="_blank">[PDF]</a> <br />
@@ -68,7 +98,13 @@ permalink: /publications/
 </span></font></p>
 <p align="left" style="text-align:left"><br />
 </p>
-<h3 style="background-color:rgb(238,238,238);text-align:center"><a name="TOC-Patents"></a> Patents</h3>
+
+
+<!------------------- Patents --------------------->
+<div class="publication">
+<div class="pub-title"> Patents </div>
+</div>
+
 <p align="left" style="text-align:left"><font size="3"><span style="font-family:times new roman,serif">[1]<b> D. Park</b>, K. Lee, C. An, and Y. Hong. “Teaching and playback method based on control of redundancy resolution for robot and computer-readable medium controlling the same.” US Patent 12 923 650, Apr. 21, 2011. <a href="http://www.daehyungpark.com/home/US20110093119A1.pdf?attredirects=0" target="_blank">[PDF] </a></span></font></p>
 <font size="3"><span style="font-family:times new roman,serif"> </span></font>
 <p align="left" style="text-align:left"><font size="3"><span style="font-family:times new roman,serif">[2] K. Lee, Y. Hong, C. An, and <b>D. Park</b>. “Motor control apparatus and motor control method thereof.” US Patent 13 009 961, Jan. 20, 2011. <a href="http://www.daehyungpark.com/home/US20110181223A1.pdf?attredirects=0">[PDF]</a></span></font></p>

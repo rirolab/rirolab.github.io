@@ -123,9 +123,6 @@ pre code.hljs {
 	right: 0;
 	background: $white;
 	z-index: 1;
-	/*
-	*	Navigation Menu - http://refills.bourbon.io/unstyled/ (see "Navigation")
-	*/
   // Mobile view
   .navigation-menu-button {
     display: block;
@@ -139,7 +136,7 @@ pre code.hljs {
   }
   // Nav menu
   .navigation-wrapper {
-  	@include outer-container;
+  	@include outer-container(60%);
     @include clearfix;
     position: relative;
   }
@@ -150,8 +147,9 @@ pre code.hljs {
     	padding-left: $em-base;
     }
     img {
-      max-height: 2.5em;
-      margin-top: 0.75em;
+      max-height: 3.0em;
+      margin-top: 0.375em;
+      margin-bottom: 0.375em;
       padding-right: 1em;
     }
     span {
@@ -160,11 +158,11 @@ pre code.hljs {
   }
   nav {
     float: none;
-    padding: 1.25em 0;
+    padding: 0.75em 0;
     @include media ($tablet) {
       float: right;
       line-height: 1.5em;
-    }
+    }    
   }
   ul.navigation-menu {
     clear: both;
@@ -182,12 +180,53 @@ pre code.hljs {
       display: block;
     }
   }
+
+  .navbar {
+      float: right !important;
+      margin-right: -15px;
+      margin-bottom: 0em;
+      font-family: 'Helvetica Rounded', Arial, sans-serif;
+      font-size: 16px;
+      font-weight: 400;
+      line-height: 1.5em;
+      text-shadow: 0 1px 3px rgba(0, 0, 0, .5) !important; 
+      .navbar-nav {
+	  li {
+	      a {
+		  color: #70aad0 !important;
+		  &:hover {
+		      color: #4680a6 !important;
+		      border-bottom: 2px solid #4680a6 !important;
+		  }
+		  &:focus {
+		      color: #4680a6 !important;
+		      border-bottom: 2px solid #4680a6 !important;
+		  }
+	      }
+	  }
+	  .active {
+	      a {
+		  color: #4680a6 !important;
+		  border-bottom: 2px solid #4680a6 !important;
+	      }
+	  }
+	  .dropdown-menu {
+	      li {
+		  a {
+		      color: #70aad0 !important;
+		      text-shadow: none !important;
+		  }
+	      }
+	  }
+      }
+ }
+  
   // Nav items
   ul li.nav-link {
     display: block;
     text-align: right;
     width: 100%;
-    padding: 0.25em 0;
+    padding: 0.0em 0;
     @include media ($tablet) {
       background: transparent;
       display: inline;
@@ -195,20 +234,12 @@ pre code.hljs {
       width: auto;
     }
   }
-  li.nav-link {
-  	a {
-	    display: inline-block;
-	    @include media ($tablet) {
-	      padding-right: 1.5em;
-	    }
-	  }
-	  &:last-child a {
-	  	@include media ($tablet) {
-    		padding-right: 1em;
-    	}
-    }
-  }
+
 }
+
+
+
+
 
 /*
 *	Body
@@ -250,9 +281,9 @@ pre code.hljs {
 		.page-number {
 			padding: 0 1em;
 		}
-    a.newer-posts {
-      text-decoration: none;
-    }
+                a.newer-posts {
+                    text-decoration: none;
+                }
 	}
 	.site-header-container {
 		color: $white;
@@ -344,8 +375,10 @@ pre code.hljs {
 	*/
 	.page {
 		.post-header {
-			padding: 0.5em 1em 1em 1em;
-			text-align: center;
+                    font-size: 1.5em;
+		    padding: 0.5em 1em 0.5em 1em;
+                    font-weight: bold;                
+		    text-align: left;
 		}
 		.posts-list {
 			@extend %default-ul;
@@ -366,6 +399,40 @@ pre code.hljs {
 			padding-bottom: 0.5em;
  		}
 	}
+        table{
+            th.caption{
+                font-size: 1.5em;
+                margin-top: 1em;
+                margin-bottom: 0em;
+                margin-left: 0;
+                margin-right: 0;
+                font-weight: bold;                
+                padding: 0.2em 0em 0.2em 0em
+            }
+            td.description{
+                padding: 0.0em 0.5em 0em 0.5em
+            }
+        }
+        .publication{
+            margin-top: 1em;
+            margin-bottom: 2em;
+            .pub-title{
+                font-size: 1.5em;
+                font-weight: bold;                
+	        background-color: #70aad0;
+                color: #fff;
+                text-align: center;
+                margin-bottom: 0.5em;
+            }
+            .pub-item{
+                align-content: left;
+                text-align: left;
+                font-size: 16px;
+                font-family: "Times New Roman", Times, serif;
+                line-height: 1.5;
+                padding: 0.2em 0em 0.2em 0em
+            }
+        }
 }
 
 /*

@@ -12,26 +12,26 @@ permalink: /research/
 </td>
 
 
-<table cellpadding="20px">
+<table>
 <colgroup>
 <col width="30%" />
 <col width="70%" />
 </colgroup>
 <thead>
-<tr class="header">
-<th><h3>Topic</h3></th>
-<th><h3>Description</h3></th>
+<tr>
+<th class="caption">Topic</th>
+<th class="caption">Description</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td markdown="span">
+<td>
     <a href="/assets/research/2019_CoRL_CBN_IRL2.png" data-lightbox="corl19_cbnirl" >
       <img style="width: 350px" src="/assets/research/2019_CoRL_CBN_IRL.png">
     </a>
 </td>
-<td markdown="span">
-- **Inverse Manipulation Skill Learning**
+<td class="description">
+**Inverse Manipulation Skill Learning**
 <!--![](//www.youtube.com/watch?v=HgaqH4PWcTI?width=100height=50)-->
 <br>
 Learning for manipulation is to obtain manipulation skills from a wide range of knowledge sources. We introduce methodologies for learning manipulation constraints and motion parameters from demonstrations.
@@ -47,8 +47,8 @@ Learning for manipulation is to obtain manipulation skills from a wide range of 
       <img style="width: 350px" src="/assets/research/2021_RAL_LTL_BT.png">
       </a>
 </td>
-<td markdown="span">
-- **Dynamically Reconfigurable Task-and-Motion Planning**
+<td class="description">
+**Dynamically Reconfigurable Task-and-Motion Planning**
 <br> We present a robust task-and-motion planning(TAMP) framework under human operator’s cooperative oradversarial interventions.
 </td>
 </tr>
@@ -59,8 +59,8 @@ Learning for manipulation is to obtain manipulation skills from a wide range of 
       <img style="width: 350px" src="/assets/research/2020_IJRR.png">
       </a>
 </td>
-<td markdown="span">
-- **Natural Language Understanding for Manipulation**
+<td class="description">
+**Natural Language Understanding for Manipulation**
 <br>Natural language is a convenient means to deliver a user’s high-level instruction. We introduce a language-guided manipulation framework that learns common-sense knowledge from natural language instructions and corresponding motion demonstrations.
 <br>
 <br>
@@ -75,8 +75,8 @@ Learning for manipulation is to obtain manipulation skills from a wide range of 
       <img style="width: 350px" src="/assets/research/2018_CORL.png">
       </a>
 </td>
-<td markdown="span">
-- **Machine Common Sense Learning for Robots**
+<td  class="description">
+**Machine Common Sense Learning for Robots**
 <br>Interpreting underspecified instructions re-quires environmental context and background knowledge about how to accomplish complex tasks. We investigate how to incorporate human-like commonsense knowledge for natural language understanding and task executions. You can find related papers as follows,
 <br>
 <br>
