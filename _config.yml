@@ -26,7 +26,7 @@ description: This is the webpage of Robust Intelligence and Robotics Laboratory 
 # and never end with a slash. Set it to a blank value if hosting at the
 # root of your server.
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "www.rirolab.github.io" # the base hostname & protocol for your site
+url: "https://rirolab.github.io" # the base hostname & protocol for your site
 cover: "/assets/header_image.jpg"
 logo: "/assets/logo.png"
 
