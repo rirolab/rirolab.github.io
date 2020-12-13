@@ -10,7 +10,3 @@ bundle exec jekyll serve
 ~~~~
 
 
-# Installation
-~~~~bash
-sudo apt install nodejs, npm
-~~~~

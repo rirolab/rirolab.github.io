@@ -29,14 +29,14 @@ If you want to change the style of the table, please look at the table tags in _
       </a>
 </td>
 <td>
-    **Daehyung Park**<br>
+    <b>Daehyung Park</b><br>
     Assitant Professor<br>
     <a href="mailto:{{ site.email}}">
        <i class="fa fa-envelope-o"></i>
        <span class="username">{{ site.email }}</span>
     </a>
     <br>
-    [http://www.daehyungpark.com](http://www.daehyungpark.com/)
+    <a href="http://www.daehyungpark.com">http://www.daehyungpark.com/</a>
 </td>
 <td></td>
 <td></td>
@@ -58,6 +58,17 @@ If you want to change the style of the table, please look at the table tags in _
 </tr>
 </thead>
 <tbody>
+
+<tr>
+
+<!-- None -->
+<td>
+    <b>Looking for a Ph.D. student!</b><br>
+</td>
+<td>
+</td>
+</tr>
+
 <tr>
 <td colspan="2">
 </td>
@@ -91,7 +102,7 @@ If you want to change the style of the table, please look at the table tags in _
       </a>
 </td>
 <td>
-    **Seohyeon Min**<br>
+    <b>Seohyeon Min</b><br>
     Master student, started in Aug. 2020. <br>
     School of Computing <br>
     <a href="mailto:threepebbles@kaist.ac.kr">
@@ -105,7 +116,7 @@ If you want to change the style of the table, please look at the table tags in _
 <td>
 </td>
 <td>
-    **Yeseung Kim**<br>
+    <b>Yeseung Kim</b><br>
     Prospective Student, 2021.
     <br>
 </td>
@@ -116,7 +127,7 @@ If you want to change the style of the table, please look at the table tags in _
 <td>
 </td>
 <td>
-    **Beomseok Choi**<br>
+    <b>Beomseok Choi</b><br>
     Prospective Student, 2021.
     <br>
 </td>
@@ -125,7 +136,7 @@ If you want to change the style of the table, please look at the table tags in _
 <td>
 </td>
 <td>
-    **Janghyuk Choi**<br>
+    <b>Janghyuk Choi</b><br>
     Prospective Student, 2021.
     <br>
 </td>
