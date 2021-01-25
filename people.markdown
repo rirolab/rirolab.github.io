@@ -134,10 +134,17 @@ If you want to change the style of the table, please look at the table tags in _
 
 <!-- Janghyuk Choi -->
 <td>
+    <a href="/assets/people/janghyuk_choi.jpg" data-lightbox="Janghyuk Choi" >
+      <img style="width: 75%" src="/assets/people/janghyuk_choi.jpg">
+      </a>
 </td>
 <td>
     <b>Janghyuk Choi</b><br>
-    Prospective Student, 2021.
+    Prospective Student, 2021. <br>
+    <a href="mailto:janghyuk.choi@kaist.ac.kr">
+       <i class="fa fa-envelope-o"></i>
+       <span class="username">janghyuk.choi@kaist.ac.kr</span>
+    </a>
     <br>
 </td>
 
