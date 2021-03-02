@@ -122,10 +122,16 @@ If you want to change the style of the table, please look at the table tags in _
 <tr>
 <!-- Beomseok Choi -->
 <td>
+      <a href="/assets/people/beomseok_choi.jpg" data-lightbox="Beomseok Choi" >
+      <img style="width: 75%" src="/assets/people/beomseok_choi.jpg">
+      </a>	
 </td>
 <td>
     <b>Beomseok Choi</b><br>
-    <br>
+    <a href="mailto:midi9848@kaist.ac.kr">
+       <i class="fa fa-envelope-o"></i>
+       <span class="username">midi9848@kaist.ac.kr</span>
+    </a>
 </td>
 
 <!-- Janghyuk Choi -->

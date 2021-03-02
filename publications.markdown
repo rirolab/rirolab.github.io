@@ -13,7 +13,7 @@ If you want to change the style of the table, please look at the publication tag
 [1] T. M. Howard, E. Stump, J. Fink, J. Arkin, R. Paul, <b>D. Park</b>, S. Roy, D. Barber, R. Bendell, K. Schmeckpeper,J. Tian, J. Oh, M. Wigness, L. Quang, B. Rothrock, J. Nash, M. R. Walter, F. Jentsch, N. Roy. "An Intelligence Architecture for Grounded LanguageCommunication with Field Robots," 2020.
 </div>
 <div class="pub-item">
-[2] Shen Li*, <b>Daehyung Park*</b>, Yoonchang Sung*, Julie Shah, Nicholas Roy. "Reactive Task and Motion Planning under Temporal Logic Specifications," 2020. (*- <b>authors contributed equally</b>)
+[2] Shen Li*, <b>Daehyung Park*</b>, Yoonchang Sung*, Julie Shah, Nicholas Roy. "Reactive Task and Motion Planning under Temporal Logic Specifications," IEEE Int'l. Conf. on Robotics and Automation (ICRA), 2021. (*- <b>authors contributed equally</b>, <b>accepted</b>)
 </div>
 </div>
 
