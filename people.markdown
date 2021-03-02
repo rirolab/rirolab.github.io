@@ -115,6 +115,10 @@ If you want to change the style of the table, please look at the table tags in _
 </td>
 <td>
     <b>Yeseung Kim</b><br>
+    <a href="mailto:rhgkrsus1@kaist.ac.kr">
+       <i class="fa fa-envelope-o"></i>
+       <span class="username">rhgkrsus1@kaist.ac.kr</span>
+    </a>
     <br>
 </td>
 </tr>
