@@ -99,7 +99,7 @@ If you want to change the style of the table, please look at the table tags in _
 <td>
     <a href="/assets/people/seohyeon_min.jpg" data-lightbox="Seohyeon Min" >
       <img style="width: 75%" src="/assets/people/seohyeon_min.jpg">
-      </a>
+    </a>
 </td>
 <td>
     <b>Seohyeon Min</b><br>
@@ -112,6 +112,9 @@ If you want to change the style of the table, please look at the table tags in _
 
 <!-- Yeseung Kim -->
 <td>
+    <a href="/assets/people/yeseung_kim.jpg" data-lightbox="Yeseung Kim" >
+      <img style="width: 75%" src="/assets/people/yeseung_kim.jpg">
+    </a>
 </td>
 <td>
     <b>Yeseung Kim</b><br>
