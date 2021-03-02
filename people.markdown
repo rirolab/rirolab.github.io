@@ -88,7 +88,7 @@ If you want to change the style of the table, please look at the table tags in _
 </colgroup>
 <thead>
 <tr>
-<th class="caption" colspan="4">Master Students</th>
+<th class="caption" colspan="4">M.S. Students</th>
 </tr>
 </thead>
 <tbody>
@@ -103,8 +103,6 @@ If you want to change the style of the table, please look at the table tags in _
 </td>
 <td>
     <b>Seohyeon Min</b><br>
-    Master student, started in Aug. 2020. <br>
-    School of Computing <br>
     <a href="mailto:threepebbles@kaist.ac.kr">
        <i class="fa fa-envelope-o"></i>
        <span class="username">threepebbles@kaist.ac.kr</span>
@@ -117,7 +115,6 @@ If you want to change the style of the table, please look at the table tags in _
 </td>
 <td>
     <b>Yeseung Kim</b><br>
-    Prospective Student, 2021.
     <br>
 </td>
 </tr>
@@ -128,7 +125,6 @@ If you want to change the style of the table, please look at the table tags in _
 </td>
 <td>
     <b>Beomseok Choi</b><br>
-    Prospective Student, 2021.
     <br>
 </td>
 
@@ -140,7 +136,6 @@ If you want to change the style of the table, please look at the table tags in _
 </td>
 <td>
     <b>Janghyuk Choi</b><br>
-    Prospective Student, 2021. <br>
     <a href="mailto:janghyuk.choi@kaist.ac.kr">
        <i class="fa fa-envelope-o"></i>
        <span class="username">janghyuk.choi@kaist.ac.kr</span>
