@@ -78,7 +78,7 @@ If you want to change the style of the table, please look at the table tags in _
 </tbody>
 
 
-<!---------------- Master --------------------->
+<!---------------- M.S. --------------------->
 <table>
 <colgroup>
 <col width="15%" />
@@ -124,9 +124,10 @@ If you want to change the style of the table, please look at the table tags in _
     </a>
     <br>
 </td>
-</tr>
 
+</tr>
 <tr>
+
 <!-- Beomseok Choi -->
 <td>
       <a href="/assets/people/beomseok_choi.jpg" data-lightbox="Beomseok Choi" >
@@ -159,10 +160,40 @@ If you want to change the style of the table, please look at the table tags in _
 </tr>
 </tbody>
 
-
-
 <!---------------- Undergrads --------------------->
+<table>
+<colgroup>
+<col width="15%" />
+<col width="35%" />
+<col width="15%" />
+<col width="35%" />
+</colgroup>
+<thead>
+<tr>
+<th class="caption" colspan="4">Undergrads Students</th>
+</tr>
+</thead>
+<tbody>
 
+<tr>
+
+<!-- Minjae Song -->
+<td>
+    <a href="/assets/people/minjae_song.jpg" data-lightbox="Minjae Song" >
+      <img style="width: 75%" src="/assets/people/minjae_song.jpg">
+    </a>
+</td>
+<td>
+    <b>Minjae Song</b><br>
+    <a href="mailto:smj0398@kaist.ac.kr">
+       <i class="fa fa-envelope-o"></i>
+       <span class="username">smj0398@kaist.ac.kr</span>
+    </a>
+    <br>
+</td>
+
+</tr>
+</tbody>
 
 <!---------------- Alum. --------------------->
 
