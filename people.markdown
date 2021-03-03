@@ -160,7 +160,7 @@ If you want to change the style of the table, please look at the table tags in _
 </tr>
 </tbody>
 
-<!---------------- Undergrads --------------------->
+<!---------------- Undergrad --------------------->
 <table>
 <colgroup>
 <col width="15%" />
@@ -170,7 +170,7 @@ If you want to change the style of the table, please look at the table tags in _
 </colgroup>
 <thead>
 <tr>
-<th class="caption" colspan="4">Undergrads Students</th>
+<th class="caption" colspan="4">Undergrad Students</th>
 </tr>
 </thead>
 <tbody>
