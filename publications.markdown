@@ -35,9 +35,11 @@ If you want to change the style of the table, please look at the publication tag
 
 <div class="pub-item">
 [3] Ariel Kapusta, Philip Grice, Henry Clever, Yash Chitalia, <b>Daehyung Park</b>, and Charles C. Kemp. “A System for Bedside Assistance that Integrates a Robotic Bed and a Mobile Manipulator,” <i>PLoS ONE</i>, 2019. <a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0221854" target="_blank">[PDF]</a> <a href="https://ndownloader.figshare.com/files/18019598" target="_blank">[Video]</a>
+</div>
 
 <div class="pub-item">
 [4] <b>Daehyung Park</b>, Yuuna Hoshi, and Charles C. Kemp. “A Multimodal Anomaly Detector for Robot-Assisted Feeding Using an LSTM-based Variational Autoencoder”, <i>IEEE Robotics and Automation Letters</i> (RA-L), 2018. <a href="http://ieeexplore.ieee.org/document/8279425/" target="_blank">[PDF]</a> <a href="https://youtu.be/ZMAGEQx5Uy8" target="_blank">[Video]</a>
+</div>
 
 <div class="pub-item">
 [5]<b> Daehyung Park</b>, Hokeun Kim, and Charles C. Kemp. “Multimodal Anomaly Detection for Assistive Robots”, <i>Autonomous Robots</i>, 2018. <a href="https://link.springer.com/article/10.1007/s10514-018-9733-6" target="_blank">[PDF]</a>
@@ -111,70 +113,62 @@ If you want to change the style of the table, please look at the publication tag
 </div>
 
 </div>
-<!-- 
-<p align="left" style="text-align:left"><font size="3"><span style="font-family:times new roman,serif"><span style="color:rgb(102,102,102)">[1] <b>Daehyung Park</b>, Michael Noseworthy, Rohan Paul, Subhro Roy, and Nicholas Roy. "Inferring Task Goals and Constraints using Bayesian Nonparametric Inverse Reinforcement Learning", <i>Conference on Robot Learning (CoRL2019) </i><a href="https://drive.google.com/open?id=1bswpgVJDXp_9vh55_Gz1cAbylhhjQqhS" target="_blank">[PDF]</a><a href="https://youtu.be/HgaqH4PWcTI" target="_blank">[Video]</a> </span><span style="color:rgb(102,102,102)"><i><span style="color:rgb(102,102,102)"><i><span style="font-style:normal;font-weight:100;letter-spacing:normal;text-align:left;text-indent:0px;text-transform:none;white-space:normal;word-spacing:0px;background-color:rgb(255,255,255);display:inline!important;float:none">(</span></i></span></i></span></span></font><font size="3"><span style="font-family:times new roman,serif"><span style="color:rgb(102,102,102)"><i><span style="color:rgb(102,102,102)"><i><span style="font-style:normal;font-weight:100;letter-spacing:normal;text-align:left;text-indent:0px;text-transform:none;white-space:normal;word-spacing:0px;background-color:rgb(255,255,255);display:inline!important;float:none"><b><font size="3"><span style="font-family:Times New Roman"><b>Oral presentation, 5% oral acceptance rate</b></span></font></b></span></i></span></i></span></span></font><font size="3"><span style="font-family:times new roman,serif"><span style="color:rgb(102,102,102)"><i><span style="color:rgb(102,102,102)"><i><span style="font-style:normal;font-weight:100;letter-spacing:normal;text-align:left;text-indent:0px;text-transform:none;white-space:normal;word-spacing:0px;background-color:rgb(255,255,255);display:inline!important;float:none">)</span></i></span></i></span></span></font></p>
-<p align="left" style="text-align:left"><font size="3"><span style="font-family:times new roman,serif">[2] Michael Noseworthy, </span></font><font size="3"><span style="font-family:times new roman,serif"><span style="color:rgb(102,102,102)">Rohan Paul, Subhro Roy, Daehyung Park, and Nicholas Roy</span></span></font><font size="3"><span style="font-family:times new roman,serif"><span style="color:rgb(102,102,102)">. "</span>Task-Conditioned Variational Autoencoders for Learning Movement Primitives<span style="color:rgb(102,102,102)">", <i>Conference on Robot Learning (CoRL2019) </i><a href="https://drive.google.com/open?id=1HckF-IYaj3zbe2CTSL30VKuHluAtsBBl" target="_blank">[PDF]</a> </span><span style="color:rgb(102,102,102)"><i><span style="font-style:normal;font-weight:100;letter-spacing:normal;text-align:left;text-indent:0px;text-transform:none;white-space:normal;word-spacing:0px;background-color:rgb(255,255,255);display:inline!important;float:none">(27.6% Acceptance Rate)</span></i></span></span></font></p>
-<p align="left" style="text-align:left"><font size="3"><span style="font-family:times new roman,serif">[3] </span><span style="font-family:times new roman,serif">Subhro Roy, Michael Noseworthy, Rohan Paul, <b>Daehyung Park</b> and Nicholas Roy. "</span><span style="font-family:times new roman,serif">Leveraging Past References for Robust Language Grounding", </span></font><span style="font-family:times new roman,serif"><font size="3"><i>Conference on Computational Natural Language Learning</i> (CoNLL 2019) <a href="https://www.aclweb.org/anthology/K19-1040/" target="_blank">[PDF]</a></font><br />
-</span></p>
-<p align="left" style="text-align:left"><font size="3"><span style="font-family:times new roman,serif">[4] Daniel Nyga, Subhro Roy, Rohan Paul, <b>Daehyung Park</b>, Mihai Pomarlan, Michael Beetz, and Nicholas Roy. "Grounding Robot Plans from Natural Language Instructions with Incomplete World Knowledge", <i>Conference on Robot Learning (CoRL2018)</i> <a href="goog_989040504">[</a></span></font><font size="3"><span style="font-family:times new roman,serif"><a href="http://proceedings.mlr.press/v87/nyga18a/nyga18a.pdf" target="_blank"><font size="3"><span style="font-family:Times New Roman">PDF</span></font>]</a><a href="https://youtu.be/uWv-l7XMoB8" target="_blank">[Video]</a> (31% Acceptance Rate)</span><span style="font-family:Times New Roman"><br />
-</span></font></p>
-<p align="left" style="text-align:left"><font size="3"><span style="font-family:Times New Roman">[5] Jacob Arkin, Rohan Paul, <b>Daehyung Park</b>, Subhro Roy, Nicholas Roy and Thomas M. Howard. "Real-Time Human-Robot Communication for Manipulation Tasks in Partially Observed Environments", </span></font><font size="3"><span style="font-family:Times New Roman"><i>Int'l. Symp. on Experimental Robotics (ISER2018)</i> <a href="https://link.springer.com/chapter/10.1007/978-3-030-33950-0_39" target="_blank">[PDF</a></span></font><font size="3"><span style="font-family:Times New Roman">]<a href="https://youtu.be/JTVJkJavU6g" target="_blank">[Video]</a><br />
-</span></font></p>
-<p align="left" style="text-align:left"><font size="3"><span style="font-family:Times New Roman">[6] Henry M. Clever, Ariel Kapusta, <b>Daehyung Park</b>, Zackory Erickson, Yash Chitalia, and Charles C. Kemp. “</span></font><font size="3"><span style="font-family:Times New Roman">3D Human Pose Estimation on a Configurable Bed from a Pressure Image”,<i> IEEE/RSJ Int'l. Conf. on Intelligent Robots and Systems (IROS2018)</i>. </span></font><font size="3"><span style="font-family:Times New Roman"><a href="https://arxiv.org/pdf/1804.07873.pdf" target="_blank">[PDF]</a><br />
-</span></font></p>
-<p align="left" style="text-align:left"><font size="3"><span style="font-family:Times New Roman">[7] </span></font><span style="font-family:times new roman,serif"><font size="3"><b>Daehyung Park</b>, Hokeun Kim, Yuuna Hoshi, Zackory Erickson, Ariel Kapusta, and Charles C. Kemp. “</font></span><span style="font-family:times new roman,serif"><font size="3"><font size="3">A Multimodal Execution Monitor with Anomaly Classification for Robot-Assisted Feeding</font>”, </font><font size="3"><i>IEEE/RSJ Int'l. Conf. on Intelligent Robots and Systems (IROS2017) </i></font></span><font size="3"><span style="font-family:Times New Roman"><a href="http://www.daehyungpark.com/publications/IROS17_1223_FI.pdf?attredirects=0" target="_blank">[PDF]</a></span></font><a href="https://youtu.be/KQlVSz3URnA" target="_blank"><font size="3"><span style="font-family:Times New Roman">[Video]</span></font></a></p>
-<p align="left" style="text-align:left"><font size="3"><span style="font-family:Times New Roman">[8]<b> Daehyung Park</b>, Zackory Erickson, </span><span style="font-family:Times New Roman"><span style="font-family:times new roman,serif">Tapomayukh Bhattacharjee, </span>and Charles C. Kemp. “Multimodal Execution Monitoring for Anomaly Detection During Robot Manipulation”, <i>IEEE Int'l. Conf. on Robotics and Automation, 2016. (ICRA2016) </i><a href="http://www.daehyungpark.com/publications/ICRA16_2378_FI.pdf?attredirects=0" target="_blank">[PDF]</a></span></font><font size="3"><span style="font-family:Times New Roman"><a href="https://youtu.be/gLcPZQnDmkk" target="_blank"><font size="3"><span style="font-family:Times New Roman">[Video]</span></font></a> </span><span style="font-family:times new roman,serif"><span style="font-style:normal;font-weight:100;letter-spacing:normal;text-align:left;text-indent:0px;text-transform:none;white-space:normal;word-spacing:0px;background-color:rgb(255,255,255);display:inline!important;float:none">(34% Acceptance Rate)</span></span></font></p>
-<p align="left" style="text-align:left"><font size="3"><span style="font-family:times new roman,serif">[9] Tapomayukh Bhattacharjee, Ashwin A Shenoi, <b>Daehyung Park</b>, James M. Rehg, and Charles C. Kemp, "Combining Tactile Sensing and Vision for Rapid Haptic Mapping", </span><span style="font-family:Times New Roman"><i>IEEE/RSJ Int'l. Conf. on Intelligent Robots and Systems (IROS2015) </i></span><span style="font-family:Times New Roman"><a href="http://www.daehyungpark.com/iros_2015_tapo.pdf?attredirects=0" target="_blank">[PDF]</a><i><br />
-</i></span></font></p>
-<font size="3"> </font>
-<p align="left" style="text-align:left"><font size="3"><span style="font-family:times new roman,serif">[10] Ariel Kapusta, <b>Daehyung Park</b>, and Charles C. Kemp, "Task-Centric Selection of Robot and Environment Initial Configurations to Perform Assistive Tasks",  </span><span style="font-family:Times New Roman"><i>IEEE/RSJ Int'l. Conf. on Intelligent Robots and Systems (IROS2015) </i></span><span style="font-family:Times New Roman"><a href="http://www.daehyungpark.com/iros_2015_baseselection.pdf?attredirects=0" target="_blank">[PDF]</a><i><br />
-</i></span></font></p>
-<font size="3"> </font>
-<p align="left" style="text-align:left"><font size="3"><span style="font-family:Times New Roman">[11]<b> Daehyung Park</b>, Ariel </span><span style="font-family:Times New Roman">Kapusta, Jeffrey Hawke, and Charles C. Kemp. “Interleaving Planning and Control for Efficient Haptically-guided Reaching in Unknown Environments</span><span style="font-family:Times New Roman">”, </span><span style="font-family:Times New Roman"><i><span style="font-family:Times New Roman"><i>IEEE-RAS Int'l. Conf. on Humanoid Robots (Humanoids 2014)</i></span></i></span><span style="font-family:Times New Roman"><a href="http://www.daehyungpark.com/home/humanoids_2014_HIPC.pdf?attredirects=0" target="_blank"> [PDF]</a><a href="https://youtu.be/WHHv3womkYs" target="_blank">[Video]</a><i><br />
-</i></span><span style="font-family:Times New Roman"><i> </i></span></font></p>
-<font size="3"> </font>
-<p align="left" style="text-align:left"><font size="3"><span style="font-family:Times New Roman">[12]<b> Daehyung Park</b>, Ariel </span><span style="font-family:Times New Roman">Kapusta, Youkeun Kim, James M. Rehg, and Charles C. Kemp. “</span><span style="font-family:Times New Roman">Learning to Reach into the Unknown: Selecting Initial Conditions When Reaching in Clutter”, </span><span style="font-family:Times New Roman"><i>IEEE/RSJ Int'l. Conf. on Intelligent Robots and Systems (IROS2014) </i></span><span style="font-family:Times New Roman"><a href="http://www.daehyungpark.com/home/iros2014_lic.pdf?attredirects=0" target="_blank">[PDF]</a><a href="https://youtu.be/Gjy-MDEbZUU" target="_blank">[Video]</a><i><br />
-</i></span></font></p>
-<font size="3"> </font><font size="3"> <span style="font-family:Times New Roman">[13] Heiko Hoffmann, Peter Pastor, <b>Daehyung Park</b>, and Stefan Schaal. “Biologically-inspired dynamical systems for movement generation: Automatic real-time goal adaptation and obstacle avoidance”, <i>IEEE Int'l. Conf. on Robotics and Automation, 2009. </i><a href="http://www.daehyungpark.com/home/ICRA2009.pdf?attredirects=0">[PDF]</a><i><br />
-</i></span> </font>
-<p align="left" style="text-align:left"><font size="3"><span style="font-family:Times New Roman">[14]<b> Daehyung Park</b>, Heiko Hoffmann, Peter Pastor, and Stefan Schaal. “Movement reproduction and obstacle avoidance with dynamic movement primitives and potential fields”, <i>IEEE-RAS Int'l. Conf. on Humanoid Robots (Humanoids 2008, </i><b>Oral presentation</b><i>) </i><a href="http://www.daehyungpark.com/home/DaeHyungPark_humanoids_2008.pdf?attredirects=0">[PDF]</a><br />
-</span></font></p>
-<p align="left" style="text-align:left"><br />
-</p>
-<p align="left" style="text-align:left"><font size="3"><span style="font-family:Times New Roman"><i> </i></span></font></p> -->
-
 
 <!------------------- Workshop papers, Abstracts, and Posters --------------------->
 
 <div class="publication">
 <div class="pub-title"> Workshop papers, Abstracts, and Posters </div>
+
+<div class="pub-item">
+<!-- No PDF link -->
+[1] <b>Daehyung Park</b>, Michael Noseworthy, Rohan Paul, Subhro Roy, and Nicholas Roy, "Joint Goal and Constraint Inference using Bayesian Nonparametric Inverse Reinforcement Learning," <i>The 4th Multidisciplinary Conf. on Reinforcement Learning and Decision Making</i>, 2019 [PDF]
 </div>
 
-<p align="left" style="text-align:left"><font size="3"><span style="font-family:times new roman,serif"><font size="3"><span style="font-family:times new roman,serif">[1] <b>Daehyung Park</b>, Michael Noseworthy, Rohan Paul, Subhro Roy, and Nicholas Roy, "Joint Goal and Constraint Inference using Bayesian Nonparametric Inverse Reinforcement Learning," <i>The 4th Multidisciplinary Conf. on Reinforcement Learning and Decision Making</i>, 2019<span> [PDF] <br />
-</span></span></font></span></font></p>
-<p align="left" style="text-align:left"><font size="3"><span style="font-family:times new roman,serif">[2] <b>Daehyung Park</b>, Yuuna Hoshi, Harshal P. Mahajan, Wendy Rogers, and Charles C. Kemp, "Active Feeding System using a General-purpose Manipulator," <i><span>Int'l. Symp. on Medical Robotics (ISMR)</span></i>, 2018<span> <a href="http://www.daehyungpark.com/publications/ISMR2018_Poster_Park.pdf?attredirects=0" target="_blank">[PDF]</a> <br />
-</span></span></font></p>
-<p align="left" style="text-align:left"><font size="3"><span style="font-family:times new roman,serif">[3] <b>Daehyung Park</b> and Charles C. Kemp, "Multimodal Execution Monitoring for Robot-Assisted Feeding,"<i> </i><span><i>TechSAge State of the Science Conference</i>, 2017 [PDF]<br />
-</span></span></font></p>
-<p align="left" style="text-align:left"><font size="3"><span style="font-family:times new roman,serif">[4] Ariel Kapusta, Yash Chitalia, <b>Daehyung Park</b>, and Charles C. Kemp. "Collaboration Between a Robotic Bed and a Mobile Manipulator May Improve Physical Assistance for People with Disabilities," <i>IEEE ROMAN workshop on </i><span style="color:rgb(0,0,0)"><i><a href="http://www.cogrobotics.unina.it">Behavior, Adaptation and Learning for Assistive Robotics"</a> (BAILAR)</i>, 2016 <a href="http://pwp.gatech.edu/hrl/wp-content/uploads/sites/231/2016/07/collaboration-robotic-bed.pdf">[PDF]</a></span><br />
-</span></font></p>
-<p align="left" style="text-align:left"><font size="3"><span style="font-family:times new roman,serif">[5]<b> Daehyung Park</b>, Youkeun Kim, Zackory Erickson, and Charles C. Kemp. “Towards Assistive Feeding with a General-Purpose Mobile Manipulator”, <i>ICRA workshop on</i><i><span style="font-weight:normal"> Human-Robot Interfaces for Enhanced Physical Interactions</span></i><i>, 2016 </i><a href="http://www.daehyungpark.com/publications/ICRAWS2016_FI.pdf?attredirects=0" target="_blank">[PDF]</a></span></font></p>
-<p align="left" style="text-align:left"><font size="3"><span style="font-family:times new roman,serif">[6] T. Bhattacharjee*, P. M. Grice*, A. Kapusta*, M. D. Killpack*, <b>D. Park</b>*, and C. C. Kemp. “A Robotic System for Reaching in Dense Clutter that Integrates Model Predictive Control, Learning, Haptic Mapping, and Planning”, </span></font><font size="3"><span style="font-family:times new roman,serif"><i><i><i>IROS workshop on Robots In Clutter</i></i>, 2014 </i><i> </i>(*- <b>authors contributed equally</b>) <a href="http://www.daehyungpark.com/home/iros2014_system.pdf?attredirects=0" target="_blank">[PDF]</a><a href="https://youtu.be/NhZBGYrMRPw" target="_blank">[Video]</a><i><br />
-</i></span></font></p>
-<p align="left" style="text-align:left"><font size="3"><span style="font-family:times new roman,serif">[7]<b> Daehyung Park</b>, Heiko Hoffmann, and Stefan Schaal. “Combining dynamic movement primitives and potential fields for online obstacle avoidance”, <i>Adaptive Motion of Animals and Machines (AMAM08), 2008 </i><a href="http://www.daehyungpark.com/home/AMAM08.pdf?attredirects=0">[PDF]</a><br />
-</span></font></p>
-<p align="left" style="text-align:left"><br />
-</p>
+<div class="pub-item">
+[2] <b>Daehyung Park</b>, Yuuna Hoshi, Harshal P. Mahajan, Wendy Rogers, and Charles C. Kemp, "Active Feeding System using a General-purpose Manipulator," <i>Int'l. Symp. on Medical Robotics (ISMR)</i>, 2018 <a href="http://www.daehyungpark.com/publications/ISMR2018_Poster_Park.pdf?attredirects=0" target="_blank">[PDF]</a>
+</div>
 
+<div class="pub-item">
+<!-- No PDF link -->
+[3] <b>Daehyung Park</b> and Charles C. Kemp, "Multimodal Execution Monitoring for Robot-Assisted Feeding,"<i>TechSAge State of the Science Conference</i>, 2017 [PDF]
+</div>
+
+<div class="pub-item">
+[4] Ariel Kapusta, Yash Chitalia, <b>Daehyung Park</b>, and Charles C. Kemp. "Collaboration Between a Robotic Bed and a Mobile Manipulator May Improve Physical Assistance for People with Disabilities," <i>IEEE ROMAN workshop on </i><i><a href="http://www.cogrobotics.unina.it">Behavior, Adaptation and Learning for Assistive Robotics"</a> (BAILAR)</i>, 2016 <a href="http://pwp.gatech.edu/hrl/wp-content/uploads/sites/231/2016/07/collaboration-robotic-bed.pdf">[PDF]</a>
+</div>
+
+<div class="pub-item">
+[5] <b>Daehyung Park</b>, Youkeun Kim, Zackory Erickson, and Charles C. Kemp. “Towards Assistive Feeding with a General-Purpose Mobile Manipulator”, <i>ICRA workshop on</i> <i>Human-Robot Interfaces for Enhanced Physical Interactions</i>, 2016 <a href="http://www.daehyungpark.com/publications/ICRAWS2016_FI.pdf?attredirects=0" target="_blank">[PDF]</a>
+</div>
+
+<div class="pub-item">
+[6] T. Bhattacharjee*, P. M. Grice*, A. Kapusta*, M. D. Killpack*, <b>D. Park</b>*, and C. C. Kemp. “A Robotic System for Reaching in Dense Clutter that Integrates Model Predictive Control, Learning, Haptic Mapping, and Planning”, <i>IROS workshop on Robots In Clutter</i>, 2014 (*- <b>authors contributed equally</b>) <a href="http://www.daehyungpark.com/home/iros2014_system.pdf?attredirects=0" target="_blank">[PDF]</a> <a href="https://youtu.be/NhZBGYrMRPw" target="_blank">[Video]</a>
+</div>
+
+<div class="pub-item">
+[7] <b>Daehyung Park</b>, Heiko Hoffmann, and Stefan Schaal. “Combining dynamic movement primitives and potential fields for online obstacle avoidance”, <i>Adaptive Motion of Animals and Machines (AMAM08), 2008</i> <a href="http://www.daehyungpark.com/home/AMAM08.pdf?attredirects=0">[PDF]</a>
+</div>
+
+</div>
 
 <!------------------- Patents --------------------->
 <div class="publication">
 <div class="pub-title"> Patents </div>
+
+<div class="pub-item">
+[1] <b>D. Park</b>, K. Lee, C. An, and Y. Hong. “Teaching and playback method based on control of redundancy resolution for robot and computer-readable medium controlling the same.” US Patent 12 923 650, Apr. 21, 2011. <a href="http://www.daehyungpark.com/home/US20110093119A1.pdf?attredirects=0" target="_blank">[PDF]</a>
 </div>
 
-<p align="left" style="text-align:left"><font size="3"><span style="font-family:times new roman,serif">[1]<b> D. Park</b>, K. Lee, C. An, and Y. Hong. “Teaching and playback method based on control of redundancy resolution for robot and computer-readable medium controlling the same.” US Patent 12 923 650, Apr. 21, 2011. <a href="http://www.daehyungpark.com/home/US20110093119A1.pdf?attredirects=0" target="_blank">[PDF] </a></span></font></p>
-<font size="3"><span style="font-family:times new roman,serif"> </span></font>
-<p align="left" style="text-align:left"><font size="3"><span style="font-family:times new roman,serif">[2] K. Lee, Y. Hong, C. An, and <b>D. Park</b>. “Motor control apparatus and motor control method thereof.” US Patent 13 009 961, Jan. 20, 2011. <a href="http://www.daehyungpark.com/home/US20110181223A1.pdf?attredirects=0">[PDF]</a></span></font></p>
-<p align="left" style="text-align:left"><font size="3"><span style="font-family:times new roman,serif">[3] K. Lee, Y. Hong, C. An, and D. Park. “모터 제어장치 및 모터 제어 방법(MOTOR CONTROL APPARATUS AND CONTROL METHOD THE SAME),” KR Patent App. 1,020,100,006,682, Aug. 2, 2011</span></font></p>
-<p align="left" style="text-align:left"><font size="3"><span style="font-family:times new roman,serif">[4] D. Park, K. Lee, C. An, and Y. Hong. “여유자유도 제어를 이용한 로봇의 교시 및 재현 방법 (TEACHING AND PLAYBACK METHOD USING REDUNDANCY RESOLUTION CONTROL FOR MANIPULATOR),” KR Patent App. 1,020,090,099,003, Apr. 22, 2011</span></font><br />
-</p>
+<div class="pub-item">
+[2] K. Lee, Y. Hong, C. An, and <b>D. Park</b>. “Motor control apparatus and motor control method thereof.” US Patent 13 009 961, Jan. 20, 2011. <a href="http://www.daehyungpark.com/home/US20110181223A1.pdf?attredirects=0">[PDF]</a>
+</div>
+
+<div class="pub-item">
+[3] K. Lee, Y. Hong, C. An, and D. Park. “모터 제어장치 및 모터 제어 방법(MOTOR CONTROL APPARATUS AND CONTROL METHOD THE SAME),” KR Patent App. 1,020,100,006,682, Aug. 2, 2011
+</div>
+
+<div class="pub-item">
+[4] D. Park, K. Lee, C. An, and Y. Hong. “여유자유도 제어를 이용한 로봇의 교시 및 재현 방법 (TEACHING AND PLAYBACK METHOD USING REDUNDANCY RESOLUTION CONTROL FOR MANIPULATOR),” KR Patent App. 1,020,090,099,003, Apr. 22, 2011
+</div>
+
+</div>
