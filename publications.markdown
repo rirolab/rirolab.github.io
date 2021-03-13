@@ -9,21 +9,43 @@ If you want to change the style of the table, please look at the publication tag
 <!------------------- Submitted Articles --------------------->
 <div class="publication">
 <div class="pub-title"> Submitted Articles </div>
+
 <div class="pub-item">
 [1] T. M. Howard, E. Stump, J. Fink, J. Arkin, R. Paul, <b>D. Park</b>, S. Roy, D. Barber, R. Bendell, K. Schmeckpeper,J. Tian, J. Oh, M. Wigness, L. Quang, B. Rothrock, J. Nash, M. R. Walter, F. Jentsch, N. Roy. "An Intelligence Architecture for Grounded LanguageCommunication with Field Robots," 2020.
 </div>
+
 <div class="pub-item">
 [2] Shen Li*, <b>Daehyung Park*</b>, Yoonchang Sung*, Julie Shah, Nicholas Roy. "Reactive Task and Motion Planning under Temporal Logic Specifications," IEEE Int'l. Conf. on Robotics and Automation (ICRA), 2021. (*- <b>authors contributed equally</b>, <b>accepted</b>)
 </div>
+
 </div>
 
 
 <!------------------- Journal Articles --------------------->
 <div class="publication">
 <div class="pub-title"> Journal Articles </div>
+
+<div class="pub-item">
+[1] <b>Daehyung Park*</b>, Jacob Arkin*, Subhro Roy, Matthew R. Walter, Nicholas Roy, Thomas M. Howard, and Rohan Paul. "Multi-Modal Estimation and Communication of Latent Semantic Knowledge for Robust Execution of Robot Instructions", <i>The International Journal of Robotics Research </i>(IJRR), 2020. [[PDF]](https://journals.sagepub.com/eprint/PSW4Z5AXF4AYTSXRN7AI/full) [[Video]](https://www.youtube.com/watch?v=BfCeYsTvaOw&amp;feature=youtu.be)
 </div>
 
-<p align="left" style="text-align:left"><font size="3" style="background-color:transparent"><span style="font-family:Times New Roman"><span style="font-family:times new roman,serif"><font size="3"> </font></span></span></font></p>
+<div class="pub-item">
+[2] <b>Daehyung Park</b>, Yuuna Hoshi, Harshar P. Mahajan, Ho Keun Kim, Zackory Erickson, Wendy A. Rogers, and Charles C. Kemp. “Active Robot-Assisted Feeding with a General-Purpose Mobile Manipulator: Design, Evaluation, and Lessons Learned”, <i>Robotics and Autonomous Systems</i> (RAS), 2019. [[PDF]](https://www.sciencedirect.com/science/article/abs/pii/S0921889018307061) [[Video]](https://www.youtube.com/watch?v=I5gqtk6Cln8)
+</div>
+
+<div class="pub-item">
+[3] Ariel Kapusta, Philip Grice, Henry Clever, Yash Chitalia, <b>Daehyung Park</b>, and Charles C. Kemp. “A System for Bedside Assistance that Integrates a Robotic Bed and a Mobile Manipulator,” <i>PLoS ONE</i>, 2019. [[PDF]](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0221854) [[Video]](https://ndownloader.figshare.com/files/18019598)
+
+<div class="pub-item">
+[4] <b>Daehyung Park</b>, Yuuna Hoshi, and Charles C. Kemp. “A Multimodal Anomaly Detector for Robot-Assisted Feeding Using an LSTM-based Variational Autoencoder”, IEEE Robotics and Automation Letters (RA-L), 2018. [[PDF]](http://ieeexplore.ieee.org/document/8279425/) [[Video]](https://youtu.be/ZMAGEQx5Uy8) (presentation in ICRA 2018)
+
+<div class="pub-item">
+[5]<b> Daehyung Park</b>, Hokeun Kim, and Charles C. Kemp. “Multimodal Anomaly Detection for Assistive Robots”, <i>Autonomous Robots</i>, 2018. [[PDF]](https://link.springer.com/article/10.1007/s10514-018-9733-6)
+</div>
+
+</div>
+
+<!-- <p align="left" style="text-align:left"><font size="3" style="background-color:transparent"><span style="font-family:Times New Roman"><span style="font-family:times new roman,serif"><font size="3"> </font></span></span></font></p>
 <p align="left" style="text-align:left"><font size="3" style="background-color:transparent"><span style="font-family:Times New Roman"><span style="font-family:times new roman,serif"><font size="3">[1] <b>Daehyung Park*</b>, </font></span></span></font><font size="3" style="background-color:transparent"><span style="font-family:Times New Roman"><span style="font-family:times new roman,serif"><font size="3"><font size="3" style="background-color:transparent"><span style="font-family:Times New Roman"><span style="font-family:times new roman,serif"><font size="3">Jacob Arkin*, </font></span></span></font>Subhro Roy, Matthew R. Walter, Nicholas Roy, Thomas M. Howard, and Rohan Paul. "Multi-Modal Estimation and Communication of Latent Semantic Knowledge for Robust Execution of Robot Instructions", <i>The International Journal of Robotics Research </i>(IJRR), 2020. </font></span></span></font><font size="3" style="background-color:transparent"><span style="font-family:Times New Roman"><span style="font-family:times new roman,serif"><font size="3"><font size="3"><span style="font-family:times new roman,serif">(*- <b>authors contributed equally</b>) </span></font><a href="https://journals.sagepub.com/eprint/PSW4Z5AXF4AYTSXRN7AI/full" target="_blank">[PDF]</a></font></span><font size="3"><span style="font-family:Times New Roman"> <a href="https://www.youtube.com/watch?v=BfCeYsTvaOw&amp;feature=youtu.be" target="_blank">[Video]</a><br />
 </span></font></span></font></p>
 <span style="font-family:times new roman,serif"><font size="3">[2] <b>Daehyung Park</b>, Yuuna Hoshi, Harshar P. Mahajan, Ho Keun Kim, Zackory Erickson, Wendy A. Rogers, and Charles C. Kemp. “Active Robot-Assisted Feeding with a General-Purpose Mobile Manipulator: Design, Evaluation, and Lessons Learned”, <i>Robotics and Autonomous Systems</i> (RAS), 2019. <a href="https://www.sciencedirect.com/science/article/abs/pii/S0921889018307061" target="_blank">[PDF]</a><a href="https://www.youtube.com/watch?v=I5gqtk6Cln8" target="_blank">[Video]</a></font></span><br />
@@ -37,7 +59,7 @@ If you want to change the style of the table, please look at the publication tag
 </font></span></p>
 <p align="left" style="text-align:left"><span style="font-family:times new roman,serif"><font size="3"><i><br />
 </i></font></span></p>
-<p align="left" style="text-align:left"><a href="https://youtu.be/gLcPZQnDmkk" target="_blank"></a></p>
+<p align="left" style="text-align:left"><a href="https://youtu.be/gLcPZQnDmkk" target="_blank"></a></p> -->
 
 
 <!------------------- Conference Articles --------------------->
