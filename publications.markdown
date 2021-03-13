@@ -63,7 +63,7 @@ If you want to change the style of the table, please look at the publication tag
 </div>
 
 <div class="pub-item">
-[3] </span><span style="font-family:times new roman,serif">Subhro Roy, Michael Noseworthy, Rohan Paul, <b>Daehyung Park</b> and Nicholas Roy. "Leveraging Past References for Robust Language Grounding", <i>Conference on Computational Natural Language Learning</i> (CoNLL 2019) <a href="https://www.aclweb.org/anthology/K19-1040/" target="_blank">[PDF]</a>
+[3] Subhro Roy, Michael Noseworthy, Rohan Paul, <b>Daehyung Park</b> and Nicholas Roy. "Leveraging Past References for Robust Language Grounding", <i>Conference on Computational Natural Language Learning</i> (CoNLL 2019) <a href="https://www.aclweb.org/anthology/K19-1040/" target="_blank">[PDF]</a>
 </div>
 
 <div class="pub-item">
