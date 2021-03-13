@@ -101,7 +101,7 @@ If you want to change the style of the table, please look at the publication tag
 </div>
 
 <div class="pub-item">
-[12]<b> Daehyung Park</b>, Ariel </span><span style="font-family:Times New Roman">Kapusta, Youkeun Kim, James M. Rehg, and Charles C. Kemp. “Learning to Reach into the Unknown: Selecting Initial Conditions When Reaching in Clutter”, <i>IEEE/RSJ Int'l. Conf. on Intelligent Robots and Systems (IROS2014)</i> <a href="http://www.daehyungpark.com/home/iros2014_lic.pdf?attredirects=0" target="_blank">[PDF]</a> <a href="https://youtu.be/Gjy-MDEbZUU" target="_blank">[Video]</a>
+[12]<b> Daehyung Park</b>, Ariel Kapusta, Youkeun Kim, James M. Rehg, and Charles C. Kemp. “Learning to Reach into the Unknown: Selecting Initial Conditions When Reaching in Clutter”, <i>IEEE/RSJ Int'l. Conf. on Intelligent Robots and Systems (IROS2014)</i> <a href="http://www.daehyungpark.com/home/iros2014_lic.pdf?attredirects=0" target="_blank">[PDF]</a> <a href="https://youtu.be/Gjy-MDEbZUU" target="_blank">[Video]</a>
 </div>
 
 <div class="pub-item">
