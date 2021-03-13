@@ -45,19 +45,7 @@ If you want to change the style of the table, please look at the publication tag
 
 </div>
 
-<!-- <p align="left" style="text-align:left"><font size="3" style="background-color:transparent"><span style="font-family:Times New Roman"><span style="font-family:times new roman,serif"><font size="3"> </font></span></span></font></p>
-<p align="left" style="text-align:left"><font size="3" style="background-color:transparent"><span style="font-family:Times New Roman"><span style="font-family:times new roman,serif"><font size="3">[1] <b>Daehyung Park*</b>, </font></span></span></font><font size="3" style="background-color:transparent"><span style="font-family:Times New Roman"><span style="font-family:times new roman,serif"><font size="3"><font size="3" style="background-color:transparent"><span style="font-family:Times New Roman"><span style="font-family:times new roman,serif"><font size="3">Jacob Arkin*, </font></span></span></font>Subhro Roy, Matthew R. Walter, Nicholas Roy, Thomas M. Howard, and Rohan Paul. "Multi-Modal Estimation and Communication of Latent Semantic Knowledge for Robust Execution of Robot Instructions", <i>The International Journal of Robotics Research </i>(IJRR), 2020. </font></span></span></font><font size="3" style="background-color:transparent"><span style="font-family:Times New Roman"><span style="font-family:times new roman,serif"><font size="3"><font size="3"><span style="font-family:times new roman,serif">(*- <b>authors contributed equally</b>) </span></font><a href="https://journals.sagepub.com/eprint/PSW4Z5AXF4AYTSXRN7AI/full" target="_blank">[PDF]</a></font></span><font size="3"><span style="font-family:Times New Roman"> <a href="https://www.youtube.com/watch?v=BfCeYsTvaOw&amp;feature=youtu.be" target="_blank">[Video]</a><br />
-</span></font></span></font></p>
-<span style="font-family:times new roman,serif"><font size="3">[2] <b>Daehyung Park</b>, Yuuna Hoshi, Harshar P. Mahajan, Ho Keun Kim, Zackory Erickson, Wendy A. Rogers, and Charles C. Kemp. “Active Robot-Assisted Feeding with a General-Purpose Mobile Manipulator: Design, Evaluation, and Lessons Learned”, <i>Robotics and Autonomous Systems</i> (RAS), 2019. <a href="https://www.sciencedirect.com/science/article/abs/pii/S0921889018307061" target="_blank">[PDF]</a><a href="https://www.youtube.com/watch?v=I5gqtk6Cln8" target="_blank">[Video]</a></font></span><br />
-<div>
-<div>
-<p align="left" style="text-align:left"><font size="3" style="background-color:transparent"><span style="font-family:Times New Roman">[3] </span></font><span style="line-height:1.2;font-size:10pt;font-family:times new roman,serif;background-color:transparent"><font size="3"><font size="3">Ariel Kapusta, Philip Grice, Henry Clever, Yash Chitalia, </font><b>Daehyung Park</b>, and Charles C. Kemp. “A System for Bedside Assistance that Integrates a Robotic Bed and a Mobile Manipulator,” <i>PLoS ONE</i>, 2019.</font><font size="3"><i> </i><a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0221854" target="_blank">[PDF]</a></font></span><span style="line-height:1.2;font-size:10pt;font-family:times new roman,serif;background-color:transparent"><font size="3"><a href="https://ndownloader.figshare.com/files/18019598" target="_blank">[Video]</a></font></span></p>
-</div>
-</div>
-<div><font size="3"><span style="font-family:Times New Roman">[4] </span></font><span style="font-family:times new roman,serif"><font size="3"><b>Daehyung Park</b>, Yuuna Hoshi, and Charles C. Kemp. “A Multimodal Anomaly Detector for Robot-Assisted Feeding Using an LSTM-based Variational Autoencoder”, </font></span><font size="3"><span style="font-family:Times New Roman"><i><span style="font-family:times new roman,serif">IEEE Robotics and Automation Letters (RA-L)</span><span style="font-family:times new roman,serif">, </span></i><span style="font-family:times new roman,serif">2018. <a href="http://ieeexplore.ieee.org/document/8279425/" target="_blank">[PDF]</a></span></span></font><font size="3"><span style="font-family:Times New Roman"><span style="font-family:times new roman,serif"><a href="https://youtu.be/ZMAGEQx5Uy8" target="_blank"><font size="3"><span style="font-family:Times New Roman">[Video]</span></font></a> (presentation in ICRA 2018</span></span></font><font size="3"><span style="font-family:Times New Roman"><span style="font-family:times new roman,serif">)</span></span></font></div>
-<p align="left" style="text-align:left"><span style="font-family:times new roman,serif"><font size="3">[5]<b> Daehyung Park</b>, Hokeun Kim, and Charles C. Kemp. “</font><font size="3"><font size="3">Multimodal Anomaly Detection for Assistive Robots</font>”, <i>Autonomous Robots</i>, 2018<i>.</i> <a href="https://link.springer.com/article/10.1007/s10514-018-9733-6" target="_blank">[PDF]</a><br />
-</font></span></p>
-<p align="left" style="text-align:left"><span style="font-family:times new roman,serif"><font size="3"><i><br />
+<!-- <p align="left" style="text-align:left"><span style="font-family:times new roman,serif"><font size="3"><i><br />
 </i></font></span></p>
 <p align="left" style="text-align:left"><a href="https://youtu.be/gLcPZQnDmkk" target="_blank"></a></p> -->
 
@@ -65,8 +53,65 @@ If you want to change the style of the table, please look at the publication tag
 <!------------------- Conference Articles --------------------->
 <div class="publication">
 <div class="pub-title"> Conference Articles </div>
+
+<div class="pub-item">
+[1] <b>Daehyung Park</b>, Michael Noseworthy, Rohan Paul, Subhro Roy, and Nicholas Roy. "Inferring Task Goals and Constraints using Bayesian Nonparametric Inverse Reinforcement Learning", <i>Conference on Robot Learning (CoRL2019) </i> <a href="https://drive.google.com/open?id=1bswpgVJDXp_9vh55_Gz1cAbylhhjQqhS" target="_blank">[PDF]</a> <a href="https://youtu.be/HgaqH4PWcTI" target="_blank">[Video] <b>Oral presentation, 5% oral acceptance rate</b>
 </div>
 
+<div class="pub-item">
+[2] Michael Noseworthy, Rohan Paul, Subhro Roy, <b>Daehyung Park</b>, and Nicholas Roy "Task-Conditioned Variational Autoencoders for Learning Movement Primitives", <i>Conference on Robot Learning (CoRL2019) </i> <a href="https://drive.google.com/open?id=1HckF-IYaj3zbe2CTSL30VKuHluAtsBBl" target="_blank">[PDF]</a> <i>(27.6% Acceptance Rate)</i>
+</div>
+
+<div class="pub-item">
+[3] </span><span style="font-family:times new roman,serif">Subhro Roy, Michael Noseworthy, Rohan Paul, <b>Daehyung Park</b> and Nicholas Roy. "Leveraging Past References for Robust Language Grounding", <i>Conference on Computational Natural Language Learning</i> (CoNLL 2019) <a href="https://www.aclweb.org/anthology/K19-1040/" target="_blank">[PDF]</a>
+</div>
+
+<div class="pub-item">
+[4] Daniel Nyga, Subhro Roy, Rohan Paul, <b>Daehyung Park</b>, Mihai Pomarlan, Michael Beetz, and Nicholas Roy. "Grounding Robot Plans from Natural Language Instructions with Incomplete World Knowledge", <i>Conference on Robot Learning (CoRL2018)</i> <a href="http://proceedings.mlr.press/v87/nyga18a/nyga18a.pdf" target="_blank">[PDF]</a> <a href="https://youtu.be/uWv-l7XMoB8" target="_blank">[Video]</a> (31% Acceptance Rate)
+</div>
+
+<div class="pub-item">
+[5] Jacob Arkin, Rohan Paul, <b>Daehyung Park</b>, Subhro Roy, Nicholas Roy and Thomas M. Howard. "Real-Time Human-Robot Communication for Manipulation Tasks in Partially Observed Environments", <i>Int'l. Symp. on Experimental Robotics (ISER2018)</i> <a href="https://link.springer.com/chapter/10.1007/978-3-030-33950-0_39" target="_blank">[PDF]</a> <a href="https://youtu.be/JTVJkJavU6g" target="_blank">[Video]</a>
+</div>
+
+<div class="pub-item">
+[6] Henry M. Clever, Ariel Kapusta, <b>Daehyung Park</b>, Zackory Erickson, Yash Chitalia, and Charles C. Kemp. “3D Human Pose Estimation on a Configurable Bed from a Pressure Image”, <i>IEEE/RSJ Int'l. Conf. on Intelligent Robots and Systems (IROS2018)</i> <a href="https://arxiv.org/pdf/1804.07873.pdf" target="_blank">[PDF]</a>
+</div>
+
+<div class="pub-item">
+[7] <b>Daehyung Park</b>, Hokeun Kim, Yuuna Hoshi, Zackory Erickson, Ariel Kapusta, and Charles C. Kemp. “A Multimodal Execution Monitor with Anomaly Classification for Robot-Assisted Feeding”, <i>IEEE/RSJ Int'l. Conf. on Intelligent Robots and Systems (IROS2017)</i> <a href="http://www.daehyungpark.com/publications/IROS17_1223_FI.pdf?attredirects=0" target="_blank">[PDF]</a> <a href="https://youtu.be/KQlVSz3URnA" target="_blank">[Video]</a>
+</div>
+
+<div class="pub-item">
+[8]<b> Daehyung Park</b>, Zackory Erickson, Tapomayukh Bhattacharjee, and Charles C. Kemp. “Multimodal Execution Monitoring for Anomaly Detection During Robot Manipulation”, <i>IEEE Int'l. Conf. on Robotics and Automation, 2016. (ICRA2016)</i> <a href="http://www.daehyungpark.com/publications/ICRA16_2378_FI.pdf?attredirects=0" target="_blank">[PDF]</a> <a href="https://youtu.be/gLcPZQnDmkk" target="_blank">[Video]</a> (34% Acceptance Rate)
+</div>
+
+<div class="pub-item">
+[9] Tapomayukh Bhattacharjee, Ashwin A Shenoi, <b>Daehyung Park</b>, James M. Rehg, and Charles C. Kemp, "Combining Tactile Sensing and Vision for Rapid Haptic Mapping", <i>IEEE/RSJ Int'l. Conf. on Intelligent Robots and Systems (IROS2015)</i> <a href="http://www.daehyungpark.com/iros_2015_tapo.pdf?attredirects=0" target="_blank">[PDF]</a>
+</div>
+
+<div class="pub-item">
+[10] Ariel Kapusta, <b>Daehyung Park</b>, and Charles C. Kemp, "Task-Centric Selection of Robot and Environment Initial Configurations to Perform Assistive Tasks", <i>IEEE/RSJ Int'l. Conf. on Intelligent Robots and Systems (IROS2015)</i> <a href="http://www.daehyungpark.com/iros_2015_baseselection.pdf?attredirects=0" target="_blank">[PDF]</a>
+</div>
+
+<div class="pub-item">
+[11] <b>Daehyung Park</b>, Ariel Kapusta, Jeffrey Hawke, and Charles C. Kemp. “Interleaving Planning and Control for Efficient Haptically-guided Reaching in Unknown Environments”, <i>IEEE-RAS Int'l. Conf. on Humanoid Robots (Humanoids 2014)</i> <a href="http://www.daehyungpark.com/home/humanoids_2014_HIPC.pdf?attredirects=0" target="_blank">[PDF]</a> <a href="https://youtu.be/WHHv3womkYs" target="_blank">[Video]</a>
+</div>
+
+<div class="pub-item">
+[12]<b> Daehyung Park</b>, Ariel </span><span style="font-family:Times New Roman">Kapusta, Youkeun Kim, James M. Rehg, and Charles C. Kemp. “Learning to Reach into the Unknown: Selecting Initial Conditions When Reaching in Clutter”, <i>IEEE/RSJ Int'l. Conf. on Intelligent Robots and Systems (IROS2014)</i> <a href="http://www.daehyungpark.com/home/iros2014_lic.pdf?attredirects=0" target="_blank">[PDF]</a> <a href="https://youtu.be/Gjy-MDEbZUU" target="_blank">[Video]</a>
+</div>
+
+<div class="pub-item">
+[13] Heiko Hoffmann, Peter Pastor, <b>Daehyung Park</b>, and Stefan Schaal. “Biologically-inspired dynamical systems for movement generation: Automatic real-time goal adaptation and obstacle avoidance”, <i>IEEE Int'l. Conf. on Robotics and Automation, 2009. </i> <a href="http://www.daehyungpark.com/home/ICRA2009.pdf?attredirects=0">[PDF]</a>
+</div>
+
+<div class="pub-item">
+[14]<b> Daehyung Park</b>, Heiko Hoffmann, Peter Pastor, and Stefan Schaal. “Movement reproduction and obstacle avoidance with dynamic movement primitives and potential fields”, <i>IEEE-RAS Int'l. Conf. on Humanoid Robots (Humanoids 2008, <b>Oral presentation</b>)</i> <a href="http://www.daehyungpark.com/home/DaeHyungPark_humanoids_2008.pdf?attredirects=0">[PDF]</a>
+</div>
+
+</div>
+<!-- 
 <p align="left" style="text-align:left"><font size="3"><span style="font-family:times new roman,serif"><span style="color:rgb(102,102,102)">[1] <b>Daehyung Park</b>, Michael Noseworthy, Rohan Paul, Subhro Roy, and Nicholas Roy. "Inferring Task Goals and Constraints using Bayesian Nonparametric Inverse Reinforcement Learning", <i>Conference on Robot Learning (CoRL2019) </i><a href="https://drive.google.com/open?id=1bswpgVJDXp_9vh55_Gz1cAbylhhjQqhS" target="_blank">[PDF]</a><a href="https://youtu.be/HgaqH4PWcTI" target="_blank">[Video]</a> </span><span style="color:rgb(102,102,102)"><i><span style="color:rgb(102,102,102)"><i><span style="font-style:normal;font-weight:100;letter-spacing:normal;text-align:left;text-indent:0px;text-transform:none;white-space:normal;word-spacing:0px;background-color:rgb(255,255,255);display:inline!important;float:none">(</span></i></span></i></span></span></font><font size="3"><span style="font-family:times new roman,serif"><span style="color:rgb(102,102,102)"><i><span style="color:rgb(102,102,102)"><i><span style="font-style:normal;font-weight:100;letter-spacing:normal;text-align:left;text-indent:0px;text-transform:none;white-space:normal;word-spacing:0px;background-color:rgb(255,255,255);display:inline!important;float:none"><b><font size="3"><span style="font-family:Times New Roman"><b>Oral presentation, 5% oral acceptance rate</b></span></font></b></span></i></span></i></span></span></font><font size="3"><span style="font-family:times new roman,serif"><span style="color:rgb(102,102,102)"><i><span style="color:rgb(102,102,102)"><i><span style="font-style:normal;font-weight:100;letter-spacing:normal;text-align:left;text-indent:0px;text-transform:none;white-space:normal;word-spacing:0px;background-color:rgb(255,255,255);display:inline!important;float:none">)</span></i></span></i></span></span></font></p>
 <p align="left" style="text-align:left"><font size="3"><span style="font-family:times new roman,serif">[2] Michael Noseworthy, </span></font><font size="3"><span style="font-family:times new roman,serif"><span style="color:rgb(102,102,102)">Rohan Paul, Subhro Roy, Daehyung Park, and Nicholas Roy</span></span></font><font size="3"><span style="font-family:times new roman,serif"><span style="color:rgb(102,102,102)">. "</span>Task-Conditioned Variational Autoencoders for Learning Movement Primitives<span style="color:rgb(102,102,102)">", <i>Conference on Robot Learning (CoRL2019) </i><a href="https://drive.google.com/open?id=1HckF-IYaj3zbe2CTSL30VKuHluAtsBBl" target="_blank">[PDF]</a> </span><span style="color:rgb(102,102,102)"><i><span style="font-style:normal;font-weight:100;letter-spacing:normal;text-align:left;text-indent:0px;text-transform:none;white-space:normal;word-spacing:0px;background-color:rgb(255,255,255);display:inline!important;float:none">(27.6% Acceptance Rate)</span></i></span></span></font></p>
 <p align="left" style="text-align:left"><font size="3"><span style="font-family:times new roman,serif">[3] </span><span style="font-family:times new roman,serif">Subhro Roy, Michael Noseworthy, Rohan Paul, <b>Daehyung Park</b> and Nicholas Roy. "</span><span style="font-family:times new roman,serif">Leveraging Past References for Robust Language Grounding", </span></font><span style="font-family:times new roman,serif"><font size="3"><i>Conference on Computational Natural Language Learning</i> (CoNLL 2019) <a href="https://www.aclweb.org/anthology/K19-1040/" target="_blank">[PDF]</a></font><br />
@@ -96,7 +141,7 @@ If you want to change the style of the table, please look at the publication tag
 </span></font></p>
 <p align="left" style="text-align:left"><br />
 </p>
-<p align="left" style="text-align:left"><font size="3"><span style="font-family:Times New Roman"><i> </i></span></font></p>
+<p align="left" style="text-align:left"><font size="3"><span style="font-family:Times New Roman"><i> </i></span></font></p> -->
 
 
 <!------------------- Workshop papers, Abstracts, and Posters --------------------->
