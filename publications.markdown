@@ -26,21 +26,21 @@ If you want to change the style of the table, please look at the publication tag
 <div class="pub-title"> Journal Articles </div>
 
 <div class="pub-item">
-[1] <b>Daehyung Park*</b>, Jacob Arkin*, Subhro Roy, Matthew R. Walter, Nicholas Roy, Thomas M. Howard, and Rohan Paul. "Multi-Modal Estimation and Communication of Latent Semantic Knowledge for Robust Execution of Robot Instructions", <i>The International Journal of Robotics Research </i>(IJRR), 2020. [[PDF]](https://journals.sagepub.com/eprint/PSW4Z5AXF4AYTSXRN7AI/full) [[Video]](https://www.youtube.com/watch?v=BfCeYsTvaOw&amp;feature=youtu.be)
+[1] <b>Daehyung Park*</b>, Jacob Arkin*, Subhro Roy, Matthew R. Walter, Nicholas Roy, Thomas M. Howard, and Rohan Paul. "Multi-Modal Estimation and Communication of Latent Semantic Knowledge for Robust Execution of Robot Instructions", <i>The International Journal of Robotics Research </i>(IJRR), 2020. <a href="https://journals.sagepub.com/eprint/PSW4Z5AXF4AYTSXRN7AI/full" target="_blank">[PDF]</a> <a href="https://www.youtube.com/watch?v=BfCeYsTvaOw&amp;feature=youtu.be" target="_blank">[Video]</a>
 </div>
 
 <div class="pub-item">
-[2] <b>Daehyung Park</b>, Yuuna Hoshi, Harshar P. Mahajan, Ho Keun Kim, Zackory Erickson, Wendy A. Rogers, and Charles C. Kemp. “Active Robot-Assisted Feeding with a General-Purpose Mobile Manipulator: Design, Evaluation, and Lessons Learned”, <i>Robotics and Autonomous Systems</i> (RAS), 2019. [[PDF]](https://www.sciencedirect.com/science/article/abs/pii/S0921889018307061) [[Video]](https://www.youtube.com/watch?v=I5gqtk6Cln8)
+[2] <b>Daehyung Park</b>, Yuuna Hoshi, Harshar P. Mahajan, Ho Keun Kim, Zackory Erickson, Wendy A. Rogers, and Charles C. Kemp. “Active Robot-Assisted Feeding with a General-Purpose Mobile Manipulator: Design, Evaluation, and Lessons Learned”, <i>Robotics and Autonomous Systems</i> (RAS), 2019. <a href="https://www.sciencedirect.com/science/article/abs/pii/S0921889018307061" target="_blank">[PDF]</a> <a href="https://www.youtube.com/watch?v=I5gqtk6Cln8" target="_blank">[Video]</a>
 </div>
 
 <div class="pub-item">
-[3] Ariel Kapusta, Philip Grice, Henry Clever, Yash Chitalia, <b>Daehyung Park</b>, and Charles C. Kemp. “A System for Bedside Assistance that Integrates a Robotic Bed and a Mobile Manipulator,” <i>PLoS ONE</i>, 2019. [[PDF]](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0221854) [[Video]](https://ndownloader.figshare.com/files/18019598)
+[3] Ariel Kapusta, Philip Grice, Henry Clever, Yash Chitalia, <b>Daehyung Park</b>, and Charles C. Kemp. “A System for Bedside Assistance that Integrates a Robotic Bed and a Mobile Manipulator,” <i>PLoS ONE</i>, 2019. <a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0221854" target="_blank">[PDF]</a> <a href="https://ndownloader.figshare.com/files/18019598" target="_blank">[Video]</a>
 
 <div class="pub-item">
-[4] <b>Daehyung Park</b>, Yuuna Hoshi, and Charles C. Kemp. “A Multimodal Anomaly Detector for Robot-Assisted Feeding Using an LSTM-based Variational Autoencoder”, IEEE Robotics and Automation Letters (RA-L), 2018. [[PDF]](http://ieeexplore.ieee.org/document/8279425/) [[Video]](https://youtu.be/ZMAGEQx5Uy8) (presentation in ICRA 2018)
+[4] <b>Daehyung Park</b>, Yuuna Hoshi, and Charles C. Kemp. “A Multimodal Anomaly Detector for Robot-Assisted Feeding Using an LSTM-based Variational Autoencoder”, <i>IEEE Robotics and Automation Letters</i> (RA-L), 2018. <a href="http://ieeexplore.ieee.org/document/8279425/" target="_blank">[PDF]</a> <a href="https://youtu.be/ZMAGEQx5Uy8" target="_blank">[Video]</a>
 
 <div class="pub-item">
-[5]<b> Daehyung Park</b>, Hokeun Kim, and Charles C. Kemp. “Multimodal Anomaly Detection for Assistive Robots”, <i>Autonomous Robots</i>, 2018. [[PDF]](https://link.springer.com/article/10.1007/s10514-018-9733-6)
+[5]<b> Daehyung Park</b>, Hokeun Kim, and Charles C. Kemp. “Multimodal Anomaly Detection for Assistive Robots”, <i>Autonomous Robots</i>, 2018. <a href="https://link.springer.com/article/10.1007/s10514-018-9733-6" target="_blank">[PDF]</a>
 </div>
 
 </div>
