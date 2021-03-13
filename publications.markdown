@@ -55,7 +55,7 @@ If you want to change the style of the table, please look at the publication tag
 <div class="pub-title"> Conference Articles </div>
 
 <div class="pub-item">
-[1] <b>Daehyung Park</b>, Michael Noseworthy, Rohan Paul, Subhro Roy, and Nicholas Roy. "Inferring Task Goals and Constraints using Bayesian Nonparametric Inverse Reinforcement Learning", <i>Conference on Robot Learning (CoRL2019) </i> <a href="https://drive.google.com/open?id=1bswpgVJDXp_9vh55_Gz1cAbylhhjQqhS" target="_blank">[PDF]</a> <a href="https://youtu.be/HgaqH4PWcTI" target="_blank">[Video] <b>Oral presentation, 5% oral acceptance rate</b>
+[1] <b>Daehyung Park</b>, Michael Noseworthy, Rohan Paul, Subhro Roy, and Nicholas Roy. "Inferring Task Goals and Constraints using Bayesian Nonparametric Inverse Reinforcement Learning", <i>Conference on Robot Learning (CoRL2019) </i> <a href="https://drive.google.com/open?id=1bswpgVJDXp_9vh55_Gz1cAbylhhjQqhS" target="_blank">[PDF]</a> <a href="https://youtu.be/HgaqH4PWcTI" target="_blank">[Video]</a> <b>Oral presentation, 5% oral acceptance rate</b>
 </div>
 
 <div class="pub-item">
