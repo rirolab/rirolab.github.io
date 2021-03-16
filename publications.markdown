@@ -87,39 +87,39 @@ Jacob Arkin, Rohan Paul, <b>Daehyung Park</b>, Subhro Roy, Nicholas Roy and Thom
 </li></div>
 
 <div class="pub-item"><li>
-Henry M. Clever, Ariel Kapusta, <b>Daehyung Park</b>, Zackory Erickson, Yash Chitalia, and Charles C. Kemp. “3D Human Pose Estimation on a Configurable Bed from a Pressure Image”, <i>IEEE/RSJ Int'l. Conf. on Intelligent Robots and Systems (IROS2018)</i> <a href="https://arxiv.org/pdf/1804.07873.pdf" target="_blank">[PDF]</a>
+Henry M. Clever, Ariel Kapusta, <b>Daehyung Park</b>, Zackory Erickson, Yash Chitalia, and Charles C. Kemp. “3D Human Pose Estimation on a Configurable Bed from a Pressure Image”, <i>IEEE/RSJ Int'l. Conf. on Intelligent Robots and Systems (IROS2018)</i> <a href="https://arxiv.org/abs/1804.07873" target="_blank">[PDF]</a>
 </li></div>
 
 <div class="pub-item"><li>
-<b>Daehyung Park</b>, Hokeun Kim, Yuuna Hoshi, Zackory Erickson, Ariel Kapusta, and Charles C. Kemp. “A Multimodal Execution Monitor with Anomaly Classification for Robot-Assisted Feeding”, <i>IEEE/RSJ Int'l. Conf. on Intelligent Robots and Systems (IROS2017)</i> <a href="http://www.daehyungpark.com/publications/IROS17_1223_FI.pdf?attredirects=0" target="_blank">[PDF]</a> <a href="https://youtu.be/KQlVSz3URnA" target="_blank">[Video]</a>
+<b>Daehyung Park</b>, Hokeun Kim, Yuuna Hoshi, Zackory Erickson, Ariel Kapusta, and Charles C. Kemp. “A Multimodal Execution Monitor with Anomaly Classification for Robot-Assisted Feeding”, <i>IEEE/RSJ Int'l. Conf. on Intelligent Robots and Systems (IROS2017)</i> <a href="https://ieeexplore.ieee.org/abstract/document/8206437" target="_blank">[PDF]</a> <a href="https://youtu.be/KQlVSz3URnA" target="_blank">[Video]</a>
 </li></div>
 
 <div class="pub-item"><li>
-<b> Daehyung Park</b>, Zackory Erickson, Tapomayukh Bhattacharjee, and Charles C. Kemp. “Multimodal Execution Monitoring for Anomaly Detection During Robot Manipulation”, <i>IEEE Int'l. Conf. on Robotics and Automation, 2016. (ICRA2016)</i> <a href="http://www.daehyungpark.com/publications/ICRA16_2378_FI.pdf?attredirects=0" target="_blank">[PDF]</a> <a href="https://youtu.be/gLcPZQnDmkk" target="_blank">[Video]</a> (34% Acceptance Rate)
+<b> Daehyung Park</b>, Zackory Erickson, Tapomayukh Bhattacharjee, and Charles C. Kemp. “Multimodal Execution Monitoring for Anomaly Detection During Robot Manipulation”, <i>IEEE Int'l. Conf. on Robotics and Automation, 2016. (ICRA2016)</i> <a href="https://ieeexplore.ieee.org/document/7487160" target="_blank">[PDF]</a> <a href="https://youtu.be/gLcPZQnDmkk" target="_blank">[Video]</a> (34% Acceptance Rate)
 </li></div>
 
 <div class="pub-item"><li>
-Tapomayukh Bhattacharjee, Ashwin A Shenoi, <b>Daehyung Park</b>, James M. Rehg, and Charles C. Kemp, "Combining Tactile Sensing and Vision for Rapid Haptic Mapping", <i>IEEE/RSJ Int'l. Conf. on Intelligent Robots and Systems (IROS2015)</i> <a href="http://www.daehyungpark.com/iros_2015_tapo.pdf?attredirects=0" target="_blank">[PDF]</a>
+Tapomayukh Bhattacharjee, Ashwin A Shenoi, <b>Daehyung Park</b>, James M. Rehg, and Charles C. Kemp, "Combining Tactile Sensing and Vision for Rapid Haptic Mapping", <i>IEEE/RSJ Int'l. Conf. on Intelligent Robots and Systems (IROS2015)</i> <a href="https://ieeexplore.ieee.org/document/7353522" target="_blank">[PDF]</a>
 </li></div>
 
 <div class="pub-item"><li>
-Ariel Kapusta, <b>Daehyung Park</b>, and Charles C. Kemp, "Task-Centric Selection of Robot and Environment Initial Configurations to Perform Assistive Tasks", <i>IEEE/RSJ Int'l. Conf. on Intelligent Robots and Systems (IROS2015)</i> <a href="http://www.daehyungpark.com/iros_2015_baseselection.pdf?attredirects=0" target="_blank">[PDF]</a>
+Ariel Kapusta, <b>Daehyung Park</b>, and Charles C. Kemp, "Task-Centric Selection of Robot and Environment Initial Configurations to Perform Assistive Tasks", <i>IEEE/RSJ Int'l. Conf. on Intelligent Robots and Systems (IROS2015)</i> <a href="https://ieeexplore.ieee.org/document/7353563" target="_blank">[PDF]</a>
 </li></div>
 
 <div class="pub-item"><li>
-<b>Daehyung Park</b>, Ariel Kapusta, Jeffrey Hawke, and Charles C. Kemp. “Interleaving Planning and Control for Efficient Haptically-guided Reaching in Unknown Environments”, <i>IEEE-RAS Int'l. Conf. on Humanoid Robots (Humanoids 2014)</i> <a href="http://www.daehyungpark.com/home/humanoids_2014_HIPC.pdf?attredirects=0" target="_blank">[PDF]</a> <a href="https://youtu.be/WHHv3womkYs" target="_blank">[Video]</a>
+<b>Daehyung Park</b>, Ariel Kapusta, Jeffrey Hawke, and Charles C. Kemp. “Interleaving Planning and Control for Efficient Haptically-guided Reaching in Unknown Environments”, <i>IEEE-RAS Int'l. Conf. on Humanoid Robots (Humanoids 2014)</i> <a href="https://ieeexplore.ieee.org/document/7041456" target="_blank">[PDF]</a> <a href="https://youtu.be/WHHv3womkYs" target="_blank">[Video]</a>
 </li></div>
 
 <div class="pub-item"><li>
-<b>Daehyung Park</b>, Ariel Kapusta, Youkeun Kim, James M. Rehg, and Charles C. Kemp. “Learning to Reach into the Unknown: Selecting Initial Conditions When Reaching in Clutter”, <i>IEEE/RSJ Int'l. Conf. on Intelligent Robots and Systems (IROS2014)</i> <a href="http://www.daehyungpark.com/home/iros2014_lic.pdf?attredirects=0" target="_blank">[PDF]</a> <a href="https://youtu.be/Gjy-MDEbZUU" target="_blank">[Video]</a>
+<b>Daehyung Park</b>, Ariel Kapusta, Youkeun Kim, James M. Rehg, and Charles C. Kemp. “Learning to Reach into the Unknown: Selecting Initial Conditions When Reaching in Clutter”, <i>IEEE/RSJ Int'l. Conf. on Intelligent Robots and Systems (IROS2014)</i> <a href="https://ieeexplore.ieee.org/document/6942625" target="_blank">[PDF]</a> <a href="https://youtu.be/Gjy-MDEbZUU" target="_blank">[Video]</a>
 </li></div>
 
 <div class="pub-item"><li>
-Heiko Hoffmann, Peter Pastor, <b>Daehyung Park</b>, and Stefan Schaal. “Biologically-inspired dynamical systems for movement generation: Automatic real-time goal adaptation and obstacle avoidance”, <i>IEEE Int'l. Conf. on Robotics and Automation, 2009. </i> <a href="http://www.daehyungpark.com/home/ICRA2009.pdf?attredirects=0">[PDF]</a>
+Heiko Hoffmann, Peter Pastor, <b>Daehyung Park</b>, and Stefan Schaal. “Biologically-inspired dynamical systems for movement generation: Automatic real-time goal adaptation and obstacle avoidance”, <i>IEEE Int'l. Conf. on Robotics and Automation, 2009. </i> <a href="https://ieeexplore.ieee.org/document/5152423">[PDF]</a>
 </li></div>
 
 <div class="pub-item"><li>
-<b> Daehyung Park</b>, Heiko Hoffmann, Peter Pastor, and Stefan Schaal. “Movement reproduction and obstacle avoidance with dynamic movement primitives and potential fields”, <i>IEEE-RAS Int'l. Conf. on Humanoid Robots (Humanoids 2008, <b>Oral presentation</b>)</i> <a href="http://www.daehyungpark.com/home/DaeHyungPark_humanoids_2008.pdf?attredirects=0">[PDF]</a>
+<b> Daehyung Park</b>, Heiko Hoffmann, Peter Pastor, and Stefan Schaal. “Movement reproduction and obstacle avoidance with dynamic movement primitives and potential fields”, <i>IEEE-RAS Int'l. Conf. on Humanoid Robots (Humanoids 2008, <b>Oral presentation</b>)</i> <a href="https://ieeexplore.ieee.org/document/4755937">[PDF]</a>
 </li></div>
 
 </ol>
@@ -135,16 +135,16 @@ Heiko Hoffmann, Peter Pastor, <b>Daehyung Park</b>, and Stefan Schaal. “Biolog
 
 <div class="pub-item"><li>
 <!-- No PDF link -->
-<b>Daehyung Park</b>, Michael Noseworthy, Rohan Paul, Subhro Roy, and Nicholas Roy, "Joint Goal and Constraint Inference using Bayesian Nonparametric Inverse Reinforcement Learning," <i>The 4th Multidisciplinary Conf. on Reinforcement Learning and Decision Making</i>, 2019 [PDF]
+<b>Daehyung Park</b>, Michael Noseworthy, Rohan Paul, Subhro Roy, and Nicholas Roy, "Joint Goal and Constraint Inference using Bayesian Nonparametric Inverse Reinforcement Learning," <i>The 4th Multidisciplinary Conf. on Reinforcement Learning and Decision Making</i>, 2019
 </li></div>
 
 <div class="pub-item"><li>
-<b>Daehyung Park</b>, Yuuna Hoshi, Harshal P. Mahajan, Wendy Rogers, and Charles C. Kemp, "Active Feeding System using a General-purpose Manipulator," <i>Int'l. Symp. on Medical Robotics (ISMR)</i>, 2018 <a href="http://www.daehyungpark.com/publications/ISMR2018_Poster_Park.pdf?attredirects=0" target="_blank">[PDF]</a>
+<b>Daehyung Park</b>, Yuuna Hoshi, Harshal P. Mahajan, Wendy Rogers, and Charles C. Kemp, "Active Feeding System using a General-purpose Manipulator," <i>Int'l. Symp. on Medical Robotics (ISMR)</i>, 2018 <a href="https://arxiv.org/abs/1904.03568#:~:text=The%20meal%2Dassistance%20system%20uses,head%20movement%20by%20the%20user." target="_blank">[PDF]</a>
 </li></div>
 
 <div class="pub-item"><li>
 <!-- No PDF link -->
-<b>Daehyung Park</b> and Charles C. Kemp, "Multimodal Execution Monitoring for Robot-Assisted Feeding,"<i>TechSAge State of the Science Conference</i>, 2017 [PDF]
+<b>Daehyung Park</b> and Charles C. Kemp, "Multimodal Execution Monitoring for Robot-Assisted Feeding,"<i>TechSAge State of the Science Conference</i>, 2017
 </li></div>
 
 <div class="pub-item"><li>
@@ -152,15 +152,15 @@ Ariel Kapusta, Yash Chitalia, <b>Daehyung Park</b>, and Charles C. Kemp. "Collab
 </li></div>
 
 <div class="pub-item"><li>
-<b>Daehyung Park</b>, Youkeun Kim, Zackory Erickson, and Charles C. Kemp. “Towards Assistive Feeding with a General-Purpose Mobile Manipulator”, <i>ICRA workshop on</i> <i>Human-Robot Interfaces for Enhanced Physical Interactions</i>, 2016 <a href="http://www.daehyungpark.com/publications/ICRAWS2016_FI.pdf?attredirects=0" target="_blank">[PDF]</a>
+<b>Daehyung Park</b>, Youkeun Kim, Zackory Erickson, and Charles C. Kemp. “Towards Assistive Feeding with a General-Purpose Mobile Manipulator”, <i>ICRA workshop on</i> <i>Human-Robot Interfaces for Enhanced Physical Interactions</i>, 2016 <a href="https://arxiv.org/abs/1605.07996" target="_blank">[PDF]</a>
 </li></div>
 
 <div class="pub-item"><li>
-T. Bhattacharjee*, P. M. Grice*, A. Kapusta*, M. D. Killpack*, <b>D. Park</b>*, and C. C. Kemp. “A Robotic System for Reaching in Dense Clutter that Integrates Model Predictive Control, Learning, Haptic Mapping, and Planning”, <i>IROS workshop on Robots In Clutter</i>, 2014 (*- <b>authors contributed equally</b>) <a href="http://www.daehyungpark.com/home/iros2014_system.pdf?attredirects=0" target="_blank">[PDF]</a> <a href="https://youtu.be/NhZBGYrMRPw" target="_blank">[Video]</a>
+T. Bhattacharjee*, P. M. Grice*, A. Kapusta*, M. D. Killpack*, <b>D. Park</b>*, and C. C. Kemp. “A Robotic System for Reaching in Dense Clutter that Integrates Model Predictive Control, Learning, Haptic Mapping, and Planning”, <i>IROS workshop on Robots In Clutter</i>, 2014 (*- <b>authors contributed equally</b>) <a href="https://smartech.gatech.edu/handle/1853/53336" target="_blank">[PDF]</a> <a href="https://youtu.be/NhZBGYrMRPw" target="_blank">[Video]</a>
 </li></div>
 
 <div class="pub-item"><li>
-<b>Daehyung Park</b>, Heiko Hoffmann, and Stefan Schaal. “Combining dynamic movement primitives and potential fields for online obstacle avoidance”, <i>Adaptive Motion of Animals and Machines (AMAM08), 2008</i> <a href="http://www.daehyungpark.com/home/AMAM08.pdf?attredirects=0">[PDF]</a>
+<b>Daehyung Park</b>, Heiko Hoffmann, and Stefan Schaal. “Combining dynamic movement primitives and potential fields for online obstacle avoidance”, <i>Adaptive Motion of Animals and Machines (AMAM08), 2008</i> <a href="http://heikohoffmann.de/documents/daedmp.pdf">[PDF]</a>
 </li></div>
 
 </ol>
