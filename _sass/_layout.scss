@@ -433,7 +433,7 @@ pre code.hljs {
                 line-height: 1.5;
                 padding: 0.2em 0em 0.2em 0em
             }
-			.pub-title ol {
+			.pub-title + ol {
 				counter-reset: list;
 			}
 			
