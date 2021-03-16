@@ -7,7 +7,7 @@ permalink: /research/
 
 <td markdown="span">
     <a href="/assets/research/research_areas.png" data-lightbox="Research Areas" >
-      <img style="width: 1000px" src="/assets/research/research_areas_opt.png">
+      <img style="width: 1000px" src="/assets/research/research_areas.png">
       </a>
 </td>
 
