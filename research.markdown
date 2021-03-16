@@ -7,7 +7,7 @@ permalink: /research/
 
 <td markdown="span">
     <a href="/assets/research/research_areas.png" data-lightbox="Research Areas" >
-      <img style="width: 1000px" src="/assets/research/research_areas.png">
+      <img style="width: 1000px" src="/assets/research/research_areas_opt.png">
       </a>
 </td>
 
@@ -27,7 +27,7 @@ permalink: /research/
 <tr>
 <td>
     <a href="/assets/research/2019_CoRL_CBN_IRL2.png" data-lightbox="corl19_cbnirl" >
-      <img style="width: 350px" src="/assets/research/2019_CoRL_CBN_IRL.png">
+      <img style="width: 350px" src="/assets/research/2019_CoRL_CBN_IRL_opt.png">
     </a>
 </td>
 <td class="description">
