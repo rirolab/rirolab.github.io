@@ -44,7 +44,7 @@ Learning for manipulation is to obtain manipulation skills from a wide range of 
 <tr>
 <td markdown="span">
     <a href="/assets/research/2021_RAL_LTL_BT.png" data-lightbox="ral20_ltl_bt" >
-      <img style="width: 350px" src="/assets/research/2021_RAL_LTL_BT.png">
+      <img style="width: 350px" src="/assets/research/2021_RAL_LTL_BT_opt.png">
       </a>
 </td>
 <td class="description">
@@ -56,7 +56,7 @@ Learning for manipulation is to obtain manipulation skills from a wide range of 
 <tr>
 <td markdown="span">
     <a href="/assets/research/2020_IJRR.png" data-lightbox="ijrr20" >
-      <img style="width: 350px" src="/assets/research/2020_IJRR.png">
+      <img style="width: 350px" src="/assets/research/2020_IJRR_opt.png">
       </a>
 </td>
 <td class="description">
@@ -72,7 +72,7 @@ Learning for manipulation is to obtain manipulation skills from a wide range of 
 <tr>
 <td markdown="span">
     <a href="/assets/research/2018_CORL.png" data-lightbox="CoRL2018" >
-      <img style="width: 350px" src="/assets/research/2018_CORL.png">
+      <img style="width: 350px" src="/assets/research/2018_CORL_opt.png">
       </a>
 </td>
 <td  class="description">
