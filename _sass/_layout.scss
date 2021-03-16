@@ -433,15 +433,16 @@ pre code.hljs {
                 line-height: 1.5;
                 padding: 0.2em 0em 0.2em 0em
             }
-			.pub-item ol {
+			.pub-title + ol {
 				counter-reset: list;
+				padding-left: 0px;
 			}
 			
-			.pub-item ol > li {
+			.pub-item > li {
 				list-style: none;
 			}
 
-			.pub-item ol > li:before {
+			.pub-item > li:before {
 				content: "[" counter(list) "]";
 				counter-increment: list;
 			}
