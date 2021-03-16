@@ -435,6 +435,7 @@ pre code.hljs {
             }
 			.pub-title + ol {
 				counter-reset: list;
+				padding-left: 0px;
 			}
 			
 			.pub-item > li {
