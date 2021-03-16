@@ -437,11 +437,7 @@ pre code.hljs {
 				counter-reset: list;
 			}
 			
-			.pub-item ol > li {
-				list-style-image: url('./assets/icons/list_style.PNG');
-			}
-
-			.pub-item ol > li:before {
+			.pub-item > li:before {
 				content: "[" counter(list) "]";
 				counter-increment: list;
 			}
