@@ -175,11 +175,11 @@ T. Bhattacharjee*, P. M. Grice*, A. Kapusta*, M. D. Killpack*, <b>D. Park</b>*, 
 <ol> 
 
 <div class="pub-item"><li>
-<b>D. Park</b>, K. Lee, C. An, and Y. Hong. “Teaching and playback method based on control of redundancy resolution for robot and computer-readable medium controlling the same.” US Patent 12 923 650, Apr. 21, 2011. <a href="http://www.daehyungpark.com/home/US20110093119A1.pdf?attredirects=0" target="_blank">[PDF]</a>
+<b>D. Park</b>, K. Lee, C. An, and Y. Hong. “Teaching and playback method based on control of redundancy resolution for robot and computer-readable medium controlling the same.” US Patent 12 923 650, Apr. 21, 2011. <a href="https://scienceon.kisti.re.kr/srch/selectPORSrchPatent.do?cn=USP2013108560122&dbt=USPA" target="_blank">[PDF]</a>
 </li></div>
 
 <div class="pub-item"><li>
-K. Lee, Y. Hong, C. An, and <b>D. Park</b>. “Motor control apparatus and motor control method thereof.” US Patent 13 009 961, Jan. 20, 2011. <a href="http://www.daehyungpark.com/home/US20110181223A1.pdf?attredirects=0">[PDF]</a>
+K. Lee, Y. Hong, C. An, and <b>D. Park</b>. “Motor control apparatus and motor control method thereof.” US Patent 13 009 961, Jan. 20, 2011. <a href="https://scienceon.kisti.re.kr/srch/selectPORSrchPatent.do?cn=USP2008087408315">[PDF]</a>
 </li></div>
 
 <div class="pub-item"><li>
