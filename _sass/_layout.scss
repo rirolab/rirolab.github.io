@@ -250,6 +250,14 @@ pre code.hljs {
 	.wrapper {
 		@include outer-container(60%);
 		padding: 1em;
+		
+		.news-list {
+			margin: 0px 0px 0px 0px;
+		}
+		
+		.news-list > li {
+			line-height: unset;	
+		}
 	}
 	/*
 	*	index.html
