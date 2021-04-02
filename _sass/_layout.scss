@@ -17,7 +17,7 @@ html, body {
 	margin: 0;
 	padding: 0;
 	width: 100%;
-	min-width: 1410px;
+	min-width: 1800px;
 }
 
 ol.default {
@@ -124,6 +124,8 @@ pre code.hljs {
 	right: 0;
 	background: $white;
 	z-index: 1;
+	min-width: 1800px;
+	
   // Mobile view
   .navigation-menu-button {
     display: block;
