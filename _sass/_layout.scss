@@ -18,6 +18,7 @@ html, body {
 	padding: 0;
 	width: 100%;
 	min-width: 1800px;
+	max-width: 1900px;
 }
 
 ol.default {
@@ -118,12 +119,14 @@ pre code.hljs {
 	padding: 0 1em;
 	margin: 0;
 	// Remove this to make header scrollable again
-	position: fixed;
+	// position: fixed;
 	top: 0;
 	left: 0;
 	right: 0;
 	background: $white;
 	z-index: 1;
+	min-width: 1800px;
+	max-width: 1900px;
 	
   // Mobile view
   .navigation-menu-button {
