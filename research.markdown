@@ -50,6 +50,7 @@ Learning for manipulation is to obtain manipulation skills from a wide range of 
 <td class="description">
 <b>Dynamically Reconfigurable Task-and-Motion Planning</b>
 <br> We present a robust task-and-motion planning(TAMP) framework under human operator’s cooperative oradversarial interventions.
+<a href="https://youtu.be/lPpMVfBzZH0" target="_blank">[PDF]</a><a href="https://youtu.be/HgaqH4PWcTI" target="_blank">  
 </td>
 </tr>
 
