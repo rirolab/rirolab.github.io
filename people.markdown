@@ -30,7 +30,8 @@ If you want to change the style of the table, please look at the table tags in _
 </td>
 <td>
     <b>Daehyung Park</b><br>
-    Assitant Professor<br>
+    Assitant Professor at School of Computing<br>
+    Affiliated Assitant Professor at Graduate School of AI<br>
     <a href="mailto:{{ site.email}}">
        <i class="fa fa-envelope-o"></i>
        <span class="username">{{ site.email }}</span>
