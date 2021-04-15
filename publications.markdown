@@ -64,7 +64,7 @@ Ariel Kapusta, Philip Grice, Henry Clever, Yash Chitalia, <b>Daehyung Park</b>, 
 <ol>
 
 <div class="pub-item"><li>
-Shen Li*, <b>Daehyung Park*</b>, Yoonchang Sung*, Julie Shah, Nicholas Roy. "Reactive Task and Motion Planning under Temporal Logic Specifications," IEEE Int'l. Conf. on Robotics and Automation (ICRA), 2021. (*- <b>authors contributed equally</b>)
+Shen Li*, <b>Daehyung Park*</b>, Yoonchang Sung*, Julie Shah, Nicholas Roy. "Reactive Task and Motion Planning under Temporal Logic Specifications," IEEE Int'l. Conf. on Robotics and Automation (ICRA 2021) (*- <b>authors contributed equally</b>) <a href="https://arxiv.org/abs/2103.14464" target="_blank">[PDF]</a>
 </li></div>
 
 <div class="pub-item"><li>
