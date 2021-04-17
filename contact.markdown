@@ -15,4 +15,5 @@ Joining RIRO Lab
 
 We are now looking for new lab members.	If you're interested in working with RIRO Lab, please write this <a href="https://docs.google.com/forms/d/1fbOFI3ML3-3dVU44x4nC6wAQklnbhPCmnANIR2IJSFc/viewform?gxids=7628&edit_requested=true"> <U>form</U></a>. 
 	
-<b>We are particularly looking for Ph.D. students now! </b>
+We are particularly looking for <b>Master/Ph.D</b> students. 
+Please, apply for the programs in <b>School of Computing, Graduate School of AI, Robotics Program, etc. </b>
