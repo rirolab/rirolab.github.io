@@ -13,7 +13,7 @@ If you want to change the style of the table, please look at the publication tag
 <ol>
 
 <div class="pub-item"><li>
-T. M. Howard, E. Stump, J. Fink, J. Arkin, R. Paul, <b>D. Park</b>, S. Roy, D. Barber, R. Bendell, K. Schmeckpeper,J. Tian, J. Oh, M. Wigness, L. Quang, B. Rothrock, J. Nash, M. R. Walter, F. Jentsch, N. Roy. "An Intelligence Architecture for Grounded LanguageCommunication with Field Robots," 2020.
+T. M. Howard, E. Stump, J. Fink, J. Arkin, R. Paul, <b>D. Park</b>, S. Roy, D. Barber, R. Bendell, K. Schmeckpeper,J. Tian, J. Oh, M. Wigness, L. Quang, B. Rothrock, J. Nash, M. R. Walter, F. Jentsch, N. Roy. "An Intelligence Architecture for Grounded LanguageCommunication with Field Robots," 2020. [Accepted]
 </li></div>
 
 </ol>
