@@ -14,8 +14,11 @@ Our research seeks to advance the capabilities of real robots so that they can a
 <!--/div-->
 We are now looking for new lab members.	If you're interested in working with RIRO Lab, please fill out this <a href="https://docs.google.com/forms/d/1fbOFI3ML3-3dVU44x4nC6wAQklnbhPCmnANIR2IJSFc/viewform?gxids=7628&edit_requested=true"> <U>form</U></a>. 
 
+## Postdoc
+We are looking for a Postdoc, whoc can start March 1st, 2022 or before. Please, email <daehyung@kaist.ac.kr>. 
+
 ## Master/Ph.D
 You can apply for the programs in <b>School of Computing, Graduate School of AI, Robotics Program</b>, etc. 
 
 ## URP/Intership 
-We are also looking for domestic undergrad students for <b>URP/Internship</b>. Please, feel free to contact me.
+We are also looking for domestic undergrad students for <b>URP/Internship</b>. Please, feel free to contact <daehyung@kaist.ac.kr> after filling out the form.
