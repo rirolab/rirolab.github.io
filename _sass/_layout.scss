@@ -101,12 +101,11 @@ pre code.hljs {
 
 .cbs_slider ul.imgs li{
     position: absolute;
-    z-index: 0;
     list-style: none;
     padding: 0;
     margin: 0;
 
-    animation: move 1s;
+    animation: move 5s;
 }
 
 @keyframes move{
@@ -114,7 +113,7 @@ pre code.hljs {
 		z-index: 1;
 	}
 	to{
-		z-index: 0.5;
+		z-index: 0;
 	}
 }
 
