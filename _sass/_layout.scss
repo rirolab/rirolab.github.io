@@ -104,13 +104,12 @@ pre code.hljs {
     list-style: none;
     padding: 0;
     margin: 0;
-    opacity: 0;
     animation: move 5s linear forward; 
 }
 
 @keyframes move {
-  from { z-index: 1; }
-  to { z-index: 0; }
+  from { z-index: 1; opacity: 1; }
+  to { z-index: 0; opacity: 0;}
 }
 
 .cbs_slider .bullets{
