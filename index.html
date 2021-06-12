@@ -15,12 +15,20 @@ pagination:
   <input type="radio" name="slide" id="slide3">
 
   <script type="text/javascript">
-    jQuery(function($) { // DOM ready and $ alias in scope
-      var curr = 0;
-      const tot = $("[name=slide]").length; // How many
+    jQuery(function($) {
+      const tot = $("[name=slide]").length;
       
       function autoplay() {
-        curr = ++curr % tot; // Increment and Reset to 0 when 3
+        curr = -1
+
+        for(i=0;i<tot;i++){
+          if($("[name=slide]")[i].checked){
+            curr = i
+            break
+          }
+        }
+
+        curr = ++curr % tot;
         $("[name=slide]")[curr].checked = true;
       }
 

@@ -113,7 +113,7 @@ pre code.hljs {
 	left: 50%;
 	transform: translateX(-50%);
 	bottom: 20px;
-	z-index: 1;
+	z-index: 2;
 }
 
 .cbs_slider .bullets label{
@@ -148,25 +148,27 @@ pre code.hljs {
 .cbs_slider input[type=radio]:nth-child(1):checked~ul.imgs>li:nth-child(1){
     opacity: 1;
     transition: 1s;
+	z-index: 1;
 }
 .cbs_slider input[type=radio]:nth-child(2):checked~ul.imgs>li:nth-child(2){
     opacity: 1;
     transition: 1s;
+	z-index: 1;
 }
 .cbs_slider input[type=radio]:nth-child(3):checked~ul.imgs>li:nth-child(3){
     opacity: 1;
     transition: 1s;
+	z-index: 1;
 }
 
 .cbs_slider .imgs>li:nth-child(1)>div{
 	background-image: url("/assets/header_image_opt.jpg");
 }
 .cbs_slider .imgs>li:nth-child(2)>div{
-	background-image: url("/assets/header_image_2.gif");
+	background-color: #4680a6;
 }
 .cbs_slider .imgs>li:nth-child(3)>div{
-	background-image: url("/assets/header_image_3.jpeg");
-	background-position: top;
+	background-color: coral;
 }
 
 
