@@ -61,21 +61,15 @@ If you want to change the style of the table, please look at the table tags in _
 <tbody>
 
 <tr>
-
 <!-- None -->
 <td>
     <b>Looking for a Ph.D. student!</b><br>
 </td>
 <td>
 </td>
+
 </tr>
 
-<tr>
-<td colspan="2">
-</td>
-<td colspan="2">
-</td>
-</tr>
 </tbody>
 
 
@@ -95,20 +89,18 @@ If you want to change the style of the table, please look at the table tags in _
 <tbody>
 
 <tr>
-
-<!-- Seohyeon Min -->
+<!-- Beomseok Choi -->
 <td>
-    <a href="/assets/people/seohyeon_min.jpg" data-lightbox="Seohyeon Min" >
-      <img style="width: 75%" src="/assets/people/seohyeon_min.jpg">
-    </a>
+      <a href="/assets/people/beomseok_choi.jpg" data-lightbox="Beomseok Choi" >
+      <img style="width: 75%" src="/assets/people/beomseok_choi.jpg">
+      </a>	
 </td>
 <td>
-    <b>Seohyeon Min</b><br>
-    <a href="mailto:threepebbles@kaist.ac.kr">
+    <b>Beomseok Choi</b><br>
+    <a href="mailto:midi9848@kaist.ac.kr">
        <i class="fa fa-envelope-o"></i>
-       <span class="username">threepebbles@kaist.ac.kr</span>
+       <span class="username">midi9848@kaist.ac.kr</span>
     </a>
-    <br>
 </td>
 
 <!-- Yeseung Kim -->
@@ -129,19 +121,6 @@ If you want to change the style of the table, please look at the table tags in _
 </tr>
 <tr>
 
-<!-- Beomseok Choi -->
-<td>
-      <a href="/assets/people/beomseok_choi.jpg" data-lightbox="Beomseok Choi" >
-      <img style="width: 75%" src="/assets/people/beomseok_choi.jpg">
-      </a>	
-</td>
-<td>
-    <b>Beomseok Choi</b><br>
-    <a href="mailto:midi9848@kaist.ac.kr">
-       <i class="fa fa-envelope-o"></i>
-       <span class="username">midi9848@kaist.ac.kr</span>
-    </a>
-</td>
 
 <!-- Janghyuk Choi -->
 <td>
@@ -156,6 +135,13 @@ If you want to change the style of the table, please look at the table tags in _
        <span class="username">janghyuk.choi@kaist.ac.kr</span>
     </a>
     <br>
+</td>
+
+<td>
+    
+</td>
+<td>
+    
 </td>
 
 </tr>
@@ -177,7 +163,6 @@ If you want to change the style of the table, please look at the table tags in _
 <tbody>
 
 <tr>
-
 <!-- Minjae Song -->
 <td>
     <a href="/assets/people/minjae_song.jpg" data-lightbox="Minjae Song" >
@@ -193,7 +178,49 @@ If you want to change the style of the table, please look at the table tags in _
     <br>
 </td>
 
+<!-- Jinwoo Kim -->
+<td>
+    <a href="/assets/people/jinwoo_kim.jpg" data-lightbox="Jinwoo Kim" >
+      <img style="width: 75%" src="/assets/people/jinwoo_kim.jpg">
+    </a>
+</td>
+<td>
+    <b>jinwoo_kim</b><br>
+    <!--
+    <a href="">
+       <i class="fa fa-envelope-o"></i>
+       <span class="username"></span>
+    </a>
+    -->
+    <br>
+</td>
 </tr>
+
+<tr>
+<!-- Jaehwi Jang -->
+<td>
+    <a href="/assets/people/jaehwi_jang.jpg" data-lightbox="Jaehwi Jang" >
+      <img style="width: 75%" src="/assets/people/jaehwi_jang.jpg">
+    </a>
+</td>
+<td>
+    <b>Jaehwi Jang</b><br>
+    <!--
+    <a href="">
+       <i class="fa fa-envelope-o"></i>
+       <span class="username"></span>
+    </a>
+    <br>
+    -->
+</td>
+
+
+<td> 
+</td>
+<td>
+</td>
+</tr>
+
 </tbody>
 
 <!---------------- Alum. --------------------->
