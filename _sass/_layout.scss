@@ -104,11 +104,11 @@ pre code.hljs {
     list-style: none;
     padding: 0;
     margin: 0;
-    animation: move 5s linear; 
+    animation: move 3s linear; 
 }
 
 @keyframes move {
-  from { z-index: 0.99; }
+  from { z-index: 3; }
   to { z-index: 0; }
 }
 
@@ -117,7 +117,7 @@ pre code.hljs {
 	left: 50%;
 	transform: translateX(-50%);
 	bottom: 20px;
-	z-index: 2;
+	z-index: 4;
 }
 
 .cbs_slider .bullets label{
@@ -154,17 +154,17 @@ pre code.hljs {
 .cbs_slider input[type=radio]:nth-child(1):checked~ul.imgs>li:nth-child(1){
     opacity: 1;
     transition: 1s;
-    z-index: 1;
+    z-index: 3;
 }
 .cbs_slider input[type=radio]:nth-child(2):checked~ul.imgs>li:nth-child(2){
     opacity: 1;
     transition: 1s;
-    z-index: 1;
+    z-index: 3;
 }
 .cbs_slider input[type=radio]:nth-child(3):checked~ul.imgs>li:nth-child(3){
     opacity: 1;
     transition: 1s;
-    z-index: 1;
+    z-index: 3;
 }
 
 .cbs_slider .imgs>li:nth-child(1)>div{
