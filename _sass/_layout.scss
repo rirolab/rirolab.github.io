@@ -101,11 +101,11 @@ pre code.hljs {
 
 .cbs_slider ul.imgs li{
     position: absolute;
+    opacity: 0;
     list-style: none;
     padding: 0;
     margin: 0;
-    z-index: 0;
-    transition: 1s;
+    transition-delay: 1s;
 }
 
 .cbs_slider .bullets{
