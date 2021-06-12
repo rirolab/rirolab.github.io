@@ -105,7 +105,8 @@ pre code.hljs {
     list-style: none;
     padding: 0;
     margin: 0;
-	transition-delay: 0.9s;
+    z-index: 0;
+    transition: 1s;
 }
 
 .cbs_slider .bullets{
@@ -148,17 +149,17 @@ pre code.hljs {
 .cbs_slider input[type=radio]:nth-child(1):checked~ul.imgs>li:nth-child(1){
     opacity: 1;
     transition: 1s;
-	z-index: 1;
+    z-index: 1;
 }
 .cbs_slider input[type=radio]:nth-child(2):checked~ul.imgs>li:nth-child(2){
     opacity: 1;
     transition: 1s;
-	z-index: 1;
+    z-index: 1;
 }
 .cbs_slider input[type=radio]:nth-child(3):checked~ul.imgs>li:nth-child(3){
     opacity: 1;
     transition: 1s;
-	z-index: 1;
+    z-index: 1;
 }
 
 .cbs_slider .imgs>li:nth-child(1)>div{
