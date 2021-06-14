@@ -17,14 +17,16 @@ pagination:
   <script type="text/javascript">
     jQuery(function($) {
       const tot = $("[name=slide]").length;
-      
+      const time_interval = 5000;
+      var isFirstImageEnded = false;
+
       function autoplay() {
-        curr = -1
+        curr = -1;
 
         for(i=0;i<tot;i++){
           if($("[name=slide]")[i].checked){
-            curr = i
-            break
+            curr = i;
+            break;
           }
         }
 
@@ -32,12 +34,31 @@ pagination:
         $("[name=slide]")[curr].checked = true;
       }
 
-      setInterval(autoplay, 5000);
+      function check_first_image_change() {
+        for(i=0;i<tot;i++){
+          if($("[name=slide]")[i].checked){
+            // changed 
+            if(i != 0){
+              isFirstImageEnded = true;
+              $(".first-load").removeClass('first-load');
+
+              break;
+            }
+          }
+        }
+      }
+  
+      checker = setInterval(check_first_image_change, 30);
+      setInterval(autoplay, time_interval);
+
+      if(isFirstImageEnded){
+        clearInterval(checker);
+      }
     });
   </script>
   
   <ul id="imgholder" class="imgs">
-    <li>
+    <li class="first-load">
       <div class="site-header-container has-cover">
         <div class="scrim has-cover">
           <header class="site-header">

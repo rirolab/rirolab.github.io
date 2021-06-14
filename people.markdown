@@ -185,7 +185,7 @@ If you want to change the style of the table, please look at the table tags in _
     </a>
 </td>
 <td>
-    <b>jinwoo_kim</b><br>
+    <b>Jinwoo Kim</b><br>
     <!--
     <a href="">
        <i class="fa fa-envelope-o"></i>
