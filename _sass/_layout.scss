@@ -102,16 +102,12 @@ pre code.hljs {
 @keyframes cbs_fadeout {
 	0% {opacity: 1; z-index: 9;}
 	90% {opacity: 1;}
-	100% {opacity: 0; z-index: 0;}
+	91% {opacity: 0; z-index: 0;}
+	100% {z-index: 0;}
 }
 
 @keyframes cbs_fadein {
 	0% {opacity: 0;}
-	100% {opacity: 1;}
-}
-
-@keyframes cbs_firstload {
-	0% {opacity: 1;}
 	100% {opacity: 1;}
 }
 
