@@ -89,39 +89,7 @@ If you want to change the style of the table, please look at the table tags in _
 <tbody>
 
 <tr>
-<!-- Beomseok Choi -->
-<td>
-      <a href="/assets/people/beomseok_choi.jpg" data-lightbox="Beomseok Choi" >
-      <img style="width: 75%" src="/assets/people/beomseok_choi.jpg">
-      </a>	
-</td>
-<td>
-    <b>Beomseok Choi</b><br>
-    <a href="mailto:midi9848@kaist.ac.kr">
-       <i class="fa fa-envelope-o"></i>
-       <span class="username">midi9848@kaist.ac.kr</span>
-    </a>
-</td>
-
-<!-- Yeseung Kim -->
-<td>
-    <a href="/assets/people/yeseung_kim.jpg" data-lightbox="Yeseung Kim" >
-      <img style="width: 75%" src="/assets/people/yeseung_kim.jpg">
-    </a>
-</td>
-<td>
-    <b>Yeseung Kim</b><br>
-    <a href="mailto:rhgkrsus1@kaist.ac.kr">
-       <i class="fa fa-envelope-o"></i>
-       <span class="username">rhgkrsus1@kaist.ac.kr</span>
-    </a>
-    <br>
-</td>
-
-</tr>
-<tr>
-
-
+    
 <!-- Janghyuk Choi -->
 <td>
     <a href="/assets/people/janghyuk_choi.jpg" data-lightbox="Janghyuk Choi" >
@@ -137,11 +105,19 @@ If you want to change the style of the table, please look at the table tags in _
     <br>
 </td>
 
+<!-- Yeseung Kim -->
 <td>
-    
+    <a href="/assets/people/yeseung_kim.jpg" data-lightbox="Yeseung Kim" >
+      <img style="width: 75%" src="/assets/people/yeseung_kim.jpg">
+    </a>
 </td>
 <td>
-    
+    <b>Yeseung Kim</b><br>
+    <a href="mailto:rhgkrsus1@kaist.ac.kr">
+       <i class="fa fa-envelope-o"></i>
+       <span class="username">rhgkrsus1@kaist.ac.kr</span>
+    </a>
+    <br>
 </td>
 
 </tr>
