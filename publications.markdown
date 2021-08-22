@@ -57,9 +57,9 @@ Ariel Kapusta, Philip Grice, Henry Clever, Yash Chitalia, <b>Daehyung Park</b>, 
 <p align="left" style="text-align:left"><a href="https://youtu.be/gLcPZQnDmkk" target="_blank"></a></p> -->
 
 
-<!------------------- Conference Articles --------------------->
+<!------------------- International Conference Articles --------------------->
 <div class="publication">
-<div class="pub-title"> Conference Articles </div>
+<div class="pub-title"> International Conference Articles </div>
 
 <ol>
 
@@ -126,6 +126,26 @@ Heiko Hoffmann, Peter Pastor, <b>Daehyung Park</b>, and Stefan Schaal. “Biolog
 </ol>
 
 </div>
+
+<!------------------- Domestic Conference Articles --------------------->
+<div class="publication">
+<div class="pub-title"> Domestic Conference Articles </div>
+
+<ol>
+
+<div class="pub-item"><li>
+Minsung Yoon, Daehyung Park, Sung-Eui Yoon, "Bias tree expansion using reinforcement learning for efficient motion planning," Korea Robotics Society Annual Conference (KRoC), 2021 <a href="https://www.google.com/url?q=https%3A%2F%2Fsgvr.kaist.ac.kr%2Fwp-content%2Fuploads%2F2021%2F06%2FRLRRT_MinsungYoon.pdf&sa=D&sntz=1&usg=AFQjCNHsEW4HewmzI_r8wXO1Bs1-5xbMrg" target="_blank">[PDF]</a>
+</li></div>
+
+<div class="pub-item"><li>
+Hyeongyeol Ryu, Minsung Yoon, Daehyung Park, Sung-Eui Yoon, "Robust Robot Navigation against External Disturbance using Deep Reinforcement Learning," Korea Robotics Society Annual Conference (KRoC), 2021 <a href="https://www.google.com/url?q=https%3A%2F%2Fsgvr.kaist.ac.kr%2Fwp-content%2Fuploads%2F2021%2F06%2FRobust_Robot_Navigation_against_External_Disturbance_KRoC21.pdf&sa=D&sntz=1&usg=AFQjCNHxir5qxnnAHrvPaTzHdfWrtOpV4Q" target="_blank">[PDF]</a>
+</li></div>
+
+
+</ol>
+
+</div>
+
 
 <!------------------- Workshop papers, Abstracts, and Posters --------------------->
 

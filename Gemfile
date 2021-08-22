@@ -34,3 +34,5 @@ gem "jekyll-sitemap"
 gem "jekyll-paginate-v2"
 gem 'jekyll-spaceship'
 
+
+gem "webrick", "~> 1.7"

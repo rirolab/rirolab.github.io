@@ -61,11 +61,16 @@ If you want to change the style of the table, please look at the table tags in _
 <tbody>
 
 <tr>
-<!-- None -->
+<!-- Yongdae Kim -->
 <td>
-    <b>Looking for a Ph.D. student!</b><br>
+    <a href="/assets/people/noname.jpg" data-lightbox="Yongdae Kim" >
+      <img style="width: 75%" src="/assets/people/noname.jpg">
+      </a>
 </td>
 <td>
+    <b>Yongdae Kim</b><br>
+    Part-time
+    <br>
 </td>
 
 </tr>
