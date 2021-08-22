@@ -30,7 +30,7 @@ If you want to change the style of the table, please look at the table tags in _
 </td>
 <td>
     <b>Daehyung Park</b><br>
-    Assitant Professor at School of Computing<br>
+    Assistant Professor at School of Computing<br>
     Affiliated Assitant Professor at Graduate School of AI<br>
     <a href="mailto:{{ site.email}}">
        <i class="fa fa-envelope-o"></i>
@@ -45,7 +45,10 @@ If you want to change the style of the table, please look at the table tags in _
 </tbody>
 </table>
 
-<!---------------- Postdoc and Ph.D --------------------->
+
+
+
+<!---------------- Ph.D --------------------->
 <table>
 <colgroup>
 <col width="15%" />
@@ -69,9 +72,13 @@ If you want to change the style of the table, please look at the table tags in _
 </td>
 <td>
     <b>Yongdae Kim</b><br>
+    School of Computing<br>
     Part-time
     <br>
 </td>
+
+<td></td>
+<td></td>
 
 </tr>
 
@@ -103,6 +110,7 @@ If you want to change the style of the table, please look at the table tags in _
 </td>
 <td>
     <b>Janghyuk Choi</b><br>
+    School of Computing, 2021<br>
     <a href="mailto:janghyuk.choi@kaist.ac.kr">
        <i class="fa fa-envelope-o"></i>
        <span class="username">janghyuk.choi@kaist.ac.kr</span>
@@ -118,12 +126,31 @@ If you want to change the style of the table, please look at the table tags in _
 </td>
 <td>
     <b>Yeseung Kim</b><br>
+    Robotics Program, 2021<br>
     <a href="mailto:rhgkrsus1@kaist.ac.kr">
        <i class="fa fa-envelope-o"></i>
        <span class="username">rhgkrsus1@kaist.ac.kr</span>
     </a>
     <br>
 </td>
+
+</tr>
+
+<tr>
+<!-- Chanyoung Ahn -->
+<td>
+    <a href="/assets/people/noname.jpg" data-lightbox="Chanyoung Ahn" >
+      <img style="width: 75%" src="/assets/people/noname.jpg">
+      </a>
+</td>
+<td>
+    <b>Chanyoung Ahn</b><br>
+    Robotics Program, 2021<br>
+    <br>
+</td>
+
+<td></td>
+<td></td>
 
 </tr>
 </tbody>
@@ -152,6 +179,7 @@ If you want to change the style of the table, please look at the table tags in _
 </td>
 <td>
     <b>Minjae Song</b><br>
+    School of Computing<br>
     <a href="mailto:smj0398@kaist.ac.kr">
        <i class="fa fa-envelope-o"></i>
        <span class="username">smj0398@kaist.ac.kr</span>
@@ -167,6 +195,7 @@ If you want to change the style of the table, please look at the table tags in _
 </td>
 <td>
     <b>Jinwoo Kim</b><br>
+    From POSTECH<br>
     <!--
     <a href="">
        <i class="fa fa-envelope-o"></i>
@@ -178,6 +207,43 @@ If you want to change the style of the table, please look at the table tags in _
 </tr>
 
 <tr>
+<td> 
+</td>
+<td>
+</td>
+</tr>
+
+</tbody>
+
+<!------------ Research Associate and Assistant ---------------->
+<table>
+<colgroup>
+<col width="15%" />
+<col width="35%" />
+<col width="15%" />
+<col width="35%" />
+</colgroup>
+<thead>
+<tr>
+<th class="caption" colspan="4">Research Associate & Assistant</th>
+</tr>
+</thead>
+<tbody>
+
+<tr>
+
+<!-- No name -->
+<td>
+    <a href="/assets/people/noname.jpg" data-lightbox="No name" >
+      <img style="width: 75%" src="/assets/people/noname.jpg">
+      </a>
+</td>
+<td>
+    <b>Coming!</b><br>
+    Research Associate
+    <br>
+</td>
+
 <!-- Jaehwi Jang -->
 <td>
     <a href="/assets/people/jaehwi_jang.jpg" data-lightbox="Jaehwi Jang" >
@@ -186,23 +252,21 @@ If you want to change the style of the table, please look at the table tags in _
 </td>
 <td>
     <b>Jaehwi Jang</b><br>
-    <!--
-    <a href="">
+    Research Assistant<br>
+    From KAIST <br>
+    <a href="mailto:wognl0402@kaist.ac.kr">
        <i class="fa fa-envelope-o"></i>
-       <span class="username"></span>
+       <span class="username">wognl0402@kaist.ac.kr</span>
     </a>
     <br>
-    -->
 </td>
 
 
-<td> 
-</td>
-<td>
-</td>
+
 </tr>
 
 </tbody>
+
 
 <!---------------- Alum. --------------------->
 
