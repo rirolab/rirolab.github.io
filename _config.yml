@@ -113,7 +113,11 @@ navigation:
   - title: "People"
     url: /people
   - title: "Research"
-    url: /research
+    sublinks:
+        - title: "Current Topics"
+          url: /research
+        - title: "Equipment"
+          url: /equipment      
   - title: "Publications"
     url: /publications
   - title: "Internal"
