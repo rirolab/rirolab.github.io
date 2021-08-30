@@ -140,13 +140,17 @@ If you want to change the style of the table, please look at the table tags in _
 <tr>
 <!-- Chanyoung Ahn -->
 <td>
-    <a href="/assets/people/noname.jpg" data-lightbox="Chanyoung Ahn" >
-      <img style="width: 75%" src="/assets/people/noname.jpg">
-      </a>
+    <a href="/assets/people/chanyoung_ahn.jpg" data-lightbox="Chanyoung Ahn" >
+      <img style="width: 75%" src="/assets/people/chanyoung_ahn.jpg">
+    </a>
 </td>
 <td>
     <b>Chanyoung Ahn</b><br>
     Robotics Program, 2021<br>
+    <a href="mailto:coldyoung@kaist.ac.kr">
+       <i class="fa fa-envelope-o"></i>
+       <span class="username">coldyoung@kaist.ac.kr</span>
+    </a>
     <br>
 </td>
 
