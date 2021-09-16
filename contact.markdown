@@ -9,9 +9,3 @@ The Robust Intelligence & Robotics (RIRO) Laboratory is part of the School of Co
 Our research seeks to advance the capabilities of real robots so that they can autonomously assist and collaborate with people in real world. We are planning to work with various mobile manipulation platforms for industrial, home-service, and healthcare scenarios. Our projects involve research into mobile manipulation, machine learning, natural language processing, and automation. 
 
 -----
-<!--div class="post-header"-->
-# Joining RIRO Lab (Open Positions)
-<!--/div-->
-
-## URP/Intership 
-We are also looking for domestic undergrad students for <b>URP/Internship</b>. Please, feel free to contact  after filling out the form.
