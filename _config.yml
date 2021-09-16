@@ -120,8 +120,14 @@ navigation:
           url: /equipment      
   - title: "Publications"
     url: /publications
-  - title: "Internal"
-    url: /internal  
+  - title: "Positions"
+    sublinks:
+        - title: "Postdocs"
+          url: /postdoc
+        - title: "Graduates"
+          url: /graduates      
+        - title: "Undergrads"
+          url: /undergrads      
   - title: "Contact"
     url: /contact
 #    sublinks:
