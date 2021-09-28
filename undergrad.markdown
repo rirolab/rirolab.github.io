@@ -1,12 +1,12 @@
 ---
 layout: page
-title: Indivial study, URP, Intership Positions
+title: Indivial study, URP, Internship Positions
 permalink: /undergrads/
 ---
 
 We are looking for highly motivated undergrad researchers.
 
-## Application Process for URP and Interships 
+## Application Process for URP and Internships 
 1. Fill out a <a href="https://docs.google.com/forms/d/1fbOFI3ML3-3dVU44x4nC6wAQklnbhPCmnANIR2IJSFc/viewform?gxids=7628&edit_requested=true"> <U>pre-interview form</U></a>. If you are qualified, you will get a contact within 2 weeks.
 2. Get an interview with Dr. Park.
 3. You can then join our lab.
@@ -14,7 +14,7 @@ We are looking for highly motivated undergrad researchers.
 ### Note
 - We are looking for domestic undergrads only at this moement. 
 - We will provide a desk and a computer.
-- Intership students will be paid during Summer and Winter vacations.
+- Internship students will be paid during Summer and Winter vacations.
 
 
 
