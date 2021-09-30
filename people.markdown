@@ -78,8 +78,17 @@ If you want to change the style of the table, please look at the table tags in _
     <br>
 </td>
 
-<td></td>
-<td></td>
+<!--  -->
+<td>
+    <a href="/assets/people/noname.jpg" data-lightbox="No name" >
+      <img style="width: 75%" src="/assets/people/noname.jpg">
+      </a>
+</td>
+<td>
+    <b>Coming in 2022</b><br>
+    School of Computing<br>    
+    <br>
+</td>
 
 </tr>
 
