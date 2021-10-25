@@ -11,6 +11,8 @@ We are looking for highly motivated undergrad researchers.
 - Development of shadow hand system
 - Development of teleoperated manipulation system using haptic glove
 
+After building the above systems, you will be asked to control it by applying reinforcement learning, end-to-end learning, probabilistic movement primitives, etc. 
+
 ## Application Process for URP and Internships 
 1. Fill out a <a href="https://docs.google.com/forms/d/1fbOFI3ML3-3dVU44x4nC6wAQklnbhPCmnANIR2IJSFc/viewform?gxids=7628&edit_requested=true"> <U>pre-interview form</U></a>. If you are qualified, you will get a contact within 2 weeks.
 2. Get an interview with Dr. Park.
