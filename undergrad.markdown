@@ -8,6 +8,7 @@ We are looking for highly motivated undergrad researchers.
 
 ## Potential topics for Undergrads
 - Development of mobile manipulation system using Unity
+- Development of ROS2-based manipulation system using the Haetae robot
 - Development of shadow hand system
 - Development of teleoperated manipulation system using haptic glove
 
