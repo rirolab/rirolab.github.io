@@ -4,13 +4,14 @@ title: Indivial study, URP, Internship Positions
 permalink: /undergrads/
 ---
 
-We are looking for highly motivated undergrad researchers.
+We are looking for highly motivated undergrad researchers, particularly for this winter 2021.
 
 ## Potential topics for Undergrads
 - Development of mobile manipulation system using Unity
 - Development of ROS2-based manipulation system using the Haetae robot
 - Development of shadow hand system
 - Development of teleoperated manipulation system using haptic glove
+- ETC: reinforcement learning, natural language related topics
 
 After building the above systems, you will be asked to control it by applying reinforcement learning, end-to-end learning, probabilistic movement primitives, etc. 
 
