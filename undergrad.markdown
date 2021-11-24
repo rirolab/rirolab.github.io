@@ -29,7 +29,7 @@ After building the above systems, you will be asked to control it by applying re
 
 
 ## Application Process for individual studies (KAIST undergrad only)
-We welcome any students looking to explore this Robotics area. Please, send a contact e-mail to <daehyung@kaist.ac.kr>. 
+We welcome any students looking to explore this Robotics area. Please, send a contact e-mail to <daehyung@kaist.ac.kr> with your CV and transcript. 
 
 ### Note
 You will be able to get a desk and/or a computer. You can freely access our robots, too!
