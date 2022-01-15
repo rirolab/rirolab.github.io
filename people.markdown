@@ -81,7 +81,7 @@ If you want to change the style of the table, please look at the table tags in _
 <!--Ulzhalgas Rakhman  -->
 <td>
     <a href="/assets/people/ulzhalgas_rakhman.jpg" data-lightbox="Ulzhalgas Rakhman" >
-      <img style="width: 75%" src="/assets/people/noname.jpg">
+      <img style="width: 75%" src="/assets/people/ulzhalgas_rakhman.jpg">
       </a>
 </td>
 <td>
