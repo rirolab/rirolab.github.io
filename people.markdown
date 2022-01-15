@@ -166,7 +166,7 @@ If you want to change the style of the table, please look at the table tags in _
 </td>
 <td>
     <b>Minjae Song</b><br>
-    School of Computing<br>
+    School of Computing, 2022<br>
     <a href="mailto:smj0398@kaist.ac.kr">
        <i class="fa fa-envelope-o"></i>
        <span class="username">smj0398@kaist.ac.kr</span>
@@ -217,6 +217,7 @@ If you want to change the style of the table, please look at the table tags in _
 </td>
 <td>
     <b>Dohyun Kim</b><br>
+    School of Computing<br>
     <br>    
     <br>
 </td>
@@ -228,6 +229,7 @@ If you want to change the style of the table, please look at the table tags in _
 </td>
 <td>
     <b>JeongHo Ha</b><br>
+    School of Computing<br>
     <br>    
     <br>
 </td>
@@ -240,6 +242,7 @@ If you want to change the style of the table, please look at the table tags in _
 </td>
 <td>
     <b>Deok-Min Hwang</b><br>
+    Mechanical Engineering <br>
     <br>    
     <br>
 </td>
