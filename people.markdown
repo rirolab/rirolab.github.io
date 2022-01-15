@@ -78,7 +78,7 @@ If you want to change the style of the table, please look at the table tags in _
     <br>
 </td>
 
-<!--  -->
+<!--Ulzhalgas Rakhman  -->
 <td>
     <a href="/assets/people/noname.jpg" data-lightbox="No name" >
       <img style="width: 75%" src="/assets/people/noname.jpg">
@@ -207,7 +207,39 @@ If you want to change the style of the table, please look at the table tags in _
 </tr>
 </thead>
 <tbody>
-
+<!--김도현-->
+<td>
+    <a href="/assets/people/noname.jpg" data-lightbox="No name" >
+      <img style="width: 75%" src="/assets/people/noname.jpg">
+      </a>
+</td>
+<td>
+    <b>김도현</b><br>
+    <br>    
+    <br>
+</td>
+<!--하정호  -->
+<td>
+    <a href="/assets/people/noname.jpg" data-lightbox="No name" >
+      <img style="width: 75%" src="/assets/people/noname.jpg">
+      </a>
+</td>
+<td>
+    <b>하정호</b><br>
+    <br>    
+    <br>
+</td>
+<!--황덕민  -->
+<td>
+    <a href="/assets/people/noname.jpg" data-lightbox="No name" >
+      <img style="width: 75%" src="/assets/people/noname.jpg">
+      </a>
+</td>
+<td>
+    <b>황덕민</b><br>
+    <br>    
+    <br>
+</td>
 <tr>
 <td> 
 </td>
