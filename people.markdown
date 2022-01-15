@@ -171,7 +171,8 @@ If you want to change the style of the table, please look at the table tags in _
     </a>
     <br>
 </td>
-    
+</tr>
+<tr>
     <!-- Jinwoo Kim -->
 <td>
     <a href="/assets/people/jinwoo_kim.jpg" data-lightbox="Jinwoo Kim" >
@@ -229,6 +230,7 @@ If you want to change the style of the table, please look at the table tags in _
     <br>    
     <br>
 </td>
+    <tr>
 <!--황덕민  -->
 <td>
     <a href="/assets/people/noname.jpg" data-lightbox="No name" >
@@ -240,6 +242,7 @@ If you want to change the style of the table, please look at the table tags in _
     <br>    
     <br>
 </td>
+        </tr>
 <tr>
 <td> 
 </td>
