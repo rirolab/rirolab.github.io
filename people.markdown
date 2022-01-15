@@ -85,7 +85,7 @@ If you want to change the style of the table, please look at the table tags in _
       </a>
 </td>
 <td>
-    <b>Coming in 2022</b><br>
+    <b>Ulzhalgas Rakhman</b><br>
     School of Computing<br>    
     <br>
 </td>
