@@ -112,21 +112,6 @@ If you want to change the style of the table, please look at the table tags in _
 
 <tr>
     
-<!-- Janghyuk Choi -->
-<td>
-    <a href="/assets/people/janghyuk_choi.jpg" data-lightbox="Janghyuk Choi" >
-      <img style="width: 75%" src="/assets/people/janghyuk_choi.jpg">
-      </a>
-</td>
-<td>
-    <b>Janghyuk Choi</b><br>
-    School of Computing, 2021<br>
-    <a href="mailto:janghyuk.choi@kaist.ac.kr">
-       <i class="fa fa-envelope-o"></i>
-       <span class="username">janghyuk.choi@kaist.ac.kr</span>
-    </a>
-    <br>
-</td>
 
 <!-- Yeseung Kim -->
 <td>
@@ -167,23 +152,9 @@ If you want to change the style of the table, please look at the table tags in _
 <td></td>
 
 </tr>
-</tbody>
-
-<!---------------- Undergrad --------------------->
-<table>
-<colgroup>
-<col width="15%" />
-<col width="35%" />
-<col width="15%" />
-<col width="35%" />
-</colgroup>
-<thead>
-<tr>
-<th class="caption" colspan="4">Undergrad Students</th>
-</tr>
-</thead>
-<tbody>
-
+    
+    
+    
 <tr>
 <!-- Minjae Song -->
 <td>
@@ -200,8 +171,8 @@ If you want to change the style of the table, please look at the table tags in _
     </a>
     <br>
 </td>
-
-<!-- Jinwoo Kim -->
+    
+    <!-- Jinwoo Kim -->
 <td>
     <a href="/assets/people/jinwoo_kim.jpg" data-lightbox="Jinwoo Kim" >
       <img style="width: 75%" src="/assets/people/jinwoo_kim.jpg">
@@ -219,6 +190,23 @@ If you want to change the style of the table, please look at the table tags in _
     <br>
 </td>
 </tr>
+    
+</tbody>
+
+<!---------------- Undergrad --------------------->
+<table>
+<colgroup>
+<col width="15%" />
+<col width="35%" />
+<col width="15%" />
+<col width="35%" />
+</colgroup>
+<thead>
+<tr>
+<th class="caption" colspan="4">Undergrad Students</th>
+</tr>
+</thead>
+<tbody>
 
 <tr>
 <td> 
