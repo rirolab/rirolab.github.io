@@ -174,7 +174,7 @@ If you want to change the style of the table, please look at the table tags in _
     <br>
 </td>
 
-    <!-- Jinwoo Kim -->
+   
 <td>
     <a href="/assets/people/jinwoo_kim.jpg" data-lightbox="Jinwoo Kim" >
       <img style="width: 75%" src="/assets/people/jinwoo_kim.jpg">
