@@ -214,7 +214,7 @@ If you want to change the style of the table, please look at the table tags in _
       </a>
 </td>
 <td>
-    <b>김도현</b><br>
+    <b>Dohyun Kim</b><br>
     <br>    
     <br>
 </td>
@@ -225,7 +225,7 @@ If you want to change the style of the table, please look at the table tags in _
       </a>
 </td>
 <td>
-    <b>하정호</b><br>
+    <b>JeongHo Ha</b><br>
     <br>    
     <br>
 </td>
@@ -236,7 +236,7 @@ If you want to change the style of the table, please look at the table tags in _
       </a>
 </td>
 <td>
-    <b>황덕민</b><br>
+    <b>Deok-Min Hwang</b><br>
     <br>    
     <br>
 </td>
