@@ -182,13 +182,12 @@ If you want to change the style of the table, please look at the table tags in _
 </td>
 <td>
     <b>Jinwoo Kim</b><br>
-    From POSTECH<br>
-    <!--
+    School of Computing, 2022<br>
     <a href="">
        <i class="fa fa-envelope-o"></i>
-       <span class="username"></span>
+       <span class="username">kjwoo31@kaist.ac.kr</span>
     </a>
-    -->
+   
     <br>
 </td>
 </tr>
@@ -218,6 +217,10 @@ If you want to change the style of the table, please look at the table tags in _
 <td>
     <b>Dohyun Kim</b><br>
     School of Computing<br>
+     <a href="">
+       <i class="fa fa-envelope-o"></i>
+       <span class="username">dohyun141@kaist.ac.kr</span>
+    </a>
     <br>    
     <br>
 </td>
@@ -230,6 +233,10 @@ If you want to change the style of the table, please look at the table tags in _
 <td>
     <b>JeongHo Ha</b><br>
     School of Computing<br>
+     <a href="">
+       <i class="fa fa-envelope-o"></i>
+       <span class="username">hajeongho95@kaist.ac.kr </span>
+    </a>
     <br>    
     <br>
 </td>
@@ -243,6 +250,10 @@ If you want to change the style of the table, please look at the table tags in _
 <td>
     <b>Deok-Min Hwang</b><br>
     Mechanical Engineering <br>
+     <a href="">
+       <i class="fa fa-envelope-o"></i>
+       <span class="username">gsh04089@kaist.ac.kr </span>
+    </a>
     <br>    
     <br>
 </td>
