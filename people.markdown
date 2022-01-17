@@ -187,8 +187,7 @@ If you want to change the style of the table, please look at the table tags in _
        <i class="fa fa-envelope-o"></i>
        <span class="username">kjwoo31@kaist.ac.kr</span>
     </a>
-   
-    <br>
+ 
 </td>
 </tr>
     
