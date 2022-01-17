@@ -35,7 +35,6 @@ permalink: /equipment/
     <a href="/assets/equipment/shadow-lite-hand.jpg" data-lightbox="Shadow Lite Hand" >
       <img style="width: 300px" src="/assets/equipment/shadow-lite-hand.jpg">
     </a><br>
-    Coming Soon~!
 </td>
 
 </tr>
