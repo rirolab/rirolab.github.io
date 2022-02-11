@@ -16,6 +16,7 @@ permalink: /equipment/
 <th class="caption" style="text-align:center">Turtlebot3 <br> Mobile Manipulator</th>
 <th class="caption" style="text-align:center">"HAETAE" <br> Mobile Manipulator</th>
 <th class="caption" style="text-align:center">Shadow Lite Hand <br> Multifinger Robotic Hand</th>
+    <th class="caption" style="text-align:center">Sense Glove DK1 <br> Exoskeleton Glove</th>
 </tr>
 </thead>
 
@@ -32,9 +33,14 @@ permalink: /equipment/
     </a>
 </td>
 <td style="text-align:center">
-    <a href="/assets/equipment/shadow-lite-hand.jpg" data-lightbox="Shadow Lite Hand" >
-      <img style="width: 300px" src="/assets/equipment/shadow-lite-hand.jpg">
+    <a href="/assets/equipment/shadow.png" data-lightbox="Shadow Lite Hand" >
+      <img style="width: 300px" src="/assets/equipment/shadow.png">
     </a><br>
+</td>
+    <td>
+    <a href="/assets/equipment/glove.png" data-lightbox="Sense glove dk1" >
+      <img style="width: 300px" src="/assets/equipment/glove.png">
+    </a>
 </td>
 
 </tr>
