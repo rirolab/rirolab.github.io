@@ -39,6 +39,7 @@ If you want to change the style of the table, please look at the publication tag
 </td>
 </tr>
 </ol>
+</div>
 </tbody>
 </table>
 
