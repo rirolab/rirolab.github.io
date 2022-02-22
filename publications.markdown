@@ -19,7 +19,7 @@ If you want to change the style of the table, please look at the publication tag
 </colgroup>
 <!-- <thead> -->
 <!-- <tr> -->
-<!-- <div class="publication"> -->
+<div class="publication">
 <div class="pub-title"> Recent Publications </div>
 <!-- </tr> -->
 <!-- </thead> -->
