@@ -36,7 +36,6 @@ If you want to change the style of the table, please look at the publication tag
     IEEE Int'l. Conf. on Robotics and Automation (ICRA 2021)<br>  
    <a href="https://arxiv.org/abs/2103.14464" target="_blank">[arXiv]</a><a href="https://www.youtube.com/watch?v=5PrCu_hS31w" target="_blank">[Video]</a>
 </td>
-
 </tr>
 </tbody>
 </table>
