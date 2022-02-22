@@ -22,6 +22,7 @@ If you want to change the style of the table, please look at the publication tag
 <div class="publication">
 <div class="pub-title"> Recent Publications </div>
 <ol>
+<div class="pub-item"><li>
 <!-- </tr> -->
 <!-- </thead> -->
 <tbody>
@@ -39,7 +40,7 @@ If you want to change the style of the table, please look at the publication tag
 </td>
 </tr>
 </ol>
-</div>
+</li></div>
 </tbody>
 </table>
 
