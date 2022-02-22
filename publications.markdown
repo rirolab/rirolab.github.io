@@ -17,8 +17,8 @@ If you want to change the style of the table, please look at the publication tag
 <col width="25%" />
 <col width="75%" />
 </colgroup>
-<thead>
-<tr>
+<!-- <thead> -->
+<!-- <tr> -->
 <div class="publication">
 <div class="pub-title"> Recent Publications </div>
 <!-- </tr> -->
