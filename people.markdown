@@ -332,24 +332,13 @@ If you want to change the style of the table, please look at the table tags in _
 </colgroup>
 <thead>
 <tr>
-<th class="caption" colspan="4">Visiting Scholar</th>
+<th class="caption" colspan="4">Alumni</th>
 </tr>
 </thead>
 <tbody>
 
 <tr>
 
-<!-- Jaesung Jung -->
-<td>
-    <a href="/assets/people/noname.jpg" data-lightbox="No name" >
-      <img style="width: 75%" src="/assets/people/noname.jpg">
-      </a>
-</td>
-<td>
-    <b>Jaesung Jung</b><br>
-    From ROK Army
-    <br>
-</td>
 
 <!--  -->
 <td>
