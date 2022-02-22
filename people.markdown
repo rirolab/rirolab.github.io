@@ -285,13 +285,17 @@ If you want to change the style of the table, please look at the table tags in _
 
 <!-- No name -->
 <td>
-    <a href="/assets/people/noname.jpg" data-lightbox="No name" >
-      <img style="width: 75%" src="/assets/people/noname.jpg">
+    <a href="/assets/people/bonggyeong_park.png" data-lightbox=" Bonggyeong Park" >
+      <img style="width: 75%" src="/assets/people/bonggyeong_park.png">
       </a>
 </td>
 <td>
-    <b>Coming!</b><br>
-    Research Associate
+    <b>Bonggyeong Park</b><br>
+    Research Assistant<br>
+     <a href="mailto:iampbk7@gmail.com">
+       <i class="fa fa-envelope-o"></i>
+       <span class="username">iampbk7@gmail.com</span>
+    </a>
     <br>
 </td>
 
