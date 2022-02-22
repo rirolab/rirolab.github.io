@@ -24,18 +24,16 @@ If you want to change the style of the table, please look at the publication tag
 <tr>
 <td>
     <a href="/assets/reactive.png" data-lightbox="reactive" >
-      <img style="width: 75%" src="/assets/reactive.png">
+      <img style="width: 100%" src="/assets/reactive.png">
       </a>
 </td>
 <td>
     <b>Reactive Task and Motion Planning under Temporal Logic Specifications</b><br>
     Shen Li*, <b>Daehyung Park*</b>, Yoonchang Sung*, Julie Shah, Nicholas Roy<br>
     IEEE Int'l. Conf. on Robotics and Automation (ICRA 2021)<br>  
-    <br>
    <a href="https://arxiv.org/abs/2103.14464" target="_blank">[arXiv]</a><a href="https://www.youtube.com/watch?v=5PrCu_hS31w" target="_blank">[Video]</a>
 </td>
-<td></td>
-<td></td>
+
 </tr>
 </tbody>
 </table>
