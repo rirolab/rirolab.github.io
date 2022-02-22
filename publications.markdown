@@ -17,14 +17,14 @@ If you want to change the style of the table, please look at the publication tag
 </colgroup>
 <thead>
 <tr>
-<th class="caption" colspan="4">Publications</th>
+<th class="caption" colspan="2">Publications</th>
 </tr>
 </thead>
 <tbody>
 <tr>
 <td>
     <a href="/assets/reactive.png" data-lightbox="reactive" >
-      <img style="width: 100%" src="/assets/reactive.png">
+      <img style="width: 75%" src="/assets/reactive.png">
       </a>
 </td>
 <td>
