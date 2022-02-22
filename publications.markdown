@@ -7,10 +7,39 @@ permalink: /publications/
 If you want to change the style of the table, please look at the publication tag in _sass/_layout.scss.
 -->
 
+<!---------------- Publications --------------------->
+<table>
+<colgroup>
+<col width="15%" />
+<col width="35%" />
+<col width="15%" />
+<col width="35%" />
+</colgroup>
+<thead>
+<tr>
+<th class="caption" colspan="4">Publications</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>
+    <a href="/assets/people/daehyung_park.jpg" data-lightbox="Daehyung Park" >
+      <img style="width: 75%" src="/assets/people/daehyung_park.jpg">
+      </a>
+</td>
+<td>
+    <b>Reactive Task and Motion Planning under Temporal Logic Specifications</b><br>
+    Shen Li*, <b>Daehyung Park*</b>, Yoonchang Sung*, Julie Shah, Nicholas Roy<br>
+    IEEE Int'l. Conf. on Robotics and Automation (ICRA 2021)<br>  
+    <br>
+   <a href="https://arxiv.org/abs/2103.14464" target="_blank">[arXiv]</a><a href="https://www.youtube.com/watch?v=5PrCu_hS31w" target="_blank">[Video]</a>
+</td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
 
-<div class="pub-item"><li>
-Shen Li*, <b>Daehyung Park*</b>, Yoonchang Sung*, Julie Shah, Nicholas Roy. "Reactive Task and Motion Planning under Temporal Logic Specifications," IEEE Int'l. Conf. on Robotics and Automation (ICRA 2021) (*- <b>authors contributed equally</b>) <a href="https://arxiv.org/abs/2103.14464" target="_blank">[PDF]</a><a href="https://www.youtube.com/watch?v=5PrCu_hS31w" target="_blank">[Video]</a>
-</li></div>
 
 <!------------------- Submitted Articles --------------------->
 <div class="publication">
