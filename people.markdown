@@ -199,7 +199,7 @@ If you want to change the style of the table, please look at the table tags in _
 </td>
 <td>
     <b>Jaehwi Jang</b><br>
-    Kim Jaechul Graduate School of AI<br>
+    Kim Jaechul Graduate School of AI, 2022<br>
     <br>
     <a href="mailto:wognl0402@kaist.ac.kr">
        <i class="fa fa-envelope-o"></i>
