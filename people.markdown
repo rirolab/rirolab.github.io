@@ -316,24 +316,6 @@ If you want to change the style of the table, please look at the table tags in _
     <br>
 </td>
 
-<!-- Jaehwi Jang -->
-<td>
-    <a href="/assets/people/jaehwi_jang.jpg" data-lightbox="Jaehwi Jang" >
-      <img style="width: 75%" src="/assets/people/jaehwi_jang.jpg">
-    </a>
-</td>
-<td>
-    <b>Jaehwi Jang</b><br>
-    Research Assistant<br>
-    From KAIST <br>
-    <a href="mailto:wognl0402@kaist.ac.kr">
-       <i class="fa fa-envelope-o"></i>
-       <span class="username">wognl0402@kaist.ac.kr</span>
-    </a>
-    <br>
-</td>
-
-
 
 </tr>
 
