@@ -65,54 +65,24 @@ If you want to change the style of the table, please look at the publication tag
  </tr> 
  </tbody>  
  </table> 
-  
-  <table>
- <colgroup>
-  <col width="35%" /> 
-  <col width="65%" /> 
- </colgroup> 
- <thead> 
- <tr> 
- </tr> 
- </thead> 
- <tbody> 
- <tr> 
- <td> 
-    <a href="/assets/reactive.png" data-lightbox="reactive" > 
-     <img style="width: 50%" src="/assets/reactive.png"> 
-    </a>  
- </td> 
- <td> 
-    <b>An Intelligence Architecture for Grounded Language Communication with Field Robots</b><br> 
-    T. M. Howard, E. Stump, J. Fink, J. Arkin, R. Paul, <b>D. Park</b>, S. Roy, D. Barber, R. Bendell, K. Schmeckpeper,J. Tian, J. Oh, M. Wigness, L. Quang, B. Rothrock, J. Nash, M. R. Walter, F. Jentsch, N. Roy<br> 
-    Field Robotics, 2021 <br> 
-   <a href="https://arxiv.org/abs/2103.14464" target="_blank">[arXiv]</a><a href="https://www.youtube.com/watch?v=5PrCu_hS31w" target="_blank">[Video]</a> 
-</td> 
- </tr> 
- </tbody>  
- </table> 
+   
  </ol>
 
 
 <!------------------- Submitted Articles --------------------->
-<div class="publication">
+<! --<div class="publication"> 
 <div class="pub-title"> Submitted Articles </div>
 
 <ol>
 
   
-<!--<div class="pub-item"><li>
-Hyeongyeol Ryu, Minsung Yoon, <b>Daehyung Park</b>, Sung-eui Yoon. "Confidence-based Robot Navigation under Sensor Occlusion with Deep Reinforcement Learning," IEEE Int'l. Conf. on Robotics and Automation (ICRA), 2022. [Accepted]
-</li></div>-->
-  
 <div class="pub-item"><li>
-T. M. Howard, E. Stump, J. Fink, J. Arkin, R. Paul, <b>D. Park</b>, S. Roy, D. Barber, R. Bendell, K. Schmeckpeper,J. Tian, J. Oh, M. Wigness, L. Quang, B. Rothrock, J. Nash, M. R. Walter, F. Jentsch, N. Roy. "An Intelligence Architecture for Grounded Language Communication with Field Robots," 2020. [Accepted]
+Hyeongyeol Ryu, Minsung Yoon, <b>Daehyung Park</b>, Sung-eui Yoon. "Confidence-based Robot Navigation under Sensor Occlusion with Deep Reinforcement Learning," IEEE Int'l. Conf. on Robotics and Automation (ICRA), 2022. [Accepted]
 </li></div>
-
-  
+   
 </ol>
 
-</div>
+</div>-->
 
 
 <!------------------- Journal Articles --------------------->
@@ -121,7 +91,10 @@ T. M. Howard, E. Stump, J. Fink, J. Arkin, R. Paul, <b>D. Park</b>, S. Roy, D. B
 
 
 <ol>
-
+<div class="pub-item"><li>
+T. M. Howard, E. Stump, J. Fink, J. Arkin, R. Paul, <b>D. Park</b>, S. Roy, D. Barber, R. Bendell, K. Schmeckpeper,J. Tian, J. Oh, M. Wigness, L. Quang, B. Rothrock, J. Nash, M. R. Walter, F. Jentsch, N. Roy. "An Intelligence Architecture for Grounded Language Communication with Field Robots," 2020. [Accepted]
+</li></div>
+ 
 <div class="pub-item"><li>
 <b>Daehyung Park*</b>, Jacob Arkin*, Subhro Roy, Matthew R. Walter, Nicholas Roy, Thomas M. Howard, and Rohan Paul. "Multi-Modal Estimation and Communication of Latent Semantic Knowledge for Robust Execution of Robot Instructions", <i>The International Journal of Robotics Research </i>(IJRR), 2020. <a href="https://journals.sagepub.com/eprint/PSW4Z5AXF4AYTSXRN7AI/full" target="_blank">[PDF]</a> <a href="https://www.youtube.com/watch?v=BfCeYsTvaOw&amp;feature=youtu.be" target="_blank">[Video]</a>
 </li></div>
