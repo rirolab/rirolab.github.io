@@ -20,16 +20,16 @@ If you want to change the style of the table, please look at the publication tag
  <tbody> 
  <tr> 
  <td> 
-    <a href="/assets/reactive.png" data-lightbox="reactive" > 
-     <img style="width: 50%" src="/assets/reactive.png"> 
+    <a href="/assets/icra2.png" data-lightbox="reactive" > 
+     <img style="width: 50%" src="/assets/icra2.png"> 
     </a>  
  </td> 
  <td> 
-    <b>Reactive Task and Motion Planning under Temporal Logic Specifications</b><br> 
-    Shen Li*, <b>Daehyung Park*</b>, Yoonchang Sung*, Julie Shah, Nicholas Roy<br> 
-    IEEE Int'l. Conf. on Robotics and Automation (ICRA 2021)<br> 
-    (*- authors contributed equally)<br>
-   <a href="https://arxiv.org/abs/2103.14464" target="_blank">[arXiv]</a><a href="https://www.youtube.com/watch?v=5PrCu_hS31w" target="_blank">[Video]</a> 
+    <b>Confidence-based Robot Navigation under Sensor Occlusion with Deep Reinforcement Learning</b><br> 
+    Hyeongyeol Ryu, <b>Minsung Yoon</b>, Daehyung Park, Sung-eui Yoon<br> 
+    IEEE Int'l. Conf. on Robotics and Automation (ICRA 2022)<br> 
+    [Accepted]<br>
+   <a href="http://sglab.kaist.ac.kr/CBN-DRL/final_paper.pdf" target="_blank">[paper]</a><a href="http://sglab.kaist.ac.kr/CBN-DRL/" target="_blank">[Video]</a> 
 </td> 
  </tr> 
  </tbody>  
