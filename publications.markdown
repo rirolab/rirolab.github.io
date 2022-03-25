@@ -8,6 +8,7 @@ If you want to change the style of the table, please look at the publication tag
 -->
 
 <!---------------- Publications --------------------->
+<!------------------- Submitted Articles --------------------->
 <div class="publication">
 <div class="pub-title"> Submitted Articles </div>
 
@@ -67,22 +68,6 @@ If you want to change the style of the table, please look at the publication tag
  </table> 
    
  </ol>
-
-
-<!------------------- Submitted Articles --------------------->
-<! --<div class="publication"> -->
-<! --<div class="pub-title"> Submitted Articles </div>-->
-
-<! --<ol>-->
-
-  
-<! --<div class="pub-item"><li>
-Hyeongyeol Ryu, Minsung Yoon, <b>Daehyung Park</b>, Sung-eui Yoon. "Confidence-based Robot Navigation under Sensor Occlusion with Deep Reinforcement Learning," IEEE Int'l. Conf. on Robotics and Automation (ICRA), 2022. [Accepted]
-</li></div>-->
-   
-<! --</ol>-->
-
-<! --</div>-->
 
 
 <!------------------- Journal Articles --------------------->
