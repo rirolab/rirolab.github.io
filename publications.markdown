@@ -12,7 +12,7 @@ If you want to change the style of the table, please look at the publication tag
 <div class="pub-title"> Submitted Articles </div>
 
 <ol>
- <div class="pub-item"><li>
+ <div class=""><li>
  <table>
  <colgroup>
   <col width="35%" /> 
