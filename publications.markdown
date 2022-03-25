@@ -10,8 +10,8 @@ If you want to change the style of the table, please look at the publication tag
 <!---------------- Publications --------------------->
  <table>
  <colgroup>
-  <col width="25%" /> 
-  <col width="75%" /> 
+  <col width="20%" /> 
+  <col width="80%" /> 
  </colgroup> 
  <thead> 
  <tr> 
@@ -21,7 +21,7 @@ If you want to change the style of the table, please look at the publication tag
  <tr> 
  <td> 
     <a href="/assets/reactive.png" data-lightbox="reactive" > 
-     <img style="width: 30%" src="/assets/reactive.png"> 
+     <img style="width: 45%" src="/assets/reactive.png"> 
     </a>  
  </td> 
  <td> 
