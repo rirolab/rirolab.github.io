@@ -200,7 +200,6 @@ If you want to change the style of the table, please look at the table tags in _
 <td>
     <b>Jaehwi Jang</b><br>
     Graduate School of AI, 2022<br>
-    <br>
     <a href="mailto:wognl0402@kaist.ac.kr">
        <i class="fa fa-envelope-o"></i>
        <span class="username">wognl0402@kaist.ac.kr</span>
