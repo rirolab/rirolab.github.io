@@ -10,8 +10,8 @@ If you want to change the style of the table, please look at the publication tag
 <!---------------- Publications --------------------->
  <table>
  <colgroup>
-  <col width="40%" /> 
-  <col width="60%" /> 
+  <col width="35%" /> 
+  <col width="65%" /> 
  </colgroup> 
  <thead> 
  <tr> 
