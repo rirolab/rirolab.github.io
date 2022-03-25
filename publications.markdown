@@ -21,7 +21,7 @@ If you want to change the style of the table, please look at the publication tag
  <tr> 
  <td> 
     <a href="/assets/reactive.png" data-lightbox="reactive" > 
-     <img style="width: 50%" src="/assets/reactive.png"> 
+     <img style="width: 30%" src="/assets/reactive.png"> 
     </a>  
  </td> 
  <td> 
