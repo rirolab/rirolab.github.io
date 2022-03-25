@@ -99,9 +99,9 @@ Ariel Kapusta, Philip Grice, Henry Clever, Yash Chitalia, <b>Daehyung Park</b>, 
 
 <ol>
 
-<div class="pub-item"><li>
+<!--<div class="pub-item"><li>
 Shen Li*, <b>Daehyung Park*</b>, Yoonchang Sung*, Julie Shah, Nicholas Roy. "Reactive Task and Motion Planning under Temporal Logic Specifications," IEEE Int'l. Conf. on Robotics and Automation (ICRA 2021) (*- <b>authors contributed equally</b>) <a href="https://arxiv.org/abs/2103.14464" target="_blank">[PDF]</a><a href="https://www.youtube.com/watch?v=5PrCu_hS31w" target="_blank">[Video]</a>
-</li></div>
+</li></div>-->
 
 <div class="pub-item"><li>
 <b>Daehyung Park</b>, Michael Noseworthy, Rohan Paul, Subhro Roy, and Nicholas Roy. "Inferring Task Goals and Constraints using Bayesian Nonparametric Inverse Reinforcement Learning", <i>Conference on Robot Learning (CoRL2019) </i> <a href="https://drive.google.com/open?id=1bswpgVJDXp_9vh55_Gz1cAbylhhjQqhS" target="_blank">[PDF]</a> <a href="https://youtu.be/HgaqH4PWcTI" target="_blank">[Video]</a> <b>Oral presentation, 5% oral acceptance rate</b>
