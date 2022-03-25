@@ -12,7 +12,7 @@ If you want to change the style of the table, please look at the publication tag
 <div class="pub-title"> Submitted Articles </div>
 
 <ol>
- <div class=""><li>
+ 
  <table>
  <colgroup>
   <col width="35%" /> 
@@ -65,10 +65,37 @@ If you want to change the style of the table, please look at the publication tag
  </tr> 
  </tbody>  
  </table> 
+  
+  <table>
+ <colgroup>
+  <col width="35%" /> 
+  <col width="65%" /> 
+ </colgroup> 
+ <thead> 
+ <tr> 
+ </tr> 
+ </thead> 
+ <tbody> 
+ <tr> 
+ <td> 
+    <a href="/assets/reactive.png" data-lightbox="reactive" > 
+     <img style="width: 50%" src="/assets/reactive.png"> 
+    </a>  
+ </td> 
+ <td> 
+    <b>An Intelligence Architecture for Grounded Language Communication with Field Robots</b><br> 
+    T. M. Howard, E. Stump, J. Fink, J. Arkin, R. Paul, <b>D. Park</b>, S. Roy, D. Barber, R. Bendell, K. Schmeckpeper,J. Tian, J. Oh, M. Wigness, L. Quang, B. Rothrock, J. Nash, M. R. Walter, F. Jentsch, N. Roy<br> 
+    IEEE Int'l. Conf. on Robotics and Automation (ICRA 2021)<br> 
+    (*- authors contributed equally)<br>
+   <a href="https://arxiv.org/abs/2103.14464" target="_blank">[arXiv]</a><a href="https://www.youtube.com/watch?v=5PrCu_hS31w" target="_blank">[Video]</a> 
+</td> 
+ </tr> 
+ </tbody>  
+ </table> 
   </li></div>
  </ol>
 
-</div>
+
 <!------------------- Submitted Articles --------------------->
 <div class="publication">
 <div class="pub-title"> Submitted Articles </div>
