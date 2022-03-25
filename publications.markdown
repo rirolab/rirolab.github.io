@@ -67,9 +67,9 @@ If you want to change the style of the table, please look at the publication tag
 <ol>
 
   
-<div class="pub-item"><li>
+<!--<div class="pub-item"><li>
 Hyeongyeol Ryu, Minsung Yoon, <b>Daehyung Park</b>, Sung-eui Yoon. "Confidence-based Robot Navigation under Sensor Occlusion with Deep Reinforcement Learning," IEEE Int'l. Conf. on Robotics and Automation (ICRA), 2022. [Accepted]
-</li></div>
+</li></div>-->
   
 <div class="pub-item"><li>
 T. M. Howard, E. Stump, J. Fink, J. Arkin, R. Paul, <b>D. Park</b>, S. Roy, D. Barber, R. Bendell, K. Schmeckpeper,J. Tian, J. Oh, M. Wigness, L. Quang, B. Rothrock, J. Nash, M. R. Walter, F. Jentsch, N. Roy. "An Intelligence Architecture for Grounded Language Communication with Field Robots," 2020. [Accepted]
