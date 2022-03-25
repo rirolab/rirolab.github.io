@@ -8,6 +8,11 @@ If you want to change the style of the table, please look at the publication tag
 -->
 
 <!---------------- Publications --------------------->
+<div class="publication">
+<div class="pub-title"> Submitted Articles </div>
+
+<ol>
+ <div class="pub-item"><li>
  <table>
  <colgroup>
   <col width="35%" /> 
@@ -60,6 +65,10 @@ If you want to change the style of the table, please look at the publication tag
  </tr> 
  </tbody>  
  </table> 
+  </li></div>
+ </ol>
+
+</div>
 <!------------------- Submitted Articles --------------------->
 <div class="publication">
 <div class="pub-title"> Submitted Articles </div>
