@@ -26,7 +26,7 @@ If you want to change the style of the table, please look at the publication tag
  </td> 
  <td> 
     <b>Confidence-based Robot Navigation under Sensor Occlusion with Deep Reinforcement Learning</b><br> 
-    Hyeongyeol Ryu, <b>Minsung Yoon</b>, Daehyung Park, Sung-eui Yoon<br> 
+    Hyeongyeol Ryu, Minsung Yoon,<b>Daehyung Park</b>, Sung-eui Yoon<br> 
     IEEE Int'l. Conf. on Robotics and Automation (ICRA 2022)<br> 
     [Accepted] <a href="http://sglab.kaist.ac.kr/CBN-DRL/final_paper.pdf" target="_blank">[paper]</a><a href="http://sglab.kaist.ac.kr/CBN-DRL/" target="_blank">[Video]</a> 
 </td> 
