@@ -85,14 +85,12 @@ If you want to change the style of the table, please look at the publication tag
  <td> 
     <b>An Intelligence Architecture for Grounded Language Communication with Field Robots</b><br> 
     T. M. Howard, E. Stump, J. Fink, J. Arkin, R. Paul, <b>D. Park</b>, S. Roy, D. Barber, R. Bendell, K. Schmeckpeper,J. Tian, J. Oh, M. Wigness, L. Quang, B. Rothrock, J. Nash, M. R. Walter, F. Jentsch, N. Roy<br> 
-    IEEE Int'l. Conf. on Robotics and Automation (ICRA 2021)<br> 
-    (*- authors contributed equally)<br>
+    Field Robotics, 2021 <br> 
    <a href="https://arxiv.org/abs/2103.14464" target="_blank">[arXiv]</a><a href="https://www.youtube.com/watch?v=5PrCu_hS31w" target="_blank">[Video]</a> 
 </td> 
  </tr> 
  </tbody>  
  </table> 
-  </li></div>
  </ol>
 
 
