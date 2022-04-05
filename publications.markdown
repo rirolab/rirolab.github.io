@@ -77,8 +77,9 @@ If you want to change the style of the table, please look at the publication tag
 
 <ol>
 <div class="pub-item"><li>
-T. M. Howard, E. Stump, J. Fink, J. Arkin, R. Paul, <b>D. Park</b>, S. Roy, D. Barber, R. Bendell, K. Schmeckpeper,J. Tian, J. Oh, M. Wigness, L. Quang, B. Rothrock, J. Nash, M. R. Walter, F. Jentsch, N. Roy. "An Intelligence Architecture for Grounded Language Communication with Field Robots," 2020. [Accepted]
-</li></div>
+T. M. Howard, E. Stump, J. Fink, J. Arkin, R. Paul, <b>D. Park</b>, S. Roy, D. Barber, R. Bendell, K. Schmeckpeper,J. Tian, J. Oh, M. Wigness, L. Quang, B. Rothrock, J. Nash, M. R. Walter, F. Jentsch, N. Roy. "An Intelligence Architecture for Grounded Language Communication with Field Robots," 2020. 
+<a href=" http://fieldrobotics.net/Field_Robotics/Volume_2.html" target="_blank">[PDF]</a> 
+ </li></div>
  
 <div class="pub-item"><li>
 <b>Daehyung Park*</b>, Jacob Arkin*, Subhro Roy, Matthew R. Walter, Nicholas Roy, Thomas M. Howard, and Rohan Paul. "Multi-Modal Estimation and Communication of Latent Semantic Knowledge for Robust Execution of Robot Instructions", <i>The International Journal of Robotics Research </i>(IJRR), 2020. <a href="https://journals.sagepub.com/eprint/PSW4Z5AXF4AYTSXRN7AI/full" target="_blank">[PDF]</a> <a href="https://www.youtube.com/watch?v=BfCeYsTvaOw&amp;feature=youtu.be" target="_blank">[Video]</a>
