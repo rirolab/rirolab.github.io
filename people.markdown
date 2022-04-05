@@ -241,8 +241,8 @@ If you want to change the style of the table, please look at the table tags in _
 </td>
 <!--하정호  -->
 <td>
-    <a href="/assets/people/noname.jpg" data-lightbox="No name" >
-      <img style="width: 75%" src="/assets/people/noname.jpg">
+    <a href="/assets/people/jeongho_ha.jpg" data-lightbox="No name" >
+      <img style="width: 75%" src="/assets/people/jeongho_ha.jpg">
       </a>
 </td>
 <td>
