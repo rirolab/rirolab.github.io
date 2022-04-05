@@ -119,7 +119,11 @@ navigation:
         - title: "Equipment"
           url: /equipment      
   - title: "Publications"
-    url: /publications
+    sublinks:
+        - title: "International"
+          url: /publications
+        - title: "Domestic"
+          url: /domestic
   - title: "Positions"
     sublinks:
         - title: "Postdocs"
