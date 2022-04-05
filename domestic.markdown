@@ -32,10 +32,5 @@ Hyeongyeol Ryu, Minsung Yoon, Daehyung Park, Sung-Eui Yoon, "Robust Robot Naviga
 </div>
 
 
-<!------------------- Workshop papers, Abstracts, and Posters --------------------->
 
-<div class="publication">
-<div class="pub-title"> Workshop papers, Abstracts, and Posters </div>
-
-<ol>
 
