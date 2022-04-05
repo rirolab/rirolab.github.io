@@ -77,7 +77,7 @@ If you want to change the style of the table, please look at the publication tag
 
 <ol>
 <div class="pub-item"><li>
-T. M. Howard, E. Stump, J. Fink, J. Arkin, R. Paul, <b>D. Park</b>, S. Roy, D. Barber, R. Bendell, K. Schmeckpeper,J. Tian, J. Oh, M. Wigness, L. Quang, B. Rothrock, J. Nash, M. R. Walter, F. Jentsch, N. Roy. "An Intelligence Architecture for Grounded Language Communication with Field Robots," 2020. 
+Howard, T., Stump, E., Fink, J., Arkin, J., Paul, R., Park, D., Roy, S., Barber, D., Bendell, R., Schmeckpeper, K., Tian, J., Oh, J., Wigness, M., Quang, L., Rothrock, B., Nash, J., Walter, M., Jentsch, F., & Roy, N. "An Intelligence Architecture for Grounded Language Communication with Field Robots", 2022. 
 <a href=" http://fieldrobotics.net/Field_Robotics/Volume_2.html" target="_blank">[PDF]</a> 
  </li></div>
  
