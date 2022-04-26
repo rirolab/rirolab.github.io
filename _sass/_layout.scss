@@ -3,7 +3,7 @@
 /*
 *	Variables
 */
-$b3: 480px;  //480
+$b3: 480px;  
 $mobile: $b3;
 $b2: 768px;
 $tablet: $b2;
@@ -246,7 +246,7 @@ pre code.hljs {
     float: right;
     margin: 0;
     font-size: 1.5em;
-    padding-top: 0.5em;
+    padding-top: 0.3em; //0.5
     @include media ($tablet) {
       display: none;
     }
