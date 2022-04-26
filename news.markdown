@@ -5,7 +5,6 @@ permalink: /news/
 ---
 
  <div class=wrapper>
-      <h4>News</h4>
       <ul class="news-list">
         <li>Professor Daehyung Park has been selected to receive a Google Research Scholar Award!</li>
         <li>Excellence Award for BECS ITRC Student-led Creative Autonomous Project</li>
