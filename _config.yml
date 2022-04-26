@@ -109,7 +109,11 @@ protocols:
 maps:
   google:
     api: AIzaSyALsRLvG8Nl8LfT17VWOH4UYWnFWeyK-e4
-
+- title: South Korea
+  url: https://www.google.co.kr/
+  location:
+    latitude: 48.8587741
+    longitude: 2.2074741
 
 # Navigation
 navigation:
@@ -137,6 +141,10 @@ navigation:
           url: /undergrads      
   - title: "Contact"
     url: /contact
+    
+   {% google_map 
+   src="_data/europe"
+   marker_icon="https://maps.google.com/mapfiles/kml/shapes/info-i_maps.png" %}
   - title: "News"
     url: /news
 #    sublinks:
