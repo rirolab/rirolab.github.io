@@ -2,13 +2,7 @@
 layout: page
 title: Contact
 permalink: /contact/
-- title: South Korea
-  url: https://www.google.co.kr/
-  location:
-    latitude: 48.8587741
-    longitude: 2.2074741
-{% google_map 
-   marker_icon="https://maps.google.com/mapfiles/kml/shapes/info-i_maps.png" %}
+
 ---
 
 The Robust Intelligence & Robotics (RIRO) Laboratory is part of the School of Computing at Korea Advanced Institute of Science and Technology (KAIST). Dr. Daehyung Park directs the lab, which he founded in September of 2020.   
