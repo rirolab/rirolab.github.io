@@ -1,3 +1,7 @@
+layout: page
+title: News
+permalink: /news/
+
  <div class=wrapper>
       <h4>Note: We are looking for new Master/Ph.D students~! Check positions! </h4>
       <h4>News</h4>
