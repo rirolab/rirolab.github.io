@@ -106,7 +106,9 @@ protocols:
     os_repo: "https://github.com/rirolab"
     os_rcs_type: "git"
     os_src: "git@github.com:rirolab/rirolab.github.io"
-
+maps:
+  google:
+    api: AIzaSyALsRLvG8Nl8LfT17VWOH4UYWnFWeyK-e4
 
 
 # Navigation
