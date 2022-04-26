@@ -2,9 +2,7 @@
 layout: page
 title: Contact
 permalink: /contact/
-location:
-  latitude: 40.7396183
-  longitude: -74.00017439999999
+
 
 ---
 
