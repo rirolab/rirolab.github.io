@@ -3,7 +3,6 @@ layout: page
 title: Contact
 permalink: /contact/
 location:
-  address: 291 Daehak-ro, Yuseong, Daejeon, South Korea
   latitude: 40.7396183
   longitude: -74.00017439999999
 
