@@ -2,6 +2,11 @@
 layout: page
 title: Contact
 permalink: /contact/
+- title: South Korea
+  url: https://www.google.co.kr/
+  location:
+    latitude: 48.8587741
+    longitude: 2.2074741
 {% google_map 
    marker_icon="https://maps.google.com/mapfiles/kml/shapes/info-i_maps.png" %}
 ---
