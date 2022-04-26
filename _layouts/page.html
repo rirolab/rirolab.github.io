@@ -13,6 +13,13 @@ layout: default
   <article class="post-content">
     {{ content }}
   </article>
-
+{% if page.location %}
+<div class="mapping">
+  <div class="map-canvas" id="map-event"></div>
+  <div class="map-point" address="{{ page.location.address }}" latitude="{{ page.location.latitude }}" longitude="{{ page.location.longitude }}">
+    <div><b>{{ page.title }}</b></div>
+    <div>{{ page.location.address }}</div>
+  </div>
+</div>{% endif %}
 </div>
 </div>
