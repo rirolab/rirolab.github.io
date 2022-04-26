@@ -134,6 +134,8 @@ navigation:
           url: /undergrads      
   - title: "Contact"
     url: /contact
+  - title: "News"
+    url: /news
 #    sublinks:
 #        - title: Prospective Students
 #          url: /research
