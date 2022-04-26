@@ -143,7 +143,6 @@ navigation:
     url: /contact
     
    {% google_map 
-   src="_data/europe"
    marker_icon="https://maps.google.com/mapfiles/kml/shapes/info-i_maps.png" %}
   - title: "News"
     url: /news
