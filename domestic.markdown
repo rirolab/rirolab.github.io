@@ -30,8 +30,8 @@ If you want to change the style of the table, please look at the publication tag
 <tbody>
 <tr>
 <td>
-    <a href="/assets/people/noname.jpg" data-lightbox="" >
-      <img style="width: 75%" src="/assets/people/noname.jpg">
+    <a href="/assets/research/kroc_jinwoo.png" data-lightbox="" >
+      <img style="width: 45%" src="/assets/research/kroc_jinwoo.png">
       </a>
 </td>
 <td>
