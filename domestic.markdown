@@ -17,6 +17,31 @@ If you want to change the style of the table, please look at the publication tag
 <div class="pub-title"> Domestic Conference Articles </div>
 
 <ol>
+  <table>
+<colgroup>
+<col width="55%" />
+<col width="45%" />
+</colgroup>
+<thead>
+<tr>
+<th class="caption" colspan="2"></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>
+    <a href="/assets/research/kroc_jaehwi.png" data-lightbox="" >
+      <img style="width: 75%" src="/assets/research/kroc_jaehwi.png">
+      </a>
+</td>
+<td>
+    <b>Transferable-Reward Decomposition for Inverse Reinforcement Learning</b><br>
+    Jaehwi Jang and Daehyung Park<br>
+    Korea Robotics Society Annual Conference (KRoC), 2022<br>
+    <a href="https://docs.google.com/document/d/180X1eGpMd9G-mStR0WC2GsC7DkBXBHnt/edit?usp=sharing&ouid=101070998616983496812&rtpof=true&sd=true" target="_blank">[PDF]</a><br>
+</td>
+</tr>
+</tbody>
  <table>
 <colgroup>
 <col width="55%" />
@@ -41,12 +66,8 @@ If you want to change the style of the table, please look at the publication tag
     <a href="https://drive.google.com/file/d/1YVKc6KaI-ly0hvCYN9RjdaWNoQLbV1WN/view?usp=sharing" target="_blank">[PDF]</a><br>
 </td>
 </tr>
-
 </tbody>
   
-<div class="pub-item"><li>
-Minsung Yoon, Daehyung Park, Sung-Eui Yoon, "Bias tree expansion using reinforcement learning for efficient motion planning," Korea Robotics Society Annual Conference (KRoC), 2021 <a href="https://www.google.com/url?q=https%3A%2F%2Fsgvr.kaist.ac.kr%2Fwp-content%2Fuploads%2F2021%2F06%2FRLRRT_MinsungYoon.pdf&sa=D&sntz=1&usg=AFQjCNHsEW4HewmzI_r8wXO1Bs1-5xbMrg" target="_blank">[PDF]</a>
-</li></div>
   
 <div class="pub-item"><li>
 Minsung Yoon, Daehyung Park, Sung-Eui Yoon, "Bias tree expansion using reinforcement learning for efficient motion planning," Korea Robotics Society Annual Conference (KRoC), 2021 <a href="https://www.google.com/url?q=https%3A%2F%2Fsgvr.kaist.ac.kr%2Fwp-content%2Fuploads%2F2021%2F06%2FRLRRT_MinsungYoon.pdf&sa=D&sntz=1&usg=AFQjCNHsEW4HewmzI_r8wXO1Bs1-5xbMrg" target="_blank">[PDF]</a>
