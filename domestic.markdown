@@ -31,7 +31,7 @@ If you want to change the style of the table, please look at the publication tag
 <tr>
 <td>
     <a href="/assets/research/kroc_jinwoo.png" data-lightbox="" >
-      <img style="width: 45%" src="/assets/research/kroc_jinwoo.png">
+      <img style="width: 75%" src="/assets/research/kroc_jinwoo.png">
       </a>
 </td>
 <td>
