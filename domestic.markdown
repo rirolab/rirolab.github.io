@@ -14,8 +14,8 @@ If you want to change the style of the table, please look at the publication tag
 <div class="pub-title"> Domestic Conference Articles </div>
  <table>
 <colgroup>
-<col width="45%" />
-<col width="55%" />
+<col width="35%" />
+<col width="65%" />
 </colgroup>
 <thead>
 <tr>
@@ -40,8 +40,8 @@ If you want to change the style of the table, please look at the publication tag
 
   <table>
 <colgroup>
-<col width="45%" />
-<col width="55%" />
+<col width="35%" />
+<col width="65%" />
 </colgroup>
 <thead>
 <tr>
@@ -65,8 +65,8 @@ If you want to change the style of the table, please look at the publication tag
 </tbody>
  <table>
 <colgroup>
-<col width="45%" />
-<col width="55%" />
+<col width="35%" />
+<col width="65%" />
 </colgroup>
 <thead>
 <tr>
