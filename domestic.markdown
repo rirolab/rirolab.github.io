@@ -16,8 +16,8 @@ If you want to change the style of the table, please look at the publication tag
 
   <table>
 <colgroup>
-<col width="65%" />
-<col width="35%" />
+<col width="55%" />
+<col width="45%" />
 </colgroup>
 <thead>
 <tr>
@@ -28,7 +28,7 @@ If you want to change the style of the table, please look at the publication tag
 <tr>
 <td>
     <a href="/assets/research/kroc_jaehwi.png" data-lightbox="" >
-      <img style="width: 65%" src="/assets/research/kroc_jaehwi.png">
+      <img style="width: 75%" src="/assets/research/kroc_jaehwi.png">
       </a>
 </td>
 <td>
@@ -41,8 +41,8 @@ If you want to change the style of the table, please look at the publication tag
 </tbody>
  <table>
 <colgroup>
-<col width="65%" />
-<col width="35%" />
+<col width="55%" />
+<col width="45%" />
 </colgroup>
 <thead>
 <tr>
@@ -53,7 +53,7 @@ If you want to change the style of the table, please look at the publication tag
 <tr>
 <td>
     <a href="/assets/research/kroc_jinwoo.png" data-lightbox="" >
-      <img style="width: 65%" src="/assets/research/kroc_jinwoo.png">
+      <img style="width: 75%" src="/assets/research/kroc_jinwoo.png">
       </a>
 </td>
 <td>
