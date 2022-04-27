@@ -19,14 +19,12 @@ If you want to change the style of the table, please look at the publication tag
 <ol>
  <table>
 <colgroup>
-<col width="15%" />
-<col width="35%" />
-<col width="15%" />
-<col width="35%" />
+<col width="55%" />
+<col width="45%" />
 </colgroup>
 <thead>
 <tr>
-<th class="caption" colspan="4"></th>
+<th class="caption" colspan="2"></th>
 </tr>
 </thead>
 <tbody>
