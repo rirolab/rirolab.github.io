@@ -28,7 +28,7 @@ If you want to change the style of the table, please look at the publication tag
 <tr>
 <td>
     <a href="/assets/research/kroc_jaehwi.png" data-lightbox="" >
-      <img style="width: 75%" src="/assets/research/kroc_jaehwi.png">
+      <img style="width: 65%" src="/assets/research/kroc_jaehwi.png">
       </a>
 </td>
 <td>
@@ -39,7 +39,31 @@ If you want to change the style of the table, please look at the publication tag
 </td>
 </tr>
 </tbody>
- 
+ <table>
+<colgroup>
+<col width="65%" />
+<col width="35%" />
+</colgroup>
+<thead>
+<tr>
+<th class="caption" colspan="2"></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>
+    <a href="/assets/research/kroc_jinwoo.png" data-lightbox="" >
+      <img style="width: 65%" src="/assets/research/kroc_jinwoo.png">
+      </a>
+</td>
+<td>
+    <b>A Framework for Natural Language-guided Semantic Mapping and Mobile Navigation</b><br>
+    Jinwoo Kim, Dohyun Kim, and Daehyung Park<br>
+    Korea Robotics Society Annual Conference (KRoC), 2022<br>
+    <a href="https://drive.google.com/file/d/1YVKc6KaI-ly0hvCYN9RjdaWNoQLbV1WN/view?usp=sharing" target="_blank">[PDF]</a><br>
+</td>
+</tr>
+</tbody>
   
 <ol>  
 <div class="pub-item"><li>
