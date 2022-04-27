@@ -14,31 +14,6 @@ If you want to change the style of the table, please look at the publication tag
 <div class="pub-title"> Domestic Conference Articles </div>
 
 
-  <table>
-<colgroup>
-<col width="65%" />
-<col width="35%" />
-</colgroup>
-<thead>
-<tr>
-<th class="caption" colspan="2"></th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>
-    <a href="/assets/research/kroc_jaehwi.png" data-lightbox="" >
-      <img style="width: 75%" src="/assets/research/kroc_jaehwi.png">
-      </a>
-</td>
-<td>
-    <b>Transferable-Reward Decomposition for Inverse Reinforcement Learning</b><br>
-    Jaehwi Jang and Daehyung Park<br>
-    Korea Robotics Society Annual Conference (KRoC), 2022<br>
-    <a href="https://docs.google.com/document/d/180X1eGpMd9G-mStR0WC2GsC7DkBXBHnt/edit?usp=sharing&ouid=101070998616983496812&rtpof=true&sd=true" target="_blank">[PDF]</a><br>
-</td>
-</tr>
-</tbody>
  <table>
 <colgroup>
 <col width="65%" />
