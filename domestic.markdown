@@ -14,8 +14,8 @@ If you want to change the style of the table, please look at the publication tag
 <div class="pub-title"> Domestic Conference Articles </div>
  <table>
 <colgroup>
-<col width="55%" />
 <col width="45%" />
+<col width="55%" />
 </colgroup>
 <thead>
 <tr>
@@ -40,8 +40,8 @@ If you want to change the style of the table, please look at the publication tag
 
   <table>
 <colgroup>
-<col width="55%" />
 <col width="45%" />
+<col width="55%" />
 </colgroup>
 <thead>
 <tr>
@@ -65,8 +65,8 @@ If you want to change the style of the table, please look at the publication tag
 </tbody>
  <table>
 <colgroup>
-<col width="55%" />
 <col width="45%" />
+<col width="55%" />
 </colgroup>
 <thead>
 <tr>
@@ -88,6 +88,12 @@ If you want to change the style of the table, please look at the publication tag
 </td>
 </tr>
 </tbody>
+
+  
+  
+  
+  
+  
 <div class="pub-item"><li>
 Minsung Yoon, Daehyung Park, Sung-Eui Yoon, "Bias tree expansion using reinforcement learning for efficient motion planning," Korea Robotics Society Annual Conference (KRoC), 2021 <a href="https://www.google.com/url?q=https%3A%2F%2Fsgvr.kaist.ac.kr%2Fwp-content%2Fuploads%2F2021%2F06%2FRLRRT_MinsungYoon.pdf&sa=D&sntz=1&usg=AFQjCNHsEW4HewmzI_r8wXO1Bs1-5xbMrg" target="_blank">[PDF]</a>
 </li></div>
