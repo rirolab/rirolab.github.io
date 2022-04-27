@@ -26,7 +26,7 @@ If you want to change the style of the table, please look at the publication tag
 </colgroup>
 <thead>
 <tr>
-<th class="caption" colspan="4">Ph.D. Students</th>
+<th class="caption" colspan="4"></th>
 </tr>
 </thead>
 <tbody>
