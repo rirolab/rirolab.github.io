@@ -12,7 +12,31 @@ If you want to change the style of the table, please look at the publication tag
 <!------------------- Domestic Conference Articles --------------------->
 <div class="publication">
 <div class="pub-title"> Domestic Conference Articles </div>
-
+ <table>
+<colgroup>
+<col width="55%" />
+<col width="45%" />
+</colgroup>
+<thead>
+<tr>
+<th class="caption" colspan="2"></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>
+    <a href="/assets/research/kroc.png" data-lightbox="" >
+      <img style="width: 75%" src="/assets/research/kroc.png">
+      </a>
+</td>
+<td>
+    <b>Reactive Task Planning using Scene Graph for Robust Robotic Manipulation</b><br>
+    Ulzhalgas Rakhman, Jaehoon Yoo, Yeseung Kim, Deokmin Hwang, Seunghoon Hong, and Daehyung Park<br>
+    Korea Robotics Society Annual Conference (KRoC), 2022<br>
+    <a href="https://drive.google.com/file/d/1rB2iYe6hiF32Jk0QsSdUfEvtjFBLismg/view?usp=sharing" target="_blank">[PDF]</a><br>
+</td>
+</tr>
+</tbody>
 
   <table>
 <colgroup>
