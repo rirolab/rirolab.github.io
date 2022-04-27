@@ -23,8 +23,8 @@ Hyeongyeol Ryu, Minsung Yoon, Daehyung Park, Sung-Eui Yoon, "Robust Robot Naviga
 </li></div>
  <table>
 <colgroup>
-<col width="30%" />
-<col width="70%" />
+<col width="25%" />
+<col width="75%" />
 </colgroup>
 <thead>
 <tr>
@@ -49,8 +49,8 @@ Hyeongyeol Ryu, Minsung Yoon, Daehyung Park, Sung-Eui Yoon, "Robust Robot Naviga
 
   <table>
 <colgroup>
-<col width="30%" />
-<col width="70%" />
+<col width="25%" />
+<col width="75%" />
 </colgroup>
 <thead>
 <tr>
@@ -74,8 +74,8 @@ Hyeongyeol Ryu, Minsung Yoon, Daehyung Park, Sung-Eui Yoon, "Robust Robot Naviga
 </tbody>
  <table>
 <colgroup>
-<col width="30%" />
-<col width="70%" />
+<col width="25%" />
+<col width="75%" />
 </colgroup>
 <thead>
 <tr>
