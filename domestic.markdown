@@ -17,8 +17,8 @@ If you want to change the style of the table, please look at the publication tag
 
  <table>
 <colgroup>
-<col width="25%" />
-<col width="75%" />
+<col width="20%" />
+<col width="80%" />
 </colgroup>
 <thead>
 <tr>
@@ -43,8 +43,8 @@ If you want to change the style of the table, please look at the publication tag
 
   <table>
 <colgroup>
-<col width="25%" />
-<col width="75%" />
+<col width="20%" />
+<col width="80%" />
 </colgroup>
 <thead>
 <tr>
@@ -68,8 +68,8 @@ If you want to change the style of the table, please look at the publication tag
 </tbody>
  <table>
 <colgroup>
-<col width="25%" />
-<col width="75%" />
+<col width="20%" />
+<col width="80%" />
 </colgroup>
 <thead>
 <tr>
@@ -79,14 +79,15 @@ If you want to change the style of the table, please look at the publication tag
 <tbody>
 <tr>
 <td>
-    <a href="/assets/research/kroc_jinwoo.png" data-lightbox="" >
-      <img style="width: 75%" src="/assets/research/kroc_jinwoo.png">
+    <a href="/assets/research/experiment_image.png" data-lightbox="" >
+      <img style="width: 75%" src="/assets/research/experiment_image.png">
       </a>
 </td>
 <td>
     <b>A Framework for Natural Language-guided Semantic Mapping and Mobile Navigation</b><br>
     Jinwoo Kim, Dohyun Kim, and Daehyung Park<br>
     Korea Robotics Society Annual Conference (KRoC), 2022<br>
+    A novel method for natural language-driven location labeling and mobile navigation. Our approach automatically labels the location description on a    metric map via natural language grounding. By associating the semantic map with a world model, our method enables the robot to understand natural language instruction for indoor delivery navigation.<br>
     <a href="https://drive.google.com/file/d/1YVKc6KaI-ly0hvCYN9RjdaWNoQLbV1WN/view?usp=sharing" target="_blank">[PDF]</a><br>
 </td>
 </tr>
