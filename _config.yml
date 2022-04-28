@@ -113,6 +113,8 @@ maps:
 
 # Navigation
 navigation:
+  - title: "News"
+    url: /news
   - title: "People"
     url: /people
   - title: "Research"
@@ -139,8 +141,7 @@ navigation:
     url: /contact
     
 
-  - title: "News"
-    url: /news
+
 #    sublinks:
 #        - title: Prospective Students
 #          url: /research
