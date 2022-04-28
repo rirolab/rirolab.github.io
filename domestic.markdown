@@ -41,7 +41,7 @@ If you want to change the style of the table, please look at the publication tag
 </tr>
 </tbody>
 
-  <table>
+
 <colgroup>
 <col width="20%" />
 <col width="80%" />
@@ -66,7 +66,7 @@ If you want to change the style of the table, please look at the publication tag
 </td>
 </tr>
 </tbody>
- <table>
+
 <colgroup>
 <col width="20%" />
 <col width="80%" />
