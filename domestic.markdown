@@ -17,8 +17,8 @@ If you want to change the style of the table, please look at the publication tag
 
  <table>
 <colgroup>
-<col width="20%" />
-<col width="80%" />
+<col width="25%" />
+<col width="75%" />
 </colgroup>
 <thead>
 <tr>
@@ -43,8 +43,8 @@ If you want to change the style of the table, please look at the publication tag
 <table>
 
 <colgroup>
-<col width="20%" />
-<col width="80%" />
+<col width="25%" />
+<col width="75%" />
 </colgroup>
 <thead>
 <tr>
@@ -68,8 +68,8 @@ If you want to change the style of the table, please look at the publication tag
 </tbody>
 <table>
 <colgroup>
-<col width="20%" />
-<col width="80%" />
+<col width="25%" />
+<col width="75%" />
 </colgroup>
 <thead>
 <tr>
