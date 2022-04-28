@@ -29,7 +29,7 @@ If you want to change the style of the table, please look at the publication tag
 <tr>
 <td>
     <a href="/assets/research/kroc.png" data-lightbox="" >
-      <img style="width: 75%" src="/assets/research/kroc.png">
+      <img style="width: 85%" src="/assets/research/kroc.png">
       </a>
 </td>
 <td>
@@ -55,7 +55,7 @@ If you want to change the style of the table, please look at the publication tag
 <tr>
 <td>
     <a href="/assets/research/kroc_jaehwi.png" data-lightbox="" >
-      <img style="width: 75%" src="/assets/research/kroc_jaehwi.png">
+      <img style="width: 85%" src="/assets/research/kroc_jaehwi.png">
       </a>
 </td>
 <td>
@@ -80,7 +80,7 @@ If you want to change the style of the table, please look at the publication tag
 <tr>
 <td>
     <a href="/assets/research/experiment_image.png" data-lightbox="" >
-      <img style="width: 75%" src="/assets/research/experiment_image.png">
+      <img style="width: 85%" src="/assets/research/experiment_image.png">
       </a>
 </td>
 <td>
