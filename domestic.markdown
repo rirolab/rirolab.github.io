@@ -54,14 +54,15 @@ If you want to change the style of the table, please look at the publication tag
 <tbody>
 <tr>
 <td>
-    <a href="/assets/research/kroc_jaehwi.png" data-lightbox="" >
-      <img style="width: 85%" src="/assets/research/kroc_jaehwi.png">
+    <a href="/assets/research/kroc_jjh.gif" data-lightbox="" >
+      <img style="width: 85%" src="/assets/research/kroc_jjh.gif">
       </a>
 </td>
 <td>
     <b>Transferable-Reward Decomposition for Inverse Reinforcement Learning</b><br>
     Jaehwi Jang and Daehyung Park<br>
     Korea Robotics Society Annual Conference (KRoC), 2022<br>
+    A transferable reward-decomposition method for inverse reinforcement learning (IRL) that returns a unique pair of primary goal and its residual rewards, separately. Our method lowers the computational complexity of reward decomposition by reusing the exploration results of IRL.<br>
     <a href="https://docs.google.com/document/d/180X1eGpMd9G-mStR0WC2GsC7DkBXBHnt/edit?usp=sharing&ouid=101070998616983496812&rtpof=true&sd=true" target="_blank">[PDF]</a><br>
 </td>
 </tr>
