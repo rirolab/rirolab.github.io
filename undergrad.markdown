@@ -4,14 +4,14 @@ title: Indivial study, URP, Internship Positions
 permalink: /undergrads/
 ---
 
-We are looking for highly motivated undergrad researchers, particularly for this winter 2021.
+# We are looking for highly motivated undergrad interns for this summer 2022.
 
 ## Potential topics for Undergrads
 - Natural-language grounding for mobile manipulation
 - Quadruped robot integration for SLAM
-- Deformable object manipulation via RL
-- Inverse constraint learning
-- Visually-guided tactile manipulation
+- Deformable object manipulation via reinforcement learning (RL)
+- Inverse constraint learning (inverse reinforcement learning)
+- Visually-guided tactile manipulation 
 
 After building the above systems, you will be asked to control it by applying reinforcement learning, end-to-end learning, probabilistic movement primitives, etc. 
 
@@ -26,14 +26,8 @@ After building the above systems, you will be asked to control it by applying re
 - Internship students will be paid during Summer and Winter vacations.
 
 
-
-
 ## Application Process for individual studies (KAIST undergrad only)
 We welcome any students looking to explore this Robotics area. Please, send a contact e-mail to <daehyung@kaist.ac.kr> with your CV and transcript. 
 
 ### Note
 You will be able to get a desk and/or a computer. You can freely access our robots, too!
-
-
-
-
