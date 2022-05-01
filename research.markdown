@@ -54,6 +54,8 @@ Learning for manipulation is to obtain manipulation skills from a wide range of 
 <br> We aim to introduce task-and-motion planning (TAMP) framework that is to solve complex and longer-time horizon of human tasks. To resolve completeness, optimality, and robustness issues, we are working on various task planning and motion planning approaches. We will show a generalizable TAMP framework under human operator’s cooperative or adversarial interventions.
 <br>    
 <br>
+<b>Keywords</b>: Temporal logic, Neuro symbolic planning, Scene graph, Behavior tree
+<br>        
 <b>Selected paper</b>: Li et al. "Reactive Task and Motion Planning under Temporal Logic Specifications," ICRA, 2021. <a href="https://drive.google.com/file/d/1cxN0KfKHJLfFXi0iLjhNREyjkqn46viG/view?usp=sharing" target="_blank">[PDF]</a><a href="https://youtu.be/lPpMVfBzZH0" target="_blank">[Video]</a>    
 </td>
 </tr>
@@ -65,10 +67,12 @@ Learning for manipulation is to obtain manipulation skills from a wide range of 
       </a>
 </td>
 <td class="description">
-<b>Natural Language Understanding for Manipulation</b>
+<b>Natural Language Understanding for Navigation & Manipulation</b>
 <br>Natural language is a convenient means to deliver a user’s high-level instruction. We introduce a language-guided manipulation framework that learns common-sense knowledge from natural language instructions and corresponding motion demonstrations.
 <br>
 <br>
+<b>Keywords</b>: Quadruped robot, Semantic SLAM, Natural language grounding
+<br>        
 <b>Selected paper</b>: Daehyung Park#, Jacob Arkin# et al. "Multi-Modal Estimation and Communication of Latent Semantic Knowledge for Robust Execution of Robot Instructions", IJRR, 2020. (#- authors contributed equally) 
 <a href="https://journals.sagepub.com/eprint/PSW4Z5AXF4AYTSXRN7AI/full" target="_blank">[PDF]</a><a href="https://www.youtube.com/watch?v=BfCeYsTvaOw&amp" target="_blank">[Video]</a>
 </td>
@@ -85,6 +89,8 @@ Learning for manipulation is to obtain manipulation skills from a wide range of 
 <br>Interpreting underspecified instructions re-quires environmental context and background knowledge about how to accomplish complex tasks. We investigate how to incorporate human-like commonsense knowledge for natural language understanding and task executions. You can find related papers as follows,
 <br>
 <br>
+<b>Keywords</b>: 
+<br>            
 <b>Selected paper</b>: Daniel Nyga et al. "Grounding Robot Plans from Natural Language Instructions with Incomplete World Knowledge", CoRL, 2018.
 <a href="http://proceedings.mlr.press/v87/nyga18a/nyga18a.pdf" target="_blank">[PDF]</a><a href="https://youtu.be/uWv-l7XMoB8" target="_blank">[Video]</a>
 </td>
