@@ -34,9 +34,11 @@ permalink: /research/
 <b>Inverse Manipulation Skill Learning</b>
 <!--![](//www.youtube.com/watch?v=HgaqH4PWcTI?width=100height=50)-->
 <br>
-Learning for manipulation is to obtain manipulation skills from a wide range of knowledge sources. We introduce methodologies for learning manipulation constraints and motion parameters from demonstrations.
+Learning for manipulation is to obtain manipulation skills from a wide range of knowledge sources. We introduce methodologies for learning manipulation constraints and motion parameters from demonstrations. We also target to manipulate not only rigid bodies but also deformable objects via the state-of-the-art Issac Gym simulator. 
 <br>
 <br>
+<b>Keywords</b>: (Inverse) Reinforcement learning, Deformable obejct manipulation, Sim2Real transfer learning
+<br>    
 <b>Selected paper</b>: Daehyung Park et al. "Inferring Task Goals and Constraints using Bayesian Nonparametric Inverse Reinforcement Learning", CoRL, 2019.
 <a href="https://drive.google.com/open?id=1bswpgVJDXp_9vh55_Gz1cAbylhhjQqhS" target="_blank">[PDF]</a><a href="https://youtu.be/HgaqH4PWcTI" target="_blank">[Video]</a>
 </td>
@@ -49,8 +51,10 @@ Learning for manipulation is to obtain manipulation skills from a wide range of 
 </td>
 <td class="description">
 <b>Dynamically Reconfigurable Task-and-Motion Planning</b>
-<br> We present a robust task-and-motion planning(TAMP) framework under human operator’s cooperative oradversarial interventions.
-<a href="https://youtu.be/lPpMVfBzZH0" target="_blank">[Video]</a>
+<br> We aim to introduce task-and-motion planning (TAMP) framework that is to solve complex and longer-time horizon of human tasks. To resolve completeness, optimality, and robustness issues, we are working on various task planning and motion planning approaches. We will show a generalizable TAMP framework under human operator’s cooperative or adversarial interventions.
+<br>    
+<br>
+<b>Selected paper</b>: Li et al. "Reactive Task and Motion Planning under Temporal Logic Specifications," ICRA, 2021. <a href="https://drive.google.com/file/d/1cxN0KfKHJLfFXi0iLjhNREyjkqn46viG/view?usp=sharing" target="_blank">[PDF]</a><a href="https://youtu.be/lPpMVfBzZH0" target="_blank">[Video]</a>    
 </td>
 </tr>
 
