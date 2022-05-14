@@ -4,7 +4,7 @@ title: student_awards
 permalink: /student_awards/
 ---
 
-<div class="student_awards">
+
 <div class="pub-title"> Student Awards </div>
  
   
