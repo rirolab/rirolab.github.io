@@ -1,6 +1,6 @@
 ---
 layout: page
-title: student_awards
+title: sStudent Awards
 permalink: /student_awards/
 ---
 
