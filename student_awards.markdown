@@ -6,8 +6,8 @@ permalink: /student_awards/
 
 
 <td markdown="span">
-    <a href="/assets/research/research_areas.png" data-lightbox="Research Areas" >
-      <img style="width: 500px" src="/assets/research/research_areas.png">
+    <a href="/assets/paper_photo.png" data-lightbox="Student Awards" >
+      <img style="width: 800px" src="/assets/paper_photo.png">
       </a>
 </td>
 <b>2022</b>
