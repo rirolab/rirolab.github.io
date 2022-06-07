@@ -17,6 +17,11 @@ If you want to change the style of the table, please look at the publication tag
 
 <ol>
 <div class="pub-item"><li>
+Yeseung Kim, Jinwoo Kim, Daehyung Park. "GraphDistNet: A Graph-based Collision-distance Estimator for Gradient-based Trajectory", https://arxiv.org/abs/2206.01517, 2022. 
+<a href=" https://arxiv.org/pdf/2206.01517.pdf" target="_blank">[PDF]</a> 
+ </li></div> 
+ 
+<div class="pub-item"><li>
 Howard, T., Stump, E., Fink, J., Arkin, J., Paul, R., Park, D., Roy, S., Barber, D., Bendell, R., Schmeckpeper, K., Tian, J., Oh, J., Wigness, M., Quang, L., Rothrock, B., Nash, J., Walter, M., Jentsch, F., & Roy, N. "An Intelligence Architecture for Grounded Language Communication with Field Robots", 2022. 
 <a href=" http://fieldrobotics.net/Field_Robotics/Volume_2_files/Vol2_17.pdf" target="_blank">[PDF]</a> 
  </li></div>
