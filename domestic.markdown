@@ -37,7 +37,7 @@ If you want to change the style of the table, please look at the publication tag
     Ulzhalgas Rakhman, Jaehoon Yoo, Yeseung Kim, Deokmin Hwang, Seunghoon Hong, and Daehyung Park<br>
     Korea Robotics Society Annual Conference (KRoC), 2022<br>
     A reactive task planning-and-execution framework adopting scene-graph for automatic abstraction and behavior tree for robust task execution. We demonstrate the effectiveness and efficiency of our framework against human interventions in robotic assembly scenarios.<br>
-    <a href="https://drive.google.com/file/d/1rB2iYe6hiF32Jk0QsSdUfEvtjFBLismg/view?usp=sharing" target="_blank">[PDF]</a><br>
+    <a href="https://drive.google.com/file/d/1rB2iYe6hiF32Jk0QsSdUfEvtjFBLismg/view?usp=sharing" target="_blank">[PDF]</a><br> <b> Outstanding Paper Award</b>
 </td>
 </tr>
 </tbody>
