@@ -10,10 +10,7 @@ Postdoctoral research associate positions in RIRO Lab
 We are looking for highly motivated postdocs to join the Robust Intelligence and Robotics Lab.
 
 ### Position Summary
-The position is at the Robust Intelligence and Robotics Lab at the school of computing, KAIST. The lab is currently composed of a professor, graduate/undergrad students, visiting scholars, and secretarial support. The RIRO lab aims to empower robots to be trusted collaborators in every part of our society by introducing novel learning, reasoning, and execution capabilities. We are particularly focusing on the development of collaborative mobile manipulation system with learning, planning, and communication capabilities. We have excellent facilities including a human-size mobile manipulator, small mobile manipulators, human-like dexterous hands (coming soon), haptic gloves (coming soon), etc. We also have strong collaborations with many domestic/international groups. 
-
-### Job Description
-We are looking for highly motivated postdocs, who can lead/work on a mobile manipulation project: “Cooperative Intelligence Laboratory for Heterogeneous Robots” supported by National Research Foundation of Korea (NRF). The project is a three-year long group research program with two perception & control research labs at KAIST. The goal of this project is to enable multiple heterogeneous robots collaboratively assemble or deliver objects.
+The position is at the Robust Intelligence and Robotics Lab at the school of computing, KAIST. The lab is currently composed of a professor, graduate/undergrad students, visiting scholars, and secretarial support. The RIRO lab aims to empower robots to be trusted collaborators in every part of our society by introducing novel learning, reasoning, and execution capabilities. We are particularly focusing on the development of collaborative mobile manipulation system with learning, planning, and communication capabilities. We have excellent facilities including a human-size mobile manipulator, small mobile manipulators, human-like dexterous hands, haptic gloves, etc. We also have strong collaborations with many domestic/international groups. 
 
 
 We are looking for post-doctoral researchers who can work on some of the followings, but not limited to:
@@ -41,5 +38,5 @@ The following qualifications would be an advantage:
 - Be highly motivated to achieve excellence in the interest of science and engineering innovation within the university, the institutes, the RIRO lab and for yourself. 
 
 ### Application Process and Agenda
-Open until filled. The ideal starting date is March 1, 2022 or before. Applications will be considered on a rolling basis. The initial term is one or two years, with a possible extension depending on performance. 
+Open until filled. The ideal starting date is September 1, 2022 or before. Applications will be considered on a rolling basis. The initial term is one or two years, with a possible extension depending on performance. 
 
