@@ -18,7 +18,7 @@ pagination:
 
   <script type="text/javascript">
     jQuery(function($) {
-      const tot = $("[name=slide]").length+1;
+      const tot = $("[name=slide]").length;
       const time_interval = 5000;
       var isFirstImageEnded = false;
 
@@ -32,7 +32,7 @@ pagination:
           }
         }
 
-        curr = ++curr % tot+1;
+        curr = ++curr % tot;
         $("[name=slide]")[curr].checked = true;
       }
 
