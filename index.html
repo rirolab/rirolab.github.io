@@ -25,14 +25,14 @@ pagination:
       function autoplay() {
         curr = -1;
 
-        for(i=0;i<tot;i++){
+        for(i=0;i<tot+1;i++){
           if($("[name=slide]")[i].checked){
             curr = i;
             break;
           }
         }
 
-        curr = ++curr % tot;
+        curr = ++curr % tot+1;
         $("[name=slide]")[curr].checked = true;
       }
 
