@@ -197,13 +197,6 @@ pre code.hljs {
 	animation-iteration-count: 1;
 	animation-timing-function: linear;
 }
-.cbs_slider input[type=radio]:nth-child(5):checked~ul.imgs>li:nth-child(5){
-    z-index: 10;
-	animation-name: cbs_fadein;
-	animation-duration: 1s;
-	animation-iteration-count: 1;
-	animation-timing-function: linear;
-}
 
 
 .cbs_slider .imgs>li:nth-child(1)>div{
@@ -215,7 +208,7 @@ pre code.hljs {
 .cbs_slider .imgs>li:nth-child(3)>div{
 	background-image: url("/assets/header_image_3.gif");
 }
-.cbs_slider .imgs>li:nth-child(5)>div{
+.cbs_slider .imgs>li:nth-child(4)>div{
 	background-image: url("/assets/parkD.jpg");
 }
 
