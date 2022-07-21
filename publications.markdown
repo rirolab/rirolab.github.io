@@ -22,7 +22,7 @@ Yeseung Kim, Jinwoo Kim, <b>Daehyung Park*</b> "GraphDistNet: A Graph-based Coll
  </li></div> 
  
 <div class="pub-item"><li>
-Howard, T., Stump, E., Fink, J., Arkin, J., Paul, R., Park, D., Roy, S., Barber, D., Bendell, R., Schmeckpeper, K., Tian, J., Oh, J., Wigness, M., Quang, L., Rothrock, B., Nash, J., Walter, M., Jentsch, F., & Roy, N. "An Intelligence Architecture for Grounded Language Communication with Field Robots", 2022. 
+Howard, T., Stump, E., Fink, J., Arkin, J., Paul, R., <b>Park, D.</b>, Roy, S., Barber, D., Bendell, R., Schmeckpeper, K., Tian, J., Oh, J., Wigness, M., Quang, L., Rothrock, B., Nash, J., Walter, M., Jentsch, F., & Roy, N. "An Intelligence Architecture for Grounded Language Communication with Field Robots", 2022. 
 <a href=" http://fieldrobotics.net/Field_Robotics/Volume_2_files/Vol2_17.pdf" target="_blank">[PDF]</a> 
  </li></div>
  
