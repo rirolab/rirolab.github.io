@@ -10,11 +10,11 @@ Postdoctoral research associate positions in RIRO Lab
 We are looking for highly motivated postdocs to join the Robust Intelligence and Robotics Lab.
 
 ### Position Summary
-The position is at the Robust Intelligence and Robotics Lab at the school of computing, KAIST. The lab is currently composed of a professor, graduate/undergrad students, visiting scholars, and secretarial support. The RIRO lab aims to empower robots to be trusted collaborators in every part of our society by introducing novel learning, reasoning, and execution capabilities. We are particularly focusing on the development of collaborative mobile manipulation system with learning, planning, and communication capabilities. We have excellent facilities including a human-size mobile manipulator, small mobile manipulators, human-like dexterous hands, haptic gloves, etc. We also have strong collaborations with many domestic/international groups. 
+The position is at the Robust Intelligence and Robotics Lab at the school of computing, KAIST. The RIRO lab aims to empower robots to be trusted collaborators in every part of our society by introducing novel learning, reasoning, and execution capabilities. We are particularly focusing on the development of collaborative mobile manipulation system with learning, planning, and communication capabilities. We have excellent facilities including a human-size mobile manipulator (Summit XL Steel+UR5e), a manipulator (Franka-Emika Panda), a quadruped robot (RBQ3), a human-like dexterous hand (Shadow Hand Lite), haptic gloves, etc. We also have strong collaborations with many domestic/international groups. 
 
 
 We are looking for post-doctoral researchers who can work on some of the followings, but not limited to:
-- Mobile manipulations
+- Mobile manipulation or navigation
 - Task or task-and-motion planning algorithms for mobile manipulation
 - (Inverse) reinforcement learning framework for in-hand manipulation
 - Multi-agent system or natural-language-driven mobile manipulation system
@@ -32,11 +32,11 @@ In order to be successful in this position you will need to have:
 
 The following qualifications would be an advantage:
 - Familiarity with state-of-the-art task planning and/or task-and-motion planning
-- Experience using PDDL or Temporal Logic
+- Experience using quadruped robots
 - Ability to work with people in your research and try to being involved in research of others to multiply the effect of collaborations.
 - Have a clear open and transparent communication attitude.
 - Be highly motivated to achieve excellence in the interest of science and engineering innovation within the university, the institutes, the RIRO lab and for yourself. 
 
 ### Application Process and Agenda
-Open until filled. The ideal starting date is September 1, 2022 or before. Applications will be considered on a rolling basis. The initial term is one or two years, with a possible extension depending on performance. 
+Open until filled. The ideal starting date is March 1, 2023 or before. Applications will be considered on a rolling basis. The initial term is one or two years, with a possible extension depending on performance. 
 
