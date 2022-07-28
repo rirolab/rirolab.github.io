@@ -57,8 +57,8 @@ permalink: /equipment/
 <thead>
 <tr>
 <th class="caption" style="text-align:center"> Franka Emika - Panda <br> Robotic Arm</th>
-<th class="caption" style="text-align:center"> Boston Dynamics Spot <br> Agile Mobile Robot Coming Soon!!</th>
-<th class="caption" style="text-align:center"> RBQ-3 <br> Quadruped  Robot Coming Soon!!</th>
+<th class="caption" style="text-align:center"> Boston Dynamics Spot <br> Agile Mobile Robot <br> Coming Soon!!</th>
+<th class="caption" style="text-align:center"> RBQ-3 <br> Quadruped  Robot <br> Coming Soon!!</th>
 
 </tr>
 </thead>
