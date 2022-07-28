@@ -75,7 +75,7 @@ permalink: /equipment/
 </td>
 <td style="text-align:center">
     <a href="/assets/equipment/shadow.png" data-lightbox="RBQ-3 " >
-      <img style="width: 300px" src="/assets/equipment/rbq3.jpeg.jpeg">
+      <img style="width: 300px" src="/assets/equipment/rbq3.jpeg">
     </a><br>
 </td>
 
