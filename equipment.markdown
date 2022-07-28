@@ -11,7 +11,6 @@ permalink: /equipment/
 <col width="25%" />
 <col width="25%" />
 <col width="25%" />
-</colgroup>
 <thead>
 <tr>
 <th class="caption" style="text-align:center">Turtlebot3 <br> Mobile Manipulator</th>
@@ -47,8 +46,7 @@ permalink: /equipment/
 </tr>
 </tbody>
 
-    
-    <colgroup>
+   
 <col width="25%" />
 <col width="25%" />
 <col width="25%" />
@@ -56,8 +54,8 @@ permalink: /equipment/
 </colgroup>
 <thead>
 <tr>
-<th class="caption" style="text-align:center">Turtlebot3 <br> Mobile Manipulator</th>
-<th class="caption" style="text-align:center">"HAETAE" <br> Mobile Manipulator</th>
+<th class="caption" style="text-align:center"> Franka Emrika<br> Mobile Manipulator</th>
+<th class="caption" style="text-align:center"> HAETAE <br> Mobile Manipulator</th>
 <th class="caption" style="text-align:center">Shadow Lite Hand <br> Multifinger Robotic Hand</th>
 <th class="caption" style="text-align:center">Sense Glove DK1 <br> Exoskeleton Glove</th>
 </tr>
