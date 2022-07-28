@@ -53,7 +53,7 @@ permalink: /equipment/
 <col width="25%" />
 <col width="25%" />
 <col width="25%" />
-</colgroup>
+
 <thead>
 <tr>
 <th class="caption" style="text-align:center"> Franka Emika - Panda <br> Robotic Arm</th>
@@ -84,7 +84,7 @@ permalink: /equipment/
 
 </tr>
 </tbody>
-</table>
+
 
 
 
