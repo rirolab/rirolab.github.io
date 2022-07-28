@@ -66,7 +66,7 @@ permalink: /equipment/
 <tr>
 <td>
     <a href="/assets/equipment/turtlebot.png" data-lightbox="Franka Emika - Panda" >
-      <img style="width: 300px" src="/assets/equipment/panda.png">
+      <img style="width: 300px" src="/assets/equipment/pandaf.png">
     </a>
 </td>
 <td>
