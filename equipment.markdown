@@ -46,7 +46,9 @@ permalink: /equipment/
 </tr>
 </tbody>
 
-   
+
+<\table>
+<table>   
 <col width="25%" />
 <col width="25%" />
 <col width="25%" />
