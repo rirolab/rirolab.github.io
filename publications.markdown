@@ -17,7 +17,7 @@ If you want to change the style of the table, please look at the publication tag
 
 <ol>
 <div class="pub-item"><li>
-Yeseung Kim, Jinwoo Kim, <b>Daehyung Park*</b> "GraphDistNet: A Graph-based Collision-distance Estimator for Gradient-based Trajectory", IEEE Robotics and Automation Letters (RA-L) [Accepted], 2022. 
+Yeseung Kim, Jinwoo Kim, <b>Daehyung Park*</b> "GraphDistNet: A Graph-based Collision-distance Estimator for Gradient-based Trajectory", IEEE Robotics and Automation Letters (RA-L), Oral presentation in IEEE IROS, [Accepted], 2022. 
 <a href=" https://arxiv.org/pdf/2206.01517.pdf" target="_blank">[PDF]</a> 
  </li></div> 
  
