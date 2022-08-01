@@ -82,16 +82,15 @@ If you want to change the style of the table, please look at the publication tag
 <tbody>
 <tr>
 <td>
-    <a href="/assets/research/kroc_jjh.gif" data-lightbox="" >
-      <img style="width: 85%" src="/assets/research/kroc_jjh.gif">
+    <a href="/assets/research/1234.png" data-lightbox="" >
+      <img style="width: 85%" src="/assets/research/1234.png">
       </a>
 </td>
 <td>
-    <b>Transferable-Reward Decomposition for Inverse Reinforcement Learning</b><br>
-    Jaehwi Jang and Daehyung Park<br>
-    Korea Robotics Society Annual Conference (KRoC), 2022<br>
-    A transferable reward-decomposition method for inverse reinforcement learning (IRL) that returns a unique pair of primary goal and its residual rewards, separately. Our method lowers the computational complexity of reward decomposition by reusing the exploration results of IRL.<br>
-    <a href="https://docs.google.com/document/d/180X1eGpMd9G-mStR0WC2GsC7DkBXBHnt/edit?usp=sharing&ouid=101070998616983496812&rtpof=true&sd=true" target="_blank">[PDF]</a><br>
+    <b>A Telemanipulation Suite for Deformable Object Manipulation</b><br>
+    Bonggyeong Park, Chanyoung Ahn, and Daehyung Park<br>
+    Korean Artificial intelligence Association (KAIA), 2022<br>
+    Deformable object manipulation with learning from demonstration requires a dataset that absorbs human intelligence. We propose a virtual reality-based telemanipulation suite that allows an expert hand to manipulate simulated deformable objects while recording complete observations.<br>
 </td>
 </tr>
 </tbody>
