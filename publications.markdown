@@ -14,12 +14,33 @@ If you want to change the style of the table, please look at the publication tag
 <div class="publication">
 <div class="pub-title"> Journal Articles </div>
 
-
-<ol>
-<div class="pub-item"><li>
-Yeseung Kim, Jinwoo Kim, <b>Daehyung Park*</b> "GraphDistNet: A Graph-based Collision-distance Estimator for Gradient-based Trajectory", IEEE Robotics and Automation Letters (RA-L), Oral presentation in IEEE IROS, [Accepted], 2022. 
-<a href=" https://arxiv.org/pdf/2206.01517.pdf" target="_blank">[PDF]</a> 
- </li></div> 
+<table>
+<colgroup>
+<col width="25%" />
+<col width="75%" />
+</colgroup>
+<thead>
+<tr>
+<th class="caption" colspan="2"></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>
+    <a href="/assets/research/raphdistnet.png" data-lightbox="" >
+      <img style="width: 85%" src="/assets/research/graphdistnet.png">
+      </a>
+</td>
+<td>
+    <b>GraphDistNet: A Graph-based Collision-distance Estimator for Gradient-based Trajectory</b><br>
+    Yeseung Kim, Jinwoo Kim, Daehyung Park*<br>
+    IEEE Robotics and Automation Letters (RA-L), Oral presentation in IEEE IROS, 2022 [Accepted]<br>
+    A graph neural networks (GNN) based collision distance estimator comprised of the message passing and attention mechanism for trajectory optimization. Our method shows high accuracy in complex scenes by using geometric features and calculates massive data fast by the parallelism of GPU.<br>
+    <a href="https://arxiv.org/abs/2206.01517" target="_blank">[PDF]</a><br>
+</td>
+</tr>
+</tbody>
+</table>
  
 <div class="pub-item"><li>
 Howard, T., Stump, E., Fink, J., Arkin, J., Paul, R., <b>Park, D.</b>, Roy, S., Barber, D., Bendell, R., Schmeckpeper, K., Tian, J., Oh, J., Wigness, M., Quang, L., Rothrock, B., Nash, J., Walter, M., Jentsch, F., & Roy, N. "An Intelligence Architecture for Grounded Language Communication with Field Robots", 2022. 
