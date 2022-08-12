@@ -56,8 +56,8 @@ permalink: /equipment/
 <thead>
 <tr>
 <th class="caption" style="text-align:center"> Franka Emika - Panda <br> Robotic Arm</th>
-<th class="caption" style="text-align:center"> Boston Dynamics Spot <br> Agile Mobile Robot <br> Coming Soon!!</th>
-<th class="caption" style="text-align:center"> RBQ-3 <br> Quadruped  Robot <br> Coming Soon!!</th>
+<th class="caption" style="text-align:center"> Boston Dynamics Spot <br> Agile Mobile Robot</th>
+<th class="caption" style="text-align:center"> RBQ-3 <br> Quadruped  Robot</th>
 
 </tr>
 </thead>
@@ -65,18 +65,18 @@ permalink: /equipment/
 <tbody>
 <tr>
 <td>
-    <a href="/assets/equipment/turtlebot.png" data-lightbox="Franka Emika - Panda" >
-      <img style="width: 300px" src="/assets/equipment/pandaf.png">
+    <a href="/assets/equipment/pandaf.jpg" data-lightbox="Franka Emika - Panda" >
+      <img style="width: 300px" src="/assets/equipment/pandaf.jpg">
     </a>
 </td>
 <td>
-    <a href="/assets/equipment/haetae.png" data-lightbox="Boston Dynamics Spot" >
-      <img style="width: 300px" src="/assets/equipment/boston.jpeg">
+    <a href="/assets/equipment/boston.jpg" data-lightbox="Boston Dynamics Spot" >
+      <img style="width: 300px" src="/assets/equipment/boston.jpg">
     </a>
 </td>
 <td style="text-align:center">
-    <a href="/assets/equipment/shadow.png" data-lightbox="RBQ-3 " >
-      <img style="width: 300px" src="/assets/equipment/rbq3.jpeg">
+    <a href="/assets/equipment/rbq3.jpg" data-lightbox="RBQ-3 " >
+      <img style="width: 300px" src="/assets/equipment/rbq3.jpg">
     </a><br>
 </td>
 
