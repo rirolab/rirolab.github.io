@@ -1,7 +1,7 @@
 ---
-layout: page
 title: People
-permalink: /people/
+layout: page
+permalink: "/people/"
 ---
 
 <!--
@@ -183,7 +183,7 @@ If you want to change the style of the table, please look at the table tags in _
 <td>
     <b>Jinwoo Kim</b><br>
     School of Computing, 2022<br>
-    <a href="">
+    <a href="mailto:kjwoo31@kaist.ac.kr">
        <i class="fa fa-envelope-o"></i>
        <span class="username">kjwoo31@kaist.ac.kr</span>
     </a>
@@ -225,14 +225,14 @@ If you want to change the style of the table, please look at the table tags in _
 <tbody>
 <!--김도현-->
 <td>
-    <a href="/assets/people/noname.jpg" data-lightbox="No name" >
+    <a href="/assets/people/kim_dohyun.jpg" data-lightbox="No name" >
       <img style="width: 75%" src="/assets/people/kim_dohyun.jpg">
       </a>
 </td>
 <td>
     <b>Dohyun Kim</b><br>
     School of Computing<br>
-     <a href="">
+     <a href="mailto:dohyun141@kaist.ac.kr">
        <i class="fa fa-envelope-o"></i>
        <span class="username">dohyun141@kaist.ac.kr</span>
     </a>
@@ -248,36 +248,69 @@ If you want to change the style of the table, please look at the table tags in _
 <td>
     <b>JeongHo Ha</b><br>
     School of Computing<br>
-     <a href="">
+     <a href="mailto:hajeongho95@kaist.ac.kr">
        <i class="fa fa-envelope-o"></i>
        <span class="username">hajeongho95@kaist.ac.kr </span>
     </a>
     <br>    
     <br>
 </td>
-    <tr>
-<!--황덕민  -->
-<td>
-    <a href="/assets/people/noname.jpg" data-lightbox="No name" >
-      <img style="width: 75%" src="/assets/people/deokmin_hwang.jpg">
-      </a>
-</td>
-<td>
-    <b>Deok-Min Hwang</b><br>
-    Mechanical Engineering <br>
-     <a href="">
-       <i class="fa fa-envelope-o"></i>
-       <span class="username">gsh04089@kaist.ac.kr </span>
-    </a>
-    <br>    
-    <br>
-</td>
-        </tr>
 <tr>
-<td> 
-</td>
-<td>
-</td>
+<!--황덕민  -->
+    <td>
+        <a href="/assets/people/deokmin_hwang.jpg" data-lightbox="No name" >
+        <img style="width: 75%" src="/assets/people/deokmin_hwang.jpg">
+        </a>
+    </td>
+    <td>
+        <b>Deok-Min Hwang</b><br>
+        Mechanical Engineering <br>
+        <a href="mailto:gsh04089@kaist.ac.kr">
+        <i class="fa fa-envelope-o"></i>
+        <span class="username">gsh04089@kaist.ac.kr </span>
+        </a>
+        <br>    
+        <br>
+    </td>
+    <!--Minwoo Cho  -->
+    <td>
+        <a href="/assets/people/minwoo_cho.jpg" data-lightbox="No name" >
+        <img style="width: 75%" src="/assets/people/minwoo_cho.jpg">
+        </a>
+    </td>
+    <td>
+        <b>Minwoo Cho</b><br>
+        Mechanical Engineering <br>
+        <a href="mailto:cmw9903@kaist.ac.kr">
+        <i class="fa fa-envelope-o"></i>
+        <span class="username">cmw9903@kaist.ac.kr </span>
+        </a>
+        <br>    
+        <br>
+    </td>
+			
+</tr>
+<tr>
+<!--Minwoo Cho  -->
+    <td>
+        <a href="/assets/people/bibek_kc.JPG" data-lightbox="No name" >
+        <img style="width: 75%" src="/assets/people/bibek_kc.JPG">
+        </a>
+    </td>
+    <td>
+        <b>Bibek KC</b><br>
+        Electrical Engineering <br>
+        <a href="mailto:bibekyess@kaist.ac.kr">
+        <i class="fa fa-envelope-o"></i>
+        <span class="username">bibekyess@kaist.ac.kr </span>
+        </a>
+        <br>    
+        <br>
+    </td>
+    <td>
+    </td>
+    <td>
+    </td>
 </tr>
 
 </tbody>
@@ -353,4 +386,3 @@ If you want to change the style of the table, please look at the table tags in _
 <!---------------- Alum. --------------------->
 
 </table>
-
