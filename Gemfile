@@ -37,3 +37,5 @@ gem 'jekyll-maps'
 
 
 gem "webrick", "~> 1.7"
+
+gem 'jekyll-admin', group: :jekyll_plugins
