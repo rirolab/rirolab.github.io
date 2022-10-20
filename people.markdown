@@ -92,7 +92,7 @@ If you want to change the style of the table, please look at the table tags in _
        <span class="username">urakhman@kaist.ac.kr</span>
     </a>
     <br>
-    <a href="[(https://ulzhalgasrakhman.github.io/)]">http://ulzhalgasrakhman.github.io/</a>		
+    <a href="[Personal webpage]">http://ulzhalgasrakhman.github.io/</a>		
 </td>
 
 </tr>
