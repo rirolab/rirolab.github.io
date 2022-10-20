@@ -127,9 +127,9 @@ If you want to change the style of the table, please look at the table tags in _
 <td>
     <b>Yeseung Kim</b><br>
     Robotics Program, 2021<br>
-    <a href="mailto:rhgkrsus1@kaist.ac.kr">
+    <a href="mailto:yeseung.kim.88@gmail.com">
        <i class="fa fa-envelope-o"></i>
-       <span class="username">rhgkrsus1@kaist.ac.kr</span>
+       <span class="username">yeseung.kim.88@gmail.com</span>
     </a>
     <br>
 </td>
