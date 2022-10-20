@@ -83,6 +83,8 @@ If you want to change the style of the table, please look at the table tags in _
     <a href="/assets/people/ulzhalgas_rakhman.png" data-lightbox="Ulzhalgas Rakhman" >
       <img style="width: 75%" src="/assets/people/ulzhalgas_rakhman.png">
       </a>
+      <br>
+    <a href="[(https://ulzhalgasrakhman.github.io/)]">http://ulzhalgasrakhman.github.io/</a>	
 </td>
 <td>
     <b>Ulzhalgas Rakhman</b><br>
