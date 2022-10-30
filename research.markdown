@@ -31,10 +31,14 @@ permalink: /research/
     </a>
 </td>
 <td class="description">
-<b>Inverse Manipulation Skill Learning</b>
+<b>Interactive Skill Learning Toward In-hand Manipulation of Deformable Objects</b>
 <!--![](//www.youtube.com/watch?v=HgaqH4PWcTI?width=100height=50)-->
 <br>
-Learning for manipulation is to obtain manipulation skills from a wide range of knowledge sources. We introduce methodologies for learning manipulation constraints and motion parameters from demonstrations. We also target to manipulate not only rigid bodies but also deformable objects via the state-of-the-art Issac Gym simulator. 
+In-hand manipulation of deformable objects offers unprecedented opportunities to resolve
+various real-world problems, such as binding and taping. This project aims to develop a visuotactile
+in-hand manipulation that repositions/reorientations deformable objects in hand as we want. Toward
+this line of research, we propose three research thrusts: 1) a physics-informed reinforcement learning
+(RL) framework, 2) an interactive RL framework, and 3) Sim2Real transfer learning method.
 <br>
 <br>
 <b>Keywords</b>: (Inverse) Reinforcement learning, Deformable obejct manipulation, Sim2Real transfer learning
@@ -54,9 +58,9 @@ Learning for manipulation is to obtain manipulation skills from a wide range of 
 <br> We aim to introduce task-and-motion planning (TAMP) framework that is to solve complex and longer-time horizon of human tasks. To resolve completeness, optimality, and robustness issues, we are working on various task planning and motion planning approaches. We will show a generalizable TAMP framework under human operator’s cooperative or adversarial interventions.
 <br>    
 <br>
-<b>Keywords</b>: Temporal logic, Neuro symbolic planning, Scene graph, Behavior tree
+<b>Keywords</b>: Temporal logic, Neuro symbolic planning, Scene graph, Behavior tree, Collision avoidance
 <br>        
-<b>Selected paper</b>: Li et al. "Reactive Task and Motion Planning under Temporal Logic Specifications," ICRA, 2021. <a href="https://drive.google.com/file/d/1cxN0KfKHJLfFXi0iLjhNREyjkqn46viG/view?usp=sharing" target="_blank">[PDF]</a><a href="https://youtu.be/lPpMVfBzZH0" target="_blank">[Video]</a>    
+<b>Selected paper</b>: Y. Kim et al. "GraphDistNet: A Graph-based Collision-distance Estimator for Gradient-based Trajectory," RA-L, 2022. <a href="https://drive.google.com/file/d/1cxN0KfKHJLfFXi0iLjhNREyjkqn46viG/view?usp=sharing" target="_blank">[PDF]</a><a href="https://youtu.be/lPpMVfBzZH0" target="_blank">[Video]</a>    
 </td>
 </tr>
 
@@ -67,8 +71,8 @@ Learning for manipulation is to obtain manipulation skills from a wide range of 
       </a>
 </td>
 <td class="description">
-<b>Natural Language Understanding for Navigation & Manipulation</b>
-<br>Natural language is a convenient means to deliver a user’s high-level instruction. We introduce a language-guided manipulation framework that learns common-sense knowledge from natural language instructions and corresponding motion demonstrations.
+<b>Language-guided Quadrupedal Robot Navigation & Manipulation</b>
+<br>Natural language is a convenient means to deliver a user’s high-level instruction. We introduce a language-guided manipulation framework that learns common-sense knowledge from natural language instructions and corresponding motion demonstrations. We apply the technologies on various quadrupedal robots like Boston Dynamics Spot!
 <br>
 <br>
 <b>Keywords</b>: Quadruped robot, Semantic SLAM, Natural language grounding
