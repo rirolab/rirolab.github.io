@@ -113,8 +113,9 @@ maps:
 
 # Navigation
 navigation:
-  - title: "News"
-    url: /news
+# temporarily disable News page
+#   - title: "News"
+#     url: /news
   - title: "People"
     url: /people
   - title: "Research"
