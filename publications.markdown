@@ -83,6 +83,10 @@ Ariel Kapusta, Philip Grice, Henry Clever, Yash Chitalia, <b>Daehyung Park</b>, 
 
 <ol>
 <div class="pub-item"><li>
+Dohyun Kim*, Jinwoo Kim*, Minwoo Cho, Daehyung Park. "Natural Language-Guided Navigation using Scene Graph", Conference on Robot Intelligence Technology and Applications (RiTA 2022) (*- <b>authors contributed equally</b>), <b>Best Student Paper Award</b>
+</li></div>
+    
+<div class="pub-item"><li>
 Hyeongyeol Ryu, Minsung Yoon, <b>Daehyung Park</b>, Sung-eui Yoon. "Confidence-based Robot Navigation under Sensor Occlusion with Deep Reinforcement Learning," IEEE Int'l. Conf. on Robotics and Automation (ICRA 2022), <b>Outstanding Navigation Award Finalist</b> <a href="http://sglab.kaist.ac.kr/CBN-DRL/final_paper.pdf" target="_blank">[PDF]</a><a href="http://sglab.kaist.ac.kr/CBN-DRL/" target="_blank">[Video]</a> 
 </li></div>
  
