@@ -83,7 +83,7 @@ Ariel Kapusta, Philip Grice, Henry Clever, Yash Chitalia, <b>Daehyung Park</b>, 
 
 <ol>
 <div class="pub-item"><li>
-Dohyun Kim*, Jinwoo Kim*, Minwoo Cho, Daehyung Park. "Natural Language-Guided Navigation using Scene Graph", Conference on Robot Intelligence Technology and Applications (RiTA 2022) (*- <b>authors contributed equally</b>), <b>Best Student Paper Award</b>
+Dohyun Kim*, Jinwoo Kim*, Minwoo Cho, Daehyung Park. "Natural Language-Guided Navigation using Scene Graph", Conference on Robot Intelligence Technology and Applications (RiTA 2022) (*- <b>authors contributed equally</b>), <a href="https://drive.google.com/file/d/1VNGmirCewK2aaGJvAtiUq8iXOzGnGNeY/view?usp=share_link" target="_blank">[PDF]</a> <b>Best Student Paper Award</b> 
 </li></div>
     
 <div class="pub-item"><li>
