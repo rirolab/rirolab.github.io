@@ -82,8 +82,8 @@ If you want to change the style of the table, please look at the publication tag
 <tbody>
 <tr>
 <td>
-    <a href="/assets/research/1234.png" data-lightbox="" >
-      <img style="width: 85%" src="/assets/research/1234.png">
+    <a href="/assets/research/telemanipulation_suite.png" data-lightbox="" >
+      <img style="width: 85%" src="/assets/research/telemanipulation_suite.png">
       </a>
 </td>
 <td>
