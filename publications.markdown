@@ -96,8 +96,8 @@ Ariel Kapusta, Philip Grice, Henry Clever, Yash Chitalia, <b>Daehyung Park</b>, 
 <tbody>
 <tr>
 <td>
-    <a href="/assets/research/2022_RiTA_framework.svg" data-lightbox="" >
-      <img style="width: 85%" src="/assets/research/2022_RiTA_framework.svg">
+    <a href="/assets/research/2022_RiTA_framework.pdf" data-lightbox="" >
+      <img style="width: 85%" src="/assets/research/2022_RiTA_framework.pdf">
       </a>
 </td>
 <td>
