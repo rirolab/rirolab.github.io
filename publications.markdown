@@ -205,7 +205,7 @@ Heiko Hoffmann, Peter Pastor, <b>Daehyung Park</b>, and Stefan Schaal. “Biolog
 
 
 <!------------------- Workshop papers, Abstracts, and Posters --------------------->
-
+<!--
 <div class="publication">
 <div class="pub-title"> Workshop papers, Abstracts, and Posters </div>
 
@@ -213,14 +213,15 @@ Heiko Hoffmann, Peter Pastor, <b>Daehyung Park</b>, and Stefan Schaal. “Biolog
 </ol>
 
 </div>
+-->
 
 <!------------------- Patents --------------------->
+<!--
 <div class="publication">
 <div class="pub-title"> Patents </div>
 
 <ol> 
 
-<!--
 <div class="pub-item"><li>
 <b>D. Park</b>, K. Lee, C. An, and Y. Hong. “Teaching and playback method based on control of redundancy resolution for robot and computer-readable medium controlling the same.” US Patent 12 923 650, Apr. 21, 2011. <a href="https://scienceon.kisti.re.kr/srch/selectPORSrchPatent.do?cn=USP2013108560122&dbt=USPA" target="_blank">[PDF]</a>
 </li></div>
@@ -236,8 +237,8 @@ K. Lee, Y. Hong, C. An, and D. Park. “모터 제어장치 및 모터 제어 �
 <div class="pub-item"><li>
 D. Park, K. Lee, C. An, and Y. Hong. “여유자유도 제어를 이용한 로봇의 교시 및 재현 방법 (TEACHING AND PLAYBACK METHOD USING REDUNDANCY RESOLUTION CONTROL FOR MANIPULATOR),” KR Patent App. 1,020,090,099,003, Apr. 22, 2011
 </li></div>
--->
 
 </ol>
 
 </div>
+-->
