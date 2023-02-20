@@ -292,7 +292,7 @@ If you want to change the style of the table, please look at the table tags in _
 <tr>
 <!--Minwoo Cho  -->
     <td>
-        <a href="/assets/people/minwoo_cho.jpg" data-lightbox="No name" >
+        <a href="/assets/people/minwoo_cho.jpg" data-lightbox="Minwoo Cho" >
         <img style="width: 75%" src="/assets/people/minwoo_cho.jpg">
         </a>
     </td>
@@ -306,6 +306,7 @@ If you want to change the style of the table, please look at the table tags in _
         <br>    
         <br>
     </td>
+
 </tr>
 
 </tbody>
