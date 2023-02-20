@@ -96,16 +96,15 @@ Ariel Kapusta, Philip Grice, Henry Clever, Yash Chitalia, <b>Daehyung Park</b>, 
 <tbody>
 <tr>
 <td>
-    <a href="/assets/research/2022_RiTA_SGGNet.svg" data-lightbox="" >
-      <img style="width: 85%" src="/assets/research/2022_RiTA_SGGNet.svg">
+    <a href="/assets/research/2022_RiTA_framework.svg" data-lightbox="" >
+      <img style="width: 85%" src="/assets/research/2022_RiTA_framework.svg">
       </a>
 </td>
 <td>
     <b>Natural Language-Guided Navigation using Scene Graph</b><br>
     Dohyun Kim*, Jinwoo Kim*, Minwoo Cho, <b>Daehyung Park</b> (*- authors contributed equally)<br>
     <i>Conference on Robot Intelligence Technology and Applications (RiTA 2022), <b style="color:blue;">Best Student Paper Award</b></i><br>
-    A natural language-guided robotic navigation framework that can effectively ground natural-language commands in large space. Our framework consists of three modules: a scene-graph generator, a grounding network, and a semantic navigation system. The scene-graph generator incrementally stores the semantic information of object instances, properties, and relationships. Then, the proposed scene graph-based grounding network (SGGNet) predicts the desired goal robustly by associating instances in a scene graph with a user command. Finally, the navigation system enables the robot to reach the
-goal location.<br>
+    A natural language-guided robotic navigation framework that can effectively ground natural language commands in large space. Our framework consists of three modules: a scene-graph generator, a grounding network, and a semantic navigation system. The scene-graph generator incrementally stores the semantic and geometric information of object instances. Then, the proposed scene graph-based grounding network (SGGNet) predicts the desired goal robustly by associating instances in a scene graph with a user command. Finally, the navigation system enables the robot to reach the goal.<br>
     <a href="https://drive.google.com/file/d/1VNGmirCewK2aaGJvAtiUq8iXOzGnGNeY/view?usp=share_link" target="_blank">[PDF]</a> <br>
 </td>
 </tr>
