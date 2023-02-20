@@ -65,6 +65,25 @@ If you want to change the style of the table, please look at the table tags in _
 <tbody>
 
 <tr>
+
+<!--Ulzhalgas Rakhman  -->
+	<td>
+		<a href="/assets/people/ulzhalgas_rakhman.png" data-lightbox="Ulzhalgas Rakhman" >
+		  <img style="width: 75%" src="/assets/people/ulzhalgas_rakhman.png">
+		  </a>
+	</td>
+	<td>
+		<b>Ulzhalgas Rakhman</b><br>
+		School of Computing, 2022<br> 
+		<a href="mailto:urakhman@kaist.ac.kr">
+		   <i class="fa fa-envelope-o"></i>
+		   <span class="username">urakhman@kaist.ac.kr</span>
+		</a>
+		<br>
+		<a href="https://ulzhalgasrakhman.github.io/">Personal website</a>	
+	</td>
+	
+
 <!-- Yeseung Kim -->
 <td>
     <a href="/assets/people/yeseung_kim.jpg" data-lightbox="Yeseung Kim" >
@@ -73,7 +92,7 @@ If you want to change the style of the table, please look at the table tags in _
 </td>
 <td>
     <b>Yeseung Kim</b><br>
-    Robotics Program, 2021<br>
+    School of Computing, 2023<br>
     <a href="mailto:yeseung.kim.88@kaist.ac.kr">
        <i class="fa fa-envelope-o"></i>
        <span class="username">yeseung.kim.88@kaist.ac.kr</span>
@@ -81,22 +100,6 @@ If you want to change the style of the table, please look at the table tags in _
     <br>
 </td>
 
-<!--Ulzhalgas Rakhman  -->
-<td>
-	<a href="/assets/people/ulzhalgas_rakhman.png" data-lightbox="Ulzhalgas Rakhman" >
-	  <img style="width: 75%" src="/assets/people/ulzhalgas_rakhman.png">
-	  </a>
-</td>
-<td>
-	<b>Ulzhalgas Rakhman</b><br>
-	School of Computing, 2022<br> 
-	<a href="mailto:urakhman@kaist.ac.kr">
-	   <i class="fa fa-envelope-o"></i>
-	   <span class="username">urakhman@kaist.ac.kr</span>
-	</a>
-	<br>
-	<a href="https://ulzhalgasrakhman.github.io/">Personal website</a>	
-</td>
 
 </tr>
 <tr>	
@@ -131,25 +134,9 @@ If you want to change the style of the table, please look at the table tags in _
 </tr>
 </thead>
 <tbody>
+	
 
 <tr>
-<!-- Jaehwi Jang -->
-	<td>
-		<a href="/assets/people/jaehwi_jang.jpg" data-lightbox="Jaehwi Jang" >
-		  <img style="width: 75%" src="/assets/people/jaehwi_jang.jpg">
-		</a>
-	</td>
-	<td>
-		<b>Jaehwi Jang</b><br>
-		Graduate School of AI, 2022<br>
-		<a href="mailto:wognl0402@kaist.ac.kr">
-		   <i class="fa fa-envelope-o"></i>
-		   <span class="username">wognl0402@kaist.ac.kr</span>
-		</a>
-		<br>
-	</td>
-
-
 <!-- Chanyoung Ahn -->
 	<td>
 		<a href="/assets/people/chanyoung_ahn.jpg" data-lightbox="Chanyoung Ahn" >
@@ -165,10 +152,25 @@ If you want to change the style of the table, please look at the table tags in _
 		</a>
 		<br>
 	</td>
+
+	
+<!-- Jaehwi Jang -->
+	<td>
+		<a href="/assets/people/jaehwi_jang.jpg" data-lightbox="Jaehwi Jang" >
+		  <img style="width: 75%" src="/assets/people/jaehwi_jang.jpg">
+		</a>
+	</td>
+	<td>
+		<b>Jaehwi Jang</b><br>
+		Graduate School of AI, 2022<br>
+		<a href="mailto:wognl0402@kaist.ac.kr">
+		   <i class="fa fa-envelope-o"></i>
+		   <span class="username">wognl0402@kaist.ac.kr</span>
+		</a>
+		<br>
+	</td>
 </tr>
-    
-    
-    
+	
 <tr>
 <!-- Minjae Song -->
 	<td>
@@ -211,7 +213,7 @@ If you want to change the style of the table, please look at the table tags in _
 	</td>
 	<td>
 		<b>Dohyun Kim</b><br>
-		School of Computing<br>
+		Graduate School of AI, 2023<br>
 		 <a href="mailto:dohyun141@kaist.ac.kr">
 		   <i class="fa fa-envelope-o"></i>
 		   <span class="username">dohyun141@kaist.ac.kr</span>
@@ -227,7 +229,7 @@ If you want to change the style of the table, please look at the table tags in _
 	</td>
 	<td>
 		<b>JeongHo Ha</b><br>
-		School of Computing<br>
+		School of Computing, 2023<br>
 		 <a href="mailto:hajeongho95@kaist.ac.kr">
 		   <i class="fa fa-envelope-o"></i>
 		   <span class="username">hajeongho95@kaist.ac.kr </span>
@@ -245,7 +247,7 @@ If you want to change the style of the table, please look at the table tags in _
     </td>
     <td>
         <b>Deok-Min Hwang</b><br>
-        Mechanical Engineering <br>
+        School of Computing, 2023 <br>
         <a href="mailto:gsh04089@kaist.ac.kr">
         <i class="fa fa-envelope-o"></i>
         <span class="username">gsh04089@kaist.ac.kr </span>
@@ -261,7 +263,7 @@ If you want to change the style of the table, please look at the table tags in _
 	</td>
 	<td>
 		<b>Bonggyeong Park</b><br>
-		Research Assistant<br>
+		Robotics Program, 2023<br>
 		 <a href="mailto:iampbk7@gmail.com">
 		   <i class="fa fa-envelope-o"></i>
 		   <span class="username">iampbk7@gmail.com</span>
