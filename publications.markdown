@@ -124,16 +124,16 @@ Ariel Kapusta, Philip Grice, Henry Clever, Yash Chitalia, <b>Daehyung Park</b>, 
 </tr>
 <tr>
 <td>
-    <a href="/assets/research/reactive_TAMP.png" data-lightbox="" >
-      <img style="width: 85%" src="/assets/research/reactive_TAMP.png">
+    <a href="/assets/research/2021_RAL_LTL_BT.gif" data-lightbox="" >
+      <img style="width: 85%" src="/assets/research/2021_RAL_LTL_BT.gif">
       </a>
 </td>
 <td>
     <b>Reactive Task and Motion Planning under Temporal Logic Specifications</b><br>
     Shen Li*, <b>Daehyung Park*</b>, Yoonchang Sung*, Julie Shah, Nicholas Roy  (*- authors contributed equally)<br>
     <i>IEEE Int'l. Conf. on Robotics and Automation (ICRA 2021)</i><br>
-    A task-and-motion planning (TAMP) algorithm robust against a human operator’s cooperative or adversarial interventions.  We introduce a dynamically reconfigurable planning methodology with behavior tree-based control strategies toward reactive TAMP, which takes the advantage of previous plans and incremental graph search during temporal logic-based reactive synthesis. Our algorithm also shows efficient recovery functionalities that minimize the number of replanning steps.<br>
-    <a href="https://drive.google.com/file/d/1cxN0KfKHJLfFXi0iLjhNREyjkqn46viG/view?usp=sharing" target="_blank">[PDF]</a><a href="https://www.youtube.com/watch?v=5PrCu_hS31w" target="_blank">[Video]</a> <br>
+    <!--A task-and-motion planning (TAMP) algorithm robust against a human operator’s cooperative or adversarial interventions.  We introduce a dynamically reconfigurable planning methodology with behavior tree-based control strategies toward reactive TAMP, which takes the advantage of previous plans and incremental graph search during temporal logic-based reactive synthesis. Our algorithm also shows efficient recovery functionalities that minimize the number of replanning steps.<br>-->
+    <a href="https://drive.google.com/file/d/1cxN0KfKHJLfFXi0iLjhNREyjkqn46viG/view?usp=sharing" target="_blank">[PDF]</a><a href="https://www.youtube.com/watch?v=lPpMVfBzZH0" target="_blank">[Video]</a> <br>
 </td>
 </tr>
 </tbody>
