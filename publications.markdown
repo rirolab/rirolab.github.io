@@ -35,7 +35,7 @@ If you want to change the style of the table, please look at the publication tag
 <td>
     <b>GraphDistNet: A Graph-based Collision-distance Estimator for Gradient-based Trajectory</b><br>
     Yeseung Kim, Jinwoo Kim, Daehyung Park<br>
-    IEEE Robotics and Automation Letters (RA-L), Oral presentation in IEEE IROS, 2022 <br>
+    <i>IEEE Robotics and Automation Letters (RA-L), Oral presentation in IEEE IROS, 2022</i> <br>
     A graph neural networks (GNN) based collision distance estimator comprised of the message passing and attention mechanism for trajectory optimization. Our method shows high accuracy in complex scenes by using geometric features and calculates massive data fast by the parallelism of GPU.<br>
     <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9851942" target="_blank">[PDF]</a> <a href="https://youtu.be/QIBt6AR9KmI" target="_blank">[Video]</a> <a href="https://arxiv.org/abs/2206.01517" target="_blank">[arxiv]</a><br>
 </td>
@@ -103,7 +103,7 @@ Ariel Kapusta, Philip Grice, Henry Clever, Yash Chitalia, <b>Daehyung Park</b>, 
 <td>
     <b>Natural Language-Guided Navigation using Scene Graph</b><br>
     Dohyun Kim*, Jinwoo Kim*, Minwoo Cho, <b>Daehyung Park</b> (*- authors contributed equally)<br>
-    Conference on Robot Intelligence Technology and Applications (RiTA 2022), <b style="color:blue;">Best Student Paper Award</b><br>
+    <i>Conference on Robot Intelligence Technology and Applications (RiTA 2022), <b style="color:blue;">Best Student Paper Award</b></i><br>
     A natural language-guided robotic navigation framework that can effectively ground natural-language commands in large space. Our framework consists of three modules: a scene-graph generator, a grounding network, and a semantic navigation sys-tem. The scene-graph generator incrementally stores the semantic information of object instances, properties, and relationships. Then, the proposed scene graph-based grounding network (SGGNet) predicts the desired goal robustly by associating instances in a scene graph with a user command.<br>
     <a href="https://drive.google.com/file/d/1VNGmirCewK2aaGJvAtiUq8iXOzGnGNeY/view?usp=share_link" target="_blank">[PDF]</a> <br>
 </td>
@@ -117,7 +117,7 @@ Ariel Kapusta, Philip Grice, Henry Clever, Yash Chitalia, <b>Daehyung Park</b>, 
 <td>
     <b>Confidence-based Robot Navigation under Sensor Occlusion with Deep Reinforcement Learning</b><br>
     Hyeongyeol Ryu, Minsung Yoon, <b>Daehyung Park</b>, Sung-eui Yoon<br>
-    IEEE Int'l. Conf. on Robotics and Automation (ICRA 2022), <b style="color:blue;">Outstanding Navigation Award Finalist</b><br>
+    <i>IEEE Int'l. Conf. on Robotics and Automation (ICRA 2022), <b style="color:blue;">Outstanding Navigation Award Finalist</b></i><br>
     A confidence-based navigation method that encourages the robot to explore the uncertain region around the robot maximizing its local confidence. To effectively extract features from the variable size of sensor occlusions, we adopt a point-cloud based representation network. Our method returns a resilient navigation policy via deep reinforcement learning, autonomously avoiding collisions under sensor occlusions while reaching a goal.<br>
     <a href="http://sglab.kaist.ac.kr/CBN-DRL/paper.pdf" target="_blank">[PDF]</a><a href="http://sglab.kaist.ac.kr/CBN-DRL/" target="_blank">[Video]</a> <br>
 </td>
@@ -131,7 +131,7 @@ Ariel Kapusta, Philip Grice, Henry Clever, Yash Chitalia, <b>Daehyung Park</b>, 
 <td>
     <b>Reactive Task and Motion Planning under Temporal Logic Specifications</b><br>
     Shen Li*, <b>Daehyung Park*</b>, Yoonchang Sung*, Julie Shah, Nicholas Roy  (*- authors contributed equally)<br>
-    IEEE Int'l. Conf. on Robotics and Automation (ICRA 2021)<br>
+    <i>IEEE Int'l. Conf. on Robotics and Automation (ICRA 2021)</i><br>
     A task-and-motion planning (TAMP) algorithm robust against a human operator’s cooperative or adversarial interventions.  We introduce a dynamically reconfigurable planning methodology with behavior tree-based control strategies toward reactive TAMP, which takes the advantage of previous plans and incremental graph search during temporal logic-based reactive synthesis. Our algorithm also shows efficient recovery functionalities that minimize the number of replanning steps.<br>
     <a href="https://drive.google.com/file/d/1cxN0KfKHJLfFXi0iLjhNREyjkqn46viG/view?usp=sharing" target="_blank">[PDF]</a><a href="https://www.youtube.com/watch?v=5PrCu_hS31w" target="_blank">[Video]</a> <br>
 </td>
