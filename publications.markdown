@@ -210,37 +210,6 @@ Heiko Hoffmann, Peter Pastor, <b>Daehyung Park</b>, and Stefan Schaal. “Biolog
 <div class="pub-title"> Workshop papers, Abstracts, and Posters </div>
 
 <ol>
-
-<div class="pub-item"><li>
-<!-- No PDF link -->
-<b>Daehyung Park</b>, Michael Noseworthy, Rohan Paul, Subhro Roy, and Nicholas Roy, "Joint Goal and Constraint Inference using Bayesian Nonparametric Inverse Reinforcement Learning," <i>The 4th Multidisciplinary Conf. on Reinforcement Learning and Decision Making</i>, 2019
-</li></div>
-
-<div class="pub-item"><li>
-<b>Daehyung Park</b>, Yuuna Hoshi, Harshal P. Mahajan, Wendy Rogers, and Charles C. Kemp, "Active Feeding System using a General-purpose Manipulator," <i>Int'l. Symp. on Medical Robotics (ISMR)</i>, 2018 <a href="https://arxiv.org/abs/1904.03568#:~:text=The%20meal%2Dassistance%20system%20uses,head%20movement%20by%20the%20user." target="_blank">[PDF]</a>
-</li></div>
-
-<div class="pub-item"><li>
-<!-- No PDF link -->
-<b>Daehyung Park</b> and Charles C. Kemp, "Multimodal Execution Monitoring for Robot-Assisted Feeding,"<i>TechSAge State of the Science Conference</i>, 2017
-</li></div>
-
-<div class="pub-item"><li>
-Ariel Kapusta, Yash Chitalia, <b>Daehyung Park</b>, and Charles C. Kemp. "Collaboration Between a Robotic Bed and a Mobile Manipulator May Improve Physical Assistance for People with Disabilities," <i>IEEE ROMAN workshop on </i><i><a href="http://www.cogrobotics.unina.it">Behavior, Adaptation and Learning for Assistive Robotics"</a> (BAILAR)</i>, 2016 <a href="http://pwp.gatech.edu/hrl/wp-content/uploads/sites/231/2016/07/collaboration-robotic-bed.pdf">[PDF]</a>
-</li></div>
-
-<div class="pub-item"><li>
-<b>Daehyung Park</b>, Youkeun Kim, Zackory Erickson, and Charles C. Kemp. “Towards Assistive Feeding with a General-Purpose Mobile Manipulator”, <i>ICRA workshop on</i> <i>Human-Robot Interfaces for Enhanced Physical Interactions</i>, 2016 <a href="https://arxiv.org/abs/1605.07996" target="_blank">[PDF]</a>
-</li></div>
-
-<div class="pub-item"><li>
-T. Bhattacharjee*, P. M. Grice*, A. Kapusta*, M. D. Killpack*, <b>D. Park</b>*, and C. C. Kemp. “A Robotic System for Reaching in Dense Clutter that Integrates Model Predictive Control, Learning, Haptic Mapping, and Planning”, <i>IROS workshop on Robots In Clutter</i>, 2014 (*- <b>authors contributed equally</b>) <a href="https://smartech.gatech.edu/handle/1853/53336" target="_blank">[PDF]</a> <a href="https://youtu.be/NhZBGYrMRPw" target="_blank">[Video]</a>
-</li></div>
-
-<div class="pub-item"><li>
-<b>Daehyung Park</b>, Heiko Hoffmann, and Stefan Schaal. “Combining dynamic movement primitives and potential fields for online obstacle avoidance”, <i>Adaptive Motion of Animals and Machines (AMAM08), 2008</i> <a href="http://heikohoffmann.de/documents/daedmp.pdf">[PDF]</a>
-</li></div>
-
 </ol>
 
 </div>
@@ -251,6 +220,7 @@ T. Bhattacharjee*, P. M. Grice*, A. Kapusta*, M. D. Killpack*, <b>D. Park</b>*, 
 
 <ol> 
 
+<!--
 <div class="pub-item"><li>
 <b>D. Park</b>, K. Lee, C. An, and Y. Hong. “Teaching and playback method based on control of redundancy resolution for robot and computer-readable medium controlling the same.” US Patent 12 923 650, Apr. 21, 2011. <a href="https://scienceon.kisti.re.kr/srch/selectPORSrchPatent.do?cn=USP2013108560122&dbt=USPA" target="_blank">[PDF]</a>
 </li></div>
@@ -266,6 +236,7 @@ K. Lee, Y. Hong, C. An, and D. Park. “모터 제어장치 및 모터 제어 �
 <div class="pub-item"><li>
 D. Park, K. Lee, C. An, and Y. Hong. “여유자유도 제어를 이용한 로봇의 교시 및 재현 방법 (TEACHING AND PLAYBACK METHOD USING REDUNDANCY RESOLUTION CONTROL FOR MANIPULATOR),” KR Patent App. 1,020,090,099,003, Apr. 22, 2011
 </li></div>
+-->
 
 </ol>
 
