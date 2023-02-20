@@ -65,36 +65,53 @@ If you want to change the style of the table, please look at the table tags in _
 <tbody>
 
 <tr>
-<!-- Yongdae Kim -->
+<!-- Yeseung Kim -->
 <td>
-    <a href="/assets/people/noname.jpg" data-lightbox="Yongdae Kim" >
-      <img style="width: 75%" src="/assets/people/noname.jpg">
-      </a>
+    <a href="/assets/people/yeseung_kim.jpg" data-lightbox="Yeseung Kim" >
+      <img style="width: 75%" src="/assets/people/yeseung_kim.jpg">
+    </a>
 </td>
 <td>
-    <b>Yongdae Kim</b><br>
-    School of Computing<br>
-    Part-time
+    <b>Yeseung Kim</b><br>
+    Robotics Program, 2021<br>
+    <a href="mailto:yeseung.kim.88@kaist.ac.kr">
+       <i class="fa fa-envelope-o"></i>
+       <span class="username">yeseung.kim.88@kaist.ac.kr</span>
+    </a>
     <br>
 </td>
 
 <!--Ulzhalgas Rakhman  -->
 <td>
-    <a href="/assets/people/ulzhalgas_rakhman.png" data-lightbox="Ulzhalgas Rakhman" >
-      <img style="width: 75%" src="/assets/people/ulzhalgas_rakhman.png">
-      </a>
+	<a href="/assets/people/ulzhalgas_rakhman.png" data-lightbox="Ulzhalgas Rakhman" >
+	  <img style="width: 75%" src="/assets/people/ulzhalgas_rakhman.png">
+	  </a>
 </td>
 <td>
-    <b>Ulzhalgas Rakhman</b><br>
-    School of Computing, 2022<br> 
-    <a href="mailto:urakhman@kaist.ac.kr">
-       <i class="fa fa-envelope-o"></i>
-       <span class="username">urakhman@kaist.ac.kr</span>
-    </a>
-    <br>
-    <a href="https://ulzhalgasrakhman.github.io/">Personal website</a>	
+	<b>Ulzhalgas Rakhman</b><br>
+	School of Computing, 2022<br> 
+	<a href="mailto:urakhman@kaist.ac.kr">
+	   <i class="fa fa-envelope-o"></i>
+	   <span class="username">urakhman@kaist.ac.kr</span>
+	</a>
+	<br>
+	<a href="https://ulzhalgasrakhman.github.io/">Personal website</a>	
 </td>
 
+</tr>
+<tr>	
+	<!-- Yongdae Kim -->
+	<td>
+		<a href="/assets/people/noname.jpg" data-lightbox="Yongdae Kim" >
+		  <img style="width: 75%" src="/assets/people/noname.jpg">
+		  </a>
+	</td>
+	<td>
+		<b>Yongdae Kim</b><br>
+		School of Computing<br>
+		Part-time
+		<br>
+	</td>	
 </tr>
 
 </tbody>
@@ -116,146 +133,109 @@ If you want to change the style of the table, please look at the table tags in _
 <tbody>
 
 <tr>
-    
-
-<!-- Yeseung Kim -->
-<td>
-    <a href="/assets/people/yeseung_kim.jpg" data-lightbox="Yeseung Kim" >
-      <img style="width: 75%" src="/assets/people/yeseung_kim.jpg">
-    </a>
-</td>
-<td>
-    <b>Yeseung Kim</b><br>
-    Robotics Program, 2021<br>
-    <a href="mailto:yeseung.kim.88@gmail.com">
-       <i class="fa fa-envelope-o"></i>
-       <span class="username">yeseung.kim.88@gmail.com</span>
-    </a>
-    <br>
-</td>
+<!-- Jaehwi Jang -->
+	<td>
+		<a href="/assets/people/jaehwi_jang.jpg" data-lightbox="Jaehwi Jang" >
+		  <img style="width: 75%" src="/assets/people/jaehwi_jang.jpg">
+		</a>
+	</td>
+	<td>
+		<b>Jaehwi Jang</b><br>
+		Graduate School of AI, 2022<br>
+		<a href="mailto:wognl0402@kaist.ac.kr">
+		   <i class="fa fa-envelope-o"></i>
+		   <span class="username">wognl0402@kaist.ac.kr</span>
+		</a>
+		<br>
+	</td>
 
 
 <!-- Chanyoung Ahn -->
-<td>
-    <a href="/assets/people/chanyoung_ahn.jpg" data-lightbox="Chanyoung Ahn" >
-      <img style="width: 75%" src="/assets/people/chanyoung_ahn.jpg">
-    </a>
-</td>
-<td>
-    <b>Chanyoung Ahn</b><br>
-    Robotics Program, 2021<br>
-    <a href="mailto:coldyoung@kaist.ac.kr">
-       <i class="fa fa-envelope-o"></i>
-       <span class="username">coldyoung@kaist.ac.kr</span>
-    </a>
-    <br>
-</td>
-
-<td></td>
-<td></td>
-
+	<td>
+		<a href="/assets/people/chanyoung_ahn.jpg" data-lightbox="Chanyoung Ahn" >
+		  <img style="width: 75%" src="/assets/people/chanyoung_ahn.jpg">
+		</a>
+	</td>
+	<td>
+		<b>Chanyoung Ahn</b><br>
+		Robotics Program, 2021<br>
+		<a href="mailto:coldyoung@kaist.ac.kr">
+		   <i class="fa fa-envelope-o"></i>
+		   <span class="username">coldyoung@kaist.ac.kr</span>
+		</a>
+		<br>
+	</td>
 </tr>
     
     
     
 <tr>
 <!-- Minjae Song -->
-<td>
-    <a href="/assets/people/minjae_song.jpg" data-lightbox="Minjae Song" >
-      <img style="width: 75%" src="/assets/people/minjae_song.jpg">
-    </a>
-</td>
-<td>
-    <b>Minjae Song</b><br>
-    School of Computing, 2022<br>
-    <a href="mailto:smj0398@kaist.ac.kr">
-       <i class="fa fa-envelope-o"></i>
-       <span class="username">smj0398@kaist.ac.kr</span>
-    </a>
-    <br>
-</td>
+	<td>
+		<a href="/assets/people/minjae_song.jpg" data-lightbox="Minjae Song" >
+		  <img style="width: 75%" src="/assets/people/minjae_song.jpg">
+		</a>
+	</td>
+	<td>
+		<b>Minjae Song</b><br>
+		School of Computing, 2022<br>
+		<a href="mailto:smj0398@kaist.ac.kr">
+		   <i class="fa fa-envelope-o"></i>
+		   <span class="username">smj0398@kaist.ac.kr</span>
+		</a>
+		<br>
+	</td>
 
-   
-<td>
-    <a href="/assets/people/jinwoo_kim.jpg" data-lightbox="Jinwoo Kim" >
-      <img style="width: 75%" src="/assets/people/jinwoo_kim.jpg">
-    </a>
-</td>
-<td>
-    <b>Jinwoo Kim</b><br>
-    School of Computing, 2022<br>
-    <a href="mailto:kjwoo31@kaist.ac.kr">
-       <i class="fa fa-envelope-o"></i>
-       <span class="username">kjwoo31@kaist.ac.kr</span>
-    </a>
- 
-</td>
+<!-- 김진우  -->
+	<td>
+		<a href="/assets/people/jinwoo_kim.jpg" data-lightbox="Jinwoo Kim" >
+		  <img style="width: 75%" src="/assets/people/jinwoo_kim.jpg">
+		</a>
+	</td>
+	<td>
+		<b>Jinwoo Kim</b><br>
+		School of Computing, 2022<br>
+		<a href="mailto:kjwoo31@kaist.ac.kr">
+		   <i class="fa fa-envelope-o"></i>
+		   <span class="username">kjwoo31@kaist.ac.kr</span>
+		</a>
+		<br>
+	</td>
 </tr>
 <tr>    
-<!-- Jaehwi Jang -->
-<td>
-    <a href="/assets/people/jaehwi_jang.jpg" data-lightbox="Jaehwi Jang" >
-      <img style="width: 75%" src="/assets/people/jaehwi_jang.jpg">
-    </a>
-</td>
-<td>
-    <b>Jaehwi Jang</b><br>
-    Graduate School of AI, 2022<br>
-    <a href="mailto:wognl0402@kaist.ac.kr">
-       <i class="fa fa-envelope-o"></i>
-       <span class="username">wognl0402@kaist.ac.kr</span>
-    </a>
-    <br>
-</td>
-</tr>    
-</tbody>
-
-<!---------------- Undergrad --------------------->
-<table>
-<colgroup>
-<col width="15%" />
-<col width="35%" />
-<col width="15%" />
-<col width="35%" />
-</colgroup>
-<thead>
-<tr>
-<th class="caption" colspan="4">Undergrad Students</th>
-</tr>
-</thead>
-<tbody>
 <!--김도현-->
-<td>
-    <a href="/assets/people/kim_dohyun.jpg" data-lightbox="No name" >
-      <img style="width: 75%" src="/assets/people/kim_dohyun.jpg">
-      </a>
-</td>
-<td>
-    <b>Dohyun Kim</b><br>
-    School of Computing<br>
-     <a href="mailto:dohyun141@kaist.ac.kr">
-       <i class="fa fa-envelope-o"></i>
-       <span class="username">dohyun141@kaist.ac.kr</span>
-    </a>
-    <br>    
-    <br>
-</td>
+	<td>
+		<a href="/assets/people/kim_dohyun.jpg" data-lightbox="No name" >
+		  <img style="width: 75%" src="/assets/people/kim_dohyun.jpg">
+		  </a>
+	</td>
+	<td>
+		<b>Dohyun Kim</b><br>
+		School of Computing<br>
+		 <a href="mailto:dohyun141@kaist.ac.kr">
+		   <i class="fa fa-envelope-o"></i>
+		   <span class="username">dohyun141@kaist.ac.kr</span>
+		</a>
+		<br>    
+		<br>
+	</td>
 <!--하정호  -->
-<td>
-    <a href="/assets/people/jeongho_ha.jpg" data-lightbox="No name" >
-      <img style="width: 75%" src="/assets/people/jeongho_ha.jpg">
-      </a>
-</td>
-<td>
-    <b>JeongHo Ha</b><br>
-    School of Computing<br>
-     <a href="mailto:hajeongho95@kaist.ac.kr">
-       <i class="fa fa-envelope-o"></i>
-       <span class="username">hajeongho95@kaist.ac.kr </span>
-    </a>
-    <br>    
-    <br>
-</td>
+	<td>
+		<a href="/assets/people/jeongho_ha.jpg" data-lightbox="No name" >
+		  <img style="width: 75%" src="/assets/people/jeongho_ha.jpg">
+		  </a>
+	</td>
+	<td>
+		<b>JeongHo Ha</b><br>
+		School of Computing<br>
+		 <a href="mailto:hajeongho95@kaist.ac.kr">
+		   <i class="fa fa-envelope-o"></i>
+		   <span class="username">hajeongho95@kaist.ac.kr </span>
+		</a>
+		<br>    
+		<br>
+	</td>
+</tr> 
 <tr>
 <!--황덕민  -->
     <td>
@@ -273,7 +253,42 @@ If you want to change the style of the table, please look at the table tags in _
         <br>    
         <br>
     </td>
-    <!--Minwoo Cho  -->
+<!-- 박봉경 -->
+	<td>
+		<a href="/assets/people/bonggyeong_park.png" data-lightbox=" Bonggyeong Park" >
+		  <img style="width: 75%" src="/assets/people/bonggyeong_park.png">
+		  </a>
+	</td>
+	<td>
+		<b>Bonggyeong Park</b><br>
+		Research Assistant<br>
+		 <a href="mailto:iampbk7@gmail.com">
+		   <i class="fa fa-envelope-o"></i>
+		   <span class="username">iampbk7@gmail.com</span>
+		</a>
+		<br>
+	</td>
+</tr>
+</tbody>
+
+<!---------------- Undergrad --------------------->
+<table>
+<colgroup>
+<col width="15%" />
+<col width="35%" />
+<col width="15%" />
+<col width="35%" />
+</colgroup>
+<thead>
+<tr>
+<th class="caption" colspan="4">Undergrad Students</th>
+</tr>
+</thead>
+<tbody>
+
+
+<tr>
+<!--Minwoo Cho  -->
     <td>
         <a href="/assets/people/minwoo_cho.jpg" data-lightbox="No name" >
         <img style="width: 75%" src="/assets/people/minwoo_cho.jpg">
@@ -288,29 +303,6 @@ If you want to change the style of the table, please look at the table tags in _
         </a>
         <br>    
         <br>
-    </td>
-			
-</tr>
-<tr>
-<!--Minwoo Cho  -->
-    <td>
-        <a href="/assets/people/bibek_kc.JPG" data-lightbox="No name" >
-        <img style="width: 75%" src="/assets/people/bibek_kc.JPG">
-        </a>
-    </td>
-    <td>
-        <b>Bibek KC</b><br>
-        Electrical Engineering <br>
-        <a href="mailto:bibekyess@kaist.ac.kr">
-        <i class="fa fa-envelope-o"></i>
-        <span class="username">bibekyess@kaist.ac.kr </span>
-        </a>
-        <br>    
-        <br>
-    </td>
-    <td>
-    </td>
-    <td>
     </td>
 </tr>
 
@@ -333,28 +325,15 @@ If you want to change the style of the table, please look at the table tags in _
 
 <tr>
 
-<!-- No name -->
-<td>
-    <a href="/assets/people/bonggyeong_park.png" data-lightbox=" Bonggyeong Park" >
-      <img style="width: 75%" src="/assets/people/bonggyeong_park.png">
-      </a>
-</td>
-<td>
-    <b>Bonggyeong Park</b><br>
-    Research Assistant<br>
-     <a href="mailto:iampbk7@gmail.com">
-       <i class="fa fa-envelope-o"></i>
-       <span class="username">iampbk7@gmail.com</span>
-    </a>
-    <br>
-</td>
+
 
 
 </tr>
 
 </tbody>
 
-    <!------------ Research Associate and Assistant ---------------->
+
+<!---------------- Alum. --------------------->
 <table>
 <colgroup>
 <col width="15%" />
@@ -384,6 +363,5 @@ If you want to change the style of the table, please look at the table tags in _
 
 </tbody>
 
-<!---------------- Alum. --------------------->
 
 </table>
