@@ -268,7 +268,7 @@ If you want to change the style of the table, please look at the table tags in _
 		Robotics Program, 2023<br>
 		 <a href="mailto:iampbk@kaist.ac.kr">
 		   <i class="fa fa-envelope-o"></i>
-		   <span class="username">iampbk7@gmail.com</span>
+		   <span class="username">iampbk@kaist.ac.kr</span>
 		</a>
 		<br>
 	</td>
