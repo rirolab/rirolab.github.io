@@ -266,7 +266,7 @@ If you want to change the style of the table, please look at the table tags in _
 	<td>
 		<b>Bonggyeong Park</b><br>
 		Robotics Program, 2023<br>
-		 <a href="mailto:iampbk7@gmail.com">
+		 <a href="mailto:iampbk@kaist.ac.kr">
 		   <i class="fa fa-envelope-o"></i>
 		   <span class="username">iampbk7@gmail.com</span>
 		</a>
