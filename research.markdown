@@ -5,12 +5,6 @@ permalink: /research/
 ---
 
 
-<td markdown="span">
-    <a href="/assets/research/research_areas.png" data-lightbox="Research Areas" >
-      <img style="width: 1000px" src="/assets/research/research_areas.png">
-      </a>
-</td>
-
 
 <table>
 <colgroup>
@@ -19,6 +13,9 @@ permalink: /research/
 </colgroup>
 <thead>
 <tr>
+<div class="video-container">
+<iframe width="560" height="315"  src="https://www.youtube.com/embed/U--BgrBPQfI?start=37&end=86&loop=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
 <th class="caption">Topic</th>
 <th class="caption">Description</th>
 </tr>
@@ -47,14 +44,15 @@ this line of research, we propose three research thrusts: 1) a physics-informed 
 <a href="https://drive.google.com/open?id=1bswpgVJDXp_9vh55_Gz1cAbylhhjQqhS" target="_blank">[PDF]</a><a href="https://youtu.be/HgaqH4PWcTI" target="_blank">[Video]</a>
 </td>
 </tr>
+
 <tr>
 <td markdown="span">
-    <a href="/assets/research/2021_RAL_LTL_BT.png" data-lightbox="ral20_ltl_bt" >
-      <img style="width: 350px" src="/assets/research/2021_RAL_LTL_BT_opt.png">
+    <a href="/assets/research/2022_RAL_Graphdistnet.gif" data-lightbox="ral22_graphdistnet">
+      <img style="width: 350px" src="/assets/research/2022_RAL_Graphdistnet.gif">
       </a>
 </td>
 <td class="description">
-<b>Dynamically Reconfigurable Task-and-Motion Planning</b>
+<b>Task-and-Motion Planning</b>
 <br> We aim to introduce task-and-motion planning (TAMP) framework that is to solve complex and longer-time horizon of human tasks. To resolve completeness, optimality, and robustness issues, we are working on various task planning and motion planning approaches. We will show a generalizable TAMP framework under human operator’s cooperative or adversarial interventions.
 <br>    
 <br>
@@ -88,12 +86,12 @@ this line of research, we propose three research thrusts: 1) a physics-informed 
       <img style="width: 350px" src="/assets/research/2018_CORL_opt.png">
       </a>
 </td>
-<td  class="description">
+<td class="description">
 <b>Machine Common Sense Learning for Robots</b>
-<br>Interpreting underspecified instructions re-quires environmental context and background knowledge about how to accomplish complex tasks. We investigate how to incorporate human-like commonsense knowledge for natural language understanding and task executions. You can find related papers as follows,
+<br>Interpreting underspecified instructions re-quires environmental context and background knowledge about how to accomplish complex tasks. We investigate how to incorporate human-like commonsense knowledge for natural language understanding and task executions. You can find related papers as follows:
 <br>
 <br>
-<b>Keywords</b>: 
+<b>Keywords</b>:
 <br>            
 <b>Selected paper</b>: Daniel Nyga et al. "Grounding Robot Plans from Natural Language Instructions with Incomplete World Knowledge", CoRL, 2018.
 <a href="http://proceedings.mlr.press/v87/nyga18a/nyga18a.pdf" target="_blank">[PDF]</a><a href="https://youtu.be/uWv-l7XMoB8" target="_blank">[Video]</a>
