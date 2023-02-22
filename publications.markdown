@@ -15,6 +15,10 @@ If you want to change the style of the table, please look at the publication tag
 <div class="publication">
 <div class="pub-title"> Journal Articles </div>
 
+
+
+
+<ol> 
 <table>
 <colgroup>
 <col width="25%" />
@@ -22,7 +26,7 @@ If you want to change the style of the table, please look at the publication tag
 </colgroup>
 <thead>
 <tr>
-<th class="pub-item" colspan="2"></th>
+<th colspan="2"></th>
 </tr>
 </thead>
 <tbody>
@@ -36,15 +40,15 @@ If you want to change the style of the table, please look at the publication tag
     <b>GraphDistNet: A Graph-based Collision-distance Estimator for Gradient-based Trajectory</b><br>
     Yeseung Kim, Jinwoo Kim, Daehyung Park<br>
     <i>IEEE Robotics and Automation Letters (RA-L), Oral presentation in IEEE IROS, 2022</i> <br>
-    A graph neural networks (GNN) based collision distance estimator comprised of the message passing and attention mechanism for trajectory optimization. Our method shows high accuracy in complex scenes by using geometric features and calculates massive data fast by the parallelism of GPU.<br>
+    <!-- A graph neural networks (GNN) based collision distance estimator comprised of the message passing and attention mechanism for trajectory optimization. Our method shows high accuracy in complex scenes by using geometric features and calculates massive data fast by the parallelism of GPU.<br> -->
     <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9851942" target="_blank">[PDF]</a> <a href="https://youtu.be/QIBt6AR9KmI" target="_blank">[Video]</a> <a href="https://arxiv.org/abs/2206.01517" target="_blank">[arxiv]</a><br>
 </td>
 </tr>
 </tbody>
 </table>
 
+<i>Previous Publications</i>
 
-<ol> 
 <div class="pub-item"><li>
 Howard, T., Stump, E., Fink, J., Arkin, J., Paul, R., <b>Park, D.</b>, Roy, S., Barber, D., Bendell, R., Schmeckpeper, K., Tian, J., Oh, J., Wigness, M., Quang, L., Rothrock, B., Nash, J., Walter, M., Jentsch, F., & Roy, N. "An Intelligence Architecture for Grounded Language Communication with Field Robots", 2022. 
 <a href=" http://fieldrobotics.net/Field_Robotics/Volume_2_files/Vol2_17.pdf" target="_blank">[PDF]</a> 
@@ -83,6 +87,9 @@ Ariel Kapusta, Philip Grice, Henry Clever, Yash Chitalia, <b>Daehyung Park</b>, 
 <div class="publication">
 <div class="pub-title"> International Conference Articles </div>
 
+
+
+<ol>
 <table>
 <colgroup>
 <col width="25%" />
@@ -90,21 +97,21 @@ Ariel Kapusta, Philip Grice, Henry Clever, Yash Chitalia, <b>Daehyung Park</b>, 
 </colgroup>
 <thead>
 <tr>
-<th class="pub-item" colspan="2"></th>
+<th colspan="2"></th>
 </tr>
 </thead>
 <tbody>
 <tr>
 <td>
-    <a href="/assets/research/2022_RiTA_framework.png" data-lightbox="" >
-      <img style="width: 85%" src="/assets/research/2022_RiTA_framework.png">
+    <a href="/assets/research/2022_RiTA_Navigation.gif" data-lightbox="" >
+      <img style="width: 85%" src="/assets/research/2022_RiTA_Navigation.gif">
       </a>
 </td>
 <td>
     <b>Natural Language-Guided Navigation using Scene Graph</b><br>
-    Dohyun Kim*, Jinwoo Kim*, Minwoo Cho, <b>Daehyung Park</b> (*- authors contributed equally)<br>
+    Dohyun Kim*, Jinwoo Kim*, Minwoo Cho, Daehyung Park (*- authors contributed equally)<br>
     <i>Conference on Robot Intelligence Technology and Applications (RiTA 2022), <b style="color:blue;">Best Student Paper Award</b></i><br>
-    A natural language-guided robotic navigation framework that can effectively ground natural language commands in large space. Our framework consists of three modules: a scene-graph generator, a grounding network, and a semantic navigation system. The scene-graph generator incrementally stores the semantic and geometric information of object instances. Then, the proposed scene graph-based grounding network (SGGNet) predicts the desired goal robustly by associating instances in a scene graph with a user command. Finally, the navigation system enables the robot to reach the goal.<br>
+    <!-- A natural language-guided robotic navigation framework that can effectively ground natural-language commands in large space. Our framework consists of three modules: a scene-graph generator, a grounding network, and a semantic navigation sys-tem. The scene-graph generator incrementally stores the semantic information of object instances, properties, and relationships. Then, the proposed scene graph-based grounding network (SGGNet) predicts the desired goal robustly by associating instances in a scene graph with a user command.<br> -->
     <a href="https://drive.google.com/file/d/1VNGmirCewK2aaGJvAtiUq8iXOzGnGNeY/view?usp=share_link" target="_blank">[PDF]</a> <br>
 </td>
 </tr>
@@ -116,9 +123,9 @@ Ariel Kapusta, Philip Grice, Henry Clever, Yash Chitalia, <b>Daehyung Park</b>, 
 </td>
 <td>
     <b>Confidence-based Robot Navigation under Sensor Occlusion with Deep Reinforcement Learning</b><br>
-    Hyeongyeol Ryu, Minsung Yoon, <b>Daehyung Park</b>, Sung-eui Yoon<br>
+    Hyeongyeol Ryu, Minsung Yoon, Daehyung Park, Sung-eui Yoon<br>
     <i>IEEE Int'l. Conf. on Robotics and Automation (ICRA 2022), <b style="color:blue;">Outstanding Navigation Award Finalist</b></i><br>
-    A confidence-based navigation method that encourages the robot to explore the uncertain region around the robot maximizing its local confidence. To effectively extract features from the variable size of sensor occlusions, we adopt a point-cloud based representation network. Our method returns a resilient navigation policy via deep reinforcement learning, autonomously avoiding collisions under sensor occlusions while reaching a goal.<br>
+    <!-- A confidence-based navigation method that encourages the robot to explore the uncertain region around the robot maximizing its local confidence. To effectively extract features from the variable size of sensor occlusions, we adopt a point-cloud based representation network. Our method returns a resilient navigation policy via deep reinforcement learning, autonomously avoiding collisions under sensor occlusions while reaching a goal.<br> -->
     <a href="http://sglab.kaist.ac.kr/CBN-DRL/paper.pdf" target="_blank">[PDF]</a><a href="http://sglab.kaist.ac.kr/CBN-DRL/" target="_blank">[Video]</a> <br>
 </td>
 </tr>
@@ -130,15 +137,16 @@ Ariel Kapusta, Philip Grice, Henry Clever, Yash Chitalia, <b>Daehyung Park</b>, 
 </td>
 <td>
     <b>Reactive Task and Motion Planning under Temporal Logic Specifications</b><br>
-    Shen Li*, <b>Daehyung Park*</b>, Yoonchang Sung*, Julie Shah, Nicholas Roy  (*- authors contributed equally)<br>
+    Shen Li*, Daehyung Park*, Yoonchang Sung*, Julie Shah, Nicholas Roy  (*- authors contributed equally)<br>
     <i>IEEE Int'l. Conf. on Robotics and Automation (ICRA 2021)</i><br>
-    <!--A task-and-motion planning (TAMP) algorithm robust against a human operator’s cooperative or adversarial interventions.  We introduce a dynamically reconfigurable planning methodology with behavior tree-based control strategies toward reactive TAMP, which takes the advantage of previous plans and incremental graph search during temporal logic-based reactive synthesis. Our algorithm also shows efficient recovery functionalities that minimize the number of replanning steps.<br>-->
-    <a href="https://drive.google.com/file/d/1cxN0KfKHJLfFXi0iLjhNREyjkqn46viG/view?usp=sharing" target="_blank">[PDF]</a> <a href="https://www.youtube.com/watch?v=lPpMVfBzZH0" target="_blank">[Video]</a> <br>
+    <!-- A task-and-motion planning (TAMP) algorithm robust against a human operator’s cooperative or adversarial interventions.  We introduce a dynamically reconfigurable planning methodology with behavior tree-based control strategies toward reactive TAMP, which takes the advantage of previous plans and incremental graph search during temporal logic-based reactive synthesis. Our algorithm also shows efficient recovery functionalities that minimize the number of replanning steps.<br> -->
+    <a href="https://drive.google.com/file/d/1cxN0KfKHJLfFXi0iLjhNREyjkqn46viG/view?usp=sharing" target="_blank">[PDF]</a><a href="https://www.youtube.com/watch?v=5PrCu_hS31w" target="_blank">[Video]</a> <br>
 </td>
 </tr>
 </tbody>
-</table>    
-<ol>
+</table>
+
+<i>Previous Publications</i>
 
 <div class="pub-item"><li>
 <b>Daehyung Park</b>, Michael Noseworthy, Rohan Paul, Subhro Roy, and Nicholas Roy. "Inferring Task Goals and Constraints using Bayesian Nonparametric Inverse Reinforcement Learning", <i>Conference on Robot Learning (CoRL2019) </i> <a href="https://drive.google.com/open?id=1bswpgVJDXp_9vh55_Gz1cAbylhhjQqhS" target="_blank">[PDF]</a> <a href="https://youtu.be/HgaqH4PWcTI" target="_blank">[Video]</a> <b>Oral presentation, 5% oral acceptance rate</b>
@@ -201,22 +209,47 @@ Heiko Hoffmann, Peter Pastor, <b>Daehyung Park</b>, and Stefan Schaal. “Biolog
 </div>
 
 
-
-
 <!------------------- Workshop papers, Abstracts, and Posters --------------------->
-<!--
+<!-- 
 <div class="publication">
 <div class="pub-title"> Workshop papers, Abstracts, and Posters </div>
 
 <ol>
+
+<div class="pub-item"><li>
+<b>Daehyung Park</b>, Michael Noseworthy, Rohan Paul, Subhro Roy, and Nicholas Roy, "Joint Goal and Constraint Inference using Bayesian Nonparametric Inverse Reinforcement Learning," <i>The 4th Multidisciplinary Conf. on Reinforcement Learning and Decision Making</i>, 2019
+</li></div>
+
+<div class="pub-item"><li>
+<b>Daehyung Park</b>, Yuuna Hoshi, Harshal P. Mahajan, Wendy Rogers, and Charles C. Kemp, "Active Feeding System using a General-purpose Manipulator," <i>Int'l. Symp. on Medical Robotics (ISMR)</i>, 2018 <a href="https://arxiv.org/abs/1904.03568#:~:text=The%20meal%2Dassistance%20system%20uses,head%20movement%20by%20the%20user." target="_blank">[PDF]</a>
+</li></div>
+
+<div class="pub-item"><li>
+<b>Daehyung Park</b> and Charles C. Kemp, "Multimodal Execution Monitoring for Robot-Assisted Feeding,"<i>TechSAge State of the Science Conference</i>, 2017
+</li></div>
+
+<div class="pub-item"><li>
+Ariel Kapusta, Yash Chitalia, <b>Daehyung Park</b>, and Charles C. Kemp. "Collaboration Between a Robotic Bed and a Mobile Manipulator May Improve Physical Assistance for People with Disabilities," <i>IEEE ROMAN workshop on </i><i><a href="http://www.cogrobotics.unina.it">Behavior, Adaptation and Learning for Assistive Robotics"</a> (BAILAR)</i>, 2016 <a href="http://pwp.gatech.edu/hrl/wp-content/uploads/sites/231/2016/07/collaboration-robotic-bed.pdf">[PDF]</a>
+</li></div>
+
+<div class="pub-item"><li>
+<b>Daehyung Park</b>, Youkeun Kim, Zackory Erickson, and Charles C. Kemp. “Towards Assistive Feeding with a General-Purpose Mobile Manipulator”, <i>ICRA workshop on</i> <i>Human-Robot Interfaces for Enhanced Physical Interactions</i>, 2016 <a href="https://arxiv.org/abs/1605.07996" target="_blank">[PDF]</a>
+</li></div>
+
+<div class="pub-item"><li>
+T. Bhattacharjee*, P. M. Grice*, A. Kapusta*, M. D. Killpack*, <b>D. Park</b>*, and C. C. Kemp. “A Robotic System for Reaching in Dense Clutter that Integrates Model Predictive Control, Learning, Haptic Mapping, and Planning”, <i>IROS workshop on Robots In Clutter</i>, 2014 (*- <b>authors contributed equally</b>) <a href="https://smartech.gatech.edu/handle/1853/53336" target="_blank">[PDF]</a> <a href="https://youtu.be/NhZBGYrMRPw" target="_blank">[Video]</a>
+</li></div>
+
+<div class="pub-item"><li>
+<b>Daehyung Park</b>, Heiko Hoffmann, and Stefan Schaal. “Combining dynamic movement primitives and potential fields for online obstacle avoidance”, <i>Adaptive Motion of Animals and Machines (AMAM08), 2008</i> <a href="http://heikohoffmann.de/documents/daedmp.pdf">[PDF]</a>
+</li></div>
+
 </ol>
 
-</div>
--->
+</div> -->
 
 <!------------------- Patents --------------------->
-<!--
-<div class="publication">
+<!-- <div class="publication">
 <div class="pub-title"> Patents </div>
 
 <ol> 
@@ -239,5 +272,4 @@ D. Park, K. Lee, C. An, and Y. Hong. “여유자유도 제어를 이용한 로�
 
 </ol>
 
-</div>
--->
+</div>  -->
