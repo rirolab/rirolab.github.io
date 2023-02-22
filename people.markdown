@@ -115,6 +115,8 @@ If you want to change the style of the table, please look at the table tags in _
 		Part-time
 		<br>
 	</td>	
+	<td></td>
+	<td></td>
 </tr>
 
 </tbody>
@@ -306,7 +308,8 @@ If you want to change the style of the table, please look at the table tags in _
         <br>    
         <br>
     </td>
-
+	<td></td>
+	<td></td>
 </tr>
 
 </tbody>
@@ -327,7 +330,10 @@ If you want to change the style of the table, please look at the table tags in _
 <tbody>
 
 <tr>
-
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 
 
 
@@ -359,6 +365,8 @@ If you want to change the style of the table, please look at the table tags in _
 </td>
 <td>
 </td>
+<td></td>
+<td></td>
 
 
 

@@ -15,7 +15,7 @@ exclude:
 # Site settings
 title: RIRO Lab
 subtitle: Robust Intelligence and Robotics Laboratory
-email: daehyung@kaist.ac.kr
+email: hajeongho95@kaist.ac.kr
 name: Daehyung Park
 department: School of Computing
 institute: Korea Advanced Institute of Science and Technology(KAIST)
@@ -124,8 +124,8 @@ navigation:
           url: /research
         - title: "Equipment"
           url: /equipment
-        - title: "Student Awards"
-          url: /student_awards
+        # - title: "Student Awards"
+        #   url: /student_awards
   - title: "Publications"
     sublinks:
         - title: "International"
@@ -140,8 +140,8 @@ navigation:
           url: /graduates      
         - title: "Undergrads"
           url: /undergrads      
-  - title: "Contact"
-    url: /contact
+  # - title: "Contact"
+  #   url: /contact
     
 
 
