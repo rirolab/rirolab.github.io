@@ -1,10 +1,10 @@
 ---
 layout: page
 title: News
-permalink: /news/
+permalink: "/news/"
 ---
 
- <div class=wrapper>
+ <div>
       <ul class="news-list">
         <li>A new IITP grant on contact-rich robotic manipulation</li>
         <li>Professor Daehyung Park has been selected to receive the Google Research Scholar Award!</li>       
