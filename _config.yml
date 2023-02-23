@@ -15,13 +15,15 @@ exclude:
 # Site settings
 title: RIRO Lab
 subtitle: Robust Intelligence and Robotics Laboratory
-email: hajeongho95@kaist.ac.kr
+email: daehyung@kaist.ac.kr
 name: Daehyung Park
 department: School of Computing
 institute: Korea Advanced Institute of Science and Technology(KAIST)
 address1: "RIRO Lab., Room 2429"
 address2: 291 Daehak-ro Building E3-1, Yuseong, Daejeon (34141), Republic of Korea
 description: This is the webpage of Robust Intelligence and Robotics Laboratory at KAIST.
+admin: JeongHo Ha
+admin_email: hajeongho95@kaist.ac.kr
   
 # Base URL of site (i.e. /blog). It should always start with a slash,
 # and never end with a slash. Set it to a blank value if hosting at the
@@ -122,8 +124,8 @@ navigation:
     sublinks:
         - title: "Current Topics"
           url: /research
-        - title: "Equipment"
-          url: /equipment
+        - title: "Equipments"
+          url: /equipments
         # - title: "Student Awards"
         #   url: /student_awards
   - title: "Publications"
