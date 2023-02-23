@@ -32,8 +32,8 @@ If you want to change the style of the table, please look at the publication tag
 <tbody>
 <tr>
 <td>
-    <a href="/assets/research/graphdistnet.png" data-lightbox="" >
-      <img style="width: 85%" src="/assets/research/graphdistnet.png">
+    <a href="/assets/research/2022_RAL_Graphdistnet.gif" data-lightbox="" >
+      <img style="width: 85%" src="/assets/research/2022_RAL_Graphdistnet.gif">
       </a>
 </td>
 <td>
@@ -41,22 +41,39 @@ If you want to change the style of the table, please look at the publication tag
     Yeseung Kim, Jinwoo Kim, Daehyung Park<br>
     <i>IEEE Robotics and Automation Letters (RA-L), Oral presentation in IEEE IROS, 2022</i> <br>
     <!-- A graph neural networks (GNN) based collision distance estimator comprised of the message passing and attention mechanism for trajectory optimization. Our method shows high accuracy in complex scenes by using geometric features and calculates massive data fast by the parallelism of GPU.<br> -->
-    <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9851942" target="_blank">[PDF]</a> <a href="https://youtu.be/QIBt6AR9KmI" target="_blank">[Video]</a> <a href="https://arxiv.org/abs/2206.01517" target="_blank">[arxiv]</a><br>
+    <a href="https://drive.google.com/file/d/1JaM-k-oghrX0e7-N_Gru2O_wY-8CoRfr/view?usp=sharing" target="_blank">[PDF]</a> <a href="https://youtu.be/QIBt6AR9KmI" target="_blank">[Video]</a>
+</td>
+</tr>
+<tr>
+<td>
+    <a href="/assets/research/2022_FR_IAGLC.png" data-lightbox="" >
+      <img style="width: 85%" src="/assets/research/2022_FR_IAGLC.png">
+      </a>
+</td>
+<td>
+    <b>An Intelligence Architecture for Grounded Language Communication with Field Robots</b><br>
+    Howard, T., Stump, E., Fink, J., Arkin, J., Paul, R., Park, D., Roy, S., Barber, D., Bendell, R., Schmeckpeper, K., Tian, J., Oh, J., Wigness, M., Quang, L., Rothrock, B., Nash, J., Walter, M., Jentsch, F., & Roy, N.<br>
+    <i>Field Robotics, 2(1), 2022</i> <br>
+    <a href=" http://fieldrobotics.net/Field_Robotics/Volume_2_files/Vol2_17.pdf" target="_blank">[PDF]</a><br>
+</td>
+</tr>
+<tr>
+<td>
+    <a href="/assets/research/2020_IJRR_MM.jpeg" data-lightbox="" >
+      <img style="width: 85%" src="/assets/research/2020_IJRR_MM.jpeg">
+      </a>
+</td>
+<td>
+    <b>Multi-Modal Estimation and Communication of Latent Semantic Knowledge for Robust Execution of Robot Instructions</b><br>
+    Daehyung Park, Jacob Arkin, Subhro Roy, Matthew R. Walter, Nicholas Roy, Thomas M. Howard, and Rohan Paul.<br>
+    <i>The International Journal of Robotics Research (IJRR), 2020</i> <br>
+    <a href="https://journals.sagepub.com/eprint/PSW4Z5AXF4AYTSXRN7AI/full" target="_blank">[PDF]</a> <a href="https://www.youtube.com/watch?v=BfCeYsTvaOw&amp;feature=youtu.be" target="_blank">[Video]</a><br>
 </td>
 </tr>
 </tbody>
 </table>
 
 <i>Previous Publications</i>
-
-<div class="pub-item"><li>
-Howard, T., Stump, E., Fink, J., Arkin, J., Paul, R., <b>Park, D.</b>, Roy, S., Barber, D., Bendell, R., Schmeckpeper, K., Tian, J., Oh, J., Wigness, M., Quang, L., Rothrock, B., Nash, J., Walter, M., Jentsch, F., & Roy, N. "An Intelligence Architecture for Grounded Language Communication with Field Robots", 2022. 
-<a href=" http://fieldrobotics.net/Field_Robotics/Volume_2_files/Vol2_17.pdf" target="_blank">[PDF]</a> 
- </li></div>
- 
-<div class="pub-item"><li>
-<b>Daehyung Park*</b>, Jacob Arkin*, Subhro Roy, Matthew R. Walter, Nicholas Roy, Thomas M. Howard, and Rohan Paul. "Multi-Modal Estimation and Communication of Latent Semantic Knowledge for Robust Execution of Robot Instructions", <i>The International Journal of Robotics Research </i>(IJRR), 2020. <a href="https://journals.sagepub.com/eprint/PSW4Z5AXF4AYTSXRN7AI/full" target="_blank">[PDF]</a> <a href="https://www.youtube.com/watch?v=BfCeYsTvaOw&amp;feature=youtu.be" target="_blank">[Video]</a>
-</li></div>
 
 <div class="pub-item"><li>
 <b>Daehyung Park</b>, Yuuna Hoshi, Harshar P. Mahajan, Ho Keun Kim, Zackory Erickson, Wendy A. Rogers, and Charles C. Kemp. “Active Robot-Assisted Feeding with a General-Purpose Mobile Manipulator: Design, Evaluation, and Lessons Learned”, <i>Robotics and Autonomous Systems</i> (RAS), 2019. <a href="https://www.sciencedirect.com/science/article/abs/pii/S0921889018307061" target="_blank">[PDF]</a> <a href="https://www.youtube.com/watch?v=I5gqtk6Cln8" target="_blank">[Video]</a>
