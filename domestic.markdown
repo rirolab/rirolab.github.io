@@ -14,8 +14,8 @@ If you want to change the style of the table, please look at the publication tag
 <div class="pub-title"> Domestic Conference Articles </div>
  
   
-
- <table>
+<ol>
+<table>
 <colgroup>
 <col width="25%" />
 <col width="75%" />
@@ -40,19 +40,7 @@ If you want to change the style of the table, please look at the publication tag
     <a href="https://drive.google.com/file/d/1rB2iYe6hiF32Jk0QsSdUfEvtjFBLismg/view?usp=sharing" target="_blank">[PDF]</a><br> <b> Outstanding Paper Award</b>
 </td>
 </tr>
-</tbody>
-<table>
 
-<colgroup>
-<col width="25%" />
-<col width="75%" />
-</colgroup>
-<thead>
-<tr>
-<th class="caption" colspan="2"></th>
-</tr>
-</thead>
-<tbody>
 <tr>
 <td>
     <a href="/assets/research/kroc_jjh.gif" data-lightbox="" >
@@ -67,19 +55,7 @@ If you want to change the style of the table, please look at the publication tag
     <a href="https://docs.google.com/document/d/180X1eGpMd9G-mStR0WC2GsC7DkBXBHnt/edit?usp=sharing&ouid=101070998616983496812&rtpof=true&sd=true" target="_blank">[PDF]</a><br>
 </td>
 </tr>
-</tbody>
- <table>
 
-<colgroup>
-<col width="25%" />
-<col width="75%" />
-</colgroup>
-<thead>
-<tr>
-<th class="caption" colspan="2"></th>
-</tr>
-</thead>
-<tbody>
 <tr>
 <td>
     <a href="/assets/research/telemanipulation_suite.png" data-lightbox="" >
@@ -93,18 +69,7 @@ If you want to change the style of the table, please look at the publication tag
     Deformable object manipulation with learning from demonstration requires a dataset that absorbs human intelligence. We propose a virtual reality-based telemanipulation suite that allows an expert hand to manipulate simulated deformable objects while recording complete observations.<br>
 </td>
 </tr>
-</tbody>
-<table>
-<colgroup>
-<col width="25%" />
-<col width="75%" />
-</colgroup>
-<thead>
-<tr>
-<th class="caption" colspan="2"></th>
-</tr>
-</thead>
-<tbody>
+
 <tr>
 <td>
     <a href="/assets/research/experiment_image.png" data-lightbox="" >
@@ -121,7 +86,8 @@ If you want to change the style of the table, please look at the publication tag
 </tr>
 </tbody>
 </table>
-   <div class="pub-item"><li>
+
+<div class="pub-item"><li>
 Minsung Yoon, Daehyung Park, Sung-Eui Yoon, "Bias tree expansion using reinforcement learning for efficient motion planning," Korea Robotics Society Annual Conference (KRoC), 2021 <a href="https://www.google.com/url?q=https%3A%2F%2Fsgvr.kaist.ac.kr%2Fwp-content%2Fuploads%2F2021%2F06%2FRLRRT_MinsungYoon.pdf&sa=D&sntz=1&usg=AFQjCNHsEW4HewmzI_r8wXO1Bs1-5xbMrg" target="_blank">[PDF]</a>
 </li></div>
 
@@ -129,14 +95,8 @@ Minsung Yoon, Daehyung Park, Sung-Eui Yoon, "Bias tree expansion using reinforce
 Hyeongyeol Ryu, Minsung Yoon, Daehyung Park, Sung-Eui Yoon, "Robust Robot Navigation against External Disturbance using Deep Reinforcement Learning," Korea Robotics Society Annual Conference (KRoC), 2021 <a href="https://www.google.com/url?q=https%3A%2F%2Fsgvr.kaist.ac.kr%2Fwp-content%2Fuploads%2F2021%2F06%2FRobust_Robot_Navigation_against_External_Disturbance_KRoC21.pdf&sa=D&sntz=1&usg=AFQjCNHxir5qxnnAHrvPaTzHdfWrtOpV4Q" target="_blank">[PDF]</a>
 </li></div>
 
-
-
- 
-
-
-
-
-
+</ol>
+</div>
 
 
 
