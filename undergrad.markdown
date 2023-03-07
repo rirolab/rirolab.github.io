@@ -4,7 +4,7 @@ title: Indivial study, URP, Internship Positions
 permalink: /undergrads/
 ---
 
-# We are looking for highly motivated undergrad interns for this winter 2022.
+# We are looking for highly motivated undergrad interns for this summer 2023.
 
 ## Potential topics for Undergrads
 - Natural-language grounding for mobile manipulation
