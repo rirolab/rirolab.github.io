@@ -65,7 +65,21 @@ If you want to change the style of the table, please look at the table tags in _
 <tbody>
 
 <tr>
-
+<!-- Yongdae Kim -->
+	<td>
+		<a href="/assets/people/noname.jpg" data-lightbox="Yongdae Kim" >
+		  <img style="width: 75%" src="/assets/people/noname.jpg">
+		  </a>
+	</td>
+	<td>
+		<b>Yongdae Kim</b><br>
+		School of Computing, 2014<br>
+		<a href="mailto:yongdae.kim@kaist.ac.kr">
+		   <i class="fa fa-envelope-o"></i>
+		   <span class="username">yongdae.kim@kaist.ac.kr</span>
+		</a>
+		<br>
+	</td>
 <!--Ulzhalgas Rakhman  -->
 	<td>
 		<a href="/assets/people/ulzhalgas_rakhman.png" data-lightbox="Ulzhalgas Rakhman" >
@@ -84,7 +98,11 @@ If you want to change the style of the table, please look at the table tags in _
 	</td>
 	
 
-<!-- Yeseung Kim -->
+
+
+</tr>
+<tr>	
+	<!-- Yeseung Kim -->
 <td>
     <a href="/assets/people/yeseung_kim.jpg" data-lightbox="Yeseung Kim" >
       <img style="width: 75%" src="/assets/people/yeseung_kim.jpg">
@@ -100,21 +118,6 @@ If you want to change the style of the table, please look at the table tags in _
     <br>
 </td>
 
-
-</tr>
-<tr>	
-	<!-- Yongdae Kim -->
-	<td>
-		<a href="/assets/people/noname.jpg" data-lightbox="Yongdae Kim" >
-		  <img style="width: 75%" src="/assets/people/noname.jpg">
-		  </a>
-	</td>
-	<td>
-		<b>Yongdae Kim</b><br>
-		School of Computing<br>
-		Part-time
-		<br>
-	</td>	
 	<td></td>
 	<td></td>
 </tr>
@@ -271,6 +274,29 @@ If you want to change the style of the table, please look at the table tags in _
 		   <span class="username">iampbk@kaist.ac.kr</span>
 		</a>
 		<br>
+	</td>
+</tr>
+<tr>
+<!-- 신주철  -->
+    <td>
+        <a href="/assets/people/ju-chul_shin.jpg" data-lightbox="No name" >
+        <img style="width: 75%" src="/assets/people/ju-chul_shin.jpg">
+        </a>
+    </td>
+    <td>
+        <b>Ju-chul Shin</b><br>
+        Software Graduate Program, 2023 <br>
+        <a href="mailto:castiron@kaist.ac.kr">
+        <i class="fa fa-envelope-o"></i>
+        <span class="username">castiron@kaist.ac.kr </span>
+        </a>
+        <br>    
+        <br>
+    </td>
+	<!-- filler -->
+	<td>
+	</td>
+	<td>
 	</td>
 </tr>
 </tbody>
