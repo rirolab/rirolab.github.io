@@ -157,7 +157,7 @@ Ariel Kapusta, Philip Grice, Henry Clever, Yash Chitalia, <b>Daehyung Park</b>, 
     Shen Li*, Daehyung Park*, Yoonchang Sung*, Julie Shah, Nicholas Roy  (*- authors contributed equally)<br>
     <i>IEEE Int'l. Conf. on Robotics and Automation (ICRA 2021)</i><br>
     <!-- A task-and-motion planning (TAMP) algorithm robust against a human operator’s cooperative or adversarial interventions.  We introduce a dynamically reconfigurable planning methodology with behavior tree-based control strategies toward reactive TAMP, which takes the advantage of previous plans and incremental graph search during temporal logic-based reactive synthesis. Our algorithm also shows efficient recovery functionalities that minimize the number of replanning steps.<br> -->
-    <a href="https://drive.google.com/file/d/1cxN0KfKHJLfFXi0iLjhNREyjkqn46viG/view?usp=sharing" target="_blank">[PDF]</a><a href="https://www.youtube.com/watch?v=5PrCu_hS31w" target="_blank">[Video]</a> <br>
+    <a href="https://drive.google.com/file/d/1cxN0KfKHJLfFXi0iLjhNREyjkqn46viG/view?usp=sharing" target="_blank">[PDF]</a><a href="https://www.youtube.com/watch?v=lPpMVfBzZH0&t=4s" target="_blank">[Video]</a> <br>
 </td>
 </tr>
 </tbody>
