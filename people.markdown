@@ -311,8 +311,8 @@ If you want to change the style of the table, please look at the table tags in _
 <tr>
 <!-- jieun choi  -->
     <td>
-        <a href="/assets/people/noname.jpg" data-lightbox="Jieun Choi" >
-        <img style="width: 75%" src="/assets/people/noname.jpg">
+        <a href="/assets/people/jieun_choi.jpg" data-lightbox="Jieun Choi" >
+        <img style="width: 75%" src="/assets/people/jieun_choi.jpg">
         </a>
     </td>
     <td>
