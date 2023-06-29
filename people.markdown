@@ -12,9 +12,9 @@ If you want to change the style of the table, please look at the table tags in _
 <table>
 <colgroup>
 <col width="15%" />
-<col width="35%" />
-<col width="15%" />
-<col width="35%" />
+<col width="85%" />
+<!-- <col width="15%" />
+<col width="35%" /> -->
 </colgroup>
 <thead>
 <tr>
@@ -157,8 +157,6 @@ If you want to change the style of the table, please look at the table tags in _
 		</a>
 		<br>
 	</td>
-
-	
 <!-- Jaehwi Jang -->
 	<td>
 		<a href="/assets/people/jaehwi_jang.jpg" data-lightbox="Jaehwi Jang" >
@@ -279,7 +277,7 @@ If you want to change the style of the table, please look at the table tags in _
 <tr>
 <!-- 신주철  -->
     <td>
-        <a href="/assets/people/ju-chul_shin.jpg" data-lightbox="No name" >
+        <a href="/assets/people/ju-chul_shin.jpg" data-lightbox="Ju-chul Shin" >
         <img style="width: 75%" src="/assets/people/ju-chul_shin.jpg">
         </a>
     </td>
@@ -293,11 +291,45 @@ If you want to change the style of the table, please look at the table tags in _
         <br>    
         <br>
     </td>
-	<!-- filler -->
-	<td>
-	</td>
-	<td>
-	</td>
+<!--Minwoo Cho  -->
+    <td>
+        <a href="/assets/people/minwoo_cho.jpg" data-lightbox="Minwoo Cho" >
+        <img style="width: 75%" src="/assets/people/minwoo_cho.jpg">
+        </a>
+    </td>
+    <td>
+        <b>Minwoo Cho</b><br>
+        School of Computing, 2023<br>
+        <a href="mailto:cmw9903@kaist.ac.kr">
+        <i class="fa fa-envelope-o"></i>
+        <span class="username">cmw9903@kaist.ac.kr </span>
+        </a>
+        <br>    
+        <br>
+    </td>
+</tr>
+<tr>
+<!-- jieun choi  -->
+    <td>
+        <a href="/assets/people/noname.jpg" data-lightbox="Jieun Choi" >
+        <img style="width: 75%" src="/assets/people/noname.jpg">
+        </a>
+    </td>
+    <td>
+        <b>Jieun Choi</b><br>
+        School of Computing, 2023 <br>
+        <a href="mailto:jichoi0101@kaist.ac.kr">
+        <i class="fa fa-envelope-o"></i>
+        <span class="username">jichoi0101@kaist.ac.kr </span>
+        </a>
+        <br>    
+        <br>
+    </td>
+<!--filler-->
+    <td>
+    </td>
+    <td>
+    </td>
 </tr>
 </tbody>
 
@@ -318,25 +350,40 @@ If you want to change the style of the table, please look at the table tags in _
 
 
 <tr>
-<!--Minwoo Cho  -->
+<!--Keonyoung Koh  -->
     <td>
-        <a href="/assets/people/minwoo_cho.jpg" data-lightbox="Minwoo Cho" >
-        <img style="width: 75%" src="/assets/people/minwoo_cho.jpg">
+        <a href="/assets/people/keonyoung_koh.jpeg" data-lightbox="Keonyoung Koh" >
+        <img style="width: 75%" src="/assets/people/keonyoung_koh.jpeg">
         </a>
     </td>
     <td>
-        <b>Minwoo Cho</b><br>
+        <b>Keonyoung Koh</b><br>
         Mechanical Engineering <br>
-        <a href="mailto:cmw9903@kaist.ac.kr">
+        <a href="mailto:kkyjusikhoisa@kaist.ac.kr">
         <i class="fa fa-envelope-o"></i>
-        <span class="username">cmw9903@kaist.ac.kr </span>
+        <span class="username">kkyjusikhoisa@kaist.ac.kr </span>
         </a>
         <br>    
         <br>
     </td>
-	<td></td>
-	<td></td>
+<!--Nayoung Oh  -->
+    <td>
+        <a href="/assets/people/noname.jpg" data-lightbox="Nayoung Oh" >
+        <img style="width: 75%" src="/assets/people/noname.jpg">
+        </a>
+    </td>
+    <td>
+        <b>Nayoung Oh</b><br>
+        School of Computing<br>
+        <a href="mailto:lightsalt@kaist.ac.kr">
+        <i class="fa fa-envelope-o"></i>
+        <span class="username">lightsalt@kaist.ac.kr </span>
+        </a>
+        <br>    
+        <br>
+    </td>
 </tr>
+
 
 </tbody>
 
