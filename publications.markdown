@@ -120,6 +120,35 @@ Ariel Kapusta, Philip Grice, Henry Clever, Yash Chitalia, <b>Daehyung Park</b>, 
 <tbody>
 <tr>
 <td>
+    <a href="/assets/research/2023_ICRA_MMMP.JPG" data-lightbox="" >
+      <img style="width: 85%" src="/assets/research/2023_ICRA_MMMP.JPG">
+      </a>
+</td>
+<td>
+    <b>A Reachability Tree-Based Algorithm for Robot Task and Motion Planning</b><br>
+    Kanghyun Kim, Daehyung Park, Min Jun Kim<br>
+    <i>IEEE Int'l. Conf. on Robotics and Automation (ICRA 2023)</i><br>
+    <a href="https://arxiv.org/abs/2303.03825" target="_blank">[PDF]</a>
+    <br>
+</td>
+</tr>
+<tr>
+<td>
+    <a href="/assets/research/2023_ICRA_RLITG.png" data-lightbox="" >
+      <img style="width: 85%" src="/assets/research/2023_ICRA_RLITG.png">
+      </a>
+</td>
+<td>
+    <b>Learning-Based Initialization of Trajectory Optimization for Path-Following Problems of Redundant Manipulators</b><br>
+    Minsung Yoon, Mincheul Kang, Daehyung Park, and Sung-Eui Yoon<br>
+    <i>IEEE Int'l. Conf. on Robotics and Automation (ICRA 2023), <b style="color:blue;">Outstanding Planning Paper Award</b></i><br>
+    <a href="http://sgvr.kaist.ac.kr/~msyoon/papers/ICRA23_RLITG/ICRA23_RLITG_vCR.pdf" target="_blank">[PDF]</a>
+    <a href="http://sgvr.kaist.ac.kr/~msyoon/papers/ICRA23_RLITG/video_6m.mp4?mute=1" target="_blank">[Video]</a>
+    <br>
+</td>
+</tr>
+<tr>
+<td>
     <a href="/assets/research/2022_RiTA_Navigation.gif" data-lightbox="" >
       <img style="width: 85%" src="/assets/research/2022_RiTA_Navigation.gif">
       </a>
