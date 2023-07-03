@@ -368,8 +368,8 @@ If you want to change the style of the table, please look at the table tags in _
     </td>
 <!--Nayoung Oh  -->
     <td>
-        <a href="/assets/people/noname.jpg" data-lightbox="Nayoung Oh" >
-        <img style="width: 75%" src="/assets/people/noname.jpg">
+        <a href="/assets/people/nayoung_oh.jpg" data-lightbox="Nayoung Oh" >
+        <img style="width: 75%" src="/assets/people/nayoung_oh.jpg">
         </a>
     </td>
     <td>
