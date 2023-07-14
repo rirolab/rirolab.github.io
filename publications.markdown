@@ -120,6 +120,19 @@ Ariel Kapusta, Philip Grice, Henry Clever, Yash Chitalia, <b>Daehyung Park</b>, 
 <tbody>
 <tr>
 <td>
+    <a href="/assets/research/2023_roman_demo.gif" data-lightbox="" >
+      <img style="width: 85%" src="/assets/research/2023_roman_demo.gif">
+      </a>
+</td>
+<td>
+    <b>Natural Language-Guided Navigation using Scene Graph</b><br>
+    Dohyun Kim*, Yeseung Kim*, Jaehwi Jang*, Minjae Song*, Woojin Choi, Daehyung Park (*- authors contributed equally)<br>
+    <i>IEEE Int'l. Conf. on Robot and Human Interactive Communication (RO-MAN 2023), </i><br>
+    <a href="https://drive.google.com/file/d/1LMA34XNXyEpW6uJBIgyIq8xkbeJQ4onr/view?usp=share_link" target="_blank">[PDF]</a>
+</td>
+</tr>
+<tr>
+<td>
     <a href="/assets/research/2023_ICRA_MMMP.JPG" data-lightbox="" >
       <img style="width: 85%" src="/assets/research/2023_ICRA_MMMP.JPG">
       </a>
