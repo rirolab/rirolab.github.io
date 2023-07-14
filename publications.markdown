@@ -127,7 +127,7 @@ Ariel Kapusta, Philip Grice, Henry Clever, Yash Chitalia, <b>Daehyung Park</b>, 
 <td>
     <b>SGGNet2: Speech-Scene Graph Grounding Network for Speech-guided Navigation</b><br>
     Dohyun Kim*, Yeseung Kim*, Jaehwi Jang*, Minjae Song*, Woojin Choi, Daehyung Park (*- authors contributed equally)<br>
-    <i>IEEE Int'l. Conf. on Robot and Human Interactive Communication (RO-MAN 2023), </i><br>
+    <i>IEEE Int'l. Conf. on Robot and Human Interactive Communication (RO-MAN 2023) </i><br>
     <a href="https://drive.google.com/file/d/1LMA34XNXyEpW6uJBIgyIq8xkbeJQ4onr/view?usp=share_link" target="_blank">[PDF]</a>
 </td>
 </tr>
