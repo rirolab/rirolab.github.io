@@ -32,6 +32,19 @@ If you want to change the style of the table, please look at the publication tag
 <tbody>
 <tr>
 <td>
+    <a href="/assets/research/2023_RAL_TCL_demo.gif" data-lightbox="" >
+      <img style="width: 85%" src="/assets/research/2023_RAL_TCL_demo.gif">
+      </a>
+</td>
+<td>
+    <b>Inverse Constraint Learning and Generalization by Transferable Reward Decomposition</b><br>
+    Jaehwi Jang, Minjae Song, Daehyung Park<br>
+    <i>IEEE Robotics and Automation Letters (RA-L), 2023 (Under review)</i> <br>
+    <a href="https://arxiv.org/abs/2306.12357" target="_blank">[PDF]</a> <a href="https://www.youtube.com/watch?v=jpP_7XiR46c" target="_blank">[Video]</a>
+</td>
+</tr>
+<tr>
+<td>
     <a href="/assets/research/2022_RAL_Graphdistnet.gif" data-lightbox="" >
       <img style="width: 85%" src="/assets/research/2022_RAL_Graphdistnet.gif">
       </a>
@@ -118,6 +131,19 @@ Ariel Kapusta, Philip Grice, Henry Clever, Yash Chitalia, <b>Daehyung Park</b>, 
 </tr>
 </thead>
 <tbody>
+<tr>
+<td>
+    <a href="/assets/research/2023_roman_demo.gif" data-lightbox="" >
+      <img style="width: 85%" src="/assets/research/2023_roman_demo.gif">
+      </a>
+</td>
+<td>
+    <b>SGGNet2: Speech-Scene Graph Grounding Network for Speech-guided Navigation</b><br>
+    Dohyun Kim*, Yeseung Kim*, Jaehwi Jang*, Minjae Song*, Woojin Choi, Daehyung Park (*- authors contributed equally)<br>
+    <i>IEEE Int'l. Conf. on Robot and Human Interactive Communication (RO-MAN 2023) </i><br>
+    <a href="https://drive.google.com/file/d/1LMA34XNXyEpW6uJBIgyIq8xkbeJQ4onr/view?usp=share_link" target="_blank">[PDF]</a>
+</td>
+</tr>
 <tr>
 <td>
     <a href="/assets/research/2023_ICRA_MMMP.JPG" data-lightbox="" >
