@@ -39,7 +39,7 @@ If you want to change the style of the table, please look at the publication tag
 <td>
     <b>Inverse Constraint Learning and Generalization by Transferable Reward Decomposition</b><br>
     Jaehwi Jang, Minjae Song, Daehyung Park<br>
-    <i>IEEE Robotics and Automation Letters (RA-L 2023)</i> <br>
+    <i>IEEE Robotics and Automation Letters (RA-L 2023) (Under review)</i> <br>
     <a href="https://arxiv.org/abs/2306.12357" target="_blank">[PDF]</a> <a href="https://www.youtube.com/watch?v=jpP_7XiR46c" target="_blank">[Video]</a>
 </td>
 </tr>
