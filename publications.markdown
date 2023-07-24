@@ -39,7 +39,7 @@ If you want to change the style of the table, please look at the publication tag
 <td>
     <b>Inverse Constraint Learning and Generalization by Transferable Reward Decomposition</b><br>
     Jaehwi Jang, Minjae Song, Daehyung Park<br>
-    <i>IEEE Robotics and Automation Letters (RA-L), 2023 (Under review)</i> <br>
+    <i>(Under review)</i> <br>
     <a href="https://arxiv.org/abs/2306.12357" target="_blank">[PDF]</a> <a href="https://www.youtube.com/watch?v=jpP_7XiR46c" target="_blank">[Video]</a>
 </td>
 </tr>
@@ -52,7 +52,7 @@ If you want to change the style of the table, please look at the publication tag
 <td>
     <b>GraphDistNet: A Graph-based Collision-distance Estimator for Gradient-based Trajectory</b><br>
     Yeseung Kim, Jinwoo Kim, Daehyung Park<br>
-    <i>IEEE Robotics and Automation Letters (RA-L), Oral presentation in IEEE IROS, 2022</i> <br>
+    <i>IEEE Robotics and Automation Letters (RA-L), Oral presentation in IEEE International Conference on Intelligent Robots and Systems (IROS), 2022</i> <br>
     <!-- A graph neural networks (GNN) based collision distance estimator comprised of the message passing and attention mechanism for trajectory optimization. Our method shows high accuracy in complex scenes by using geometric features and calculates massive data fast by the parallelism of GPU.<br> -->
     <a href="https://drive.google.com/file/d/1JaM-k-oghrX0e7-N_Gru2O_wY-8CoRfr/view?usp=sharing" target="_blank">[PDF]</a> <a href="https://youtu.be/QIBt6AR9KmI" target="_blank">[Video]</a>
 </td>
@@ -140,7 +140,7 @@ Ariel Kapusta, Philip Grice, Henry Clever, Yash Chitalia, <b>Daehyung Park</b>, 
 <td>
     <b>SGGNet2: Speech-Scene Graph Grounding Network for Speech-guided Navigation</b><br>
     Dohyun Kim*, Yeseung Kim*, Jaehwi Jang*, Minjae Song*, Woojin Choi, Daehyung Park (*- authors contributed equally)<br>
-    <i>IEEE Int'l. Conf. on Robot and Human Interactive Communication (RO-MAN 2023) </i><br>
+    <i>IEEE International Conference on Robot and Human Interactive Communication (RO-MAN), 2023 (Accepted)</i><br>
     <a href="https://drive.google.com/file/d/1LMA34XNXyEpW6uJBIgyIq8xkbeJQ4onr/view?usp=share_link" target="_blank">[PDF]</a>
 </td>
 </tr>
@@ -153,7 +153,7 @@ Ariel Kapusta, Philip Grice, Henry Clever, Yash Chitalia, <b>Daehyung Park</b>, 
 <td>
     <b>A Reachability Tree-Based Algorithm for Robot Task and Motion Planning</b><br>
     Kanghyun Kim, Daehyung Park, Min Jun Kim<br>
-    <i>IEEE Int'l. Conf. on Robotics and Automation (ICRA 2023)</i><br>
+    <i>IEEE International Conference on Robotics and Automation (ICRA), 2023</i><br>
     <a href="https://arxiv.org/abs/2303.03825" target="_blank">[PDF]</a>
     <br>
 </td>
@@ -167,7 +167,7 @@ Ariel Kapusta, Philip Grice, Henry Clever, Yash Chitalia, <b>Daehyung Park</b>, 
 <td>
     <b>Learning-Based Initialization of Trajectory Optimization for Path-Following Problems of Redundant Manipulators</b><br>
     Minsung Yoon, Mincheul Kang, Daehyung Park, and Sung-Eui Yoon<br>
-    <i>IEEE Int'l. Conf. on Robotics and Automation (ICRA 2023), <b style="color:blue;">Outstanding Planning Paper Award</b></i><br>
+    <i>IEEE International Conference on Robotics and Automation (ICRA), 2023, <b style="color:blue;">Outstanding Planning Paper Award</b></i><br>
     <a href="http://sgvr.kaist.ac.kr/~msyoon/papers/ICRA23_RLITG/ICRA23_RLITG_vCR.pdf" target="_blank">[PDF]</a>
     <a href="http://sgvr.kaist.ac.kr/~msyoon/papers/ICRA23_RLITG/video_6m.mp4?mute=1" target="_blank">[Video]</a>
     <br>
@@ -182,7 +182,7 @@ Ariel Kapusta, Philip Grice, Henry Clever, Yash Chitalia, <b>Daehyung Park</b>, 
 <td>
     <b>Natural Language-Guided Navigation using Scene Graph</b><br>
     Dohyun Kim*, Jinwoo Kim*, Minwoo Cho, Daehyung Park (*- authors contributed equally)<br>
-    <i>Conference on Robot Intelligence Technology and Applications (RiTA 2022), <b style="color:blue;">Best Student Paper Award</b></i><br>
+    <i>Conference on Robot Intelligence Technology and Applications (RiTA) 2022, <b style="color:blue;">Best Student Paper Award</b></i><br>
     <!-- A natural language-guided robotic navigation framework that can effectively ground natural-language commands in large space. Our framework consists of three modules: a scene-graph generator, a grounding network, and a semantic navigation sys-tem. The scene-graph generator incrementally stores the semantic information of object instances, properties, and relationships. Then, the proposed scene graph-based grounding network (SGGNet) predicts the desired goal robustly by associating instances in a scene graph with a user command.<br> -->
     <a href="https://drive.google.com/file/d/1VNGmirCewK2aaGJvAtiUq8iXOzGnGNeY/view?usp=share_link" target="_blank">[PDF]</a> <br>
 </td>
@@ -196,7 +196,7 @@ Ariel Kapusta, Philip Grice, Henry Clever, Yash Chitalia, <b>Daehyung Park</b>, 
 <td>
     <b>Confidence-based Robot Navigation under Sensor Occlusion with Deep Reinforcement Learning</b><br>
     Hyeongyeol Ryu, Minsung Yoon, Daehyung Park, Sung-eui Yoon<br>
-    <i>IEEE Int'l. Conf. on Robotics and Automation (ICRA 2022), <b style="color:blue;">Outstanding Navigation Award Finalist</b></i><br>
+    <i>IEEE International Conference on Robotics and Automation (ICRA) 2022, <b style="color:blue;">Outstanding Navigation Award Finalist</b></i><br>
     <!-- A confidence-based navigation method that encourages the robot to explore the uncertain region around the robot maximizing its local confidence. To effectively extract features from the variable size of sensor occlusions, we adopt a point-cloud based representation network. Our method returns a resilient navigation policy via deep reinforcement learning, autonomously avoiding collisions under sensor occlusions while reaching a goal.<br> -->
     <a href="http://sglab.kaist.ac.kr/CBN-DRL/paper.pdf" target="_blank">[PDF]</a><a href="http://sglab.kaist.ac.kr/CBN-DRL/" target="_blank">[Video]</a> <br>
 </td>
@@ -210,7 +210,7 @@ Ariel Kapusta, Philip Grice, Henry Clever, Yash Chitalia, <b>Daehyung Park</b>, 
 <td>
     <b>Reactive Task and Motion Planning under Temporal Logic Specifications</b><br>
     Shen Li*, Daehyung Park*, Yoonchang Sung*, Julie Shah, Nicholas Roy  (*- authors contributed equally)<br>
-    <i>IEEE Int'l. Conf. on Robotics and Automation (ICRA 2021)</i><br>
+    <i>IEEE International Conference on Robotics and Automation (ICRA), 2021</i><br>
     <!-- A task-and-motion planning (TAMP) algorithm robust against a human operator’s cooperative or adversarial interventions.  We introduce a dynamically reconfigurable planning methodology with behavior tree-based control strategies toward reactive TAMP, which takes the advantage of previous plans and incremental graph search during temporal logic-based reactive synthesis. Our algorithm also shows efficient recovery functionalities that minimize the number of replanning steps.<br> -->
     <a href="https://drive.google.com/file/d/1cxN0KfKHJLfFXi0iLjhNREyjkqn46viG/view?usp=sharing" target="_blank">[PDF]</a><a href="https://www.youtube.com/watch?v=lPpMVfBzZH0&t=4s" target="_blank">[Video]</a> <br>
 </td>
@@ -221,59 +221,59 @@ Ariel Kapusta, Philip Grice, Henry Clever, Yash Chitalia, <b>Daehyung Park</b>, 
 <i>Previous Publications</i>
 
 <div class="pub-item"><li>
-<b>Daehyung Park</b>, Michael Noseworthy, Rohan Paul, Subhro Roy, and Nicholas Roy. "Inferring Task Goals and Constraints using Bayesian Nonparametric Inverse Reinforcement Learning", <i>Conference on Robot Learning (CoRL2019) </i> <a href="https://drive.google.com/open?id=1bswpgVJDXp_9vh55_Gz1cAbylhhjQqhS" target="_blank">[PDF]</a> <a href="https://youtu.be/HgaqH4PWcTI" target="_blank">[Video]</a> <b>Oral presentation, 5% oral acceptance rate</b>
+<b>Daehyung Park</b>, Michael Noseworthy, Rohan Paul, Subhro Roy, and Nicholas Roy. "Inferring Task Goals and Constraints using Bayesian Nonparametric Inverse Reinforcement Learning", <i>Conference on Robot Learning (CoRL), 2019 </i> <a href="https://drive.google.com/open?id=1bswpgVJDXp_9vh55_Gz1cAbylhhjQqhS" target="_blank">[PDF]</a> <a href="https://youtu.be/HgaqH4PWcTI" target="_blank">[Video]</a> <b>Oral presentation, 5% oral acceptance rate</b>
 </li></div>
 
 <div class="pub-item"><li>
-Michael Noseworthy, Rohan Paul, Subhro Roy, <b>Daehyung Park</b>, and Nicholas Roy "Task-Conditioned Variational Autoencoders for Learning Movement Primitives", <i>Conference on Robot Learning (CoRL2019) </i> <a href="https://drive.google.com/open?id=1HckF-IYaj3zbe2CTSL30VKuHluAtsBBl" target="_blank">[PDF]</a> <i>(27.6% Acceptance Rate)</i>
+Michael Noseworthy, Rohan Paul, Subhro Roy, <b>Daehyung Park</b>, and Nicholas Roy "Task-Conditioned Variational Autoencoders for Learning Movement Primitives", <i>Conference on Robot Learning (CoRL), 2019 </i> <a href="https://drive.google.com/open?id=1HckF-IYaj3zbe2CTSL30VKuHluAtsBBl" target="_blank">[PDF]</a> <i>(27.6% Acceptance Rate)</i>
 </li></div>
 
 <div class="pub-item"><li>
-Subhro Roy, Michael Noseworthy, Rohan Paul, <b>Daehyung Park</b> and Nicholas Roy. "Leveraging Past References for Robust Language Grounding", <i>Conference on Computational Natural Language Learning</i> (CoNLL 2019) <a href="https://www.aclweb.org/anthology/K19-1040/" target="_blank">[PDF]</a>
+Subhro Roy, Michael Noseworthy, Rohan Paul, <b>Daehyung Park</b> and Nicholas Roy. "Leveraging Past References for Robust Language Grounding", <i>Conference on Computational Natural Language Learning</i> (CoNLL), 2019 <a href="https://www.aclweb.org/anthology/K19-1040/" target="_blank">[PDF]</a>
 </li></div>
 
 <div class="pub-item"><li>
-Daniel Nyga, Subhro Roy, Rohan Paul, <b>Daehyung Park</b>, Mihai Pomarlan, Michael Beetz, and Nicholas Roy. "Grounding Robot Plans from Natural Language Instructions with Incomplete World Knowledge", <i>Conference on Robot Learning (CoRL2018)</i> <a href="http://proceedings.mlr.press/v87/nyga18a/nyga18a.pdf" target="_blank">[PDF]</a> <a href="https://youtu.be/uWv-l7XMoB8" target="_blank">[Video]</a> (31% Acceptance Rate)
+Daniel Nyga, Subhro Roy, Rohan Paul, <b>Daehyung Park</b>, Mihai Pomarlan, Michael Beetz, and Nicholas Roy. "Grounding Robot Plans from Natural Language Instructions with Incomplete World Knowledge", <i>Conference on Robot Learning (CoRL), 2018</i> <a href="http://proceedings.mlr.press/v87/nyga18a/nyga18a.pdf" target="_blank">[PDF]</a> <a href="https://youtu.be/uWv-l7XMoB8" target="_blank">[Video]</a> (31% Acceptance Rate)
 </li></div>
 
 <div class="pub-item"><li>
-Jacob Arkin, Rohan Paul, <b>Daehyung Park</b>, Subhro Roy, Nicholas Roy and Thomas M. Howard. "Real-Time Human-Robot Communication for Manipulation Tasks in Partially Observed Environments", <i>Int'l. Symp. on Experimental Robotics (ISER2018)</i> <a href="https://link.springer.com/chapter/10.1007/978-3-030-33950-0_39" target="_blank">[PDF]</a> <a href="https://youtu.be/JTVJkJavU6g" target="_blank">[Video]</a>
+Jacob Arkin, Rohan Paul, <b>Daehyung Park</b>, Subhro Roy, Nicholas Roy and Thomas M. Howard. "Real-Time Human-Robot Communication for Manipulation Tasks in Partially Observed Environments", <i>International Symposium on Experimental Robotics (ISER), 2018</i> <a href="https://link.springer.com/chapter/10.1007/978-3-030-33950-0_39" target="_blank">[PDF]</a> <a href="https://youtu.be/JTVJkJavU6g" target="_blank">[Video]</a>
 </li></div>
 
 <div class="pub-item"><li>
-Henry M. Clever, Ariel Kapusta, <b>Daehyung Park</b>, Zackory Erickson, Yash Chitalia, and Charles C. Kemp. “3D Human Pose Estimation on a Configurable Bed from a Pressure Image”, <i>IEEE/RSJ Int'l. Conf. on Intelligent Robots and Systems (IROS2018)</i> <a href="https://arxiv.org/abs/1804.07873" target="_blank">[PDF]</a>
+Henry M. Clever, Ariel Kapusta, <b>Daehyung Park</b>, Zackory Erickson, Yash Chitalia, and Charles C. Kemp. “3D Human Pose Estimation on a Configurable Bed from a Pressure Image”, <i>IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2018</i> <a href="https://arxiv.org/abs/1804.07873" target="_blank">[PDF]</a>
 </li></div>
 
 <div class="pub-item"><li>
-<b>Daehyung Park</b>, Hokeun Kim, Yuuna Hoshi, Zackory Erickson, Ariel Kapusta, and Charles C. Kemp. “A Multimodal Execution Monitor with Anomaly Classification for Robot-Assisted Feeding”, <i>IEEE/RSJ Int'l. Conf. on Intelligent Robots and Systems (IROS2017)</i> <a href="https://ieeexplore.ieee.org/abstract/document/8206437" target="_blank">[PDF]</a> <a href="https://youtu.be/KQlVSz3URnA" target="_blank">[Video]</a>
+<b>Daehyung Park</b>, Hokeun Kim, Yuuna Hoshi, Zackory Erickson, Ariel Kapusta, and Charles C. Kemp. “A Multimodal Execution Monitor with Anomaly Classification for Robot-Assisted Feeding”, <i>IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2017</i> <a href="https://ieeexplore.ieee.org/abstract/document/8206437" target="_blank">[PDF]</a> <a href="https://youtu.be/KQlVSz3URnA" target="_blank">[Video]</a>
 </li></div>
 
 <div class="pub-item"><li>
-<b> Daehyung Park</b>, Zackory Erickson, Tapomayukh Bhattacharjee, and Charles C. Kemp. “Multimodal Execution Monitoring for Anomaly Detection During Robot Manipulation”, <i>IEEE Int'l. Conf. on Robotics and Automation, 2016. (ICRA2016)</i> <a href="https://ieeexplore.ieee.org/document/7487160" target="_blank">[PDF]</a> <a href="https://youtu.be/gLcPZQnDmkk" target="_blank">[Video]</a> (34% Acceptance Rate)
+<b> Daehyung Park</b>, Zackory Erickson, Tapomayukh Bhattacharjee, and Charles C. Kemp. “Multimodal Execution Monitoring for Anomaly Detection During Robot Manipulation”, <i>IEEE International Conference on Robotics and Automation (ICRA), 2016</i> <a href="https://ieeexplore.ieee.org/document/7487160" target="_blank">[PDF]</a> <a href="https://youtu.be/gLcPZQnDmkk" target="_blank">[Video]</a> (34% Acceptance Rate)
 </li></div>
 
 <div class="pub-item"><li>
-Tapomayukh Bhattacharjee, Ashwin A Shenoi, <b>Daehyung Park</b>, James M. Rehg, and Charles C. Kemp, "Combining Tactile Sensing and Vision for Rapid Haptic Mapping", <i>IEEE/RSJ Int'l. Conf. on Intelligent Robots and Systems (IROS2015)</i> <a href="https://ieeexplore.ieee.org/document/7353522" target="_blank">[PDF]</a>
+Tapomayukh Bhattacharjee, Ashwin A Shenoi, <b>Daehyung Park</b>, James M. Rehg, and Charles C. Kemp, "Combining Tactile Sensing and Vision for Rapid Haptic Mapping", <i>IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2015</i> <a href="https://ieeexplore.ieee.org/document/7353522" target="_blank">[PDF]</a>
 </li></div>
 
 <div class="pub-item"><li>
-Ariel Kapusta, <b>Daehyung Park</b>, and Charles C. Kemp, "Task-Centric Selection of Robot and Environment Initial Configurations to Perform Assistive Tasks", <i>IEEE/RSJ Int'l. Conf. on Intelligent Robots and Systems (IROS2015)</i> <a href="https://ieeexplore.ieee.org/document/7353563" target="_blank">[PDF]</a>
+Ariel Kapusta, <b>Daehyung Park</b>, and Charles C. Kemp, "Task-Centric Selection of Robot and Environment Initial Configurations to Perform Assistive Tasks", <i>IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2015</i> <a href="https://ieeexplore.ieee.org/document/7353563" target="_blank">[PDF]</a>
 </li></div>
 
 <div class="pub-item"><li>
-<b>Daehyung Park</b>, Ariel Kapusta, Jeffrey Hawke, and Charles C. Kemp. “Interleaving Planning and Control for Efficient Haptically-guided Reaching in Unknown Environments”, <i>IEEE-RAS Int'l. Conf. on Humanoid Robots (Humanoids 2014)</i> <a href="https://ieeexplore.ieee.org/document/7041456" target="_blank">[PDF]</a> <a href="https://youtu.be/WHHv3womkYs" target="_blank">[Video]</a>
+<b>Daehyung Park</b>, Ariel Kapusta, Jeffrey Hawke, and Charles C. Kemp. “Interleaving Planning and Control for Efficient Haptically-guided Reaching in Unknown Environments”, <i>IEEE-RAS International Conference on Humanoid Robots (Humanoids), 2014</i> <a href="https://ieeexplore.ieee.org/document/7041456" target="_blank">[PDF]</a> <a href="https://youtu.be/WHHv3womkYs" target="_blank">[Video]</a>
 </li></div>
 
 <div class="pub-item"><li>
-<b>Daehyung Park</b>, Ariel Kapusta, Youkeun Kim, James M. Rehg, and Charles C. Kemp. “Learning to Reach into the Unknown: Selecting Initial Conditions When Reaching in Clutter”, <i>IEEE/RSJ Int'l. Conf. on Intelligent Robots and Systems (IROS2014)</i> <a href="https://ieeexplore.ieee.org/document/6942625" target="_blank">[PDF]</a> <a href="https://youtu.be/Gjy-MDEbZUU" target="_blank">[Video]</a>
+<b>Daehyung Park</b>, Ariel Kapusta, Youkeun Kim, James M. Rehg, and Charles C. Kemp. “Learning to Reach into the Unknown: Selecting Initial Conditions When Reaching in Clutter”, <i>IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2014</i> <a href="https://ieeexplore.ieee.org/document/6942625" target="_blank">[PDF]</a> <a href="https://youtu.be/Gjy-MDEbZUU" target="_blank">[Video]</a>
 </li></div>
 
 <div class="pub-item"><li>
-Heiko Hoffmann, Peter Pastor, <b>Daehyung Park</b>, and Stefan Schaal. “Biologically-inspired dynamical systems for movement generation: Automatic real-time goal adaptation and obstacle avoidance”, <i>IEEE Int'l. Conf. on Robotics and Automation, 2009. </i> <a href="https://ieeexplore.ieee.org/document/5152423">[PDF]</a>
+Heiko Hoffmann, Peter Pastor, <b>Daehyung Park</b>, and Stefan Schaal. “Biologically-inspired dynamical systems for movement generation: Automatic real-time goal adaptation and obstacle avoidance”, <i>IEEE International Conference on Robotics and Automation (ICRA), 2009</i> <a href="https://ieeexplore.ieee.org/document/5152423">[PDF]</a>
 </li></div>
 
 <div class="pub-item"><li>
-<b> Daehyung Park</b>, Heiko Hoffmann, Peter Pastor, and Stefan Schaal. “Movement reproduction and obstacle avoidance with dynamic movement primitives and potential fields”, <i>IEEE-RAS Int'l. Conf. on Humanoid Robots (Humanoids 2008, <b>Oral presentation</b>)</i> <a href="https://ieeexplore.ieee.org/document/4755937">[PDF]</a>
+<b> Daehyung Park</b>, Heiko Hoffmann, Peter Pastor, and Stefan Schaal. “Movement reproduction and obstacle avoidance with dynamic movement primitives and potential fields”, <i>IEEE-RAS International Conference on Humanoid Robots (Humanoids), 2008, <b>Oral presentation</b>)</i> <a href="https://ieeexplore.ieee.org/document/4755937">[PDF]</a>
 </li></div>
 
 </ol>
@@ -289,11 +289,11 @@ Heiko Hoffmann, Peter Pastor, <b>Daehyung Park</b>, and Stefan Schaal. “Biolog
 <ol>
 
 <div class="pub-item"><li>
-<b>Daehyung Park</b>, Michael Noseworthy, Rohan Paul, Subhro Roy, and Nicholas Roy, "Joint Goal and Constraint Inference using Bayesian Nonparametric Inverse Reinforcement Learning," <i>The 4th Multidisciplinary Conf. on Reinforcement Learning and Decision Making</i>, 2019
+<b>Daehyung Park</b>, Michael Noseworthy, Rohan Paul, Subhro Roy, and Nicholas Roy, "Joint Goal and Constraint Inference using Bayesian Nonparametric Inverse Reinforcement Learning," <i>The 4th Multidisciplinary Conference on Reinforcement Learning and Decision Making</i>, 2019
 </li></div>
 
 <div class="pub-item"><li>
-<b>Daehyung Park</b>, Yuuna Hoshi, Harshal P. Mahajan, Wendy Rogers, and Charles C. Kemp, "Active Feeding System using a General-purpose Manipulator," <i>Int'l. Symp. on Medical Robotics (ISMR)</i>, 2018 <a href="https://arxiv.org/abs/1904.03568#:~:text=The%20meal%2Dassistance%20system%20uses,head%20movement%20by%20the%20user." target="_blank">[PDF]</a>
+<b>Daehyung Park</b>, Yuuna Hoshi, Harshal P. Mahajan, Wendy Rogers, and Charles C. Kemp, "Active Feeding System using a General-purpose Manipulator," <i>International Symposium on Medical Robotics (ISMR)</i>, 2018 <a href="https://arxiv.org/abs/1904.03568#:~:text=The%20meal%2Dassistance%20system%20uses,head%20movement%20by%20the%20user." target="_blank">[PDF]</a>
 </li></div>
 
 <div class="pub-item"><li>
