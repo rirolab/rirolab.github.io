@@ -133,6 +133,20 @@ Ariel Kapusta, Philip Grice, Henry Clever, Yash Chitalia, <b>Daehyung Park</b>, 
 <tbody>
 <tr>
 <td>
+    <a href="/assets/research/2024_LINGOO-Space_demo.gif" data-lightbox="" >
+      <img style="width: 85%" src="/assets/research/2024_LINGOO-Space_demo.gif">
+      </a>
+</td>
+<td>
+    <b>LINGO-Space: Language-conditioned Incremental Grounding for Space</b><br>
+    Dohyun Kim, Nayoung Oh, Deokmin Hwang, Daehyung Park<br>
+    <i>(Under review)</i><br>
+    <a href="" target="_blank">[PDF]</a>
+    <a href="" target="_blank">[Video]</a>
+</td>
+</tr>
+<tr>
+<td>
     <a href="/assets/research/2023_roman_demo.gif" data-lightbox="" >
       <img style="width: 85%" src="/assets/research/2023_roman_demo.gif">
       </a>
