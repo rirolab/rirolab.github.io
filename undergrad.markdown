@@ -1,17 +1,17 @@
 ---
 layout: page
-title: Indivial study, URP, Internship Positions
+title: Individual study, URP, Internship Positions
 permalink: /undergrads/
 ---
 
-# We are looking for highly motivated undergrad interns for this summer 2023.
+# We are looking for highly motivated undergrad interns for this winter of 2023.
 
 ## Potential topics for Undergrads
-- Natural-language grounding for mobile manipulation
-- Quadruped robot integration for SLAM
+- Large-language model-based mobile manipulation
+- Constraint-based Quadruped robot navigation
 - Deformable object manipulation via reinforcement learning (RL)
 - Inverse constraint learning (inverse reinforcement learning)
-- Visually-guided tactile manipulation 
+
 
 After building the above systems, you will be asked to control it by applying reinforcement learning, end-to-end learning, probabilistic movement primitives, etc. 
 
@@ -21,7 +21,7 @@ After building the above systems, you will be asked to control it by applying re
 3. You can then join our lab.
 
 ### Note
-- We are looking for domestic undergrads only at this moement. 
+- We are looking for domestic undergrads only at this moment. 
 - We will provide a desk and a computer.
 - Internship students will be paid during Summer and Winter vacations.
 
