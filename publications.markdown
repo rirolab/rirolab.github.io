@@ -133,6 +133,20 @@ Ariel Kapusta, Philip Grice, Henry Clever, Yash Chitalia, <b>Daehyung Park</b>, 
 <tbody>
 <tr>
 <td>
+    <a href="/assets/research/2024_ICRA_gdnr.pdf" data-lightbox="" >
+      <img style="width: 85%" src="/assets/research/2024_ICRA_gdnr.pdf">
+      </a>
+</td>
+<td>
+    <b>Graph-based 3D Collision-distance Estimation Network with Probabilistic Graph Rewiring</b><br>
+    Minjae Song, Yeseung Kim, Daehyung Park<br>
+    <i>(Under review)</i><br>
+    <a href="" target="_blank">[PDF]</a>
+    <a href="" target="_blank">[Video]</a>
+</td>
+</tr>
+<tr>
+<td>
     <a href="/assets/research/2024_LINGO-Space_demo.gif" data-lightbox="" >
       <img style="width: 85%" src="/assets/research/2024_LINGO-Space_demo.gif">
       </a>
