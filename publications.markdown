@@ -133,8 +133,8 @@ Ariel Kapusta, Philip Grice, Henry Clever, Yash Chitalia, <b>Daehyung Park</b>, 
 <tbody>
 <tr>
 <td>
-    <a href="/assets/research/2024_ICRA_gdnr.pdf" data-lightbox="" >
-      <img style="width: 85%" src="/assets/research/2024_ICRA_gdnr.pdf">
+    <a href="/assets/research/2024_ICRA_gdnr.gif" data-lightbox="" >
+      <img style="width: 85%" src="/assets/research/2024_ICRA_gdnr.gif">
       </a>
 </td>
 <td>
