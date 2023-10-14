@@ -141,7 +141,7 @@ Ariel Kapusta, Philip Grice, Henry Clever, Yash Chitalia, <b>Daehyung Park</b>, 
     <b>Graph-based 3D Collision-distance Estimation Network with Probabilistic Graph Rewiring</b><br>
     Minjae Song, Yeseung Kim, Daehyung Park<br>
     <i>(Under review)</i><br>
-    <a href="" target="_blank">[PDF]</a>
+    <a href="https://arxiv.org/abs/2310.04044" target="_blank">[PDF]</a>
     <a href="" target="_blank">[Video]</a>
 </td>
 </tr>
@@ -168,7 +168,7 @@ Ariel Kapusta, Philip Grice, Henry Clever, Yash Chitalia, <b>Daehyung Park</b>, 
 <td>
     <b>SGGNet2: Speech-Scene Graph Grounding Network for Speech-guided Navigation</b><br>
     Dohyun Kim*, Yeseung Kim*, Jaehwi Jang*, Minjae Song*, Woojin Choi, Daehyung Park (*- authors contributed equally)<br>
-    <i>IEEE International Conference on Robot and Human Interactive Communication (RO-MAN), 2023 (Accepted)</i><br>
+    <i>IEEE International Conference on Robot and Human Interactive Communication (RO-MAN), 2023</i><br>
     <a href="https://drive.google.com/file/d/1LMA34XNXyEpW6uJBIgyIq8xkbeJQ4onr/view?usp=share_link" target="_blank">[PDF]</a>
 </td>
 </tr>
