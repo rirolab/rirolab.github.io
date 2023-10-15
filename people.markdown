@@ -38,7 +38,7 @@ If you want to change the style of the table, please look at the table tags in _
        <span class="username">{{ site.email }}</span>
     </a>
     <br>
-    <a href="http://www.daehyungpark.com">http://www.daehyungpark.com/</a>
+    <a href="https://sites.google.com/site/daehyungpark">https://sites.google.com/site/daehyungpark</a>
 </td>
 <td></td>
 <td></td>
