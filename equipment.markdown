@@ -58,7 +58,7 @@ permalink: /equipments/
 <th class="caption" style="text-align:center"> Franka Emika Panda <br> Robotic Arm</th>
 <th class="caption" style="text-align:center"> Boston Dynamics Spot <br> Agile Mobile Robot</th>
 <th class="caption" style="text-align:center"> Rainbow Robotics RBQ3 <br> Quadruped  Robot</th>
-
+<th class="caption" style="text-align:center"> Hello-Robot Stretch II <br> Mobile Manipulator</th>
 </tr>
 </thead>
 
@@ -78,6 +78,11 @@ permalink: /equipments/
     <a href="/assets/equipment/rbq3.jpg" data-lightbox="RBQ-3 " >
       <img style="width: 300px" src="/assets/equipment/rbq.png">
     </a><br>
+</td>
+<td style="text-align:center">
+    <a href="/assets/equipment/stretch.jpg" data-lightbox="Stretch II" >
+      <img style="width: 300px" src="/assets/equipment/stretch.jpg">
+    </a>
 </td>
 
 
