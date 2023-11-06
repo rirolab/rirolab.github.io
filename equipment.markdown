@@ -81,7 +81,7 @@ permalink: /equipments/
 </td>
 <td style="text-align:center">
     <a href="/assets/equipment/stretch.jpg" data-lightbox="Stretch II" >
-      <img style="width: 300px" src="/assets/equipment/stretch.jpg">
+      <img style="width: 200px" src="/assets/equipment/stretch.jpg">
     </a>
 </td>
 
