@@ -63,8 +63,8 @@ We aim to introduce task-and-motion planning (TAMP) framework that is to solve c
 <b>Language-guided Quadrupedal Robot Navigation & Manipulation</b>
 <br>
 <br>
-    <a href="/assets/research/research_quad.png" data-lightbox="Task-and-Motion Planning" >
-      <img style="width: 50%" src="/assets/research/research_quad.png">
+    <a href="/assets/research/research_quad.jpg" data-lightbox="Task-and-Motion Planning" >
+      <img style="width: 50%" src="/assets/research/research_quad.jpg">
     </a>
 <br>
 Natural language is a convenient means to deliver a user’s high-level instruction. We introduce a language-guided manipulation framework that learns common-sense knowledge from natural language instructions and corresponding motion demonstrations. We apply the technologies on various quadrupedal robots like Boston Dynamics Spot!
