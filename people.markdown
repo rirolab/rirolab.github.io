@@ -80,46 +80,22 @@ If you want to change the style of the table, please look at the table tags in _
 		</a>
 		<br>
 	</td>
-<!--Ulzhalgas Rakhman  -->
-	<td>
-		<a href="/assets/people/ulzhalgas_rakhman.png" data-lightbox="Ulzhalgas Rakhman" >
-		  <img style="width: 75%" src="/assets/people/ulzhalgas_rakhman.png">
-		  </a>
-	</td>
-	<td>
-		<b>Ulzhalgas Rakhman</b><br>
-		School of Computing, 2022<br> 
-		<a href="mailto:urakhman@kaist.ac.kr">
-		   <i class="fa fa-envelope-o"></i>
-		   <span class="username">urakhman@kaist.ac.kr</span>
-		</a>
-		<br>
-		<a href="https://ulzhalgasrakhman.github.io/">Personal website</a>	
-	</td>
-	
-
-
-
-</tr>
-<tr>	
 	<!-- Yeseung Kim -->
-<td>
-    <a href="/assets/people/yeseung_kim.jpg" data-lightbox="Yeseung Kim" >
-      <img style="width: 75%" src="/assets/people/yeseung_kim.jpg">
-    </a>
-</td>
-<td>
-    <b>Yeseung Kim</b><br>
-    School of Computing, 2023<br>
-    <a href="mailto:yeseung.kim.88@kaist.ac.kr">
-       <i class="fa fa-envelope-o"></i>
-       <span class="username">yeseung.kim.88@kaist.ac.kr</span>
-    </a>
-    <br>
-</td>
-
-	<td></td>
-	<td></td>
+        <td>
+                <a href="/assets/people/yeseung_kim.jpg" data-lightbox="Yeseung Kim" >
+                <img style="width: 75%" src="/assets/people/yeseung_kim.jpg">
+                </a>
+        </td>
+        <td>
+                <b>Yeseung Kim</b><br>
+                School of Computing, 2023<br>
+                <a href="mailto:yeseung.kim.88@kaist.ac.kr">
+                <i class="fa fa-envelope-o"></i>
+                <span class="username">yeseung.kim.88@kaist.ac.kr</span>
+                </a>
+                <br>
+        </td>
+	
 </tr>
 
 </tbody>
