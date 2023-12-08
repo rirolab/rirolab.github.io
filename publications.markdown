@@ -54,7 +54,7 @@ If you want to change the style of the table, please look at the publication tag
     Yeseung Kim, Jinwoo Kim, Daehyung Park<br>
     <i>IEEE Robotics and Automation Letters (RA-L), 2022</i> <br>
     <!-- A graph neural networks (GNN) based collision distance estimator comprised of the message passing and attention mechanism for trajectory optimization. Our method shows high accuracy in complex scenes by using geometric features and calculates massive data fast by the parallelism of GPU.<br> -->
-    <a href="https://drive.google.com/file/d/1JaM-k-oghrX0e7-N_Gru2O_wY-8CoRfr/view?usp=sharing" target="_blank">[PDF]</a> <a href="https://youtu.be/QIBt6AR9KmI" target="_blank">[Video]</a>
+    <a href="https://drive.google.com/file/d/1JaM-k-oghrX0e7-N_Gru2O_wY-8CoRfr/view?usp=sharing" target="_blank">[PDF]</a> <a href="https://youtu.be/QIBt6AR9KmI" target="_blank">[Video]</a>  <a href="https://sites.google.com/view/transferable-cl/%ED%99%88" target="_blank">[Site]</a>
 </td>
 </tr>
 <tr>
