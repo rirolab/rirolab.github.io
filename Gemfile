@@ -39,3 +39,7 @@ gem 'jekyll-maps'
 gem "webrick", "~> 1.7"
 
 gem 'jekyll-admin', group: :jekyll_plugins
+
+# No longer be part of the default gems since Ruby 3.4.0.
+gem 'csv'
+gem 'bigdecimal'
