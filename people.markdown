@@ -379,13 +379,27 @@ If you want to change the style of the table, please look at the table tags in _
 <tbody>
 
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-
-
-
+<!-- jisang park  -->
+    <td>
+        <a href="/assets/people/jisang_park.jpg" data-lightbox="Jisang Park" >
+        <img style="width: 75%" src="/assets/people/jisang_park.jpg">
+        </a>
+    </td>
+    <td>
+        <b>Jisang Park</b><br>
+        Research Associate <br>
+        <a href="mailto:jisang.park@kaist.ac.kr">
+        <i class="fa fa-envelope-o"></i>
+        <span class="username">jisang.park@kaist.ac.kr </span>
+        </a>
+        <br>    
+        <br>
+    </td>
+<!--filler-->
+    <td>
+    </td>
+    <td>
+    </td>
 </tr>
 
 </tbody>
