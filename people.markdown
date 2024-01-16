@@ -379,7 +379,7 @@ If you want to change the style of the table, please look at the table tags in _
 <tbody>
 
 <tr>
-<!-- jieun choi  -->
+<!-- jisang park  -->
     <td>
         <a href="/assets/people/jisang_park.jpg" data-lightbox="Jisang Park" >
         <img style="width: 75%" src="/assets/people/jisang_park.jpg">
