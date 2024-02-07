@@ -154,9 +154,9 @@ Ariel Kapusta, Philip Grice, Henry Clever, Yash Chitalia, <b>Daehyung Park</b>, 
 <td>
     <b>LINGO-Space: Language-conditioned Incremental Grounding for Space</b><br>
     Dohyun Kim, Nayoung Oh, Deokmin Hwang, Daehyung Park<br>
-    <i>(Under review)</i><br>
-    <a href="" target="_blank">[PDF]</a>
-    <a href="" target="_blank">[Video]</a>
+    <i>Association for the Advancement of Artificial Intelligence (AAAI), 2024</i><br>
+    <a href="https://arxiv.org/abs/2402.01183" target="_blank">[PDF]</a>
+    <a href="https://lingo-space.github.io/" target="_blank">[Site]</a>
 </td>
 </tr>
 <tr>
