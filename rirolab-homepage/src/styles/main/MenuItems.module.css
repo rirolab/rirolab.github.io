@@ -1,0 +1,12 @@
+.menuItemsList {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.menuItemsList li {
+  font-weight: bold;
+  color: var(--main-color);
+  padding: 10px;
+  text-decoration: none;
+}
