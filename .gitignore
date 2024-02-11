@@ -9,3 +9,7 @@ _site
 .jekyll-metadata
 vendor
 .DS_Store
+
+# Renewal
+react-pages-dev/node_modules
+react-pages-dev/build

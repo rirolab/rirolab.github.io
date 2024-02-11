@@ -11,6 +11,8 @@ exclude:
   - "/vendor/"
   - Gemfile
   - Gemfile.lock
+  - node_modules
+  - react-pages-dev
 
 # Site settings
 title: RIRO Lab
