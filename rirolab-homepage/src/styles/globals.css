@@ -1,7 +1,54 @@
-@tailwind base;
-@tailwind components;
-@tailwind utilities;
-
 :root {
   --main-color: #70aad0;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  outline-style: none;
+}
+
+[class] {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  outline-style: none;
+}
+
+html {
+  font-size: 16px;
+}
+
+a {
+  color: #333333;
+  text-decoration: none;
+}
+
+img {
+  vertical-align: middle;
+  border: 0;
+}
+
+ul,
+ol,
+li {
+  list-style: none;
+}
+
+.clearfix:after {
+  content: '';
+
+  position: relative;
+
+  display: block;
+
+  width: 100%;
+
+  clear: both;
+}
+
+.wrap {
+  position: relative;
+  display: block;
 }
