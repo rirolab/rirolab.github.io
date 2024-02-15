@@ -11,5 +11,5 @@ vendor
 .DS_Store
 
 # Renewal
-react-pages-dev/node_modules
-react-pages-dev/build
+rirolab-homepage/node_modules
+rirolab-homepage/build
