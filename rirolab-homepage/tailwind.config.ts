@@ -4,8 +4,19 @@ const config: Config = {
   content: ['./src/components/**/*.{js,ts,jsx,tsx,mdx}', './src/app/**/*.{js,ts,jsx,tsx,mdx}'],
   theme: {
     extend: {
+      lineHeight: {
+        custom: '1.8',
+      },
       fontFamily: {
-        custom: ['"Helvetica Rounded"', 'Arial', 'sans-serif'],
+        custom: [
+          'Open Sans',
+          'Helvetica Neue',
+          'Helvetica Rounded',
+          'Helvetica',
+          'Roboto',
+          'Arial',
+          'sans-serif',
+        ],
       },
 
       colors: {

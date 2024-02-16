@@ -5,7 +5,7 @@ import Link from 'next/link';
 import { FaBars, FaX } from 'react-icons/fa6';
 
 const Header: React.FC = () => {
-  const MENU = ['News', 'Research', 'Publications', 'People', 'Positions'];
+  const MENU = ['Research', 'Publications', 'People', 'Positions'];
   const [isMobileMenuOpen, setIsMobileMenuOpen] = useState(false);
   const toggleMobileMenu = (): void => {
     setIsMobileMenuOpen(!isMobileMenuOpen);
@@ -16,13 +16,18 @@ const Header: React.FC = () => {
 
   return (
     <header
-      className="fixed top-0 left-0 w-full min-h-12 md:h-14 bg-white shadow-md"
+      className="fixed top-0 left-0 w-full min-h-12 md:h-14 bg-white shadow-md z-10"
       style={{ boxShadow: '0 2px #70aad0' }}>
       <div className="w-full h-full md:w-3/5 md:min-w-[768px] mx-auto px-4 py-1 flex items-center justify-between">
         {/* Logo */}
         <Link href="/" className="w-[120px] h-[40px] md:w-[144px] md:h-[48px] flex items-center">
           <div className="relative w-full h-full">
-            <Image src="/images/logo.png" alt="Logo" fill objectFit="contain" />
+            <Image
+              src="/images/main/logo_rirolab.png"
+              alt="RIRO Lab Logo"
+              fill
+              style={{ objectFit: 'contain' }}
+            />
           </div>
         </Link>
 
