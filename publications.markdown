@@ -140,7 +140,7 @@ Ariel Kapusta, Philip Grice, Henry Clever, Yash Chitalia, <b>Daehyung Park</b>, 
 <td>
     <b>Graph-based 3D Collision-distance Estimation Network with Probabilistic Graph Rewiring</b><br>
     Minjae Song, Yeseung Kim, Minjun Kim, Daehyung Park<br>
-    <i>IEEE International Conference on Robotics and Automation (ICRA), 2023 (Accepted) </i><br>
+    <i>IEEE International Conference on Robotics and Automation (ICRA), 2024 (Accepted) </i><br>
     <a href="https://arxiv.org/abs/2310.04044" target="_blank">[PDF]</a>
     <a href="" target="_blank">[Video]</a>
 </td>
