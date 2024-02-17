@@ -139,7 +139,7 @@ Ariel Kapusta, Philip Grice, Henry Clever, Yash Chitalia, <b>Daehyung Park</b>, 
 </td>
 <td>
     <b>Graph-based 3D Collision-distance Estimation Network with Probabilistic Graph Rewiring</b><br>
-    Minjae Song, Yeseung Kim, Daehyung Park<br>
+    Minjae Song, Yeseung Kim, Minjun Kim, Daehyung Park<br>
     <i>IEEE International Conference on Robotics and Automation (ICRA), 2023 (Accepted) </i><br>
     <a href="https://arxiv.org/abs/2310.04044" target="_blank">[PDF]</a>
     <a href="" target="_blank">[Video]</a>
@@ -229,7 +229,7 @@ Ariel Kapusta, Philip Grice, Henry Clever, Yash Chitalia, <b>Daehyung Park</b>, 
     <i>IEEE International Conference on Robotics and Automation (ICRA) 2022. </i><br>
     <b style="color:blue;">Outstanding Navigation Award Finalist</b><br>
     <!-- A confidence-based navigation method that encourages the robot to explore the uncertain region around the robot maximizing its local confidence. To effectively extract features from the variable size of sensor occlusions, we adopt a point-cloud based representation network. Our method returns a resilient navigation policy via deep reinforcement learning, autonomously avoiding collisions under sensor occlusions while reaching a goal.<br> -->
-    <a href="http://sglab.kaist.ac.kr/CBN-DRL/paper.pdf" target="_blank">[PDF]</a><a href="http://sglab.kaist.ac.kr/CBN-DRL/" target="_blank">[Video]</a> <br>
+    <a href="https://ieeexplore.ieee.org/document/9812090" target="_blank">[PDF]</a><a href="https://www.youtube.com/watch?v=3Hog96Tk2fo" target="_blank">[Video]</a> <br>
 </td>
 </tr>
 <tr>
