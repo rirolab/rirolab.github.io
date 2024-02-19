@@ -8,7 +8,7 @@ export default function Home(): React.JSX.Element {
     <div>
       {/* Cover Image Section */}
       <div className="w-screen bg-black relative">
-        <div className="relative w-full h-[240px] md:w-3/5 sm:h-[432px] md:min-w-[768px] mx-auto flex justify-center items-center">
+        <div className="relative w-full h-[240px] md:w-3/5 sm:h-[432px] md:min-w-[768px] md:max-w-[1080px] mx-auto flex justify-center items-center">
           <Image
             src="/images/main/cover_image.png"
             alt="Cover Image"
@@ -25,7 +25,7 @@ export default function Home(): React.JSX.Element {
       </div>
 
       {/* Content Section */}
-      <div className="w-full md:w-3/5 md:min-w-[768px] mx-auto px-4 py-10 flex flex-col items-center gap-y-12">
+      <div className="w-full md:w-3/5 md:min-w-[768px] md:max-w-[1080px] mx-auto px-4 py-10 flex flex-col items-center gap-y-12">
         {/* Headline Section */}
         <div>
           <h1 className="leading-custom">
