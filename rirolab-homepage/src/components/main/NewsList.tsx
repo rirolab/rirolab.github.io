@@ -37,7 +37,7 @@ const NewsList: React.FC = () => {
   ];
 
   return (
-    <div className="flex flex-col border-solid border-y border-mainColor divide-solid divide-y divide-mainColor">
+    <div className="flex flex-col border-solid border-y-4 border-mainColor divide-solid divide-y divide-mainColor">
       {newsItems.map((content, index) => (
         <div key={index} className="py-3">
           {typeof content === 'string' ? content : content}
