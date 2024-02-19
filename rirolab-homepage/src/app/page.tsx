@@ -45,10 +45,10 @@ export default function Home(): React.JSX.Element {
           <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
             <YouTubeVideo
               title="Dohyun Kim et al. | AAAI 2024"
-              src="https://www.youtube.com/embed/SD9HV1z5owk?si=qv8YfcRZtQpltPzE"
+              src="https://www.youtube.com/embed/3rxoNUZeot8?si=Vv4fSnUnhK2qdxzm"
             />
             <YouTubeVideo
-              title="Jaehwi Jang et al. | IEEE RA-L 2023"
+              title="Jaehwi Jang et al. | IEEE RA-L 2024"
               src="https://www.youtube.com/embed/SD9HV1z5owk?si=qv8YfcRZtQpltPzE"
             />
             <YouTubeVideo
