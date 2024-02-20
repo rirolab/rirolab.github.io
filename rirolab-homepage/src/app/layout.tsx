@@ -30,7 +30,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }):
     <html lang="en" className="font-custom">
       <body>
         <Header />
-        <div className="w-screen md:w-3/5 md:min-w-[768px] mx-auto px-4 pt-12 md:pt-14 flex flex-col items-center">
+        <div className="w-screen md:w-3/5 md:min-w-[768px] md:max-w-[1080px] mx-auto px-4 pt-12 md:pt-14 flex flex-col items-center">
           {children}
         </div>
         <Footer />

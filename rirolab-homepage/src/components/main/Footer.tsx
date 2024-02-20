@@ -6,7 +6,7 @@ import { MdOutlineEmail } from 'react-icons/md';
 const Footer: React.FC = () => {
   return (
     <footer className="w-full min-h-[400px] bg-mainColor">
-      <div className="w-full min-h-[400px] md:w-3/5 md:min-w-[768px] mx-auto p-4 flex flex-col justify-between text-white">
+      <div className="w-full min-h-[400px] md:w-3/5 md:min-w-[768px] md:max-w-[1080px] mx-auto p-4 flex flex-col justify-between text-white">
         {/* About Section */}
         <div>
           <h2 className="font-bold text-lg">About US</h2>
@@ -25,8 +25,8 @@ const Footer: React.FC = () => {
             <p>Lab Master | dohyun141@kaist.ac.kr</p>
             <p>Homepage Manager | jisang.park@kaist.ac.kr</p>
             <p>
-              Room 2429, E3-1 (Dept. of Computer Science B/D)
-              291 Daehak-ro, Yuseong-gu, Daejeon (34141), Korea
+              Room 2429, E3-1 (Dept. of Computer Science B/D) 291 Daehak-ro, Yuseong-gu, Daejeon
+              (34141), Korea
             </p>
           </div>
         </div>
