@@ -1,3 +1,4 @@
 export default function Positions(): JSX.Element {
-  return <h1>Positions</h1>;
-}
+    return <h1>Positions</h1>;
+  }
+  

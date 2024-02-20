@@ -1,9 +1,9 @@
 import React from 'react';
 import NavBar from 'src/components/NavBar';
 
-export default function PositionLayout({ children }: { children: React.ReactNode }): React.JSX.Element {
-    const ROOT = 'POSITIONS'
-    const MENU = ['undergrads', 'graduates', 'postdocs']
+export default function PeopleLayout({ children }: { children: React.ReactNode }): React.JSX.Element {
+    const ROOT = 'PEOPLE'
+    const MENU = ['professor', 'researchers', 'alumni']
 
     return (
     <section className="w-full py-10 flex flex-col items-center">
