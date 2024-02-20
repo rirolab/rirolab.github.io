@@ -1,5 +1,5 @@
 'use client'
-import React from 'react';
+import React, { useEffect, useState } from 'react';
 import Link from 'next/link';
 
 interface NavBarProps {
@@ -9,7 +9,7 @@ interface NavBarProps {
 
 const NavBar: React.FC<NavBarProps> = ({ root, menu }) => {
   // 상태 관리를 위한 React State 추가
-  const [selected, setSelected] = React.useState('');
+  const [selected, setSelected] = useState(menu.length > 0 ? menu[0] : '');
 
   return (
     <div className="w-full flex justify-evenly items-center my-4 gap-x-2 md:gap-x-4">
