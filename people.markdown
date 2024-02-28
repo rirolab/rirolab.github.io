@@ -118,21 +118,6 @@ If you want to change the style of the table, please look at the table tags in _
 	
 
 <tr>
-<!-- Chanyoung Ahn -->
-	<td>
-		<a href="/assets/people/chanyoung_ahn.jpg" data-lightbox="Chanyoung Ahn" >
-		  <img style="width: 75%" src="/assets/people/chanyoung_ahn.jpg">
-		</a>
-	</td>
-	<td>
-		<b>Chanyoung Ahn</b><br>
-		Robotics Program, 2021<br>
-		<a href="mailto:coldyoung@kaist.ac.kr">
-		   <i class="fa fa-envelope-o"></i>
-		   <span class="username">coldyoung@kaist.ac.kr</span>
-		</a>
-		<br>
-	</td>
 <!-- Jaehwi Jang -->
 	<td>
 		<a href="/assets/people/jaehwi_jang.jpg" data-lightbox="Jaehwi Jang" >
@@ -166,22 +151,7 @@ If you want to change the style of the table, please look at the table tags in _
 		</a>
 		<br>
 	</td>
-
-<!-- 김진우  -->
-	<td>
-		<a href="/assets/people/jinwoo_kim.jpg" data-lightbox="Jinwoo Kim" >
-		  <img style="width: 75%" src="/assets/people/jinwoo_kim.jpg">
-		</a>
-	</td>
-	<td>
-		<b>Jinwoo Kim</b><br>
-		School of Computing, 2022<br>
-		<a href="mailto:kjwoo31@kaist.ac.kr">
-		   <i class="fa fa-envelope-o"></i>
-		   <span class="username">kjwoo31@kaist.ac.kr</span>
-		</a>
-		<br>
-	</td>
+	
 </tr>
 <tr>    
 <!--김도현-->
@@ -421,18 +391,36 @@ If you want to change the style of the table, please look at the table tags in _
 <tbody>
 
 <tr>
-
-
-<!--  -->
-<td>
-</td>
-<td>
-</td>
-<td></td>
-<td></td>
-
-
-
+<!-- 김진우  -->
+	<td>
+		<a href="/assets/people/jinwoo_kim.jpg" data-lightbox="Jinwoo Kim" >
+		  <img style="width: 75%" src="/assets/people/jinwoo_kim.jpg">
+		</a>
+	</td>
+	<td>
+		<b>Jinwoo Kim</b><br>
+		Robotis, 2022-2023<br>
+		<a href="mailto:kjwoo12345@gmail.com">
+		   <i class="fa fa-envelope-o"></i>
+		   <span class="username">kjwoo12345@gmail.com</span>
+		</a>
+		<br>
+	</td>
+<!-- Chanyoung Ahn -->
+	<td>
+		<a href="/assets/people/chanyoung_ahn.jpg" data-lightbox="Chanyoung Ahn" >
+		  <img style="width: 75%" src="/assets/people/chanyoung_ahn.jpg">
+		</a>
+	</td>
+	<td>
+		<b>Chanyoung Ahn</b><br>
+		Robotics Program, 2021<br>
+		<a href="mailto:coldyoung@kaist.ac.kr">
+		   <i class="fa fa-envelope-o"></i>
+		   <span class="username">coldyoung@kaist.ac.kr</span>
+		</a>
+		<br>
+	</td>
 </tr>
 
 </tbody>
