@@ -413,9 +413,9 @@ If you want to change the style of the table, please look at the table tags in _
 	<td>
 		<b>Chanyoung Ahn</b><br>
 		Robotics Program, 2021<br>
-		<a href="mailto:coldyoung@kaist.ac.kr">
+		<a href="mailto:coldyoung38@gmail.com">
 		   <i class="fa fa-envelope-o"></i>
-		   <span class="username">coldyoung@kaist.ac.kr</span>
+		   <span class="username">coldyoung38@gmail.com</span>
 		</a>
 		<br>
 	</td>
