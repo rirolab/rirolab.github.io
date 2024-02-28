@@ -397,7 +397,7 @@ If you want to change the style of the table, please look at the table tags in _
 	</td>
 	<td>
 		<b>Jinwoo Kim</b><br>
-		Robotis, 2022-2023<br>
+		2024 M.S., Robotis<br>
 		<a href="mailto:kjwoo12345@gmail.com">
 		   <i class="fa fa-envelope-o"></i>
 		   <span class="username">kjwoo12345@gmail.com</span>
@@ -412,7 +412,7 @@ If you want to change the style of the table, please look at the table tags in _
 	</td>
 	<td>
 		<b>Chanyoung Ahn</b><br>
-		Robotics Program, 2021<br>
+		2024 M.S.<br>
 		<a href="mailto:coldyoung38@gmail.com">
 		   <i class="fa fa-envelope-o"></i>
 		   <span class="username">coldyoung38@gmail.com</span>
