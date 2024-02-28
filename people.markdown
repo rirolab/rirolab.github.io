@@ -133,9 +133,7 @@ If you want to change the style of the table, please look at the table tags in _
 		</a>
 		<br>
 	</td>
-</tr>
-	
-<tr>
+
 <!-- Minjae Song -->
 	<td>
 		<a href="/assets/people/minjae_song.jpg" data-lightbox="Minjae Song" >
