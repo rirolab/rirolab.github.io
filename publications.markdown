@@ -54,7 +54,7 @@ If you want to change the style of the table, please look at the publication tag
     Yeseung Kim, Jinwoo Kim, Daehyung Park<br>
     <i>IEEE Robotics and Automation Letters (RA-L), 2022</i> <br>
     <!-- A graph neural networks (GNN) based collision distance estimator comprised of the message passing and attention mechanism for trajectory optimization. Our method shows high accuracy in complex scenes by using geometric features and calculates massive data fast by the parallelism of GPU.<br> -->
-    <a href="https://drive.google.com/file/d/1JaM-k-oghrX0e7-N_Gru2O_wY-8CoRfr/view?usp=sharing" target="_blank">[PDF]</a> <a href="https://youtu.be/QIBt6AR9KmI" target="_blank">[Video]</a>  
+    <a href="https://ieeexplore.ieee.org/abstract/document/9851942" target="_blank">[PDF]</a> <a href="https://youtu.be/QIBt6AR9KmI" target="_blank">[Video]</a>  
 </td>
 </tr>
 <tr>
@@ -169,7 +169,7 @@ Ariel Kapusta, Philip Grice, Henry Clever, Yash Chitalia, <b>Daehyung Park</b>, 
     <b>SGGNet2: Speech-Scene Graph Grounding Network for Speech-guided Navigation</b><br>
     Dohyun Kim*, Yeseung Kim*, Jaehwi Jang*, Minjae Song*, Woojin Choi, Daehyung Park (*- authors contributed equally)<br>
     <i>IEEE International Conference on Robot and Human Interactive Communication (RO-MAN), 2023</i><br>
-    <a href="https://drive.google.com/file/d/1LMA34XNXyEpW6uJBIgyIq8xkbeJQ4onr/view?usp=share_link" target="_blank">[PDF]</a>
+    <a href="https://ieeexplore.ieee.org/abstract/document/10309475" target="_blank">[PDF]</a>
 </td>
 </tr>
 <tr>
@@ -214,7 +214,7 @@ Ariel Kapusta, Philip Grice, Henry Clever, Yash Chitalia, <b>Daehyung Park</b>, 
     <i>Conference on Robot Intelligence Technology and Applications (RiTA) 2022. </i><br>
     <b style="color:blue;">Best Student Paper Award</b><br>
     <!-- A natural language-guided robotic navigation framework that can effectively ground natural-language commands in large space. Our framework consists of three modules: a scene-graph generator, a grounding network, and a semantic navigation sys-tem. The scene-graph generator incrementally stores the semantic information of object instances, properties, and relationships. Then, the proposed scene graph-based grounding network (SGGNet) predicts the desired goal robustly by associating instances in a scene graph with a user command.<br> -->
-    <a href="https://drive.google.com/file/d/1VNGmirCewK2aaGJvAtiUq8iXOzGnGNeY/view?usp=share_link" target="_blank">[PDF]</a> <br>
+    <a href="https://link.springer.com/chapter/10.1007/978-3-031-26889-2_14" target="_blank">[PDF]</a> <br>
 </td>
 </tr>
 <tr>
@@ -243,7 +243,7 @@ Ariel Kapusta, Philip Grice, Henry Clever, Yash Chitalia, <b>Daehyung Park</b>, 
     Shen Li*, Daehyung Park*, Yoonchang Sung*, Julie Shah, Nicholas Roy  (*- authors contributed equally)<br>
     <i>IEEE International Conference on Robotics and Automation (ICRA), 2021</i><br>
     <!-- A task-and-motion planning (TAMP) algorithm robust against a human operator’s cooperative or adversarial interventions.  We introduce a dynamically reconfigurable planning methodology with behavior tree-based control strategies toward reactive TAMP, which takes the advantage of previous plans and incremental graph search during temporal logic-based reactive synthesis. Our algorithm also shows efficient recovery functionalities that minimize the number of replanning steps.<br> -->
-    <a href="https://drive.google.com/file/d/1cxN0KfKHJLfFXi0iLjhNREyjkqn46viG/view?usp=sharing" target="_blank">[PDF]</a><a href="https://www.youtube.com/watch?v=lPpMVfBzZH0&t=4s" target="_blank">[Video]</a> <br>
+    <a href="https://ieeexplore.ieee.org/abstract/document/9561807" target="_blank">[PDF]</a><a href="https://www.youtube.com/watch?v=lPpMVfBzZH0&t=4s" target="_blank">[Video]</a> <br>
 </td>
 </tr>
 </tbody>
@@ -252,11 +252,11 @@ Ariel Kapusta, Philip Grice, Henry Clever, Yash Chitalia, <b>Daehyung Park</b>, 
 <i>Previous Publications</i>
 
 <div class="pub-item"><li>
-<b>Daehyung Park</b>, Michael Noseworthy, Rohan Paul, Subhro Roy, and Nicholas Roy. "Inferring Task Goals and Constraints using Bayesian Nonparametric Inverse Reinforcement Learning", <i>Conference on Robot Learning (CoRL), 2019 </i> <a href="https://drive.google.com/open?id=1bswpgVJDXp_9vh55_Gz1cAbylhhjQqhS" target="_blank">[PDF]</a> <a href="https://youtu.be/HgaqH4PWcTI" target="_blank">[Video]</a> <b>Oral presentation, 5% oral acceptance rate</b>
+<b>Daehyung Park</b>, Michael Noseworthy, Rohan Paul, Subhro Roy, and Nicholas Roy. "Inferring Task Goals and Constraints using Bayesian Nonparametric Inverse Reinforcement Learning", <i>Conference on Robot Learning (CoRL), 2019 </i> <a href="https://proceedings.mlr.press/v100/park20a.html" target="_blank">[PDF]</a> <a href="https://youtu.be/HgaqH4PWcTI" target="_blank">[Video]</a> <b>Oral presentation, 5% oral acceptance rate</b>
 </li></div>
 
 <div class="pub-item"><li>
-Michael Noseworthy, Rohan Paul, Subhro Roy, <b>Daehyung Park</b>, and Nicholas Roy "Task-Conditioned Variational Autoencoders for Learning Movement Primitives", <i>Conference on Robot Learning (CoRL), 2019 </i> <a href="https://drive.google.com/open?id=1HckF-IYaj3zbe2CTSL30VKuHluAtsBBl" target="_blank">[PDF]</a> <i>(27.6% Acceptance Rate)</i>
+Michael Noseworthy, Rohan Paul, Subhro Roy, <b>Daehyung Park</b>, and Nicholas Roy "Task-Conditioned Variational Autoencoders for Learning Movement Primitives", <i>Conference on Robot Learning (CoRL), 2019 </i> <a href="https://proceedings.mlr.press/v100/noseworthy20a.html" target="_blank">[PDF]</a> <i>(27.6% Acceptance Rate)</i>
 </li></div>
 
 <div class="pub-item"><li>

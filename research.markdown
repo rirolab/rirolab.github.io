@@ -36,7 +36,7 @@ this line of research, we propose three research thrusts: 1) a physics-informed 
 <br>
 <b>Keywords</b>: (Inverse) Reinforcement learning, Deformable obejct manipulation, Sim2Real transfer learning
 <br>    
-<b>Selected paper</b>: <a href="https://drive.google.com/open?id=1bswpgVJDXp_9vh55_Gz1cAbylhhjQqhS" target="_blank">[CoRL19]</a>, <a href="https://arxiv.org/abs/2306.12357" target="_blank">[RA-L23]</a> 
+<b>Selected paper</b>: <a href="https://proceedings.mlr.press/v100/park20a.html" target="_blank">[CoRL19]</a>, <a href="https://arxiv.org/abs/2306.12357" target="_blank">[RA-L23]</a> 
 </td>
 </tr>
 
@@ -54,7 +54,7 @@ We aim to introduce task-and-motion planning (TAMP) framework that is to solve c
 <br>
 <b>Keywords</b>: Temporal logic, Neuro symbolic planning, Scene graph, Behavior tree, Collision avoidance
 <br>        
-<b>Selected paper</b>: <a href="https://drive.google.com/file/d/1cxN0KfKHJLfFXi0iLjhNREyjkqn46viG/view?usp=sharing" target="_blank">[ICRA21]</a>   <a href="https://drive.google.com/file/d/1cxN0KfKHJLfFXi0iLjhNREyjkqn46viG/view?usp=sharing" target="_blank">[RA-L22]</a>    
+<b>Selected paper</b>: <a href="https://ieeexplore.ieee.org/abstract/document/9561807" target="_blank">[ICRA21]</a>,  <a href="https://ieeexplore.ieee.org/abstract/document/9851942" target="_blank">[RA-L22]</a>, <a href="https://arxiv.org/abs/2310.04044" target="_blank">[ICRA24]</a>       
 </td>
 </tr>
 
@@ -72,7 +72,7 @@ Natural language is a convenient means to deliver a user’s high-level instruct
 <br>
 <b>Keywords</b>: Quadruped robot, Semantic SLAM, Natural language grounding
 <br>        
-<b>Selected paper</b>: <a href="https://journals.sagepub.com/eprint/PSW4Z5AXF4AYTSXRN7AI/full" target="_blank">[IJRR20]</a><a href="http://fieldrobotics.net/Field_Robotics/Volume_2_files/Vol2_17.pdf" target="_blank">[FR22]</a>
+<b>Selected paper</b>: <a href="https://journals.sagepub.com/eprint/PSW4Z5AXF4AYTSXRN7AI/full" target="_blank">[IJRR20]</a>, <a href="http://fieldrobotics.net/Field_Robotics/Volume_2_files/Vol2_17.pdf" target="_blank">[FR22]</a>, <a href="https://arxiv.org/abs/2402.01183" target="_blank">[AAAI24]</a>
 </td>
 </tr>
 
