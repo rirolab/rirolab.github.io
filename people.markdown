@@ -314,7 +314,7 @@ If you want to change the style of the table, please look at the table tags in _
         </a>
     </td>
     <td>
-        <b>Keonyoung Koh</b><br>
+        <b>Yohan Park</b><br>
         Electrical Engineering <br>
         <a href="mailto:farawell777@kaist.ac.kr">
         <i class="fa fa-envelope-o"></i>
