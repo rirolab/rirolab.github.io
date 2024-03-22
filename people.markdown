@@ -145,7 +145,6 @@ If you want to change the style of the table, please look at the table tags in _
         <i class="fa fa-envelope-o"></i>
         <span class="username">dohyun141@kaist.ac.kr</span>
     </a>
-    <br>    
     <br>
 </td>
 </tr>
@@ -165,7 +164,6 @@ If you want to change the style of the table, please look at the table tags in _
         <span class="username">hajeongho95@kaist.ac.kr </span>
     </a>
     <br>    
-    <br>
 </td>
 
 <!--황덕민  -->
@@ -181,7 +179,6 @@ If you want to change the style of the table, please look at the table tags in _
     <i class="fa fa-envelope-o"></i>
     <span class="username">gsh04089@kaist.ac.kr </span>
     </a>
-    <br>    
     <br>
 </td>
 
@@ -217,7 +214,6 @@ If you want to change the style of the table, please look at the table tags in _
     <i class="fa fa-envelope-o"></i>
     <span class="username">cmw9903@kaist.ac.kr </span>
     </a>
-    <br>    
     <br>
 </td>
 </tr>
@@ -236,13 +232,12 @@ If you want to change the style of the table, please look at the table tags in _
         <i class="fa fa-envelope-o"></i>
         <span class="username">jichoi0101@kaist.ac.kr </span>
         </a>
-        <br>    
         <br>
     </td>
 <!--Keonyoung Koh  -->
     <td>
         <a href="/assets/people/keonyoung_koh.jpg" data-lightbox="Keonyoung Koh" >
-        <img style="width: 75%" src="/assets/people/keonyoung_koh.jpgg">
+        <img style="width: 75%" src="/assets/people/keonyoung_koh.jpg">
         </a>
     </td>
     <td>
@@ -252,7 +247,6 @@ If you want to change the style of the table, please look at the table tags in _
         <i class="fa fa-envelope-o"></i>
         <span class="username">kkyjusikhoisa@kaist.ac.kr </span>
         </a>
-        <br>    
         <br>
 </td>
 </tr>
@@ -270,7 +264,6 @@ If you want to change the style of the table, please look at the table tags in _
         <i class="fa fa-envelope-o"></i>
         <span class="username">lightsalt@kaist.ac.kr </span>
         </a>
-        <br>    
         <br>
 </td>
 
@@ -312,7 +305,6 @@ If you want to change the style of the table, please look at the table tags in _
         <i class="fa fa-envelope-o"></i>
         <span class="username">hjmngb@kaist.ac.kr </span>
         </a>
-        <br>    
         <br>
     </td>
 <!--Yohan Park  -->
@@ -329,7 +321,6 @@ If you want to change the style of the table, please look at the table tags in _
         <span class="username">farawell777@kaist.ac.kr </span>
         </a>
         <br>    
-        <br>
     </td>
 </tr>
 <tr>
@@ -347,7 +338,6 @@ If you want to change the style of the table, please look at the table tags in _
         <span class="username">johngalt827@snu.ac.kr </span>
         </a>
         <br>    
-        <br>
     </td>
 <!--filler-->
     <td>
@@ -403,7 +393,6 @@ If you want to change the style of the table, please look at the table tags in _
         <span class="username">jisang.park@kaist.ac.kr </span>
         </a>
         <br>    
-        <br>
     </td>
 </tr>
 
@@ -434,7 +423,7 @@ If you want to change the style of the table, please look at the table tags in _
 </td>
 <td>
     <b>Chanyoung Ahn</b><br>
-    Robotics Program, 2021<br>
+    M.S. at 2024.02<br>
     <a href="mailto:coldyoung@kaist.ac.kr">
         <i class="fa fa-envelope-o"></i>
         <span class="username">coldyoung@kaist.ac.kr</span>
@@ -451,7 +440,7 @@ If you want to change the style of the table, please look at the table tags in _
 </td>
 <td>
     <b>Jinwoo Kim</b><br>
-    School of Computing, 2022<br>
+    M.S. at 2024.02<br>
     <a href="mailto:kjwoo31@kaist.ac.kr">
         <i class="fa fa-envelope-o"></i>
         <span class="username">kjwoo31@kaist.ac.kr</span>
@@ -470,13 +459,12 @@ If you want to change the style of the table, please look at the table tags in _
 </td>
 <td>
     <b>Ju-chul Shin</b><br>
-    Software Graduate Program, 2023 <br>
+    M.S. at 2024.02 <br>
     <a href="mailto:castiron@kaist.ac.kr">
     <i class="fa fa-envelope-o"></i>
     <span class="username">castiron@kaist.ac.kr </span>
     </a>
     <br>    
-    <br>
 </td>
 <!--filler-->
     <td>
