@@ -116,174 +116,108 @@ If you want to change the style of the table, please look at the table tags in _
 </thead>
 <tbody>
 	
-
-<tr>
-<!-- Chanyoung Ahn -->
-	<td>
-		<a href="/assets/people/chanyoung_ahn.jpg" data-lightbox="Chanyoung Ahn" >
-		  <img style="width: 75%" src="/assets/people/chanyoung_ahn.jpg">
-		</a>
-	</td>
-	<td>
-		<b>Chanyoung Ahn</b><br>
-		Robotics Program, 2021<br>
-		<a href="mailto:coldyoung@kaist.ac.kr">
-		   <i class="fa fa-envelope-o"></i>
-		   <span class="username">coldyoung@kaist.ac.kr</span>
-		</a>
-		<br>
-	</td>
-<!-- Jaehwi Jang -->
-	<td>
-		<a href="/assets/people/jaehwi_jang.jpg" data-lightbox="Jaehwi Jang" >
-		  <img style="width: 75%" src="/assets/people/jaehwi_jang.jpg">
-		</a>
-	</td>
-	<td>
-		<b>Jaehwi Jang</b><br>
-		Graduate School of AI, 2022<br>
-		<a href="mailto:wognl0402@kaist.ac.kr">
-		   <i class="fa fa-envelope-o"></i>
-		   <span class="username">wognl0402@kaist.ac.kr</span>
-		</a>
-		<br>
-	</td>
-</tr>
-	
 <tr>
 <!-- Minjae Song -->
-	<td>
-		<a href="/assets/people/minjae_song.jpg" data-lightbox="Minjae Song" >
-		  <img style="width: 75%" src="/assets/people/minjae_song.jpg">
-		</a>
-	</td>
-	<td>
-		<b>Minjae Song</b><br>
-		School of Computing, 2022<br>
-		<a href="mailto:smj0398@kaist.ac.kr">
-		   <i class="fa fa-envelope-o"></i>
-		   <span class="username">smj0398@kaist.ac.kr</span>
-		</a>
-		<br>
-	</td>
-
-<!-- 김진우  -->
-	<td>
-		<a href="/assets/people/jinwoo_kim.jpg" data-lightbox="Jinwoo Kim" >
-		  <img style="width: 75%" src="/assets/people/jinwoo_kim.jpg">
-		</a>
-	</td>
-	<td>
-		<b>Jinwoo Kim</b><br>
-		School of Computing, 2022<br>
-		<a href="mailto:kjwoo31@kaist.ac.kr">
-		   <i class="fa fa-envelope-o"></i>
-		   <span class="username">kjwoo31@kaist.ac.kr</span>
-		</a>
-		<br>
-	</td>
-</tr>
-<tr>    
+<td>
+    <a href="/assets/people/minjae_song.jpg" data-lightbox="Minjae Song" >
+        <img style="width: 75%" src="/assets/people/minjae_song.jpg">
+    </a>
+</td>
+<td>
+    <b>Minjae Song</b><br>
+    School of Computing, 2022<br>
+    <a href="mailto:smj0398@kaist.ac.kr">
+        <i class="fa fa-envelope-o"></i>
+        <span class="username">smj0398@kaist.ac.kr</span>
+    </a>
+    <br>
+</td>
 <!--김도현-->
-	<td>
-		<a href="/assets/people/kim_dohyun.jpg" data-lightbox="No name" >
-		  <img style="width: 75%" src="/assets/people/kim_dohyun.jpg">
-		  </a>
-	</td>
-	<td>
-		<b>Dohyun Kim</b><br>
-		Graduate School of AI, 2023<br>
-		 <a href="mailto:dohyun141@kaist.ac.kr">
-		   <i class="fa fa-envelope-o"></i>
-		   <span class="username">dohyun141@kaist.ac.kr</span>
-		</a>
-		<br>    
-		<br>
-	</td>
+<td>
+    <a href="/assets/people/kim_dohyun.jpg" data-lightbox="No name" >
+        <img style="width: 75%" src="/assets/people/kim_dohyun.jpg">
+        </a>
+</td>
+<td>
+    <b>Dohyun Kim</b><br>
+    Graduate School of AI, 2023<br>
+        <a href="mailto:dohyun141@kaist.ac.kr">
+        <i class="fa fa-envelope-o"></i>
+        <span class="username">dohyun141@kaist.ac.kr</span>
+    </a>
+    <br>
+</td>
+</tr>
+
+<tr>    
 <!--하정호  -->
-	<td>
-		<a href="/assets/people/jeongho_ha.jpg" data-lightbox="No name" >
-		  <img style="width: 75%" src="/assets/people/jeongho_ha.jpg">
-		  </a>
-	</td>
-	<td>
-		<b>JeongHo Ha</b><br>
-		School of Computing, 2023<br>
-		 <a href="mailto:hajeongho95@kaist.ac.kr">
-		   <i class="fa fa-envelope-o"></i>
-		   <span class="username">hajeongho95@kaist.ac.kr </span>
-		</a>
-		<br>    
-		<br>
-	</td>
-</tr> 
-<tr>
+<td>
+    <a href="/assets/people/jeongho_ha.jpg" data-lightbox="No name" >
+        <img style="width: 75%" src="/assets/people/jeongho_ha.jpg">
+        </a>
+</td>
+<td>
+    <b>JeongHo Ha</b><br>
+    School of Computing, 2023<br>
+        <a href="mailto:hajeongho95@kaist.ac.kr">
+        <i class="fa fa-envelope-o"></i>
+        <span class="username">hajeongho95@kaist.ac.kr </span>
+    </a>
+    <br>    
+</td>
+
 <!--황덕민  -->
-    <td>
-        <a href="/assets/people/deokmin_hwang.jpg" data-lightbox="No name" >
-        <img style="width: 75%" src="/assets/people/deokmin_hwang.jpg">
-        </a>
-    </td>
-    <td>
-        <b>Deok-Min Hwang</b><br>
-        School of Computing, 2023 <br>
-        <a href="mailto:gsh04089@kaist.ac.kr">
-        <i class="fa fa-envelope-o"></i>
-        <span class="username">gsh04089@kaist.ac.kr </span>
-        </a>
-        <br>    
-        <br>
-    </td>
-<!-- 박봉경 -->
-	<td>
-		<a href="/assets/people/bonggyeong_park.png" data-lightbox=" Bonggyeong Park" >
-		  <img style="width: 75%" src="/assets/people/bonggyeong_park.png">
-		  </a>
-	</td>
-	<td>
-		<b>Bonggyeong Park</b><br>
-		Robotics Program, 2023<br>
-		 <a href="mailto:iampbk@kaist.ac.kr">
-		   <i class="fa fa-envelope-o"></i>
-		   <span class="username">iampbk@kaist.ac.kr</span>
-		</a>
-		<br>
-	</td>
+<td>
+    <a href="/assets/people/deokmin_hwang.jpg" data-lightbox="No name" >
+    <img style="width: 75%" src="/assets/people/deokmin_hwang.jpg">
+    </a>
+</td>
+<td>
+    <b>Deok-Min Hwang</b><br>
+    School of Computing, 2023 <br>
+    <a href="mailto:gsh04089@kaist.ac.kr">
+    <i class="fa fa-envelope-o"></i>
+    <span class="username">gsh04089@kaist.ac.kr </span>
+    </a>
+    <br>
+</td>
+
 </tr>
+
 <tr>
-<!-- 신주철  -->
-    <td>
-        <a href="/assets/people/ju-chul_shin.jpg" data-lightbox="Ju-chul Shin" >
-        <img style="width: 75%" src="/assets/people/ju-chul_shin.jpg">
+<!-- 박봉경 -->
+<td>
+    <a href="/assets/people/bonggyeong_park.png" data-lightbox=" Bonggyeong Park" >
+        <img style="width: 75%" src="/assets/people/bonggyeong_park.png">
         </a>
-    </td>
-    <td>
-        <b>Ju-chul Shin</b><br>
-        Software Graduate Program, 2023 <br>
-        <a href="mailto:castiron@kaist.ac.kr">
+</td>
+<td>
+    <b>Bonggyeong Park</b><br>
+    Robotics Program, 2023<br>
+        <a href="mailto:iampbk@kaist.ac.kr">
         <i class="fa fa-envelope-o"></i>
-        <span class="username">castiron@kaist.ac.kr </span>
-        </a>
-        <br>    
-        <br>
-    </td>
+        <span class="username">iampbk@kaist.ac.kr</span>
+    </a>
+    <br>
+</td>
+
 <!--Minwoo Cho  -->
-    <td>
-        <a href="/assets/people/minwoo_cho.jpg" data-lightbox="Minwoo Cho" >
-        <img style="width: 75%" src="/assets/people/minwoo_cho.jpg">
-        </a>
-    </td>
-    <td>
-        <b>Minwoo Cho</b><br>
-        School of Computing, 2023<br>
-        <a href="mailto:cmw9903@kaist.ac.kr">
-        <i class="fa fa-envelope-o"></i>
-        <span class="username">cmw9903@kaist.ac.kr </span>
-        </a>
-        <br>    
-        <br>
-    </td>
+<td>
+    <a href="/assets/people/minwoo_cho.jpg" data-lightbox="Minwoo Cho" >
+    <img style="width: 75%" src="/assets/people/minwoo_cho.jpg">
+    </a>
+</td>
+<td>
+    <b>Minwoo Cho</b><br>
+    School of Computing, 2023<br>
+    <a href="mailto:cmw9903@kaist.ac.kr">
+    <i class="fa fa-envelope-o"></i>
+    <span class="username">cmw9903@kaist.ac.kr </span>
+    </a>
+    <br>
+</td>
 </tr>
+
 <tr>
 <!-- jieun choi  -->
     <td>
@@ -298,9 +232,41 @@ If you want to change the style of the table, please look at the table tags in _
         <i class="fa fa-envelope-o"></i>
         <span class="username">jichoi0101@kaist.ac.kr </span>
         </a>
-        <br>    
         <br>
     </td>
+<!--Keonyoung Koh  -->
+    <td>
+        <a href="/assets/people/keonyoung_koh.jpg" data-lightbox="Keonyoung Koh" >
+        <img style="width: 75%" src="/assets/people/keonyoung_koh.jpg">
+        </a>
+    </td>
+    <td>
+        <b>Keonyoung Koh</b><br>
+        School of Computing, 2024 <br>
+        <a href="mailto:kkyjusikhoisa@kaist.ac.kr">
+        <i class="fa fa-envelope-o"></i>
+        <span class="username">kkyjusikhoisa@kaist.ac.kr </span>
+        </a>
+        <br>
+</td>
+</tr>
+<tr>
+<!--Nayoung Oh  -->
+    <td>
+        <a href="/assets/people/nayoung_oh.jpg" data-lightbox="Nayoung Oh" >
+        <img style="width: 75%" src="/assets/people/nayoung_oh.jpg">
+        </a>
+    </td>
+    <td>
+        <b>Nayoung Oh</b><br>
+        Graduate School of AI, 2024<br>
+        <a href="mailto:lightsalt@kaist.ac.kr">
+        <i class="fa fa-envelope-o"></i>
+        <span class="username">lightsalt@kaist.ac.kr </span>
+        </a>
+        <br>
+</td>
+
 <!--filler-->
     <td>
     </td>
@@ -326,40 +292,59 @@ If you want to change the style of the table, please look at the table tags in _
 
 
 <tr>
-<!--Keonyoung Koh  -->
+<!--Minseok Song  -->
     <td>
-        <a href="/assets/people/keonyoung_koh.jpeg" data-lightbox="Keonyoung Koh" >
-        <img style="width: 75%" src="/assets/people/keonyoung_koh.jpeg">
+        <a href="/assets/people/minseok_song.png" data-lightbox="Minseok Song" >
+        <img style="width: 75%" src="/assets/people/minseok_song.png">
+        </a>
+    </td>
+    <td>
+        <b>Minseok Song</b><br>
+        Mechanical Engineering <br>
+        <a href="mailto:hjmngb@kaist.ac.kr">
+        <i class="fa fa-envelope-o"></i>
+        <span class="username">hjmngb@kaist.ac.kr </span>
+        </a>
+        <br>
+    </td>
+<!--Yohan Park  -->
+    <td>
+        <a href="/assets/people/yohan_park.jpg" data-lightbox="Yohan Park" >
+        <img style="width: 75%" src="/assets/people/yohan_park.jpg">
         </a>
     </td>
     <td>
         <b>Keonyoung Koh</b><br>
-        Mechanical Engineering <br>
-        <a href="mailto:kkyjusikhoisa@kaist.ac.kr">
+        Electrical Engineering <br>
+        <a href="mailto:farawell777@kaist.ac.kr">
         <i class="fa fa-envelope-o"></i>
-        <span class="username">kkyjusikhoisa@kaist.ac.kr </span>
+        <span class="username">farawell777@kaist.ac.kr </span>
         </a>
         <br>    
-        <br>
-    </td>
-<!--Nayoung Oh  -->
-    <td>
-        <a href="/assets/people/nayoung_oh.jpg" data-lightbox="Nayoung Oh" >
-        <img style="width: 75%" src="/assets/people/nayoung_oh.jpg">
-        </a>
-    </td>
-    <td>
-        <b>Nayoung Oh</b><br>
-        School of Computing<br>
-        <a href="mailto:lightsalt@kaist.ac.kr">
-        <i class="fa fa-envelope-o"></i>
-        <span class="username">lightsalt@kaist.ac.kr </span>
-        </a>
-        <br>    
-        <br>
     </td>
 </tr>
-
+<tr>
+<!--Seungsup Lee  -->
+    <td>
+        <a href="/assets/people/seungsup_lee.jpg" data-lightbox="Seungsup Lee" >
+        <img style="width: 75%" src="/assets/people/seungsup_lee.jpg">
+        </a>
+    </td>
+    <td>
+        <b>Seungsup Lee</b><br>
+        Mechanical and Aerospace Engineering<br>
+        <a href="mailto:johngalt827@snu.ac.kr">
+        <i class="fa fa-envelope-o"></i>
+        <span class="username">johngalt827@snu.ac.kr </span>
+        </a>
+        <br>    
+    </td>
+<!--filler-->
+    <td>
+    </td>
+    <td>
+    </td>
+</tr>
 
 </tbody>
 
@@ -379,6 +364,21 @@ If you want to change the style of the table, please look at the table tags in _
 <tbody>
 
 <tr>
+<!-- jaehwi jang  -->
+	<td>
+		<a href="/assets/people/jaehwi_jang.jpg" data-lightbox="Jaehwi Jang" >
+		  <img style="width: 75%" src="/assets/people/jaehwi_jang.jpg">
+		</a>
+	</td>
+	<td>
+		<b>Jaehwi Jang</b><br>
+		Research Associate<br>
+		<a href="mailto:wognl0402@kaist.ac.kr">
+		   <i class="fa fa-envelope-o"></i>
+		   <span class="username">wognl0402@kaist.ac.kr</span>
+		</a>
+		<br>
+	</td>
 <!-- jisang park  -->
     <td>
         <a href="/assets/people/jisang_park.jpg" data-lightbox="Jisang Park" >
@@ -393,12 +393,6 @@ If you want to change the style of the table, please look at the table tags in _
         <span class="username">jisang.park@kaist.ac.kr </span>
         </a>
         <br>    
-        <br>
-    </td>
-<!--filler-->
-    <td>
-    </td>
-    <td>
     </td>
 </tr>
 
@@ -421,17 +415,62 @@ If you want to change the style of the table, please look at the table tags in _
 <tbody>
 
 <tr>
-
-
-<!--  -->
+<!-- Chanyoung Ahn -->
 <td>
+    <a href="/assets/people/chanyoung_ahn.jpg" data-lightbox="Chanyoung Ahn" >
+        <img style="width: 75%" src="/assets/people/chanyoung_ahn.jpg">
+    </a>
 </td>
 <td>
+    <b>Chanyoung Ahn</b><br>
+    M.S. at 2024.02<br>
+    <a href="mailto:coldyoung@kaist.ac.kr">
+        <i class="fa fa-envelope-o"></i>
+        <span class="username">coldyoung@kaist.ac.kr</span>
+    </a>
+    <br>
 </td>
-<td></td>
-<td></td>
 
 
+<!-- 김진우  -->
+<td>
+    <a href="/assets/people/jinwoo_kim.jpg" data-lightbox="Jinwoo Kim" >
+        <img style="width: 75%" src="/assets/people/jinwoo_kim.jpg">
+    </a>
+</td>
+<td>
+    <b>Jinwoo Kim</b><br>
+    M.S. at 2024.02<br>
+    <a href="mailto:kjwoo31@kaist.ac.kr">
+        <i class="fa fa-envelope-o"></i>
+        <span class="username">kjwoo31@kaist.ac.kr</span>
+    </a>
+    <br>
+</td>
+</tr>
+
+
+<tr>
+<!-- 신주철  -->
+<td>
+    <a href="/assets/people/ju-chul_shin.jpg" data-lightbox="Ju-chul Shin" >
+    <img style="width: 75%" src="/assets/people/ju-chul_shin.jpg">
+    </a>
+</td>
+<td>
+    <b>Ju-chul Shin</b><br>
+    M.S. at 2024.02 <br>
+    <a href="mailto:castiron@kaist.ac.kr">
+    <i class="fa fa-envelope-o"></i>
+    <span class="username">castiron@kaist.ac.kr </span>
+    </a>
+    <br>    
+</td>
+<!--filler-->
+    <td>
+    </td>
+    <td>
+    </td>
 
 </tr>
 

@@ -4,7 +4,7 @@ title: Individual study, URP, Internship Positions
 permalink: /undergrads/
 ---
 
-# We are looking for highly motivated undergrad interns for this winter of 2023.
+# We are looking for highly motivated undergrad interns for this summer of 2024.
 
 ## Potential topics for Undergrads
 - Large-language model-based mobile manipulation
