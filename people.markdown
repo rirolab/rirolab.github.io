@@ -336,6 +336,16 @@ If you want to change the style of the table, please look at the table tags in _
         <i class="fa fa-github"></i>
         <span>Github</span>
     </a>
+    <span> | </span>
+    <a href="https://scholar.google.com/citations?user=gI5KkPUAAAAJ">
+        <i class="fa fa-graduation-cap"></i>
+        <span>Scholar</span>
+    </a>
+    <span> | </span>
+    <a href="https://www.linkedin.com/in/keonyoungkoh/">
+        <i class="fa fa-home"></i>
+        <span>Homepage</span>
+    </a>   
 </td>
 </tr>
 <tr>
@@ -361,7 +371,7 @@ If you want to change the style of the table, please look at the table tags in _
         <span>Github</span>
     </a>
     <span> | </span>
-    <a href="https://scholar.google.com/citations?user=-OcdEJgAAAAJ&hl=ko&oi=sra">
+    <a href="https://scholar.google.com/citations?user=-OcdEJgAAAAJ">
         <i class="fa fa-graduation-cap"></i>
         <span>Scholar</span>
     </a>
@@ -416,7 +426,12 @@ If you want to change the style of the table, please look at the table tags in _
     <a href="https://github.com/Caterpiemaster">
         <i class="fa fa-github"></i>
         <span>Github</span>
-    </a>
+    </a> 
+    <span> | </span>
+    <a href="https://scholar.google.com/citations?user=MErjm0EAAAAJ">
+        <i class="fa fa-graduation-cap"></i>
+        <span>Scholar</span>
+    </a> 
     </td>
 <!--Yohan Park  -->
     <td>
@@ -437,6 +452,16 @@ If you want to change the style of the table, please look at the table tags in _
     <a href="https://github.com/farawell">
         <i class="fa fa-github"></i>
         <span>Github</span>
+    </a>  
+    <span> | </span>
+    <a href="https://scholar.google.com/citations?user=AjNvEN0AAAAJ">
+        <i class="fa fa-graduation-cap"></i>
+        <span>Scholar</span>
+    </a> 
+    <span> | </span>
+    <a href="http://www.linkedin.com/in/yohanpark00">
+        <i class="fa fa-home"></i>
+        <span>Homepage</span>
     </a>   
     </td>
 </tr>
@@ -531,7 +556,7 @@ If you want to change the style of the table, please look at the table tags in _
         <span>Github</span>
     </a>
     <span> | </span>
-    <a href="https://scholar.google.com/citations?user=YXjaSZoAAAAJl">
+    <a href="https://scholar.google.com/citations?user=YXjaSZoAAAAJ">
         <i class="fa fa-graduation-cap"></i>
         <span>Scholar</span>
     </a>
