@@ -476,7 +476,7 @@ If you want to change the style of the table, please look at the table tags in _
         <b>Seungsup Lee</b><br>
         <i class="fa fa-graduation-cap"></i>
         Mechanical and Aerospace Engineering, SNU<br>
-        Robust Navigation, TAMP<br>
+        Perception, Robust Navigation, TAMP<br>
         <a href="mailto:johngalt827@snu.ac.kr">
         <i class="fa fa-envelope-o"></i>
         <span class="username">johngalt827@snu.ac.kr </span>
@@ -485,7 +485,17 @@ If you want to change the style of the table, please look at the table tags in _
     <a href="https://github.com/piratecat-lover">
         <i class="fa fa-github"></i>
         <span>Github</span>
-    </a>     
+    </a>
+    <span> | </span>
+    <a href="https://scholar.google.com/citations?user=Y23oeeoAAAAJ">
+        <i class="fa fa-graduation-cap"></i>
+        <span>Scholar</span>
+    </a>
+    <span> | </span>
+    <a href="https://www.linkedin.com/profile/in/samuelseungsuplee/">
+        <i class="fa fa-home"></i>
+        <span>Homepage</span>
+    </a>        
     </td>
 <!--filler-->
     <td>
