@@ -38,7 +38,15 @@ If you want to change the style of the table, please look at the table tags in _
        <span class="username">{{ site.email }}</span>
     </a>
     <br>
-    <a href="https://sites.google.com/site/daehyungpark">https://sites.google.com/site/daehyungpark</a>
+    <a href="https://scholar.google.com/citations?user=5mWSk04AAAAJ">
+        <i class="fa fa-graduation-cap"></i>
+        <span>Scholar</span>
+    </a>
+    <span> | </span>
+    <a href="https://sites.google.com/site/daehyungpark">
+        <i class="fa fa-home"></i>
+        <span>Homepage</span>
+    </a>   
 </td>
 <td></td>
 <td></td>
@@ -89,9 +97,17 @@ If you want to change the style of the table, please look at the table tags in _
         <td>
                 <b>Yeseung Kim</b><br>
                 School of Computing, 2023<br>
+                <i class="fa fa-graduation-cap"></i>
+                M.S. in Robotics, KAIST (2023)<br>
+                Motion Planning, Collision Detection<br>
                 <a href="mailto:yeseung.kim.88@kaist.ac.kr">
-                <i class="fa fa-envelope-o"></i>
-                <span class="username">yeseung.kim.88@kaist.ac.kr</span>
+                <i class="fa fa-envelope"></i>
+                <span class="username"> yeseung.kim.88@kaist.ac.kr</span>
+                </a>
+                <br>
+                <a href="https://github.com/aries-robot/">
+                <i class="fa fa-github"></i>
+                <span>Github</span>
                 </a>
                 <br>
         </td>
@@ -126,9 +142,17 @@ If you want to change the style of the table, please look at the table tags in _
 <td>
     <b>Minjae Song</b><br>
     School of Computing, 2022<br>
+    <i class="fa fa-graduation-cap"></i>
+    B.S. in Computer Science, KAIST (2022)<br>
+    Planning, Object Representation<br>
     <a href="mailto:smj0398@kaist.ac.kr">
         <i class="fa fa-envelope-o"></i>
         <span class="username">smj0398@kaist.ac.kr</span>
+    </a>
+    <br>
+    <a href="https://github.com/songminjae">
+        <i class="fa fa-github"></i>
+        <span>Github</span>
     </a>
     <br>
 </td>
@@ -141,11 +165,28 @@ If you want to change the style of the table, please look at the table tags in _
 <td>
     <b>Dohyun Kim</b><br>
     Graduate School of AI, 2023<br>
-        <a href="mailto:dohyun141@kaist.ac.kr">
+    <i class="fa fa-graduation-cap"></i>
+        B.S. in Computer Science, KAIST (2023)<br>
+        Robotic Natural Language Processing<br>
+    <a href="mailto:dohyun141@kaist.ac.kr">
         <i class="fa fa-envelope-o"></i>
         <span class="username">dohyun141@kaist.ac.kr</span>
     </a>
     <br>
+    <a href="https://github.com/dohyun1411">
+        <i class="fa fa-github"></i>
+        <span>Github</span>
+    </a>
+    <span> | </span>
+    <a href="https://scholar.google.com/citations?user=Hbb9XlEAAAAJ&hl=ko">
+        <i class="fa fa-graduation-cap"></i>
+        <span>Scholar</span>
+    </a>
+    <span> | </span>
+    <a href="https://dohyun1411.github.io">
+        <i class="fa fa-home"></i>
+        <span>Homepage</span>
+    </a>
 </td>
 </tr>
 
@@ -159,11 +200,18 @@ If you want to change the style of the table, please look at the table tags in _
 <td>
     <b>JeongHo Ha</b><br>
     School of Computing, 2023<br>
-        <a href="mailto:hajeongho95@kaist.ac.kr">
+    <i class="fa fa-graduation-cap"></i>
+    B.S. in Computer Science, KAIST (2023)<br>
+    Deformable Object Manipulation<br>
+    <a href="mailto:hajeongho95@kaist.ac.kr">
         <i class="fa fa-envelope-o"></i>
         <span class="username">hajeongho95@kaist.ac.kr </span>
+    </a>    
+    <br>
+    <a href="https://github.com/Ha-JH">
+        <i class="fa fa-github"></i>
+        <span>Github</span>
     </a>
-    <br>    
 </td>
 
 <!--황덕민  -->
@@ -175,11 +223,23 @@ If you want to change the style of the table, please look at the table tags in _
 <td>
     <b>Deok-Min Hwang</b><br>
     School of Computing, 2023 <br>
+    <i class="fa fa-graduation-cap"></i>
+    B.S. in Mechanical Engineering, KAIST (2023)<br>
+    Perception, Task Planning<br>
     <a href="mailto:gsh04089@kaist.ac.kr">
     <i class="fa fa-envelope-o"></i>
     <span class="username">gsh04089@kaist.ac.kr </span>
     </a>
     <br>
+    <a href="https://github.com/Deok-min">
+        <i class="fa fa-github"></i>
+        <span>Github</span>
+    </a>
+    <span> | </span>
+    <a href="https://scholar.google.com/citations?user=7LAjSt0AAAAJ&hl=ko&oi=sra">
+        <i class="fa fa-graduation-cap"></i>
+        <span>Scholar</span>
+    </a>
 </td>
 
 </tr>
@@ -194,11 +254,18 @@ If you want to change the style of the table, please look at the table tags in _
 <td>
     <b>Bonggyeong Park</b><br>
     Robotics Program, 2023<br>
+    <i class="fa fa-graduation-cap"></i>
+    B.S. in Mechanical Engineering, KHU (2021)<br>
+    Manipulation, Learning from Demonstration<br>
         <a href="mailto:iampbk@kaist.ac.kr">
         <i class="fa fa-envelope-o"></i>
         <span class="username">iampbk@kaist.ac.kr</span>
     </a>
     <br>
+    <a href="https://github.com/PARKBONG">
+        <i class="fa fa-github"></i>
+        <span>Github</span>
+    </a>
 </td>
 
 <!--Minwoo Cho  -->
@@ -210,11 +277,18 @@ If you want to change the style of the table, please look at the table tags in _
 <td>
     <b>Minwoo Cho</b><br>
     School of Computing, 2023<br>
+    <i class="fa fa-graduation-cap"></i>
+    B.S. in Mechanical Engineering, KAIST (2023)<br>
+    Constrained RL, Inverse RL, Constraint Inference<br>
     <a href="mailto:cmw9903@kaist.ac.kr">
     <i class="fa fa-envelope-o"></i>
     <span class="username">cmw9903@kaist.ac.kr </span>
     </a>
     <br>
+    <a href="https://github.com/MinchoU">
+        <i class="fa fa-github"></i>
+        <span>Github</span>
+    </a>
 </td>
 </tr>
 
@@ -228,11 +302,18 @@ If you want to change the style of the table, please look at the table tags in _
     <td>
         <b>Jieun Choi</b><br>
         School of Computing, 2023 <br>
+        <i class="fa fa-graduation-cap"></i>
+        B.S. in Computer Information and Communication Engineering, CNU (2023)<br>
+        Multimodal Perception, Mobile Manipulation<br>
         <a href="mailto:jichoi0101@kaist.ac.kr">
         <i class="fa fa-envelope-o"></i>
         <span class="username">jichoi0101@kaist.ac.kr </span>
         </a>
         <br>
+    <a href="https://github.com/ilileun">
+        <i class="fa fa-github"></i>
+        <span>Github</span>
+    </a>
     </td>
 <!--Keonyoung Koh  -->
     <td>
@@ -243,11 +324,18 @@ If you want to change the style of the table, please look at the table tags in _
     <td>
         <b>Keonyoung Koh</b><br>
         School of Computing, 2024 <br>
+        <i class="fa fa-graduation-cap"></i>
+        B.S. in Mechanical Engineering, KAIST (2024)<br>
+        Perception based Planning<br>
         <a href="mailto:kkyjusikhoisa@kaist.ac.kr">
         <i class="fa fa-envelope-o"></i>
         <span class="username">kkyjusikhoisa@kaist.ac.kr </span>
         </a>
         <br>
+    <a href="https://github.com/KeonyoungKoh">
+        <i class="fa fa-github"></i>
+        <span>Github</span>
+    </a>
 </td>
 </tr>
 <tr>
@@ -260,11 +348,28 @@ If you want to change the style of the table, please look at the table tags in _
     <td>
         <b>Nayoung Oh</b><br>
         Graduate School of AI, 2024<br>
+        <i class="fa fa-graduation-cap"></i>
+        B.S. in Computer Science & Mechanical Engineering, KAIST (2024)<br>
+        Natural Language Grounding, Human-Robot Interaction<br>
         <a href="mailto:lightsalt@kaist.ac.kr">
         <i class="fa fa-envelope-o"></i>
         <span class="username">lightsalt@kaist.ac.kr </span>
         </a>
         <br>
+    <a href="https://github.com/Nayoung-Oh">
+        <i class="fa fa-github"></i>
+        <span>Github</span>
+    </a>
+    <span> | </span>
+    <a href="https://scholar.google.com/citations?user=-OcdEJgAAAAJ&hl=ko&oi=sra">
+        <i class="fa fa-graduation-cap"></i>
+        <span>Scholar</span>
+    </a>
+    <span> | </span>
+    <a href="https://showy-moth-02a.notion.site/Nayoung-Oh-3738a8fbe90c444f8f27fef627218f8c">
+        <i class="fa fa-home"></i>
+        <span>Homepage</span>
+    </a>   
 </td>
 
 <!--filler-->
@@ -300,12 +405,17 @@ If you want to change the style of the table, please look at the table tags in _
     </td>
     <td>
         <b>Minseok Song</b><br>
-        Mechanical Engineering <br>
+        Mechanical Engineering, KAIST <br>
+        Manipulation<br>
         <a href="mailto:hjmngb@kaist.ac.kr">
         <i class="fa fa-envelope-o"></i>
         <span class="username">hjmngb@kaist.ac.kr </span>
         </a>
         <br>
+    <a href="https://github.com/Caterpiemaster">
+        <i class="fa fa-github"></i>
+        <span>Github</span>
+    </a>
     </td>
 <!--Yohan Park  -->
     <td>
@@ -315,12 +425,17 @@ If you want to change the style of the table, please look at the table tags in _
     </td>
     <td>
         <b>Yohan Park</b><br>
-        Electrical Engineering <br>
+        Electrical Engineering, KAIST <br>
+        Perception, Planning<br>
         <a href="mailto:farawell777@kaist.ac.kr">
         <i class="fa fa-envelope-o"></i>
         <span class="username">farawell777@kaist.ac.kr </span>
         </a>
-        <br>    
+        <br> 
+    <a href="https://github.com/farawell">
+        <i class="fa fa-github"></i>
+        <span>Github</span>
+    </a>   
     </td>
 </tr>
 <tr>
@@ -332,12 +447,17 @@ If you want to change the style of the table, please look at the table tags in _
     </td>
     <td>
         <b>Seungsup Lee</b><br>
-        Mechanical and Aerospace Engineering<br>
+        Mechanical and Aerospace Engineering, SNU<br>
+        Robust Navigation, TAMP<br>
         <a href="mailto:johngalt827@snu.ac.kr">
         <i class="fa fa-envelope-o"></i>
         <span class="username">johngalt827@snu.ac.kr </span>
         </a>
-        <br>    
+        <br> 
+    <a href="https://github.com/piratecat-lover">
+        <i class="fa fa-github"></i>
+        <span>Github</span>
+    </a>     
     </td>
 <!--filler-->
     <td>
@@ -373,11 +493,18 @@ If you want to change the style of the table, please look at the table tags in _
 	<td>
 		<b>Jaehwi Jang</b><br>
 		Research Associate<br>
+        <i class="fa fa-graduation-cap"></i>
+        M.S. in Artificial Intelligence, KAIST (2024)<br>
+        Inverse skill learning, Robust skill learning<br>
 		<a href="mailto:wognl0402@kaist.ac.kr">
 		   <i class="fa fa-envelope-o"></i>
 		   <span class="username">wognl0402@kaist.ac.kr</span>
 		</a>
 		<br>
+    <a href="https://github.com/wognl0402">
+        <i class="fa fa-github"></i>
+        <span>Github</span>
+    </a>
 	</td>
 <!-- jisang park  -->
     <td>
@@ -388,11 +515,28 @@ If you want to change the style of the table, please look at the table tags in _
     <td>
         <b>Jisang Park</b><br>
         Research Associate <br>
+        <i class="fa fa-graduation-cap"></i>
+        B.B.A & B.S. in Computer Science & Engineering, SNU (2022)<br>
+        Human-Robot Interaction, Perception, Task Planning<br>
         <a href="mailto:jisang.park@kaist.ac.kr">
         <i class="fa fa-envelope-o"></i>
         <span class="username">jisang.park@kaist.ac.kr </span>
         </a>
-        <br>    
+        <br>   
+    <a href="https://github.com/alsichcan">
+        <i class="fa fa-github"></i>
+        <span>Github</span>
+    </a>
+    <span> | </span>
+    <a href="https://scholar.google.com/citations?user=YXjaSZoAAAAJl">
+        <i class="fa fa-graduation-cap"></i>
+        <span>Scholar</span>
+    </a>
+    <span> | </span>
+    <a href="https://www.linkedin.com/in/jace-jisang-park">
+        <i class="fa fa-home"></i>
+        <span>Homepage</span>
+    </a>   
     </td>
 </tr>
 
@@ -423,7 +567,8 @@ If you want to change the style of the table, please look at the table tags in _
 </td>
 <td>
     <b>Chanyoung Ahn</b><br>
-    M.S. at 2024.02<br>
+    <i class="fa fa-graduation-cap"></i>
+    M.S. in Robotics, 2024<br>
     <a href="mailto:coldyoung@kaist.ac.kr">
         <i class="fa fa-envelope-o"></i>
         <span class="username">coldyoung@kaist.ac.kr</span>
@@ -440,7 +585,8 @@ If you want to change the style of the table, please look at the table tags in _
 </td>
 <td>
     <b>Jinwoo Kim</b><br>
-    M.S. at 2024.02<br>
+    <i class="fa fa-graduation-cap"></i>
+    M.S. in Computer Science, 2024<br>
     <a href="mailto:kjwoo31@kaist.ac.kr">
         <i class="fa fa-envelope-o"></i>
         <span class="username">kjwoo31@kaist.ac.kr</span>
@@ -459,12 +605,12 @@ If you want to change the style of the table, please look at the table tags in _
 </td>
 <td>
     <b>Ju-chul Shin</b><br>
-    M.S. at 2024.02 <br>
+    <i class="fa fa-graduation-cap"></i>
+    M.S. in Software Engineering, 2024<br>
     <a href="mailto:castiron@kaist.ac.kr">
     <i class="fa fa-envelope-o"></i>
     <span class="username">castiron@kaist.ac.kr </span>
     </a>
-    <br>    
 </td>
 <!--filler-->
     <td>
