@@ -109,7 +109,11 @@ If you want to change the style of the table, please look at the table tags in _
                 <i class="fa fa-github"></i>
                 <span>Github</span>
                 </a>
-                <br>
+                <span> | </span>
+                <a href="https://scholar.google.com/citations?user=NsNnSNYAAAAJ">
+                    <i class="fa fa-graduation-cap"></i>
+                    <span>Scholar</span>
+                </a>
         </td>
 	
 </tr>
@@ -154,7 +158,11 @@ If you want to change the style of the table, please look at the table tags in _
         <i class="fa fa-github"></i>
         <span>Github</span>
     </a>
-    <br>
+    <span> | </span>
+    <a href="https://scholar.google.com/citations?user=FZyDZHAAAAAJ">
+        <i class="fa fa-graduation-cap"></i>
+        <span>Scholar</span>
+    </a>
 </td>
 <!--김도현-->
 <td>
@@ -178,15 +186,15 @@ If you want to change the style of the table, please look at the table tags in _
         <span>Github</span>
     </a>
     <span> | </span>
-    <a href="https://scholar.google.com/citations?user=Hbb9XlEAAAAJ&hl=ko">
+    <a href="https://scholar.google.com/citations?user=Hbb9XlEAAAAJ">
         <i class="fa fa-graduation-cap"></i>
         <span>Scholar</span>
     </a>
-    <span> | </span>
+    <!-- <span> | </span>
     <a href="https://dohyun1411.github.io">
         <i class="fa fa-home"></i>
         <span>Homepage</span>
-    </a>
+    </a> -->
 </td>
 </tr>
 
@@ -202,7 +210,7 @@ If you want to change the style of the table, please look at the table tags in _
     School of Computing, 2023<br>
     <i class="fa fa-graduation-cap"></i>
     B.S. in Computer Science, KAIST (2023)<br>
-    Deformable Object Manipulation<br>
+    Deformable Object Manipulation, Representation Learining<br>
     <a href="mailto:hajeongho95@kaist.ac.kr">
         <i class="fa fa-envelope-o"></i>
         <span class="username">hajeongho95@kaist.ac.kr </span>
@@ -211,6 +219,11 @@ If you want to change the style of the table, please look at the table tags in _
     <a href="https://github.com/Ha-JH">
         <i class="fa fa-github"></i>
         <span>Github</span>
+    </a>
+    <span> | </span>
+    <a href="https://scholar.google.com/citations?user=7_G2LRkAAAAJ">
+        <i class="fa fa-graduation-cap"></i>
+        <span>Scholar</span>
     </a>
 </td>
 
@@ -266,6 +279,11 @@ If you want to change the style of the table, please look at the table tags in _
         <i class="fa fa-github"></i>
         <span>Github</span>
     </a>
+    <span> | </span>
+    <a href="https://scholar.google.com/citations?user=XBi4GLkAAAAJ">
+        <i class="fa fa-graduation-cap"></i>
+        <span>Scholar</span>
+    </a>
 </td>
 
 <!--Minwoo Cho  -->
@@ -288,6 +306,11 @@ If you want to change the style of the table, please look at the table tags in _
     <a href="https://github.com/MinchoU">
         <i class="fa fa-github"></i>
         <span>Github</span>
+    </a>
+    <span> | </span>
+    <a href="https://scholar.google.com/citations?user=yeAv8qEAAAAJ">
+        <i class="fa fa-graduation-cap"></i>
+        <span>Scholar</span>
     </a>
 </td>
 </tr>
@@ -313,6 +336,11 @@ If you want to change the style of the table, please look at the table tags in _
     <a href="https://github.com/ilileun">
         <i class="fa fa-github"></i>
         <span>Github</span>
+    </a>
+    <span> | </span>
+    <a href="https://scholar.google.com/citations?user=7BHY-McAAAAJ">
+        <i class="fa fa-graduation-cap"></i>
+        <span>Scholar</span>
     </a>
     </td>
 <!--Keonyoung Koh  -->
@@ -344,7 +372,7 @@ If you want to change the style of the table, please look at the table tags in _
     <span> | </span>
     <a href="https://www.linkedin.com/in/keonyoungkoh/">
         <i class="fa fa-home"></i>
-        <span>Homepage</span>
+        <span>LinkedIn</span>
     </a>   
 </td>
 </tr>
@@ -461,7 +489,7 @@ If you want to change the style of the table, please look at the table tags in _
     <span> | </span>
     <a href="http://www.linkedin.com/in/yohanpark00">
         <i class="fa fa-home"></i>
-        <span>Homepage</span>
+        <span>LinkedIn</span>
     </a>   
     </td>
 </tr>
@@ -476,7 +504,7 @@ If you want to change the style of the table, please look at the table tags in _
         <b>Seungsup Lee</b><br>
         <i class="fa fa-graduation-cap"></i>
         Mechanical and Aerospace Engineering, SNU<br>
-        Robust Navigation, TAMP<br>
+        Perception, Robust Navigation, TAMP<br>
         <a href="mailto:johngalt827@snu.ac.kr">
         <i class="fa fa-envelope-o"></i>
         <span class="username">johngalt827@snu.ac.kr </span>
@@ -485,7 +513,17 @@ If you want to change the style of the table, please look at the table tags in _
     <a href="https://github.com/piratecat-lover">
         <i class="fa fa-github"></i>
         <span>Github</span>
-    </a>     
+    </a>
+    <span> | </span>
+    <a href="https://scholar.google.com/citations?user=Y23oeeoAAAAJ">
+        <i class="fa fa-graduation-cap"></i>
+        <span>Scholar</span>
+    </a>
+    <span> | </span>
+    <a href="https://www.linkedin.com/profile/in/samuelseungsuplee/">
+        <i class="fa fa-home"></i>
+        <span>LinkedIn</span>
+    </a>        
     </td>
 <!--filler-->
     <td>
@@ -533,6 +571,11 @@ If you want to change the style of the table, please look at the table tags in _
         <i class="fa fa-github"></i>
         <span>Github</span>
     </a>
+    <span> | </span>
+    <a href="https://scholar.google.com/citations?user=fPNCtVQAAAAJ">
+        <i class="fa fa-graduation-cap"></i>
+        <span>Scholar</span>
+    </a>
 	</td>
 <!-- jisang park  -->
     <td>
@@ -563,7 +606,7 @@ If you want to change the style of the table, please look at the table tags in _
     <span> | </span>
     <a href="https://www.linkedin.com/in/jace-jisang-park">
         <i class="fa fa-home"></i>
-        <span>Homepage</span>
+        <span>LinkedIn</span>
     </a>   
     </td>
 </tr>
