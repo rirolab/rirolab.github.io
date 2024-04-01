@@ -202,7 +202,7 @@ If you want to change the style of the table, please look at the table tags in _
     School of Computing, 2023<br>
     <i class="fa fa-graduation-cap"></i>
     B.S. in Computer Science, KAIST (2023)<br>
-    Deformable Object Manipulation<br>
+    Deformable Object Manipulation, Representation Learining<br>
     <a href="mailto:hajeongho95@kaist.ac.kr">
         <i class="fa fa-envelope-o"></i>
         <span class="username">hajeongho95@kaist.ac.kr </span>
@@ -211,6 +211,11 @@ If you want to change the style of the table, please look at the table tags in _
     <a href="https://github.com/Ha-JH">
         <i class="fa fa-github"></i>
         <span>Github</span>
+    </a>
+    <span> | </span>
+    <a href="https://scholar.google.com/citations?user=7_G2LRkAAAAJ">
+        <i class="fa fa-graduation-cap"></i>
+        <span>Scholar</span>
     </a>
 </td>
 
