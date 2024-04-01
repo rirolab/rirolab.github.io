@@ -405,6 +405,7 @@ If you want to change the style of the table, please look at the table tags in _
     </td>
     <td>
         <b>Minseok Song</b><br>
+        <i class="fa fa-graduation-cap"></i>
         Mechanical Engineering, KAIST <br>
         Manipulation<br>
         <a href="mailto:hjmngb@kaist.ac.kr">
@@ -425,6 +426,7 @@ If you want to change the style of the table, please look at the table tags in _
     </td>
     <td>
         <b>Yohan Park</b><br>
+        <i class="fa fa-graduation-cap"></i>
         Electrical Engineering, KAIST <br>
         Perception, Planning<br>
         <a href="mailto:farawell777@kaist.ac.kr">
@@ -447,6 +449,7 @@ If you want to change the style of the table, please look at the table tags in _
     </td>
     <td>
         <b>Seungsup Lee</b><br>
+        <i class="fa fa-graduation-cap"></i>
         Mechanical and Aerospace Engineering, SNU<br>
         Robust Navigation, TAMP<br>
         <a href="mailto:johngalt827@snu.ac.kr">
@@ -585,6 +588,7 @@ If you want to change the style of the table, please look at the table tags in _
 </td>
 <td>
     <b>Jinwoo Kim</b><br>
+    Industrial Technical Personnel in ROBOTIS<br>
     <i class="fa fa-graduation-cap"></i>
     M.S. in Computer Science, 2024<br>
     <a href="mailto:kjwoo31@kaist.ac.kr">
