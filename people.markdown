@@ -108,6 +108,7 @@ If you want to change the style of the table, please look at the table tags in _
                 <a href="https://github.com/aries-robot/">
                 <i class="fa fa-github"></i>
                 <span>Github</span>
+                </a>
                 <span> | </span>
                 <a href="https://scholar.google.com/citations?user=NsNnSNYAAAAJ">
                     <i class="fa fa-graduation-cap"></i>
@@ -157,7 +158,6 @@ If you want to change the style of the table, please look at the table tags in _
         <i class="fa fa-github"></i>
         <span>Github</span>
     </a>
-    </a>
     <span> | </span>
     <a href="https://scholar.google.com/citations?user=FZyDZHAAAAAJ">
         <i class="fa fa-graduation-cap"></i>
@@ -190,11 +190,11 @@ If you want to change the style of the table, please look at the table tags in _
         <i class="fa fa-graduation-cap"></i>
         <span>Scholar</span>
     </a>
-    <span> | </span>
+    <!-- <span> | </span>
     <a href="https://dohyun1411.github.io">
         <i class="fa fa-home"></i>
         <span>Homepage</span>
-    </a>
+    </a> -->
 </td>
 </tr>
 
@@ -302,6 +302,11 @@ If you want to change the style of the table, please look at the table tags in _
         <i class="fa fa-github"></i>
         <span>Github</span>
     </a>
+    <span> | </span>
+    <a href="https://scholar.google.com/citations?user=yeAv8qEAAAAJ">
+        <i class="fa fa-graduation-cap"></i>
+        <span>Scholar</span>
+    </a>
 </td>
 </tr>
 
@@ -326,6 +331,11 @@ If you want to change the style of the table, please look at the table tags in _
     <a href="https://github.com/ilileun">
         <i class="fa fa-github"></i>
         <span>Github</span>
+    </a>
+    <span> | </span>
+    <a href="https://scholar.google.com/citations?user=7BHY-McAAAAJ">
+        <i class="fa fa-graduation-cap"></i>
+        <span>Scholar</span>
     </a>
     </td>
 <!--Keonyoung Koh  -->
