@@ -157,7 +157,12 @@ If you want to change the style of the table, please look at the table tags in _
         <i class="fa fa-github"></i>
         <span>Github</span>
     </a>
-    <br>
+    </a>
+    <span> | </span>
+    <a href="https://scholar.google.com/citations?user=FZyDZHAAAAAJ">
+        <i class="fa fa-graduation-cap"></i>
+        <span>Scholar</span>
+    </a>
 </td>
 <!--김도현-->
 <td>
@@ -181,7 +186,7 @@ If you want to change the style of the table, please look at the table tags in _
         <span>Github</span>
     </a>
     <span> | </span>
-    <a href="https://scholar.google.com/citations?user=Hbb9XlEAAAAJ&hl=ko">
+    <a href="https://scholar.google.com/citations?user=Hbb9XlEAAAAJ">
         <i class="fa fa-graduation-cap"></i>
         <span>Scholar</span>
     </a>
