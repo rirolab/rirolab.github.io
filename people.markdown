@@ -108,8 +108,11 @@ If you want to change the style of the table, please look at the table tags in _
                 <a href="https://github.com/aries-robot/">
                 <i class="fa fa-github"></i>
                 <span>Github</span>
+                <span> | </span>
+                <a href="https://scholar.google.com/citations?user=NsNnSNYAAAAJ">
+                    <i class="fa fa-graduation-cap"></i>
+                    <span>Scholar</span>
                 </a>
-                <br>
         </td>
 	
 </tr>
