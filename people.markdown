@@ -548,6 +548,11 @@ If you want to change the style of the table, please look at the table tags in _
         <i class="fa fa-github"></i>
         <span>Github</span>
     </a>
+    <span> | </span>
+    <a href="https://scholar.google.com/citations?user=fPNCtVQAAAAJ">
+        <i class="fa fa-graduation-cap"></i>
+        <span>Scholar</span>
+    </a>
 	</td>
 <!-- jisang park  -->
     <td>
