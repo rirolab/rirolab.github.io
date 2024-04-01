@@ -279,6 +279,11 @@ If you want to change the style of the table, please look at the table tags in _
         <i class="fa fa-github"></i>
         <span>Github</span>
     </a>
+    <span> | </span>
+    <a href="https://scholar.google.com/citations?user=XBi4GLkAAAAJ">
+        <i class="fa fa-graduation-cap"></i>
+        <span>Scholar</span>
+    </a>
 </td>
 
 <!--Minwoo Cho  -->
@@ -367,7 +372,7 @@ If you want to change the style of the table, please look at the table tags in _
     <span> | </span>
     <a href="https://www.linkedin.com/in/keonyoungkoh/">
         <i class="fa fa-home"></i>
-        <span>Homepage</span>
+        <span>LinkedIn</span>
     </a>   
 </td>
 </tr>
@@ -484,7 +489,7 @@ If you want to change the style of the table, please look at the table tags in _
     <span> | </span>
     <a href="http://www.linkedin.com/in/yohanpark00">
         <i class="fa fa-home"></i>
-        <span>Homepage</span>
+        <span>LinkedIn</span>
     </a>   
     </td>
 </tr>
@@ -517,7 +522,7 @@ If you want to change the style of the table, please look at the table tags in _
     <span> | </span>
     <a href="https://www.linkedin.com/profile/in/samuelseungsuplee/">
         <i class="fa fa-home"></i>
-        <span>Homepage</span>
+        <span>LinkedIn</span>
     </a>        
     </td>
 <!--filler-->
@@ -601,7 +606,7 @@ If you want to change the style of the table, please look at the table tags in _
     <span> | </span>
     <a href="https://www.linkedin.com/in/jace-jisang-park">
         <i class="fa fa-home"></i>
-        <span>Homepage</span>
+        <span>LinkedIn</span>
     </a>   
     </td>
 </tr>
