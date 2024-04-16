@@ -29,6 +29,19 @@ If you want to change the style of the table, please look at the publication tag
 <th colspan="2"></th>
 </tr>
 </thead>
+<tr>
+<td>
+    <a href="/assets/research/2024_ISR_LLM.png" data-lightbox="" >
+      <img style="width: 85%" src="/assets/research/2024_ISR_LLM.png">
+      </a>
+</td>
+<td>
+    <b>A Survey on Integration of Large Language Models with Intelligent Robots</b><br>
+    Yeseung Kim, Dohyun Kim, Jieun Choi, Jisang Park, Nayoung Oh, Daehyung Park<br>
+    <i> Intelligent Service Robotics (ISR), 2024 (Submitted) </i> <br>
+    <a href="https://arxiv.org/abs/2404.09228" target="_blank">[PDF]</a>
+</td>
+</tr>
 <tbody>
 <tr>
 <td>
