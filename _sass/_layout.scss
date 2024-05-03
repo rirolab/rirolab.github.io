@@ -89,7 +89,7 @@ pre code.hljs {
 */
 .cbs_slider{
 	position: relative;
-	margin: 0 auto;
+	margin: 0 auto 0;
 }
 
 .cbs_slider input[type=radio]{
@@ -97,7 +97,7 @@ pre code.hljs {
 }
 
 .cbs_slider ul.imgs{
-    padding: 0;
+    padding: 0px 0px 0px;
     margin: 0;
 }
 
@@ -116,7 +116,6 @@ pre code.hljs {
     position: absolute;
     list-style: none;
     padding: 0;
-    margin: 0;
 
 	animation-name: cbs_fadeout;
 	animation-duration: 1s;
@@ -149,8 +148,8 @@ pre code.hljs {
 }
 
 .cbs_slider .imgs>li{
-	width: 100%;
-	line-height: unset;
+    width: 100%;
+    line-height: unset;
 }
 
 .cbs_slider input[type=radio]:nth-child(1):checked~.bullets>label:nth-child(1){
@@ -160,6 +159,9 @@ pre code.hljs {
     background-color: #eee;
 }
 .cbs_slider input[type=radio]:nth-child(3):checked~.bullets>label:nth-child(3){
+    background-color: #eee;
+}
+.cbs_slider input[type=radio]:nth-child(4):checked~.bullets>label:nth-child(4){
     background-color: #eee;
 }
 
@@ -189,16 +191,34 @@ pre code.hljs {
 	animation-iteration-count: 1;
 	animation-timing-function: linear;
 }
+.cbs_slider input[type=radio]:nth-child(4):checked~ul.imgs>li:nth-child(4){
+    z-index: 10;
+	animation-name: cbs_fadein;
+	animation-duration: 1s;
+	animation-iteration-count: 1;
+	animation-timing-function: linear;
+}
 
 
 .cbs_slider .imgs>li:nth-child(1)>div{
-	background-image: url("/assets/header_image_3.gif");
+	background-image: url("/assets/group_202402.jpg");
+        background-color: #fff;
+	background-size: contain;
 }
 .cbs_slider .imgs>li:nth-child(2)>div{
-	background-image: url("/assets/group_pict3_wide_2.jpg");
+	background-image: url("/assets/advertisement.png");
+        background-color: #fff;
+	background-size: contain;
 }
 .cbs_slider .imgs>li:nth-child(3)>div{
+	background-image: url("/assets/group_pict3_wide_2.jpg");
+        background-color: #fff;
+	background-size: contain;
+}
+.cbs_slider .imgs>li:nth-child(4)>div{
 	background-image: url("/assets/lab_cover_img.jpg");
+        background-color: #fff;
+	background-size: contain;
 }
 
 
@@ -209,8 +229,9 @@ pre code.hljs {
 	&.has-cover {
 		color: $white;
 		text-shadow: 0 2px 1px rgba(0,0,0,0.67) !important;
-		background-position: 50% 50%;
+		background-position: center center;
 		background-size: cover;
+		object-fit: cover;
 		.title {
 			font-size: modular-scale(6);
 		}
@@ -243,7 +264,7 @@ pre code.hljs {
 	left: 0;
 	right: 0;
 	background: $white;
-	z-index: 30;
+	z-index: 99;
 	
   // Mobile view
   .navigation-menu-button {
@@ -258,7 +279,7 @@ pre code.hljs {
   }
   // Nav menu
   .navigation-wrapper {
-  	@include outer-container(60%);
+  	@include outer-container(80%);
     @include clearfix;
     position: relative;
   }
@@ -271,7 +292,6 @@ pre code.hljs {
     img {
       max-height: 3.0em;
       margin-top: 0.375em;
-      margin-bottom: 0.375em;
       padding-right: 1em;
     }
     span {
@@ -281,6 +301,7 @@ pre code.hljs {
   nav {
     float: none;
     padding: 0.75em 0;
+    overflow: visible;
     @include media ($tablet) {
       float: right;
       line-height: 1.5em;
@@ -289,7 +310,7 @@ pre code.hljs {
   ul.navigation-menu {
     clear: both;
     display: none;
-    margin: 0 auto;
+    margin: 0;
     overflow: visible;
     padding: 0;
     width: 100%;
@@ -305,7 +326,7 @@ pre code.hljs {
 
   .navbar {
       float: right !important;
-      margin-right: -15px;
+      margin-right: 0px;
       margin-bottom: 0em;
       font-family: 'Helvetica Rounded', Arial, sans-serif;
       font-size: 16px;
@@ -348,7 +369,7 @@ pre code.hljs {
     display: block;
     text-align: right;
     width: 100%;
-    padding: 0.0em 0;
+    padding: 0 0;
     @include media ($tablet) {
       background: transparent;
       display: inline;
@@ -367,10 +388,11 @@ pre code.hljs {
 *	Body
 */
 .page-content {
-	// Remove this to make header scrollable again
-	margin-top: 66px;
+    // Remove this to make header scrollable again
+    margin-top: 66px;
+
 	.wrapper {
-		@include outer-container(60%);
+		@include outer-container(80%);
 		padding: 1em;
 		
 		.news-list {
@@ -615,7 +637,7 @@ pre code.hljs {
 	  }
 	}
 	.wrapper {
-		@include outer-container(60%);
+		@include outer-container(80%);
 	}
 	.footer-heading {
 

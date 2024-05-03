@@ -1,7 +1,7 @@
 <body>
 <div class="navigation" role="banner">
     <div class="navigation-wrapper">
-        <!-- <nav id="navbar" class="collapse navbar-collapse"> -->
+        <!-- <nav class="navigation-menu-button" id="navbar" > -->
         <!-- <nav class="navbar navbar-expand-sm "> -->
         <!-- <nav role="navigation"> -->
         <a href="{{ site.baseurl }}/" class="logo">
@@ -11,7 +11,7 @@
             <span>{{ site.title }}</span>
             {% endif %}
         </a>
-        
+
         <nav class="navbar" role="navigation">
             {% assign links = {site.navigation} %}
             {% for link in links %}
