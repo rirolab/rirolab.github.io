@@ -1,7 +1,8 @@
 ---
 layout: page
 title: Postdoc Position
-permalink: /postdoc/
+permalink: /position/postdoc/
+main_nav: true
 ---
 
 Postdoctoral research associate positions in RIRO Lab

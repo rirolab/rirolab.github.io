@@ -2,6 +2,7 @@
 title: Contact
 layout: page
 permalink: "/contact/"
+main_nav: true
 ---
 
 The Robust Intelligence & Robotics (RIRO) Laboratory is part of the School of Computing at Korea Advanced Institute of Science and Technology (KAIST). Dr. Daehyung Park directs the lab, which he founded in September of 2020.   

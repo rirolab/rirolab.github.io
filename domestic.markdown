@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Publications
-permalink: /domestic/
+permalink: /publication/domestic/
 ---
 <!--
 If you want to change the style of the table, please look at the publication tag in _sass/_layout.scss.

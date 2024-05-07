@@ -2,10 +2,26 @@
 layout: page
 title: News
 permalink: "/news/"
+main_nav: true
 ---
 
  <div>
       <ul class="news-list">
+        <li>Jaewhi has been accepted into the Ph.D. program at Georgia Tech!! </li>
+        <li>Jaehwi, Chanyoung, Jinwoo, Ju-chul received their Master's Degrees in February 2024!! </li>
+        <li>Minjae's paper has been accepted to IEEE ICRA, 2024!! </li>
+        <li>Dohyun's paper has been accepted to AAAI, 2024!! </li>
+        <li>Jaehwi's paper has been accepted to IEEE RA-L, 2023!! </li>
+        <li>Jaehwi is selected for the Fulbright Graduate Student Program!! </li>	      	      
+        <li>Prof. Park received the ICRA 2023 Outstanding Planning Paper Award!!</li>
+	<li>Prof. Park organizes a workshop on "<a href="https://rss-ws-2023-lm.github.io/" target="_blank"><b>Experiment-oriented Locomotion and Manipulation Research</b></a>" at RSS, 2023</li>	      
+	<li>Prof. Park organizes a special session on "<a href="http://ro-man2023.org/paperSubmission/callForSpecialSession" target="_blank"><b>Human-Agent/Robot Interaction in Healthcare and Medicine</b></a>" at Ro-MAN, 2023</li>	      
+        <li>We received the Best Student Paper Award at RiTA 2022!! </li>
+        <li>A paper has been accepted to IEEE RA-L (IROS), 2022</li>
+        <li>Prof. Park received the Outstanding Young Researcher Award (우수신진연구자상) at ICROS, 2022</li>
+        <li>We received the Outstanding Paper Award at KROC 2022!! </li>
+        <li>Selected for ICRA 2022 Outstanding Navigation Award Finalist!!</li>
+      
         <li>A new IITP grant on contact-rich robotic manipulation</li>
         <li>Professor Daehyung Park has been selected to receive the Google Research Scholar Award!</li>       
         <li>Excellence Award for BECS ITRC Student-led Creative Autonomous Project</li>

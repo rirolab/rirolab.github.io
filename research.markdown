@@ -1,7 +1,8 @@
 ---
 layout: page
 title: Research Areas
-permalink: /research/
+permalink: /research/topics
+main_nav: true
 ---
 
 

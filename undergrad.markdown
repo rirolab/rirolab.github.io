@@ -1,7 +1,8 @@
 ---
 layout: page
 title: Individual study, URP, Internship Positions
-permalink: /undergrads/
+permalink: /position/undergrads/
+main_nav: true
 ---
 
 # We are looking for highly motivated undergrad interns for this summer of 2024.

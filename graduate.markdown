@@ -1,7 +1,8 @@
 ---
 layout: page
 title: Graduate Research Assistant Positions
-permalink: /graduates/
+permalink: /position/graduates/
+main_nav: true
 ---
 
 ## List of Available Graduate Schools

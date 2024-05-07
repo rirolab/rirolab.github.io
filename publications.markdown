@@ -1,7 +1,8 @@
 ---
 title: Publications
 layout: page
-permalink: "/publications/"
+permalink: "/publication/international"
+main_nav: true
 ---
 
 <!--

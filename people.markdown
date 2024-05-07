@@ -1,7 +1,8 @@
 ---
 title: People
 layout: page
-permalink: "/people/"
+permalink: "/people"
+main_nav: true
 ---
 
 <!--

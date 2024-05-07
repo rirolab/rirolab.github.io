@@ -291,7 +291,7 @@ pre code.hljs {
     }
     img {
       max-height: 3.0em;
-      margin-top: 0.375em;
+      margin-top: 0.75em;
       padding-right: 1em;
     }
     span {
@@ -300,8 +300,7 @@ pre code.hljs {
   }
   nav {
     float: none;
-    padding: 0.75em 0;
-    overflow: visible;
+    padding: 0.35em 0;
     @include media ($tablet) {
       float: right;
       line-height: 1.5em;
@@ -310,7 +309,7 @@ pre code.hljs {
   ul.navigation-menu {
     clear: both;
     display: none;
-    margin: 0;
+    margin: 0 auto;
     overflow: visible;
     padding: 0;
     width: 100%;
@@ -326,10 +325,7 @@ pre code.hljs {
 
   .navbar {
       float: right !important;
-      margin-right: 0px;
-      margin-bottom: 0em;
-      font-family: 'Helvetica Rounded', Arial, sans-serif;
-      font-size: 16px;
+      margin: 0 !important;
       font-weight: 400;
       line-height: 1.5em;
       text-shadow: 0 1px 3px rgba(0, 0, 0, .5) !important; 
@@ -397,7 +393,7 @@ pre code.hljs {
 		
 		.news-list {
 			margin: 0px 0px 0px 0px;
-			padding-left: 20px;
+			padding-left: 1.5em;
 		}
 		
 		.news-list > li {

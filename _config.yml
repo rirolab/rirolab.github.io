@@ -116,41 +116,32 @@ maps:
 # Navigation
 navigation:
 # temporarily disable News page
-#   - title: "News"
-#     url: /news
   - title: "People"
     url: /people
+  - title: "News"
+    url: /news
   - title: "Research"
     sublinks:
         - title: "Current Topics"
-          url: /research
+          url: /research/topics
         - title: "Equipments"
-          url: /equipments
+          url: /research/equipments
         # - title: "Student Awards"
         #   url: /student_awards
   - title: "Publications"
     sublinks:
         - title: "International"
-          url: /publications
+          url: /publication/international
         - title: "Domestic"
-          url: /domestic
-  - title: "Positions"
+          url: /publication/domestic
+  - title: "Join Us!"
     sublinks:
         - title: "Postdocs"
-          url: /postdoc
+          url: /position/postdoc
         - title: "Graduates"
-          url: /graduates      
+          url: /position/graduates      
         - title: "Undergrads"
-          url: /undergrads      
-  # - title: "Contact"
-  #   url: /contact
+          url: /position/undergrads      
     
-
-
-#    sublinks:
-#        - title: Prospective Students
-#          url: /research
-#        - title: FAQ
-#          url: /research
 
 

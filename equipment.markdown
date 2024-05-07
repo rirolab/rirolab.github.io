@@ -1,7 +1,8 @@
 ---
 layout: page
 title: Equipments
-permalink: /equipments/
+permalink: /research/equipments/
+main_nav: true
 ---
 
 
