@@ -256,7 +256,7 @@ pre code.hljs {
 */
 .navigation {
 	box-shadow: 0 2px $highlight-color;
-	padding: 0 1em;
+	padding: 0 0em;
 	margin: 0;
 	// Remove this to make header scrollable again
 	position: fixed;
@@ -270,7 +270,7 @@ pre code.hljs {
   .navigation-menu-button {
     display: block;
     float: right;
-    margin: 0;
+    margin: 0 0;
     font-size: 1.5em;
     padding-top: 0.5em; 
     @include media ($tablet) {
@@ -292,7 +292,7 @@ pre code.hljs {
     img {
       max-height: 3.0em;
       margin-top: 0.75em;
-      padding-right: 1em;
+      padding-right: 0em;
     }
     span {
     	font-size: 1.25em;
@@ -311,7 +311,7 @@ pre code.hljs {
     display: none;
     margin: 0 auto;
     overflow: visible;
-    padding: 0;
+    padding: 0 0;
     width: 100%;
     @include media ($tablet) {
       display: block;
@@ -365,7 +365,7 @@ pre code.hljs {
     display: block;
     text-align: right;
     width: 100%;
-    padding: 0 0;
+    padding: 0 0 0;
     @include media ($tablet) {
       background: transparent;
       display: inline;

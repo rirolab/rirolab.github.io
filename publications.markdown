@@ -39,7 +39,7 @@ If you want to change the style of the table, please look at the publication tag
 <td>
     <b>A Survey on Integration of Large Language Models with Intelligent Robots</b><br>
     Yeseung Kim, Dohyun Kim, Jieun Choi, Jisang Park, Nayoung Oh, Daehyung Park<br>
-    <i> (Under Review), 2024 </i> <br>
+    <i> Intelligent Service Robotics, 2024 (accepted) </i> <br>
     <a href="https://arxiv.org/abs/2404.09228" target="_blank">[PDF]</a>
 </td>
 </tr>
