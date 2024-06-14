@@ -1,13 +1,13 @@
 ---
 layout: page
-title: Individual study, URP, Internship Positions
+title: Individual study (개별연구), Internship Positions (인턴쉽)
 permalink: /position/undergrads/
 main_nav: true
 ---
 
-# We are looking for highly motivated undergrad interns for this summer of 2024.
+# We are always looking for highly motivated undergrads! 
 
-## Potential topics for Undergrads
+## Potential topics (연구 토픽)
 - Large-language model-based mobile manipulation
 - Constraint-based Quadruped robot navigation
 - Deformable object manipulation via reinforcement learning (RL)
@@ -16,7 +16,7 @@ main_nav: true
 
 After building the above systems, you will be asked to control it by applying reinforcement learning, end-to-end learning, probabilistic movement primitives, etc. 
 
-## Application Process for URP and Internships 
+## Application Process (신청 방법)
 1. Fill out a <a href="https://docs.google.com/forms/d/1fbOFI3ML3-3dVU44x4nC6wAQklnbhPCmnANIR2IJSFc/viewform?gxids=7628&edit_requested=true"> <U>pre-interview form</U></a>. If you are qualified, you will get a response within 2 weeks.
 2. Get an interview with Dr. Park.
 3. You can then join our lab.
@@ -27,10 +27,9 @@ After building the above systems, you will be asked to control it by applying re
 - Internship students will be paid during Summer and Winter vacations.
 
 
-## Application Process for individual studies (KAIST undergrad only)
-(Due to too many e-mails, Prof. Park may not be able to respond individually. So, kindly complete the <a href="https://docs.google.com/forms/d/1fbOFI3ML3-3dVU44x4nC6wAQklnbhPCmnANIR2IJSFc/viewform?gxids=7628&edit_requested=true"> <U>pre-interview form</U></a>. If a slot is available, you can expect a response within 2 weeks.) 
+## Frequently Asked Questions
+- 기숙사? 방학전 최소 1달전에 컨택후 기숙사 신청
+- 기간?  8주이상
+- 진행 방법? 멘토 대학원생과 팀으로 연구/개발 참여 + 주 1회 개인미팅 + 주 1회 랩미팅 참여
+- 대학원 TO? 대학원 지원 페이지 참조 
 
-We welcome any students looking to explore this Robotics area. Please, send a contact e-mail to <daehyung@kaist.ac.kr> with your CV and transcript. 
-
-### Note
-You will be able to get a desk and/or a computer. You can freely access our robots, too!
