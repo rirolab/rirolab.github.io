@@ -466,7 +466,23 @@ pre code.hljs {
 		width: 100%;
 		height: 100%;
 	  }
-	/*
+          .flex-container {
+              display: flex;
+              height: 100px;
+              width: 100%;
+              justify-content: space-between; /* could also try with space-around */
+          }
+
+          .flex-child {
+              display: flex;
+              justify-content: center;
+	      text-align: center; 
+              align-items: center;
+              flex-grow: 1;
+              height: calc(100% - 20px); /* for demonstration purposes, subtracts top and bottom margin from height */
+              margin: 10px; /* for demonstration purposes */
+          }          
+q	/*
 	*	Posts
 	*/
 	.post {
