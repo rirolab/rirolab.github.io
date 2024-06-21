@@ -171,6 +171,7 @@ Ariel Kapusta, Philip Grice, Henry Clever, Yash Chitalia, <b>Daehyung Park</b>, 
     <i>Association for the Advancement of Artificial Intelligence (AAAI), 2024</i><br>
     <a href="https://arxiv.org/abs/2402.01183" target="_blank">[PDF]</a>
     <a href="https://lingo-space.github.io/" target="_blank">[Site]</a>
+    <a href="https://www.youtube.com/watch?v=3rxoNUZeot8" target="_blank">[Video]</a>
 </td>
 </tr>
 <tr>
