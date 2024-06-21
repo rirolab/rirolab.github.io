@@ -33,7 +33,7 @@ If you want to change the style of the table, please look at the publication tag
       </a>
 </td>
 <td>
-    <b>Development of VR Teleoperation System and Collecting Demonstration for Deformable Object Manipulation<b><br>
+    <b>Development of VR Teleoperation System and Collecting Demonstration for Deformable Object Manipulation</b><br>
     Minseok Song, Bonggyeong Park, Daehyung Park<br>
     Institute of Control, Robotics and Systems (ICROS), 2024<br>
     A VR teleoperation system to collect human demonstrations for DOM in high quality.
