@@ -28,13 +28,29 @@ If you want to change the style of the table, please look at the publication tag
 <tbody>
 <tr>
 <td>
+    <a href="/assets/research/2024_ICROS_VR.png" data-lightbox="" >
+      <img style="width: 85%" src="/assets/research/2024_ICROS_VR.png">
+      </a>
+</td>
+<td>
+    <b>Development of VR Teleoperation System and Collecting Demonstration for Deformable Object Manipulation<b><br>
+    Minseok Song, Bonggyeong Park, Daehyung Park<br>
+    Institute of Control, Robotics and Systems (ICROS), 2024<br>
+    A VR teleoperation system to collect human demonstrations for DOM in high quality.
+    We collected time-series demonstration data about four different O-ring object which are containing joint state information of robot, RGB images of camera on wrist and base of robot.<br>
+    <a href="https://drive.google.com/file/d/1WZ4T-zPZOyHhmuI6wFstx5vFmCZNsMjH/view?usp=sharing" target="_blank">[PDF]</a><br>
+</td>
+</tr>
+
+<tr>
+<td>
     <a href="/assets/research/kroc.png" data-lightbox="" >
       <img style="width: 85%" src="/assets/research/kroc.png">
       </a>
 </td>
 <td>
     <b>Reactive Task Planning using Scene Graph for Robust Robotic Manipulation</b><br>
-    Ulzhalgas Rakhman, Jaehoon Yoo, Yeseung Kim, Deokmin Hwang, Seunghoon Hong, and Daehyung Park<br>
+    Ulzhalgas Rakhman, Jaehoon Yoo, Yeseung Kim, Deokmin Hwang, Seunghoon Hong, Daehyung Park<br>
     Korea Robotics Society Annual Conference (KRoC), 2022<br>
     A reactive task planning-and-execution framework adopting scene-graph for automatic abstraction and behavior tree for robust task execution. We demonstrate the effectiveness and efficiency of our framework against human interventions in robotic assembly scenarios.<br>
     <a href="https://drive.google.com/file/d/1rB2iYe6hiF32Jk0QsSdUfEvtjFBLismg/view?usp=sharing" target="_blank">[PDF]</a><br> <b> Outstanding Paper Award</b>
@@ -64,7 +80,7 @@ If you want to change the style of the table, please look at the publication tag
 </td>
 <td>
     <b>A Telemanipulation Suite for Deformable Object Manipulation</b><br>
-    Bonggyeong Park, Chanyoung Ahn, and Daehyung Park<br>
+    Bonggyeong Park, Chanyoung Ahn, Daehyung Park<br>
     Korean Artificial intelligence Association (KAIA), 2022<br>
     Deformable object manipulation with learning from demonstration requires a dataset that absorbs human intelligence. We propose a virtual reality-based telemanipulation suite that allows an expert hand to manipulate simulated deformable objects while recording complete observations.<br>
 </td>
@@ -78,7 +94,7 @@ If you want to change the style of the table, please look at the publication tag
 </td>
 <td>
     <b>A Framework for Natural Language-guided Semantic Mapping and Mobile Navigation</b><br>
-    Jinwoo Kim, Dohyun Kim, and Daehyung Park<br>
+    Jinwoo Kim, Dohyun Kim, Daehyung Park<br>
     Korea Robotics Society Annual Conference (KRoC), 2022<br>
     A novel method for natural language-driven location labeling and mobile navigation. Our approach automatically labels the location description on a    metric map via natural language grounding. By associating the semantic map with a world model, our method enables the robot to understand natural language instruction for indoor delivery navigation.<br>
     <a href="https://drive.google.com/file/d/1YVKc6KaI-ly0hvCYN9RjdaWNoQLbV1WN/view?usp=sharing" target="_blank">[PDF]</a><br>
