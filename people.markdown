@@ -429,12 +429,12 @@ If you want to change the style of the table, please look at the table tags in _
 
         <!-- ? -->
 	<td>
-		<a href="/assets/people/noname.jpg" data-lightbox="Comming Soon!" >
+		<a href="/assets/people/noname.jpg" data-lightbox="Coming Soon!" >
 		  <img style="width: 75%" src="/assets/people/noname.jpg">
 		  </a>
 	</td>
 	<td>
-		<b>Comming Soon!</b><br>
+		<b>Coming Soon!</b><br>
 		Robotics Program, 2024<br>
 		<br>
 	</td>
