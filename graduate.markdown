@@ -12,6 +12,11 @@ main_nav: true
 4. <a href="https://rp.kaist.ac.kr/home/admission"> 로봇학제전공 (Robotics Program) </a>: KAIST 장학생
 5. <a href="https://gsai.kaist.ac.kr/admission"> AI 대학원 (Kim Jaechul Graduate School) </a>: KAIST 장학생
    
+## Potential Research Topics
+1. Language-driven mobile manipulation (natural language grounding)
+2. Inverse reinforcement learning / inverse constraint learning
+3. Deformable object manipulation using diffusion policy/state-space models (SSM)
+4. LLM/VLM/LMM-guided mobile manipulation
 
 
 ## Application Process for Ph.D. positions (박사지원)

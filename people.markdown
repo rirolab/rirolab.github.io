@@ -72,9 +72,8 @@ If you want to change the style of the table, please look at the table tags in _
 </tr>
 </thead>
 <tbody>
-
 <tr>
-<!-- Yongdae Kim -->
+        <!-- Yongdae Kim -->
 	<td>
 		<a href="/assets/people/noname.jpg" data-lightbox="Yongdae Kim" >
 		  <img style="width: 75%" src="/assets/people/noname.jpg">
@@ -119,7 +118,45 @@ If you want to change the style of the table, please look at the table tags in _
 	
 </tr>
 
+<tr>
+<!--김도현-->
+<td>
+    <a href="/assets/people/kim_dohyun.jpg" data-lightbox="No name" >
+        <img style="width: 75%" src="/assets/people/kim_dohyun.jpg">
+        </a>
+</td>
+<td>
+    <b>Dohyun Kim</b><br>
+    School of Computing, 2024<br>
+    <i class="fa fa-graduation-cap"></i>
+        M.S. in Graduate School of AI, KAIST (2024)<br>
+        Robotic Natural Language Processing<br>
+    <a href="mailto:dohyun141@kaist.ac.kr">
+        <i class="fa fa-envelope-o"></i>
+        <span class="username">dohyun141@kaist.ac.kr</span>
+    </a>
+    <br>
+    <a href="https://github.com/dohyun1411">
+        <i class="fa fa-github"></i>
+        <span>Github</span>
+    </a>
+    <span> | </span>
+    <a href="https://scholar.google.com/citations?user=Hbb9XlEAAAAJ">
+        <i class="fa fa-graduation-cap"></i>
+        <span>Scholar</span>
+    </a>
+    <!-- <span> | </span>
+    <a href="https://dohyun1411.github.io">
+        <i class="fa fa-home"></i>
+        <span>Homepage</span>
+    </a> -->
+</td>
+<td></td>
+<td></td>
+</tr>
+
 </tbody>
+</table>
 
 
 <!---------------- M.S. --------------------->
@@ -165,41 +202,7 @@ If you want to change the style of the table, please look at the table tags in _
         <span>Scholar</span>
     </a>
 </td>
-<!--김도현-->
-<td>
-    <a href="/assets/people/kim_dohyun.jpg" data-lightbox="No name" >
-        <img style="width: 75%" src="/assets/people/kim_dohyun.jpg">
-        </a>
-</td>
-<td>
-    <b>Dohyun Kim</b><br>
-    Graduate School of AI, 2023<br>
-    <i class="fa fa-graduation-cap"></i>
-        B.S. in Computer Science, KAIST (2023)<br>
-        Robotic Natural Language Processing<br>
-    <a href="mailto:dohyun141@kaist.ac.kr">
-        <i class="fa fa-envelope-o"></i>
-        <span class="username">dohyun141@kaist.ac.kr</span>
-    </a>
-    <br>
-    <a href="https://github.com/dohyun1411">
-        <i class="fa fa-github"></i>
-        <span>Github</span>
-    </a>
-    <span> | </span>
-    <a href="https://scholar.google.com/citations?user=Hbb9XlEAAAAJ">
-        <i class="fa fa-graduation-cap"></i>
-        <span>Scholar</span>
-    </a>
-    <!-- <span> | </span>
-    <a href="https://dohyun1411.github.io">
-        <i class="fa fa-home"></i>
-        <span>Homepage</span>
-    </a> -->
-</td>
-</tr>
 
-<tr>    
 <!--하정호  -->
 <td>
     <a href="/assets/people/jeongho_ha.jpg" data-lightbox="No name" >
@@ -227,7 +230,9 @@ If you want to change the style of the table, please look at the table tags in _
         <span>Scholar</span>
     </a>
 </td>
+</tr>
 
+<tr>    
 <!--황덕민  -->
 <td>
     <a href="/assets/people/deokmin_hwang.jpg" data-lightbox="No name" >
@@ -256,9 +261,6 @@ If you want to change the style of the table, please look at the table tags in _
     </a>
 </td>
 
-</tr>
-
-<tr>
 <!-- 박봉경 -->
 <td>
     <a href="/assets/people/bonggyeong_park.png" data-lightbox=" Bonggyeong Park" >
@@ -286,7 +288,9 @@ If you want to change the style of the table, please look at the table tags in _
         <span>Scholar</span>
     </a>
 </td>
+</tr>
 
+<tr>
 <!--Minwoo Cho  -->
 <td>
     <a href="/assets/people/minwoo_cho.jpg" data-lightbox="Minwoo Cho" >
@@ -314,9 +318,6 @@ If you want to change the style of the table, please look at the table tags in _
         <span>Scholar</span>
     </a>
 </td>
-</tr>
-
-<tr>
 <!-- jieun choi  -->
     <td>
         <a href="/assets/people/jieun_choi.png" data-lightbox="Jieun Choi" >
@@ -344,6 +345,9 @@ If you want to change the style of the table, please look at the table tags in _
         <span>Scholar</span>
     </a>
     </td>
+</tr>
+
+<tr>   
 <!--Keonyoung Koh  -->
     <td>
         <a href="/assets/people/keonyoung_koh.jpg" data-lightbox="Keonyoung Koh" >
@@ -376,8 +380,6 @@ If you want to change the style of the table, please look at the table tags in _
         <span>LinkedIn</span>
     </a>   
 </td>
-</tr>
-<tr>
 <!--Nayoung Oh  -->
     <td>
         <a href="/assets/people/nayoung_oh.jpg" data-lightbox="Nayoung Oh" >
@@ -410,14 +412,37 @@ If you want to change the style of the table, please look at the table tags in _
         <span>Homepage</span>
     </a>   
 </td>
-
-<!--filler-->
-    <td>
-    </td>
-    <td>
-    </td>
 </tr>
+
+<tr>
+        <!-- Gyungjin Eo -->
+	<td>
+		<a href="/assets/people/noname.jpg" data-lightbox="Gyungjin Eo" >
+		  <img style="width: 75%" src="/assets/people/noname.jpg">
+		  </a>
+	</td>
+	<td>
+		<b>Gyungjin Eo</b><br>
+		Robotics Program, 2024<br>
+		<br>
+	</td>
+
+        <!-- ? -->
+	<td>
+		<a href="/assets/people/noname.jpg" data-lightbox="Comming Soon!" >
+		  <img style="width: 75%" src="/assets/people/noname.jpg">
+		  </a>
+	</td>
+	<td>
+		<b>Comming Soon!</b><br>
+		Robotics Program, 2024<br>
+		<br>
+	</td>
+
+</tr>
+
 </tbody>
+</table>
 
 <!---------------- Undergrad --------------------->
 <table>
@@ -526,6 +551,22 @@ If you want to change the style of the table, please look at the table tags in _
         <span>LinkedIn</span>
     </a>        
     </td>
+
+        <!-- ? -->
+	<td>
+		<a href="/assets/people/noname.jpg" data-lightbox="Jiyun Jang" >
+		  <img style="width: 75%" src="/assets/people/noname.jpg">
+		  </a>
+	</td>
+	<td>
+		<b>Jiyun Jang</b><br>
+                <i class="fa fa-graduation-cap"></i>
+                Computer Science & Engineering, Korea Univ. 
+		Reinforcement Learning<br>
+		<br>
+	</td>
+
+
 <!--filler-->
     <td>
     </td>
@@ -534,6 +575,7 @@ If you want to change the style of the table, please look at the table tags in _
 </tr>
 
 </tbody>
+</table>
 
 <!------------ Research Associate and Assistant ---------------->
 <table>
@@ -551,33 +593,6 @@ If you want to change the style of the table, please look at the table tags in _
 <tbody>
 
 <tr>
-<!-- jaehwi jang  -->
-	<td>
-		<a href="/assets/people/jaehwi_jang.jpg" data-lightbox="Jaehwi Jang" >
-		  <img style="width: 75%" src="/assets/people/jaehwi_jang.jpg">
-		</a>
-	</td>
-	<td>
-		<b>Jaehwi Jang</b><br>
-		Research Associate<br>
-        <i class="fa fa-graduation-cap"></i>
-        M.S. in Artificial Intelligence, KAIST (2024)<br>
-        Inverse skill learning, Robust skill learning<br>
-		<a href="mailto:wognl0402@kaist.ac.kr">
-		   <i class="fa fa-envelope-o"></i>
-		   <span class="username">wognl0402@kaist.ac.kr</span>
-		</a>
-		<br>
-    <a href="https://github.com/wognl0402">
-        <i class="fa fa-github"></i>
-        <span>Github</span>
-    </a>
-    <span> | </span>
-    <a href="https://scholar.google.com/citations?user=fPNCtVQAAAAJ">
-        <i class="fa fa-graduation-cap"></i>
-        <span>Scholar</span>
-    </a>
-	</td>
 <!-- jisang park  -->
     <td>
         <a href="/assets/people/jisang_park.jpg" data-lightbox="Jisang Park" >
@@ -613,6 +628,49 @@ If you want to change the style of the table, please look at the table tags in _
 </tr>
 
 </tbody>
+</table>
+
+
+<!---------------- Visiting Scholars. --------------------->
+<table>
+<colgroup>
+<col width="15%" />
+<col width="35%" />
+<col width="15%" />
+<col width="35%" />
+</colgroup>
+<thead>
+<tr>
+<th class="caption" colspan="4">Visiting Scholars</th>
+</tr>
+</thead>
+<tbody>
+
+<tr>
+<td>
+    <b>Gyeongwu Kim</b>
+</td>
+<td>
+    Internship (2024 Summer) <br>
+    <i class="fa fa-graduation-cap"></i>
+    Massachusetts Institute of Technology (MIT)
+    
+</td>
+<td>
+</td>    
+<td>
+</td>    
+
+<!--filler-->
+    <td>
+    </td>
+    <td>
+    </td>
+
+</tr>
+
+</tbody>
+</table>
 
 
 <!---------------- Alum. --------------------->
@@ -633,30 +691,22 @@ If you want to change the style of the table, please look at the table tags in _
 <tr>
 <!-- Chanyoung Ahn -->
 <td>
-    <a href="/assets/people/chanyoung_ahn.jpg" data-lightbox="Chanyoung Ahn" >
-        <img style="width: 75%" src="/assets/people/chanyoung_ahn.jpg">
-    </a>
+    <b>Chanyoung Ahn</b>
 </td>
 <td>
-    <b>Chanyoung Ahn</b><br>
     <i class="fa fa-graduation-cap"></i>
     M.S. in Robotics, 2024<br>
     <a href="mailto:coldyoung@kaist.ac.kr">
         <i class="fa fa-envelope-o"></i>
         <span class="username">coldyoung@kaist.ac.kr</span>
     </a>
-    <br>
 </td>
-
 
 <!-- 김진우  -->
 <td>
-    <a href="/assets/people/jinwoo_kim.jpg" data-lightbox="Jinwoo Kim" >
-        <img style="width: 75%" src="/assets/people/jinwoo_kim.jpg">
-    </a>
+    <b>Jinwoo Kim</b>
 </td>
 <td>
-    <b>Jinwoo Kim</b><br>
     Industrial Technical Personnel in ROBOTIS<br>
     <i class="fa fa-graduation-cap"></i>
     M.S. in Computer Science, 2024<br>
@@ -664,7 +714,6 @@ If you want to change the style of the table, please look at the table tags in _
         <i class="fa fa-envelope-o"></i>
         <span class="username">kjwoo31@kaist.ac.kr</span>
     </a>
-    <br>
 </td>
 </tr>
 
@@ -672,12 +721,10 @@ If you want to change the style of the table, please look at the table tags in _
 <tr>
 <!-- 신주철  -->
 <td>
-    <a href="/assets/people/ju-chul_shin.jpg" data-lightbox="Ju-chul Shin" >
-    <img style="width: 75%" src="/assets/people/ju-chul_shin.jpg">
-    </a>
+    <b>Ju-chul Shin</b>
 </td>
 <td>
-    <b>Ju-chul Shin</b><br>
+    LIG Nex1 (LIG넥스원)<br>
     <i class="fa fa-graduation-cap"></i>
     M.S. in Software Engineering, 2024<br>
     <a href="mailto:castiron@kaist.ac.kr">
@@ -685,14 +732,38 @@ If you want to change the style of the table, please look at the table tags in _
     <span class="username">castiron@kaist.ac.kr </span>
     </a>
 </td>
+
+<!-- jaehwi jang  -->
+<td>
+    <b>Jaehwi Jang</b>
+</td>
+<td>
+    Georgia Tech Ph.D. Course <br>
+    <i class="fa fa-graduation-cap"></i>
+    M.S. in Artificial Intelligence, 2024<br>
+    <a href="mailto:wognl0402@kaist.ac.kr">
+	   <i class="fa fa-envelope-o"></i>
+	   <span class="username">wognl0402@kaist.ac.kr</span>
+    </a>
+    <br>
+    <a href="https://github.com/wognl0402">
+        <i class="fa fa-github"></i>
+        <span>Github</span>
+    </a>
+    <span> | </span>
+    <a href="https://scholar.google.com/citations?user=fPNCtVQAAAAJ">
+        <i class="fa fa-graduation-cap"></i>
+        <span>Scholar</span>
+    </a>
+</td>
+
+
 <!--filler-->
     <td>
     </td>
     <td>
     </td>
-
 </tr>
-
 </tbody>
 
 
