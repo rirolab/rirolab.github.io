@@ -115,19 +115,20 @@ maps:
 
 # Navigation
 navigation:
-# temporarily disable News page
   - title: "People"
     url: /people
   - title: "News"
-    url: /news
+    sublinks:
+        - title: "Newslist"
+          url: /news/news
+        - title: "Awards"
+          url: /news/awards
   - title: "Research"
     sublinks:
         - title: "Current Topics"
           url: /research/topics
         - title: "Equipments"
           url: /research/equipments
-        # - title: "Student Awards"
-        #   url: /student_awards
   - title: "Publications"
     sublinks:
         - title: "International"

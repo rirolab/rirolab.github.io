@@ -18,8 +18,13 @@
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://rirolab.kaist.ac.kr/news</loc>
-  <lastmod>2024-06-16T16:00:53+00:00</lastmod>
+  <loc>https://rirolab.kaist.ac.kr/news/news</loc>
+  <lastmod>2024-07-19T16:00:53+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://rirolab.kaist.ac.kr/news/awards</loc>
+  <lastmod>2024-07-19T16:00:53+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
