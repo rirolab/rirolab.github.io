@@ -7,7 +7,7 @@ main_nav: true
 
 ## International Awards
 - Minsung Yoon, Outstanding Planning Paper Award, International Conference on Robotics and Automation (ICRA), 2023.
-- Jinwoo Kim et al., Best Student Paper Award, International Conference on Robot Intelligence Technology and Applications (RiTA)
+- Jinwoo Kim et al., Best Student Paper Award, International Conference on Robot Intelligence Technology and Applications (RiTA), 2022.
 - Daehyung Park, Google GCP Credit Award, Google, 2022.
 - Hyeongyeol Ryu et al., Outstanding Navigation paper finalist, International Conference on Robotics and Automation (ICRA), 2022.
 - Daehyung Park, Google Research Scholar Award, Google, 2022.
