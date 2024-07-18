@@ -120,7 +120,7 @@ navigation:
   - title: "News"
     sublinks:
         - title: "Newslist"
-          url: /news/news
+          url: /news/newslist
         - title: "Awards"
           url: /news/awards
   - title: "Research"
