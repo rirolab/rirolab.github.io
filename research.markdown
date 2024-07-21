@@ -64,7 +64,7 @@ main_nav: true
 
 <tr>
 <td class="topic">
-    <b>Machine Common Sense Learning for Robots</b>
+    <h3>Machine Common Sense Learning for Robots</h3>
     <br>
     <br>
     <img src="/assets/research/research_grounding.png" alt="Commonsense spatial grounding" style="height:25%" >
