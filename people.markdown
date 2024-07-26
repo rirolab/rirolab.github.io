@@ -175,34 +175,6 @@ If you want to change the style of the table, please look at the table tags in _
 <tbody>
 	
 <tr>
-<!-- Minjae Song -->
-<td>
-    <a href="/assets/people/minjae_song.jpg" data-lightbox="Minjae Song" >
-        <img style="width: 75%" src="/assets/people/minjae_song.jpg">
-    </a>
-</td>
-<td>
-    <b>Minjae Song</b><br>
-    School of Computing, 2022<br>
-    <i class="fa fa-graduation-cap"></i>
-    B.S. in Computer Science, KAIST (2022)<br>
-    Planning, Object Representation<br>
-    <a href="mailto:smj0398@kaist.ac.kr">
-        <i class="fa fa-envelope-o"></i>
-        <span class="username">smj0398@kaist.ac.kr</span>
-    </a>
-    <br>
-    <a href="https://github.com/songminjae">
-        <i class="fa fa-github"></i>
-        <span>Github</span>
-    </a>
-    <span> | </span>
-    <a href="https://scholar.google.com/citations?user=FZyDZHAAAAAJ">
-        <i class="fa fa-graduation-cap"></i>
-        <span>Scholar</span>
-    </a>
-</td>
-
 <!--하정호  -->
 <td>
     <a href="/assets/people/jeongho_ha.jpg" data-lightbox="No name" >
@@ -230,9 +202,6 @@ If you want to change the style of the table, please look at the table tags in _
         <span>Scholar</span>
     </a>
 </td>
-</tr>
-
-<tr>    
 <!--황덕민  -->
 <td>
     <a href="/assets/people/deokmin_hwang.jpg" data-lightbox="No name" >
@@ -260,7 +229,9 @@ If you want to change the style of the table, please look at the table tags in _
         <span>Scholar</span>
     </a>
 </td>
+</tr>
 
+<tr>    
 <!-- 박봉경 -->
 <td>
     <a href="/assets/people/bonggyeong_park.png" data-lightbox=" Bonggyeong Park" >
@@ -288,9 +259,6 @@ If you want to change the style of the table, please look at the table tags in _
         <span>Scholar</span>
     </a>
 </td>
-</tr>
-
-<tr>
 <!--Minwoo Cho  -->
 <td>
     <a href="/assets/people/minwoo_cho.jpg" data-lightbox="Minwoo Cho" >
@@ -318,6 +286,9 @@ If you want to change the style of the table, please look at the table tags in _
         <span>Scholar</span>
     </a>
 </td>
+</tr>
+
+<tr>
 <!-- jieun choi  -->
     <td>
         <a href="/assets/people/jieun_choi.png" data-lightbox="Jieun Choi" >
@@ -345,9 +316,6 @@ If you want to change the style of the table, please look at the table tags in _
         <span>Scholar</span>
     </a>
     </td>
-</tr>
-
-<tr>   
 <!--Keonyoung Koh  -->
     <td>
         <a href="/assets/people/keonyoung_koh.jpg" data-lightbox="Keonyoung Koh" >
@@ -380,6 +348,9 @@ If you want to change the style of the table, please look at the table tags in _
         <span>LinkedIn</span>
     </a>   
 </td>
+</tr>
+
+<tr>   
 <!--Nayoung Oh  -->
     <td>
         <a href="/assets/people/nayoung_oh.jpg" data-lightbox="Nayoung Oh" >
@@ -412,6 +383,33 @@ If you want to change the style of the table, please look at the table tags in _
         <span>Homepage</span>
     </a>   
 </td>
+<!-- Moonkyeong Jung  -->
+    <td>
+        <a href="/assets/people/moonkyeong_jung.jpg" data-lightbox="Moonkyeong Jung" >
+        <img style="width: 75%" src="/assets/people/moonkyeong_jung.jpg">
+        </a>
+    </td>
+    <td>
+        <b>Moonkyeong Jung</b><br>
+        Robotics Program, 2024<br>
+        <i class="fa fa-graduation-cap"></i>
+        B.S. in Mechanical Systems Engineering, SWMWU (2024)<br>
+        Perception based Planning<br>
+        <a href="mailto:jmk7791@kaist.ac.kr">
+        <i class="fa fa-envelope-o"></i>
+        <span class="username">jmk7791@kaist.ac.kr </span>
+        </a>
+        <br>
+    <a href="https://github.com/jmk7791">
+        <i class="fa fa-github"></i>
+        <span>Github</span>
+    </a>
+    <span> | </span>
+    <a href="https://scholar.google.com/citations?user=zqeY8EoAAAAJ">
+        <i class="fa fa-graduation-cap"></i>
+        <span>Scholar</span>
+    </a>
+</td>
 </tr>
 
 <tr>
@@ -435,12 +433,10 @@ If you want to change the style of the table, please look at the table tags in _
 	</td>
 	<td>
 		<b>Coming Soon!</b><br>
-		Robotics Program, 2024<br>
+		School of Computing, 2024<br>
 		<br>
 	</td>
-
 </tr>
-
 </tbody>
 </table>
 
@@ -463,8 +459,8 @@ If you want to change the style of the table, please look at the table tags in _
 <tr>
 <!--Minseok Song  -->
     <td>
-        <a href="/assets/people/minseok_song.png" data-lightbox="Minseok Song" >
-        <img style="width: 75%" src="/assets/people/minseok_song.png">
+        <a href="/assets/people/minseok_song.jpg" data-lightbox="Minseok Song" >
+        <img style="width: 75%" src="/assets/people/minseok_song.jpg">
         </a>
     </td>
     <td>
@@ -552,22 +548,63 @@ If you want to change the style of the table, please look at the table tags in _
     </a>        
     </td>
 
-        <!-- ? -->
-	<td>
-		<a href="/assets/people/noname.jpg" data-lightbox="Jiyun Jang" >
-		  <img style="width: 75%" src="/assets/people/noname.jpg">
-		  </a>
-	</td>
-	<td>
-		<b>Jiyun Jang</b><br>
-                <i class="fa fa-graduation-cap"></i>
-                Computer Science & Engineering, Korea Univ. 
-		Reinforcement Learning<br>
-		<br>
-	</td>
+<!-- Jiyun Jang -->
+    <td>
+        <a href="/assets/people/jiyun_jang.jpg" data-lightbox="Jiyun Jang" >
+        <img style="width: 75%" src="/assets/people/jiyun_jang.jpg">
+        </a>
+    </td>
+    <td>
+        <b>Jiyun Jang</b><br>
+        <i class="fa fa-graduation-cap"></i>
+        Computer Science, KU<br>
+        Imitation Learning, Planning<br>
+        <a href="mailto:fick17@korea.ac.kr">
+        <i class="fa fa-envelope-o"></i>
+        <span class="username">fick17@korea.ac.kr </span>
+        </a>
+        <br> 
+    <a href="https://github.com/JiyunJang-24">
+        <i class="fa fa-github"></i>
+        <span>Github</span>
+    </a>
+    <span> | </span>
+    <a href="https://scholar.google.com/citations&user=-R7pGM4AAAAJ">
+        <i class="fa fa-graduation-cap"></i>
+        <span>Scholar</span>
+    </a>
+    <span> | </span>
+    <a href="https://www.linkedin.com/in/jiyun-jang-ba89a2225/">
+        <i class="fa fa-home"></i>
+        <span>LinkedIn</span>
+    </a>        
+    </td>
+</tr>
 
+<tr>
+<!--Gyeongwu Kim  -->
+    <td>
+        <a href="/assets/people/gyeongwu_kim.jpg" data-lightbox="Gyeongwu Kim" >
+        <img style="width: 75%" src="/assets/people/gyeongwu_kim.jpg">
+        </a>
+    </td>
+    <td>
+        <b>Gyeongwu Kim</b><br>
+        <i class="fa fa-graduation-cap"></i>
+        Computer Science and Engineering, MIT <br>
+        AI, LLM<br>
+        <a href="mailto:gkim27@mit.edu">
+        <i class="fa fa-envelope-o"></i>
+        <span class="username">gkim27@mit.edu</span>
+        </a>
+        <br>
+    <a href="https://github.com/gkim23">
+        <i class="fa fa-github"></i>
+        <span>Github</span>
+    </a> 
+    </td>
 
-<!--filler-->
+<!-- Filler -->
     <td>
     </td>
     <td>
@@ -630,49 +667,6 @@ If you want to change the style of the table, please look at the table tags in _
 </tbody>
 </table>
 
-
-<!---------------- Visiting Scholars. --------------------->
-<table>
-<colgroup>
-<col width="15%" />
-<col width="35%" />
-<col width="15%" />
-<col width="35%" />
-</colgroup>
-<thead>
-<tr>
-<th class="caption" colspan="4">Visiting Scholars</th>
-</tr>
-</thead>
-<tbody>
-
-<tr>
-<td>
-    <b>Gyeongwu Kim</b>
-</td>
-<td>
-    Internship (2024 Summer) <br>
-    <i class="fa fa-graduation-cap"></i>
-    Massachusetts Institute of Technology (MIT)
-    
-</td>
-<td>
-</td>    
-<td>
-</td>    
-
-<!--filler-->
-    <td>
-    </td>
-    <td>
-    </td>
-
-</tr>
-
-</tbody>
-</table>
-
-
 <!---------------- Alum. --------------------->
 <table>
 <colgroup>
@@ -689,11 +683,52 @@ If you want to change the style of the table, please look at the table tags in _
 <tbody>
 
 <tr>
+<!-- Minjae Song  -->
+<td>
+    <b>Minjae Song</b>
+</td>
+<td>
+    <!-- LIG Nex1 (LIG넥스원)<br> -->
+    <i class="fa fa-graduation-cap"></i>
+    M.S. in Computer Science, 2024<br>
+    <a href="mailto:smj0398@kaist.ac.kr">
+    <i class="fa fa-envelope-o"></i>
+    <span class="username">smj0398@kaist.ac.kr</span>
+    </a>
+</td>
+
+<!-- Jaehwi Jang  -->
+<td>
+    <b>Jaehwi Jang</b>
+</td>
+<td>
+    Georgia Tech Ph.D. Course <br>
+    <i class="fa fa-graduation-cap"></i>
+    M.S. in Artificial Intelligence, 2024<br>
+    <a href="mailto:wognl0402@kaist.ac.kr">
+	   <i class="fa fa-envelope-o"></i>
+	   <span class="username">wognl0402@kaist.ac.kr</span>
+    </a>
+    <br>
+    <a href="https://github.com/wognl0402">
+        <i class="fa fa-github"></i>
+        <span>Github</span>
+    </a>
+    <span> | </span>
+    <a href="https://scholar.google.com/citations?user=fPNCtVQAAAAJ">
+        <i class="fa fa-graduation-cap"></i>
+        <span>Scholar</span>
+    </a>
+</td>
+</tr>
+
+<tr>
 <!-- Chanyoung Ahn -->
 <td>
     <b>Chanyoung Ahn</b>
 </td>
 <td>
+    Intern at KISTI (한국과학기술정보연구원)<br>
     <i class="fa fa-graduation-cap"></i>
     M.S. in Robotics, 2024<br>
     <a href="mailto:coldyoung@kaist.ac.kr">
@@ -707,7 +742,7 @@ If you want to change the style of the table, please look at the table tags in _
     <b>Jinwoo Kim</b>
 </td>
 <td>
-    Industrial Technical Personnel in ROBOTIS<br>
+    Industrial Technical Personnel at ROBOTIS<br>
     <i class="fa fa-graduation-cap"></i>
     M.S. in Computer Science, 2024<br>
     <a href="mailto:kjwoo31@kaist.ac.kr">
@@ -733,36 +768,10 @@ If you want to change the style of the table, please look at the table tags in _
     </a>
 </td>
 
-<!-- jaehwi jang  -->
 <td>
-    <b>Jaehwi Jang</b>
 </td>
 <td>
-    Georgia Tech Ph.D. Course <br>
-    <i class="fa fa-graduation-cap"></i>
-    M.S. in Artificial Intelligence, 2024<br>
-    <a href="mailto:wognl0402@kaist.ac.kr">
-	   <i class="fa fa-envelope-o"></i>
-	   <span class="username">wognl0402@kaist.ac.kr</span>
-    </a>
-    <br>
-    <a href="https://github.com/wognl0402">
-        <i class="fa fa-github"></i>
-        <span>Github</span>
-    </a>
-    <span> | </span>
-    <a href="https://scholar.google.com/citations?user=fPNCtVQAAAAJ">
-        <i class="fa fa-graduation-cap"></i>
-        <span>Scholar</span>
-    </a>
 </td>
-
-
-<!--filler-->
-    <td>
-    </td>
-    <td>
-    </td>
 </tr>
 </tbody>
 
