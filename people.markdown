@@ -547,70 +547,12 @@ If you want to change the style of the table, please look at the table tags in _
         <span>LinkedIn</span>
     </a>        
     </td>
+<td>
+</td>
+<td>
+</td>
 
-<!-- Jiyun Jang -->
-    <td>
-        <a href="/assets/people/jiyun_jang.jpg" data-lightbox="Jiyun Jang" >
-        <img style="width: 75%" src="/assets/people/jiyun_jang.jpg">
-        </a>
-    </td>
-    <td>
-        <b>Jiyun Jang</b><br>
-        <i class="fa fa-graduation-cap"></i>
-        Computer Science, KU<br>
-        Imitation Learning, Planning<br>
-        <a href="mailto:fick17@korea.ac.kr">
-        <i class="fa fa-envelope-o"></i>
-        <span class="username">fick17@korea.ac.kr </span>
-        </a>
-        <br> 
-    <a href="https://github.com/JiyunJang-24">
-        <i class="fa fa-github"></i>
-        <span>Github</span>
-    </a>
-    <span> | </span>
-    <a href="https://scholar.google.com/citations&user=-R7pGM4AAAAJ">
-        <i class="fa fa-graduation-cap"></i>
-        <span>Scholar</span>
-    </a>
-    <span> | </span>
-    <a href="https://www.linkedin.com/in/jiyun-jang-ba89a2225/">
-        <i class="fa fa-home"></i>
-        <span>LinkedIn</span>
-    </a>        
-    </td>
 </tr>
-
-<tr>
-<!--Gyeongwu Kim  -->
-    <td>
-        <a href="/assets/people/gyeongwu_kim.jpg" data-lightbox="Gyeongwu Kim" >
-        <img style="width: 75%" src="/assets/people/gyeongwu_kim.jpg">
-        </a>
-    </td>
-    <td>
-        <b>Gyeongwu Kim</b><br>
-        <i class="fa fa-graduation-cap"></i>
-        Computer Science and Engineering, MIT <br>
-        AI, LLM<br>
-        <a href="mailto:gkim27@mit.edu">
-        <i class="fa fa-envelope-o"></i>
-        <span class="username">gkim27@mit.edu</span>
-        </a>
-        <br>
-    <a href="https://github.com/gkim23">
-        <i class="fa fa-github"></i>
-        <span>Github</span>
-    </a> 
-    </td>
-
-<!-- Filler -->
-    <td>
-    </td>
-    <td>
-    </td>
-</tr>
-
 </tbody>
 </table>
 
@@ -664,6 +606,53 @@ If you want to change the style of the table, please look at the table tags in _
     </td>
 </tr>
 
+</tbody>
+</table>
+
+<!---------------- Visiting Scholars. --------------------->
+<table>
+<colgroup>
+<col width="15%" />
+<col width="35%" />
+<col width="15%" />
+<col width="35%" />
+</colgroup>
+<thead>
+<tr>
+<th class="caption" colspan="4">Visiting Scholars</th>
+</tr>
+</thead>
+<tbody>
+
+<tr>
+<td>
+    <a href="/assets/people/gyeongwu_kim.jpg" data-lightbox="Gyeongwu Kim" >
+    <img style="width: 75%" src="/assets/people/gyeongwu_kim.jpg">
+    </a>
+</td>
+<td>
+    <b>Gyeongwu Kim</b><br>
+        Internship (2024 Summer)<br>
+        <i class="fa fa-graduation-cap"></i>
+        Computer Science and Engineering, MIT <br>
+        AI, LLM<br>
+        <a href="mailto:gkim27@mit.edu">
+        <i class="fa fa-envelope-o"></i>
+        <span class="username">gkim27@mit.edu</span>
+        </a>
+        <br>
+    <a href="https://github.com/gkim23">
+        <i class="fa fa-github"></i>
+        <span>Github</span>
+    </a> 
+</td>
+<!--filler-->
+<td>
+</td>    
+<td>
+</td>    
+
+</tr>
 </tbody>
 </table>
 
