@@ -9,760 +9,614 @@ main_nav: true
 If you want to change the style of the table, please look at the table tags in _sass/_layout.scss.
 -->
 
-<!---------------- Professor --------------------->
-<table>
-<colgroup>
-<col width="15%" />
-<col width="85%" />
-<!-- <col width="15%" />
-<col width="35%" /> -->
-</colgroup>
-<thead>
-<tr>
-<th class="caption" colspan="4">Professor</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>
-    <a href="/assets/people/daehyung_park.jpg" data-lightbox="Daehyung Park" >
-      <img style="width: 75%" src="/assets/people/daehyung_park.jpg">
-      </a>
-</td>
-<td>
-    <b>Daehyung Park (박대형)</b><br>
-    Assistant Professor at School of Computing<br>
-    Affiliated Asst. Prof. at Graduate School of AI<br>
-    <i class="fa fa-building" aria-hidden="true"></i> E3-1 #2429 at Main Campus <br>    
-    <a href="mailto:{{ site.email}}">
-       <i class="fa fa-envelope-o"></i>
-       <span class="username">{{ site.email }}</span>
-    </a>
+<div class="people">
+
+    <!---------------- Professor --------------------->
+    <div class="people-section">Professor</div>
+
+    <div class="people-container">
+
+        <div class="boundary-line"></div>
+
+        <div class="img-column">
+            <img src="/assets/people/daehyung_park.jpg" alt="Daehyung Park" >
+        </div>
+        <div class="exp-column">
+            <b>Daehyung Park (박대형)</b><br>
+            Assistant Professor at School of Computing<br>
+            Affiliated Asst. Prof. at Graduate School of AI<br>
+            <i class="fa fa-building" aria-hidden="true"></i> E3-1 #2429 at Main Campus <br>    
+            <a href="mailto:{{ site.email}}">
+            <i class="fa fa-envelope-o"></i>
+            <span class="username">{{ site.email }}</span>
+            </a>
+            <br>
+            <a href="https://scholar.google.com/citations?user=5mWSk04AAAAJ">
+            <i class="fa fa-graduation-cap"></i>
+            <span>Scholar</span>
+            </a>
+            <span> | </span>
+            <a href="https://sites.google.com/site/daehyungpark">
+            <i class="fa fa-home"></i>
+            <span>Homepage</span>
+            </a>           
+        </div>
+        <div class="boundary-line"></div>
+    </div>
     <br>
-    <a href="https://scholar.google.com/citations?user=5mWSk04AAAAJ">
-        <i class="fa fa-graduation-cap"></i>
-        <span>Scholar</span>
-    </a>
-    <span> | </span>
-    <a href="https://sites.google.com/site/daehyungpark">
-        <i class="fa fa-home"></i>
-        <span>Homepage</span>
-    </a>   
-</td>
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
 
+    <!---------------- Ph.D --------------------->
+    <div class="people-section">Ph.D. Students</div>
+    <div class="people-container">
 
+        <div class="boundary-line"></div>
 
-
-<!---------------- Ph.D --------------------->
-<table>
-<colgroup>
-<col width="15%" />
-<col width="35%" />
-<col width="15%" />
-<col width="35%" />
-</colgroup>
-<thead>
-<tr>
-<th class="caption" colspan="4">Ph.D. Students</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-        <!-- Yongdae Kim -->
-	<td>
-		<a href="/assets/people/noname.jpg" data-lightbox="Yongdae Kim" >
-		  <img style="width: 75%" src="/assets/people/noname.jpg">
-		  </a>
-	</td>
-	<td>
-		<b>Yongdae Kim</b><br>
-		School of Computing, 2014<br>
-		<a href="mailto:yongdae.kim@kaist.ac.kr">
-		   <i class="fa fa-envelope-o"></i>
-		   <span class="username">yongdae.kim@kaist.ac.kr</span>
-		</a>
-		<br>
-	</td>
 	<!-- Yeseung Kim -->
-        <td>
-                <a href="/assets/people/yeseung_kim.jpg" data-lightbox="Yeseung Kim" >
-                <img style="width: 75%" src="/assets/people/yeseung_kim.jpg">
-                </a>
-        </td>
-        <td>
-                <b>Yeseung Kim</b><br>
-                School of Computing, 2023<br>
+        <div class="img-column">
+            <img src="/assets/people/yeseung_kim.jpg" alg="Yeseung Kim" >
+        </div>
+        <div class="exp-column">
+            <b>Yeseung Kim</b><br>
+            School of Computing, 2023<br>
+            <i class="fa fa-graduation-cap"></i>
+            M.S. in Robotics, KAIST (2023)<br>
+            Motion Planning, Collision Detection<br>
+            <a href="mailto:yeseung.kim.88@kaist.ac.kr">
+            <i class="fa fa-envelope-o"></i>
+            <span class="username"> yeseung.kim.88@kaist.ac.kr</span>
+            </a>
+            <br>
+            <a href="https://github.com/aries-robot/">
+            <i class="fa fa-github"></i>
+            <span>Github</span>
+            </a>
+            <span> | </span>
+            <a href="https://scholar.google.com/citations?user=NsNnSNYAAAAJ">
+            <i class="fa fa-graduation-cap"></i>
+            <span>Scholar</span>
+            </a>        
+        </div>
+
+        <!--김도현-->
+        <div class="img-column">
+            <img src="/assets/people/kim_dohyun.jpg" alg="" >
+        </div>
+        <div class="exp-column">
+            <b>Dohyun Kim</b><br>
+            School of Computing, 2024<br>
+            <i class="fa fa-graduation-cap"></i>
+            M.S. in Graduate School of AI, KAIST (2024)<br>
+            Robotic Natural Language Processing<br>
+            <a href="mailto:dohyun141@kaist.ac.kr">
+            <i class="fa fa-envelope-o"></i>
+            <span class="username">dohyun141@kaist.ac.kr</span>
+            </a>
+            <br>
+            <a href="https://github.com/dohyun1411">
+            <i class="fa fa-github"></i>
+            <span>Github</span>
+            </a>
+            <span> | </span>
+            <a href="https://scholar.google.com/citations?user=Hbb9XlEAAAAJ">
+            <i class="fa fa-graduation-cap"></i>
+            <span>Scholar</span>
+            </a>
+        </div>
+        <div class="boundary-line"></div>
+    </div>
+    <br>
+
+
+    <!---------------- M.S. --------------------->
+    <div class="people-section">M.S. Students</div>
+    <div class="people-container">
+
+        <div class="boundary-line"></div>
+
+        <!--하정호  -->
+        <div class="img-column">
+            <img src="/assets/people/jeongho_ha.jpg" alg="" >
+        </div>
+        <div class="exp-column">
+            <b>JeongHo Ha</b><br>
+            School of Computing, 2023<br>
+            <i class="fa fa-graduation-cap"></i>
+            B.S. in Computer Science, KAIST (2023)<br>
+            Deformable Object Manipulation, Representation Learining<br>
+            <a href="mailto:hajeongho95@kaist.ac.kr">
+                <i class="fa fa-envelope-o"></i>
+                <span class="username">hajeongho95@kaist.ac.kr </span>
+            </a>    
+            <br>
+            <a href="https://github.com/Ha-JH">
+               <i class="fa fa-github"></i>
+               <span>Github</span>
+            </a>
+            <span> | </span>
+            <a href="https://scholar.google.com/citations?user=7_G2LRkAAAAJ">
                 <i class="fa fa-graduation-cap"></i>
-                M.S. in Robotics, KAIST (2023)<br>
-                Motion Planning, Collision Detection<br>
-                <a href="mailto:yeseung.kim.88@kaist.ac.kr">
-                <i class="fa fa-envelope"></i>
-                <span class="username"> yeseung.kim.88@kaist.ac.kr</span>
-                </a>
-                <br>
-                <a href="https://github.com/aries-robot/">
-                <i class="fa fa-github"></i>
-                <span>Github</span>
-                </a>
-                <span> | </span>
-                <a href="https://scholar.google.com/citations?user=NsNnSNYAAAAJ">
-                    <i class="fa fa-graduation-cap"></i>
-                    <span>Scholar</span>
-                </a>
-        </td>
-	
-</tr>
+                <span>Scholar</span>
+            </a>        
+        </div>
 
-<tr>
-<!--김도현-->
-<td>
-    <a href="/assets/people/kim_dohyun.jpg" data-lightbox="No name" >
-        <img style="width: 75%" src="/assets/people/kim_dohyun.jpg">
-        </a>
-</td>
-<td>
-    <b>Dohyun Kim</b><br>
-    School of Computing, 2024<br>
-    <i class="fa fa-graduation-cap"></i>
-        M.S. in Graduate School of AI, KAIST (2024)<br>
-        Robotic Natural Language Processing<br>
-    <a href="mailto:dohyun141@kaist.ac.kr">
-        <i class="fa fa-envelope-o"></i>
-        <span class="username">dohyun141@kaist.ac.kr</span>
-    </a>
-    <br>
-    <a href="https://github.com/dohyun1411">
-        <i class="fa fa-github"></i>
-        <span>Github</span>
-    </a>
-    <span> | </span>
-    <a href="https://scholar.google.com/citations?user=Hbb9XlEAAAAJ">
-        <i class="fa fa-graduation-cap"></i>
-        <span>Scholar</span>
-    </a>
-    <!-- <span> | </span>
-    <a href="https://dohyun1411.github.io">
-        <i class="fa fa-home"></i>
-        <span>Homepage</span>
-    </a> -->
-</td>
-<td></td>
-<td></td>
-</tr>
+        <!--황덕민  -->
+        <div class="img-column">
+            <img src="/assets/people/deokmin_hwang.jpg" alg="" >
+        </div>
+        <div class="exp-column">
+            <b>Deok-Min Hwang</b><br>
+            School of Computing, 2023 <br>
+            <i class="fa fa-graduation-cap"></i>
+            B.S. in Mechanical Engineering, KAIST (2023)<br>
+            Perception, Task Planning<br>
+            <a href="mailto:gsh04089@kaist.ac.kr">
+            <i class="fa fa-envelope-o"></i>
+            <span class="username">gsh04089@kaist.ac.kr </span>
+            </a>
+            <br>
+            <a href="https://github.com/Deok-min">
+            <i class="fa fa-github"></i>
+            <span>Github</span>
+            </a>
+            <span> | </span>
+            <a href="https://scholar.google.com/citations?user=7LAjSt0AAAAJ&hl=ko&oi=sra">
+            <i class="fa fa-graduation-cap"></i>
+            <span>Scholar</span>
+            </a>        
+        </div>
 
-</tbody>
-</table>
+        <!-- 박봉경 -->
+        <div class="img-column">
+            <img src="/assets/people/bonggyeong_park.png" alg="" >
+        </div>
+        <div class="exp-column">
+            <b>Bonggyeong Park</b><br>
+            Robotics Program, 2023<br>
+            <i class="fa fa-graduation-cap"></i>
+            B.S. in Mechanical Engineering, KHU (2021)<br>
+            Manipulation, Learning from Demonstration<br>
+            <a href="mailto:iampbk@kaist.ac.kr">
+            <i class="fa fa-envelope-o"></i>
+            <span class="username">iampbk@kaist.ac.kr</span>
+            </a>
+            <br>
+            <a href="https://github.com/PARKBONG">
+            <i class="fa fa-github"></i>
+            <span>Github</span>
+            </a>
+            <span> | </span>
+            <a href="https://scholar.google.com/citations?user=XBi4GLkAAAAJ">
+            <i class="fa fa-graduation-cap"></i>
+            <span>Scholar</span>
+            </a>
+        </div>
 
+        <!--Minwoo Cho  -->
+        <div class="img-column">
+            <img src="/assets/people/minwoo_cho.jpg" alg="" >
+        </div>
+        <div class="exp-column">
+            <b>Minwoo Cho</b><br>
+            School of Computing, 2023<br>
+            <i class="fa fa-graduation-cap"></i>
+            B.S. in Mechanical Engineering, KAIST (2023)<br>
+            Constrained RL, Inverse RL, Constraint Inference<br>
+            <a href="mailto:cmw9903@kaist.ac.kr">
+            <i class="fa fa-envelope-o"></i>
+            <span class="username">cmw9903@kaist.ac.kr </span>
+            </a>
+            <br>
+            <a href="https://github.com/MinchoU">
+            <i class="fa fa-github"></i>
+            <span>Github</span>
+            </a>
+            <span> | </span>
+            <a href="https://scholar.google.com/citations?user=yeAv8qEAAAAJ">
+            <i class="fa fa-graduation-cap"></i>
+            <span>Scholar</span>
+            </a>
+        </div>
 
-<!---------------- M.S. --------------------->
-<table>
-<colgroup>
-<col width="15%" />
-<col width="35%" />
-<col width="15%" />
-<col width="35%" />
-</colgroup>
-<thead>
-<tr>
-<th class="caption" colspan="4">M.S. Students</th>
-</tr>
-</thead>
-<tbody>
-	
-<tr>
-<!--하정호  -->
-<td>
-    <a href="/assets/people/jeongho_ha.jpg" data-lightbox="No name" >
-        <img style="width: 75%" src="/assets/people/jeongho_ha.jpg">
-        </a>
-</td>
-<td>
-    <b>JeongHo Ha</b><br>
-    School of Computing, 2023<br>
-    <i class="fa fa-graduation-cap"></i>
-    B.S. in Computer Science, KAIST (2023)<br>
-    Deformable Object Manipulation, Representation Learining<br>
-    <a href="mailto:hajeongho95@kaist.ac.kr">
-        <i class="fa fa-envelope-o"></i>
-        <span class="username">hajeongho95@kaist.ac.kr </span>
-    </a>    
-    <br>
-    <a href="https://github.com/Ha-JH">
-        <i class="fa fa-github"></i>
-        <span>Github</span>
-    </a>
-    <span> | </span>
-    <a href="https://scholar.google.com/citations?user=7_G2LRkAAAAJ">
-        <i class="fa fa-graduation-cap"></i>
-        <span>Scholar</span>
-    </a>
-</td>
-<!--황덕민  -->
-<td>
-    <a href="/assets/people/deokmin_hwang.jpg" data-lightbox="No name" >
-    <img style="width: 75%" src="/assets/people/deokmin_hwang.jpg">
-    </a>
-</td>
-<td>
-    <b>Deok-Min Hwang</b><br>
-    School of Computing, 2023 <br>
-    <i class="fa fa-graduation-cap"></i>
-    B.S. in Mechanical Engineering, KAIST (2023)<br>
-    Perception, Task Planning<br>
-    <a href="mailto:gsh04089@kaist.ac.kr">
-    <i class="fa fa-envelope-o"></i>
-    <span class="username">gsh04089@kaist.ac.kr </span>
-    </a>
-    <br>
-    <a href="https://github.com/Deok-min">
-        <i class="fa fa-github"></i>
-        <span>Github</span>
-    </a>
-    <span> | </span>
-    <a href="https://scholar.google.com/citations?user=7LAjSt0AAAAJ&hl=ko&oi=sra">
-        <i class="fa fa-graduation-cap"></i>
-        <span>Scholar</span>
-    </a>
-</td>
-</tr>
+        <!-- jieun choi  -->
+        <div class="img-column">
+            <img src="/assets/people/jieun_choi.png" alg="" >
+        </div>
+        <div class="exp-column">
+            <b>Jieun Choi</b><br>
+            School of Computing, 2023 <br>
+            <i class="fa fa-graduation-cap"></i>
+            B.S. in Computer Information and Communication Engineering, CNU (2023)<br>
+            Multimodal Perception, Mobile Manipulation<br>
+            <a href="mailto:jichoi0101@kaist.ac.kr">
+            <i class="fa fa-envelope-o"></i>
+            <span class="username">jichoi0101@kaist.ac.kr </span>
+            </a>
+            <br>
+            <a href="https://github.com/ilileun">
+            <i class="fa fa-github"></i>
+            <span>Github</span>
+            </a>
+            <span> | </span>
+            <a href="https://scholar.google.com/citations?user=7BHY-McAAAAJ">
+            <i class="fa fa-graduation-cap"></i>
+            <span>Scholar</span>
+            </a>
+        </div>
 
-<tr>    
-<!-- 박봉경 -->
-<td>
-    <a href="/assets/people/bonggyeong_park.png" data-lightbox=" Bonggyeong Park" >
-        <img style="width: 75%" src="/assets/people/bonggyeong_park.png">
-        </a>
-</td>
-<td>
-    <b>Bonggyeong Park</b><br>
-    Robotics Program, 2023<br>
-    <i class="fa fa-graduation-cap"></i>
-    B.S. in Mechanical Engineering, KHU (2021)<br>
-    Manipulation, Learning from Demonstration<br>
-        <a href="mailto:iampbk@kaist.ac.kr">
-        <i class="fa fa-envelope-o"></i>
-        <span class="username">iampbk@kaist.ac.kr</span>
-    </a>
-    <br>
-    <a href="https://github.com/PARKBONG">
-        <i class="fa fa-github"></i>
-        <span>Github</span>
-    </a>
-    <span> | </span>
-    <a href="https://scholar.google.com/citations?user=XBi4GLkAAAAJ">
-        <i class="fa fa-graduation-cap"></i>
-        <span>Scholar</span>
-    </a>
-</td>
-<!--Minwoo Cho  -->
-<td>
-    <a href="/assets/people/minwoo_cho.jpg" data-lightbox="Minwoo Cho" >
-    <img style="width: 75%" src="/assets/people/minwoo_cho.jpg">
-    </a>
-</td>
-<td>
-    <b>Minwoo Cho</b><br>
-    School of Computing, 2023<br>
-    <i class="fa fa-graduation-cap"></i>
-    B.S. in Mechanical Engineering, KAIST (2023)<br>
-    Constrained RL, Inverse RL, Constraint Inference<br>
-    <a href="mailto:cmw9903@kaist.ac.kr">
-    <i class="fa fa-envelope-o"></i>
-    <span class="username">cmw9903@kaist.ac.kr </span>
-    </a>
-    <br>
-    <a href="https://github.com/MinchoU">
-        <i class="fa fa-github"></i>
-        <span>Github</span>
-    </a>
-    <span> | </span>
-    <a href="https://scholar.google.com/citations?user=yeAv8qEAAAAJ">
-        <i class="fa fa-graduation-cap"></i>
-        <span>Scholar</span>
-    </a>
-</td>
-</tr>
+        <!--Keonyoung Koh  -->
+        <div class="img-column">
+            <img src="/assets/people/keonyoung_koh.jpg" alg="" >
+        </div>
+        <div class="exp-column">
+            <b>Keonyoung Koh</b><br>
+            School of Computing, 2024 <br>
+            <i class="fa fa-graduation-cap"></i>
+            B.S. in Mechanical Engineering, KAIST (2024)<br>
+            Perception based Planning<br>
+            <a href="mailto:kkyjusikhoisa@kaist.ac.kr">
+            <i class="fa fa-envelope-o"></i>
+            <span class="username">kkyjusikhoisa@kaist.ac.kr </span>
+            </a>
+            <br>
+            <a href="https://github.com/KeonyoungKoh">
+            <i class="fa fa-github"></i>
+            <span>Github</span>
+            </a>
+            <span> | </span>
+            <a href="https://scholar.google.com/citations?user=gI5KkPUAAAAJ">
+            <i class="fa fa-graduation-cap"></i>
+            <span>Scholar</span>
+            </a>
+            <span> | </span>
+            <a href="https://www.linkedin.com/in/keonyoungkoh/">
+            <i class="fa fa-home"></i>
+            <span>LinkedIn</span>
+            </a>   
+        </div>
 
-<tr>
-<!-- jieun choi  -->
-    <td>
-        <a href="/assets/people/jieun_choi.png" data-lightbox="Jieun Choi" >
-        <img style="width: 75%" src="/assets/people/jieun_choi.png">
-        </a>
-    </td>
-    <td>
-        <b>Jieun Choi</b><br>
-        School of Computing, 2023 <br>
-        <i class="fa fa-graduation-cap"></i>
-        B.S. in Computer Information and Communication Engineering, CNU (2023)<br>
-        Multimodal Perception, Mobile Manipulation<br>
-        <a href="mailto:jichoi0101@kaist.ac.kr">
-        <i class="fa fa-envelope-o"></i>
-        <span class="username">jichoi0101@kaist.ac.kr </span>
-        </a>
-        <br>
-    <a href="https://github.com/ilileun">
-        <i class="fa fa-github"></i>
-        <span>Github</span>
-    </a>
-    <span> | </span>
-    <a href="https://scholar.google.com/citations?user=7BHY-McAAAAJ">
-        <i class="fa fa-graduation-cap"></i>
-        <span>Scholar</span>
-    </a>
-    </td>
-<!--Keonyoung Koh  -->
-    <td>
-        <a href="/assets/people/keonyoung_koh.jpg" data-lightbox="Keonyoung Koh" >
-        <img style="width: 75%" src="/assets/people/keonyoung_koh.jpg">
-        </a>
-    </td>
-    <td>
-        <b>Keonyoung Koh</b><br>
-        School of Computing, 2024 <br>
-        <i class="fa fa-graduation-cap"></i>
-        B.S. in Mechanical Engineering, KAIST (2024)<br>
-        Perception based Planning<br>
-        <a href="mailto:kkyjusikhoisa@kaist.ac.kr">
-        <i class="fa fa-envelope-o"></i>
-        <span class="username">kkyjusikhoisa@kaist.ac.kr </span>
-        </a>
-        <br>
-    <a href="https://github.com/KeonyoungKoh">
-        <i class="fa fa-github"></i>
-        <span>Github</span>
-    </a>
-    <span> | </span>
-    <a href="https://scholar.google.com/citations?user=gI5KkPUAAAAJ">
-        <i class="fa fa-graduation-cap"></i>
-        <span>Scholar</span>
-    </a>
-    <span> | </span>
-    <a href="https://www.linkedin.com/in/keonyoungkoh/">
-        <i class="fa fa-home"></i>
-        <span>LinkedIn</span>
-    </a>   
-</td>
-</tr>
+        <!--Nayoung Oh  -->
+        <div class="img-column">
+            <img src="/assets/people/nayoung_oh.jpg" alg="" >
+        </div>
+        <div class="exp-column">
+            <b>Nayoung Oh</b><br>
+            Graduate School of AI, 2024<br>
+            <i class="fa fa-graduation-cap"></i>
+            B.S. in Computer Science & Mechanical Engineering, KAIST (2024)<br>
+            Natural Language Grounding, HRI<br>
+            <a href="mailto:lightsalt@kaist.ac.kr">
+            <i class="fa fa-envelope-o"></i>
+            <span class="username">lightsalt@kaist.ac.kr </span>
+            </a>
+            <br>
+            <a href="https://github.com/Nayoung-Oh">
+            <i class="fa fa-github"></i>
+            <span>Github</span>
+            </a>
+            <span> | </span>
+            <a href="https://scholar.google.com/citations?user=-OcdEJgAAAAJ">
+            <i class="fa fa-graduation-cap"></i>
+            <span>Scholar</span>
+            </a>
+            <span> | </span>
+            <a href="https://showy-moth-02a.notion.site/Nayoung-Oh-3738a8fbe90c444f8f27fef627218f8c">
+            <i class="fa fa-home"></i>
+            <span>Homepage</span>
+            </a>           
+        </div>
 
-<tr>   
-<!--Nayoung Oh  -->
-    <td>
-        <a href="/assets/people/nayoung_oh.jpg" data-lightbox="Nayoung Oh" >
-        <img style="width: 75%" src="/assets/people/nayoung_oh.jpg">
-        </a>
-    </td>
-    <td>
-        <b>Nayoung Oh</b><br>
-        Graduate School of AI, 2024<br>
-        <i class="fa fa-graduation-cap"></i>
-        B.S. in Computer Science & Mechanical Engineering, KAIST (2024)<br>
-        Natural Language Grounding, Human-Robot Interaction<br>
-        <a href="mailto:lightsalt@kaist.ac.kr">
-        <i class="fa fa-envelope-o"></i>
-        <span class="username">lightsalt@kaist.ac.kr </span>
-        </a>
-        <br>
-    <a href="https://github.com/Nayoung-Oh">
-        <i class="fa fa-github"></i>
-        <span>Github</span>
-    </a>
-    <span> | </span>
-    <a href="https://scholar.google.com/citations?user=-OcdEJgAAAAJ">
-        <i class="fa fa-graduation-cap"></i>
-        <span>Scholar</span>
-    </a>
-    <span> | </span>
-    <a href="https://showy-moth-02a.notion.site/Nayoung-Oh-3738a8fbe90c444f8f27fef627218f8c">
-        <i class="fa fa-home"></i>
-        <span>Homepage</span>
-    </a>   
-</td>
-<!-- Moonkyeong Jung  -->
-    <td>
-        <a href="/assets/people/moonkyeong_jung.jpg" data-lightbox="Moonkyeong Jung" >
-        <img style="width: 75%" src="/assets/people/moonkyeong_jung.jpg">
-        </a>
-    </td>
-    <td>
-        <b>Moonkyeong Jung</b><br>
-        Robotics Program, 2024<br>
-        <i class="fa fa-graduation-cap"></i>
-        B.S. in Mechanical Systems Engineering, SWMWU (2024)<br>
-        Perception based Planning<br>
-        <a href="mailto:jmk7791@kaist.ac.kr">
-        <i class="fa fa-envelope-o"></i>
-        <span class="username">jmk7791@kaist.ac.kr </span>
-        </a>
-        <br>
-    <a href="https://github.com/jmk7791">
-        <i class="fa fa-github"></i>
-        <span>Github</span>
-    </a>
-    <span> | </span>
-    <a href="https://scholar.google.com/citations?user=zqeY8EoAAAAJ">
-        <i class="fa fa-graduation-cap"></i>
-        <span>Scholar</span>
-    </a>
-</td>
-</tr>
+        <!-- Moonkyeong Jung  -->
+        <div class="img-column">
+            <img src="/assets/people/moonkyeong_jung.jpg" alg="" >
+        </div>
+        <div class="exp-column">
+            <b>Moonkyeong Jung</b><br>
+            Robotics Program, 2024<br>
+            <i class="fa fa-graduation-cap"></i>
+            B.S. in Mechanical Systems Engineering, SWMWU (2024)<br>
+            Perception based Planning<br>
+            <a href="mailto:jmk7791@kaist.ac.kr">
+            <i class="fa fa-envelope-o"></i>
+            <span class="username">jmk7791@kaist.ac.kr </span>
+            </a>
+            <br>
+            <a href="https://github.com/jmk7791">
+            <i class="fa fa-github"></i>
+            <span>Github</span>
+            </a>
+            <span> | </span>
+            <a href="https://scholar.google.com/citations?user=zqeY8EoAAAAJ">
+            <i class="fa fa-graduation-cap"></i>
+            <span>Scholar</span>
+            </a>
+        </div>
 
-<tr>
         <!-- Gyungjin Eo -->
-	<td>
-		<a href="/assets/people/noname.jpg" data-lightbox="Gyungjin Eo" >
-		  <img style="width: 75%" src="/assets/people/noname.jpg">
-		  </a>
-	</td>
-	<td>
-		<b>Gyungjin Eo</b><br>
-		Robotics Program, 2024<br>
-		<br>
-	</td>
+        <div class="img-column">
+            <img src="/assets/people/noname.jpg" alg="" >
+        </div>
+        <div class="exp-column">
+            <b>Gyungjin Eo</b><br>
+	    Robotics Program, 2024<br>        
+        </div>
 
         <!-- ? -->
-	<td>
-		<a href="/assets/people/noname.jpg" data-lightbox="Coming Soon!" >
-		  <img style="width: 75%" src="/assets/people/noname.jpg">
-		  </a>
-	</td>
-	<td>
-		<b>Coming Soon!</b><br>
-		School of Computing, 2024<br>
-		<br>
-	</td>
-</tr>
-</tbody>
-</table>
+        <div class="img-column">
+            <img src="/assets/people/noname.jpg" alg="" >
+        </div>
+        <div class="exp-column">
+            <b>Coming Soon!</b><br>
+	    School of Computing, 2024<br>
+        </div>
 
-<!---------------- Undergrad --------------------->
-<table>
-<colgroup>
-<col width="15%" />
-<col width="35%" />
-<col width="15%" />
-<col width="35%" />
-</colgroup>
-<thead>
-<tr>
-<th class="caption" colspan="4">Undergrad Students</th>
-</tr>
-</thead>
-<tbody>
-
-
-<tr>
-<!--Minseok Song  -->
-    <td>
-        <a href="/assets/people/minseok_song.jpg" data-lightbox="Minseok Song" >
-        <img style="width: 75%" src="/assets/people/minseok_song.jpg">
-        </a>
-    </td>
-    <td>
-        <b>Minseok Song</b><br>
-        <i class="fa fa-graduation-cap"></i>
-        Mechanical Engineering, KAIST <br>
-        Manipulation<br>
-        <a href="mailto:hjmngb@kaist.ac.kr">
-        <i class="fa fa-envelope-o"></i>
-        <span class="username">hjmngb@kaist.ac.kr </span>
-        </a>
-        <br>
-    <a href="https://github.com/Caterpiemaster">
-        <i class="fa fa-github"></i>
-        <span>Github</span>
-    </a> 
-    <span> | </span>
-    <a href="https://scholar.google.com/citations?user=MErjm0EAAAAJ">
-        <i class="fa fa-graduation-cap"></i>
-        <span>Scholar</span>
-    </a> 
-    </td>
-<!--Yohan Park  -->
-    <td>
-        <a href="/assets/people/yohan_park.jpg" data-lightbox="Yohan Park" >
-        <img style="width: 75%" src="/assets/people/yohan_park.jpg">
-        </a>
-    </td>
-    <td>
-        <b>Yohan Park</b><br>
-        <i class="fa fa-graduation-cap"></i>
-        Electrical Engineering, KAIST <br>
-        Perception, Planning<br>
-        <a href="mailto:farawell777@kaist.ac.kr">
-        <i class="fa fa-envelope-o"></i>
-        <span class="username">farawell777@kaist.ac.kr </span>
-        </a>
-        <br> 
-    <a href="https://github.com/farawell">
-        <i class="fa fa-github"></i>
-        <span>Github</span>
-    </a>  
-    <span> | </span>
-    <a href="https://scholar.google.com/citations?user=AjNvEN0AAAAJ">
-        <i class="fa fa-graduation-cap"></i>
-        <span>Scholar</span>
-    </a> 
-    <span> | </span>
-    <a href="http://www.linkedin.com/in/yohanpark00">
-        <i class="fa fa-home"></i>
-        <span>LinkedIn</span>
-    </a>   
-    </td>
-</tr>
-<tr>
-<!--Seungsup Lee  -->
-    <td>
-        <a href="/assets/people/seungsup_lee.jpg" data-lightbox="Seungsup Lee" >
-        <img style="width: 75%" src="/assets/people/seungsup_lee.jpg">
-        </a>
-    </td>
-    <td>
-        <b>Seungsup Lee</b><br>
-        <i class="fa fa-graduation-cap"></i>
-        Mechanical and Aerospace Engineering, SNU<br>
-        Perception, Robust Navigation, TAMP<br>
-        <a href="mailto:johngalt827@snu.ac.kr">
-        <i class="fa fa-envelope-o"></i>
-        <span class="username">johngalt827@snu.ac.kr </span>
-        </a>
-        <br> 
-    <a href="https://github.com/piratecat-lover">
-        <i class="fa fa-github"></i>
-        <span>Github</span>
-    </a>
-    <span> | </span>
-    <a href="https://scholar.google.com/citations?user=Y23oeeoAAAAJ">
-        <i class="fa fa-graduation-cap"></i>
-        <span>Scholar</span>
-    </a>
-    <span> | </span>
-    <a href="https://www.linkedin.com/profile/in/samuelseungsuplee/">
-        <i class="fa fa-home"></i>
-        <span>LinkedIn</span>
-    </a>        
-    </td>
-<td>
-</td>
-<td>
-</td>
-
-</tr>
-</tbody>
-</table>
-
-<!------------ Research Associate and Assistant ---------------->
-<table>
-<colgroup>
-<col width="15%" />
-<col width="35%" />
-<col width="15%" />
-<col width="35%" />
-</colgroup>
-<thead>
-<tr>
-<th class="caption" colspan="4">Research Associate & Assistant</th>
-</tr>
-</thead>
-<tbody>
-
-<tr>
-<!-- jisang park  -->
-    <td>
-        <a href="/assets/people/jisang_park.jpg" data-lightbox="Jisang Park" >
-        <img style="width: 75%" src="/assets/people/jisang_park.jpg">
-        </a>
-    </td>
-    <td>
-        <b>Jisang Park</b><br>
-        Research Associate <br>
-        <i class="fa fa-graduation-cap"></i>
-        B.B.A & B.S. in Computer Science & Engineering, SNU (2022)<br>
-        Human-Robot Interaction, Perception, Task Planning<br>
-        <a href="mailto:jisang.park@kaist.ac.kr">
-        <i class="fa fa-envelope-o"></i>
-        <span class="username">jisang.park@kaist.ac.kr </span>
-        </a>
-        <br>   
-    <a href="https://github.com/alsichcan">
-        <i class="fa fa-github"></i>
-        <span>Github</span>
-    </a>
-    <span> | </span>
-    <a href="https://scholar.google.com/citations?user=YXjaSZoAAAAJ">
-        <i class="fa fa-graduation-cap"></i>
-        <span>Scholar</span>
-    </a>
-    <span> | </span>
-    <a href="https://www.linkedin.com/in/jace-jisang-park">
-        <i class="fa fa-home"></i>
-        <span>LinkedIn</span>
-    </a>   
-    </td>
-</tr>
-
-</tbody>
-</table>
-
-<!---------------- Visiting Scholars. --------------------->
-<table>
-<colgroup>
-<col width="15%" />
-<col width="35%" />
-<col width="15%" />
-<col width="35%" />
-</colgroup>
-<thead>
-<tr>
-<th class="caption" colspan="4">Visiting Scholars</th>
-</tr>
-</thead>
-<tbody>
-
-<tr>
-<td>
-    <a href="/assets/people/gyeongwu_kim.jpg" data-lightbox="Gyeongwu Kim" >
-    <img style="width: 75%" src="/assets/people/gyeongwu_kim.jpg">
-    </a>
-</td>
-<td>
-    <b>Gyeongwu Kim</b><br>
-        Internship (2024 Summer)<br>
-        <i class="fa fa-graduation-cap"></i>
-        Computer Science and Engineering, MIT <br>
-        AI, LLM<br>
-        <a href="mailto:gkim27@mit.edu">
-        <i class="fa fa-envelope-o"></i>
-        <span class="username">gkim27@mit.edu</span>
-        </a>
-        <br>
-    <a href="https://github.com/gkim23">
-        <i class="fa fa-github"></i>
-        <span>Github</span>
-    </a> 
-</td>
-<!--filler-->
-<td>
-</td>    
-<td>
-</td>    
-
-</tr>
-</tbody>
-</table>
-
-<!---------------- Alum. --------------------->
-<table>
-<colgroup>
-<col width="15%" />
-<col width="35%" />
-<col width="15%" />
-<col width="35%" />
-</colgroup>
-<thead>
-<tr>
-<th class="caption" colspan="4">Alumni</th>
-</tr>
-</thead>
-<tbody>
-
-<tr>
-<!-- Minjae Song  -->
-<td>
-    <b>Minjae Song</b>
-</td>
-<td>
-    <!-- LIG Nex1 (LIG넥스원)<br> -->
-    <i class="fa fa-graduation-cap"></i>
-    M.S. in Computer Science, 2024<br>
-    <a href="mailto:smj0398@kaist.ac.kr">
-    <i class="fa fa-envelope-o"></i>
-    <span class="username">smj0398@kaist.ac.kr</span>
-    </a>
-</td>
-
-<!-- Jaehwi Jang  -->
-<td>
-    <b>Jaehwi Jang</b>
-</td>
-<td>
-    Georgia Tech Ph.D. Course <br>
-    <i class="fa fa-graduation-cap"></i>
-    M.S. in Artificial Intelligence, 2024<br>
-    <a href="mailto:wognl0402@kaist.ac.kr">
-	   <i class="fa fa-envelope-o"></i>
-	   <span class="username">wognl0402@kaist.ac.kr</span>
-    </a>
+        <div class="boundary-line"></div>
+    </div>
     <br>
-    <a href="https://github.com/wognl0402">
-        <i class="fa fa-github"></i>
-        <span>Github</span>
-    </a>
-    <span> | </span>
-    <a href="https://scholar.google.com/citations?user=fPNCtVQAAAAJ">
-        <i class="fa fa-graduation-cap"></i>
-        <span>Scholar</span>
-    </a>
-</td>
-</tr>
 
-<tr>
-<!-- Chanyoung Ahn -->
-<td>
-    <b>Chanyoung Ahn</b>
-</td>
-<td>
-    Intern at KISTI (한국과학기술정보연구원)<br>
-    <i class="fa fa-graduation-cap"></i>
-    M.S. in Robotics, 2024<br>
-    <a href="mailto:coldyoung@kaist.ac.kr">
-        <i class="fa fa-envelope-o"></i>
-        <span class="username">coldyoung@kaist.ac.kr</span>
-    </a>
-</td>
+    
+    <!---------------- Undergrad --------------------->
+    <div class="people-section">Undergrad Students</div>
+    <div class="people-container">
 
-<!-- 김진우  -->
-<td>
-    <b>Jinwoo Kim</b>
-</td>
-<td>
-    Industrial Technical Personnel at ROBOTIS<br>
-    <i class="fa fa-graduation-cap"></i>
-    M.S. in Computer Science, 2024<br>
-    <a href="mailto:kjwoo31@kaist.ac.kr">
-        <i class="fa fa-envelope-o"></i>
-        <span class="username">kjwoo31@kaist.ac.kr</span>
-    </a>
-</td>
-</tr>
+        <div class="boundary-line"></div>
+
+        <!--Minseok Song  -->
+        <div class="img-column">
+            <img src="/assets/people/minseok_song.jpg" alg="" >
+        </div>
+        <div class="exp-column">
+            <b>Minseok Song</b><br>
+            <i class="fa fa-graduation-cap"></i>
+            Mechanical Engineering, KAIST <br>
+            Manipulation<br>
+            <a href="mailto:hjmngb@kaist.ac.kr">
+            <i class="fa fa-envelope-o"></i>
+            <span class="username">hjmngb@kaist.ac.kr </span>
+            </a>
+            <br>
+            <a href="https://github.com/Caterpiemaster">
+            <i class="fa fa-github"></i>
+            <span>Github</span>
+            </a> 
+            <span> | </span>
+            <a href="https://scholar.google.com/citations?user=MErjm0EAAAAJ">
+            <i class="fa fa-graduation-cap"></i>
+            <span>Scholar</span>
+            </a> 
+        </div>
+
+        <!--Yohan Park  -->
+        <div class="img-column">
+            <img src="/assets/people/yohan_park.jpg" alg="" >
+        </div>
+        <div class="exp-column">
+            <b>Yohan Park</b><br>
+            <i class="fa fa-graduation-cap"></i>
+            Electrical Engineering, KAIST <br>
+            Perception, Planning<br>
+            <a href="mailto:farawell777@kaist.ac.kr">
+            <i class="fa fa-envelope-o"></i>
+            <span class="username">farawell777@kaist.ac.kr </span>
+            </a>
+            <br> 
+            <a href="https://github.com/farawell">
+            <i class="fa fa-github"></i>
+            <span>Github</span>
+            </a>  
+            <span> | </span>
+            <a href="https://scholar.google.com/citations?user=AjNvEN0AAAAJ">
+            <i class="fa fa-graduation-cap"></i>
+            <span>Scholar</span>
+            </a> 
+            <span> | </span>
+            <a href="http://www.linkedin.com/in/yohanpark00">
+            <i class="fa fa-home"></i>
+            <span>LinkedIn</span>
+            </a>      
+        </div>
+
+        <!--Seungsup Lee  -->
+        <div class="img-column">
+            <img src="/assets/people/seungsup_lee.jpg" alg="" >
+        </div>
+        <div class="exp-column">
+            <b>Seungsup Lee</b><br>
+            <i class="fa fa-graduation-cap"></i>
+            Mechanical and Aerospace Engineering, SNU<br>
+            Perception, Robust Navigation, TAMP<br>
+            <a href="mailto:johngalt827@snu.ac.kr">
+            <i class="fa fa-envelope-o"></i>
+            <span class="username">johngalt827@snu.ac.kr </span>
+            </a>
+            <br> 
+            <a href="https://github.com/piratecat-lover">
+            <i class="fa fa-github"></i>
+            <span>Github</span>
+            </a>
+            <span> | </span>
+            <a href="https://scholar.google.com/citations?user=Y23oeeoAAAAJ">
+            <i class="fa fa-graduation-cap"></i>
+            <span>Scholar</span>
+            </a>
+            <span> | </span>
+            <a href="https://www.linkedin.com/profile/in/samuelseungsuplee/">
+            <i class="fa fa-home"></i>
+            <span>LinkedIn</span>
+            </a>           
+        </div>
+
+        <div class="img-column">
+            <img src="" alg="" >
+        </div>
+        <div class="exp-column">
+   
+        </div>
+
+        <div class="boundary-line"></div>
+    </div>
+    <br>
 
 
-<tr>
-<!-- 신주철  -->
-<td>
-    <b>Ju-chul Shin</b>
-</td>
-<td>
-    LIG Nex1 (LIG넥스원)<br>
-    <i class="fa fa-graduation-cap"></i>
-    M.S. in Software Engineering, 2024<br>
-    <a href="mailto:castiron@kaist.ac.kr">
-    <i class="fa fa-envelope-o"></i>
-    <span class="username">castiron@kaist.ac.kr </span>
-    </a>
-</td>
+    <!------------ Research Associate and Assistant ---------------->
+    <div class="people-section">Research Associate & Assistant</div>
+    <div class="people-container">
 
-<td>
-</td>
-<td>
-</td>
-</tr>
-</tbody>
+        <div class="boundary-line"></div>
+
+        <!-- jisang park  -->
+        <div class="img-column">
+            <img src="/assets/people/jisang_park.jpg" alg="" >
+        </div>
+        <div class="exp-column">
+            <b>Jisang Park</b><br>
+            Research Associate <br>
+            <i class="fa fa-graduation-cap"></i>
+            B.B.A & B.S. in Computer Science & Engineering, SNU (2022)<br>
+            HRI, Perception, Task Planning<br>
+            <a href="mailto:jisang.park@kaist.ac.kr">
+            <i class="fa fa-envelope-o"></i>
+            <span class="username">jisang.park@kaist.ac.kr </span>
+            </a>
+            <br>   
+            <a href="https://github.com/alsichcan">
+            <i class="fa fa-github"></i>
+            <span>Github</span>
+            </a>
+            <span> | </span>
+            <a href="https://scholar.google.com/citations?user=YXjaSZoAAAAJ">
+            <i class="fa fa-graduation-cap"></i>
+            <span>Scholar</span>
+            </a>
+            <span> | </span>
+            <a href="https://www.linkedin.com/in/jace-jisang-park">
+            <i class="fa fa-home"></i>
+            <span>LinkedIn</span>
+            </a>      
+        </div>
+
+        <div class="boundary-line"></div>
+    </div>
+    <br>
 
 
-</table>
+    <!---------------- Visiting Scholars. --------------------->
+    <div class="people-section">Visiting Scholars</div>
+    <div class="people-container">
+
+        <div class="boundary-line"></div>
+
+        <!-- jisang park  -->
+        <div class="img-column">
+            <img src="/assets/people/gyeongwu_kim.jpg" alg="" >
+        </div>
+        <div class="exp-column">
+            <b>Gyeongwu Kim</b><br>
+            Internship (2024 Summer)<br>
+            <i class="fa fa-graduation-cap"></i>
+            Computer Science and Engineering, MIT <br>
+            AI, LLM<br>
+            <a href="mailto:gkim27@mit.edu">
+            <i class="fa fa-envelope-o"></i>
+            <span class="username">gkim27@mit.edu</span>
+            </a>
+            <br>
+            <a href="https://github.com/gkim23">
+            <i class="fa fa-github"></i>
+            <span>Github</span>
+            </a> 
+        </div>
+
+        <div class="boundary-line"></div>
+    </div>
+    <br>
+
+
+    <!---------------- Alum. --------------------->
+    <div class="people-section">Alumni</div>
+    <div class="people-container">
+
+        <div class="boundary-line"></div>
+
+        <div class="img-column">
+            Minjae Song
+        </div>
+        <div class="exp-column">
+            <!-- LIG Nex1 (LIG넥스원)<br> -->
+            <i class="fa fa-graduation-cap"></i>
+            M.S. in Computer Science, 2024<br>
+            <a href="mailto:smj0398@kaist.ac.kr">
+            <i class="fa fa-envelope-o"></i>
+            <span class="username">smj0398@kaist.ac.kr</span>
+            </a>        
+        </div>
+
+        <div class="img-column">        
+            Jaehwi Jang
+        </div>
+        <div class="exp-column">
+            Georgia Tech Ph.D. Course <br>
+            <i class="fa fa-graduation-cap"></i>
+            M.S. in Artificial Intelligence, 2024<br>
+            <a href="mailto:wognl0402@kaist.ac.kr">
+	    <i class="fa fa-envelope-o"></i>
+	    <span class="username">wognl0402@kaist.ac.kr</span>
+            </a>
+            <br>
+            <a href="https://github.com/wognl0402">
+            <i class="fa fa-github"></i>
+            <span>Github</span>
+            </a>
+            <span> | </span>
+            <a href="https://scholar.google.com/citations?user=fPNCtVQAAAAJ">
+            <i class="fa fa-graduation-cap"></i>
+            <span>Scholar</span>
+            </a>
+        </div>
+
+        <div class="img-column">
+            Chanyoung Ahn
+        </div>
+        <div class="exp-column">
+            Intern at KISTI (한국과학기술정보연구원)<br>
+            <i class="fa fa-graduation-cap"></i>
+            M.S. in Robotics, 2024<br>
+            <a href="mailto:coldyoung@kaist.ac.kr">
+            <i class="fa fa-envelope-o"></i>
+            <span class="username">coldyoung@kaist.ac.kr</span>
+            </a>
+        </div>
+
+        <div class="img-column">
+            Jinwoo Kim
+        </div>
+        <div class="exp-column">
+            Industrial Technical Personnel at ROBOTIS<br>
+            <i class="fa fa-graduation-cap"></i>
+            M.S. in Computer Science, 2024<br>
+            <a href="mailto:kjwoo31@kaist.ac.kr">
+            <i class="fa fa-envelope-o"></i>
+            <span class="username">kjwoo31@kaist.ac.kr</span>
+            </a>
+        </div>
+
+        <div class="img-column">
+            Ju-chul Shin
+        </div>
+        <div class="exp-column">
+            LIG Nex1 (LIG넥스원)<br>
+            <i class="fa fa-graduation-cap"></i>
+            M.S. in Software Engineering, 2024<br>
+            <a href="mailto:castiron@kaist.ac.kr">
+            <i class="fa fa-envelope-o"></i>
+            <span class="username">castiron@kaist.ac.kr </span>
+            </a>
+        </div>
+
+        <div class="boundary-line"></div>
+    </div>
+
+
+</div>
+        
+
+

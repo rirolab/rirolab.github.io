@@ -651,6 +651,74 @@ pre code.hljs {
             padding: 0.0em 0.5em 0em 0.5em
         }
     }
+    .people{
+        .people-section{
+            font-size: 1.5em;
+	    font-weight: bold;
+            font-family: "Roboto Slab", "Helvetica Neue", "Helvetica", "Arial", sans-serif;
+        }
+        .people-container{
+            display: grid;
+            grid-template-columns: 1fr ;
+            gap: 1rem 0rem;
+        }
+	@include media ($tablet) {
+            .people-container {
+                gap: 1rem;
+                grid-template-columns: 1fr 3fr 1fr 3fr;
+            }
+        }
+        .img-column{
+            margin: auto 0;
+            padding: 0 0.5rem;
+	    font-weight: bold;
+            
+            @include media ($tablet) {
+                padding: 0;
+            }
+            img {
+                position: relative;
+                overflow: hidden;
+                border-radius: 50%;                  
+                
+	        display: block;
+	        margin: auto auto;
+	        width: 60%;
+                @include media ($tablet) {
+	            width: 100%;
+                }
+            }
+            
+        }
+        .exp-column{
+            word-break: break-all;
+            margin: auto 0;
+            @include media ($tablet) {
+                padding-left: 1rem;
+            }
+        }
+        .boundary-line{
+            grid-column-start: 1;
+            grid-column-end: 2;
+            height: 0;
+            border-bottom: 1px solid $light-gray;
+            width: 100%;
+            @include media ($tablet) {
+                grid-column-end: 5;
+            }
+        }
+        .line{
+            grid-column-start: 1;
+            grid-column-end: 2;
+            height: 0;
+            border-bottom: 0px solid $light-gray;
+            width: 100%;
+            @include media ($tablet) {
+                border-bottom: 1px solid $light-gray;
+                grid-column-end: 5;
+            }
+        }
+    }
     .publication{
         margin-top: 1em;
         margin-bottom: 2em;
