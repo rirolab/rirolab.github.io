@@ -333,11 +333,28 @@ If you want to change the style of the table, please look at the table tags in _
 
         <!-- Gyungjin Eo -->
         <div class="img-column">
-            <img src="/assets/people/noname.jpg" alg="" >
+            <img src="/assets/people/gyungjin_eo.png" alg="" >
         </div>
         <div class="exp-column">
             <b>Gyungjin Eo</b><br>
-	    Robotics Program, 2024<br>        
+            Robotics Program, 2024<br>
+            <i class="fa fa-graduation-cap"></i>
+            B.S. in Automobile and IT Convergence, KMU (2024)<br>
+            Perception, Task Planning<br>
+            <a href="mailto:gyungjin.eo@kaist.ac.kr">
+            <i class="fa fa-envelope-o"></i>
+            <span class="username">gyungjin.eo@kaist.ac.kr </span>
+            </a>
+            <br>
+            <a href="https://github.com/eogyeongjin">
+            <i class="fa fa-github"></i>
+            <span>Github</span>
+            </a>
+            <span> | </span>
+            <a href="https://scholar.google.com/citations?user=Ek6yy7gAAAAJ">
+            <i class="fa fa-graduation-cap"></i>
+            <span>Scholar</span>
+            </a>
         </div>
 
         <!-- ? -->
