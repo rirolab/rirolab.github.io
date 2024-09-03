@@ -357,16 +357,31 @@ If you want to change the style of the table, please look at the table tags in _
             </a>
         </div>
 
-        <!-- ? -->
+        <!-- Junhyeong Bang -->
         <div class="img-column">
-            <img src="/assets/people/noname.jpg" alg="" >
+            <img src="/assets/people/junhyeong_bang.png" alg="" >
         </div>
         <div class="exp-column">
-            <b>Coming Soon!</b><br>
-	    School of Computing, 2024<br>
+            <b>Junhyeong Bang</b><br>
+            School of Computing, 2024<br>
+            <i class="fa fa-graduation-cap"></i>
+            B.S. in Computer Science, KAIST (2024)<br>
+            Natural Language Grounding<br>
+            <a href="mailto:jazzdosa@kaist.ac.kr">
+            <i class="fa fa-envelope-o"></i>
+            <span class="username">jazzdosa@kaist.ac.kr </span>
+            </a>
+            <br>
+            <a href="https://github.com/junhyeong0411">
+            <i class="fa fa-github"></i>
+            <span>Github</span>
+            </a>
+            <span> | </span>
+            <a href="https://scholar.google.com/citations?user=y7qnVR0AAAAJ">
+            <i class="fa fa-graduation-cap"></i>
+            <span>Scholar</span>
+            </a>
         </div>
-
-        <div class="boundary-line"></div>
     </div>
     <br>
 
@@ -517,35 +532,14 @@ If you want to change the style of the table, please look at the table tags in _
 
 
     <!---------------- Visiting Scholars. --------------------->
-    <div class="people-section">Visiting Scholars</div>
+    <!-- <div class="people-section">Visiting Scholars</div>
     <div class="people-container">
 
         <div class="boundary-line"></div>
 
-        <!-- jisang park  -->
-        <div class="img-column">
-            <img src="/assets/people/gyeongwu_kim.jpg" alg="" >
-        </div>
-        <div class="exp-column">
-            <b>Gyeongwu Kim</b><br>
-            Internship (2024 Summer)<br>
-            <i class="fa fa-graduation-cap"></i>
-            Computer Science and Engineering, MIT <br>
-            AI, LLM<br>
-            <a href="mailto:gkim27@mit.edu">
-            <i class="fa fa-envelope-o"></i>
-            <span class="username">gkim27@mit.edu</span>
-            </a>
-            <br>
-            <a href="https://github.com/gkim23">
-            <i class="fa fa-github"></i>
-            <span>Github</span>
-            </a> 
-        </div>
-
         <div class="boundary-line"></div>
     </div>
-    <br>
+    <br> -->
 
 
     <!---------------- Alum. --------------------->
@@ -553,6 +547,18 @@ If you want to change the style of the table, please look at the table tags in _
     <div class="people-container">
 
         <div class="boundary-line"></div>
+        <div class="img-column">
+            Gyeongwi Kim
+        </div>
+        <div class="exp-column">
+            MIT CS Undergraduate <br>
+            <i class="fa fa-graduation-cap"></i>
+            Summer Internship, 2024 <br>
+            <a href="mailto:gkim27@mit.edu">
+            <i class="fa fa-envelope-o"></i>
+            <span class="username">gkim27@mit.edu</span>
+            </a>        
+        </div>
 
         <div class="img-column">
             Minjae Song
