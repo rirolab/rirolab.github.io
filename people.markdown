@@ -548,7 +548,7 @@ If you want to change the style of the table, please look at the table tags in _
 
         <div class="boundary-line"></div>
         <div class="img-column">
-            Gyeongwi Kim
+            Gyeongwu Kim
         </div>
         <div class="exp-column">
             MIT CS Undergraduate <br>
