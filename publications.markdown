@@ -54,7 +54,9 @@ If you want to change the style of the table, please look at the publication tag
     <b>Inverse Constraint Learning and Generalization by Transferable Reward Decomposition</b><br>
     Jaehwi Jang, Minjae Song, Daehyung Park<br>
     <i> IEEE Robotics and Automation Letters (RA-L), 2023 </i> <br>
-    <a href="https://arxiv.org/abs/2306.12357" target="_blank">[PDF]</a> <a href="https://www.youtube.com/watch?v=jpP_7XiR46c" target="_blank">[Video]</a> <a href="https://sites.google.com/view/transferable-cl/%ED%99%88" target="_blank">[Site]</a>
+    <a href="https://arxiv.org/abs/2306.12357" target="_blank">[PDF]</a> 
+    <a href="https://www.youtube.com/watch?v=jpP_7XiR46c" target="_blank">[Video]</a> 
+    <!-- <a href="https://sites.google.com/view/transferable-cl/%ED%99%88" target="_blank">[Site]</a> -->
 </td>
 </tr>
 <tr>
@@ -145,6 +147,21 @@ Ariel Kapusta, Philip Grice, Henry Clever, Yash Chitalia, <b>Daehyung Park</b>, 
 </tr>
 </thead>
 <tbody>
+<tr>
+<td>
+    <a href="/assets/research/2025_ICRA_DisPo.gif" data-lightbox="" >
+      <img style="width: 85%" src="/assets/research/2025_ICRA_DisPo.gif">
+      </a>
+</td>
+<td>
+    <b>DiSPo: Diffusion-SSM based Policy Learning for Coarse-to-Fine Action Discretization</b><br>
+    Nayoung Oh, Moonkyeong Jung, Daehyung Park<br>
+    <i>under review</i><br>
+    <a href="https://arxiv.org/abs/2409.14719" target="_blank">[PDF]</a>
+    <!-- <a href="" target="_blank">[Video]</a> -->
+</td>
+</tr>
+
 <tr>
 <td>
     <a href="/assets/research/2024_ICRA_gdnr.gif" data-lightbox="" >
