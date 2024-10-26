@@ -150,8 +150,8 @@ Ariel Kapusta, Philip Grice, Henry Clever, Yash Chitalia, <b>Daehyung Park</b>, 
 
 <tr>
 <td>
-    <a href="/assets/research/2025_RITA_.gif" data-lightbox="" >
-      <img style="width: 85%" src="/assets/research/2025_RITA_.gif">
+    <a href="/assets/research/2024_RiTA_relaxation.gif" data-lightbox="" >
+      <img style="width: 85%" src="/assets/research/2024_RiTA_relaxation.gif">
       </a>
 </td>
 <td>
