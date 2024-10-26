@@ -147,6 +147,23 @@ Ariel Kapusta, Philip Grice, Henry Clever, Yash Chitalia, <b>Daehyung Park</b>, 
 </tr>
 </thead>
 <tbody>
+
+<tr>
+<td>
+    <a href="/assets/research/2025_RITA_.gif" data-lightbox="" >
+      <img style="width: 85%" src="/assets/research/2025_RITA_.gif">
+      </a>
+</td>
+<td>
+    <b>Reactive Constraint Relaxation for Urban Environment Navigation</b><br>
+    Jinwoo Kim*, Keonyoung Koh*, Samuel Seungsup Lee, Yohan Park, Daehyung Park (*- authors contributed equally)<br>
+    <i> Conference on Robot Intelligence Technology and Applications (RiTA) 2024 (Accepted)</i><br>
+    <!--a href="https://arxiv.org/abs/2409.14719" target="_blank">[PDF]</a-->
+    <!-- <a href="" target="_blank">[Video]</a> -->
+</td>
+</tr>
+
+
 <tr>
 <td>
     <a href="/assets/research/2025_ICRA_DisPo.gif" data-lightbox="" >
