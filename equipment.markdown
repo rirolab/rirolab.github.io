@@ -1,95 +1,62 @@
 ---
-layout: page
 title: Equipments
+layout: page
 permalink: /research/equipments/
 main_nav: true
 ---
 
+<!--
+If you want to change the style of the table, please look at the table tags in _sass/_layout.scss.
+-->
 
-<table>
-<colgroup>
-<col width="25%" />
-<col width="25%" />
-<col width="25%" />
-<col width="25%" />
-<thead>
-<tr>
-<th class="caption" style="text-align:center">Turtlebot3 <br> Mobile Manipulator</th>
-<th class="caption" style="text-align:center"> HAETAE <br> Mobile Manipulator</th>
-<th class="caption" style="text-align:center"> Shadow Dexterous Hand Lite <br> Multifinger Robotic Hand</th>
-<th class="caption" style="text-align:center">Sense Glove DK1 <br> Exoskeleton Glove</th>
-</tr>
-</thead>
+<div class="equipment">
 
-<tbody>
-<tr>
-<td>
-    <a href="/assets/equipment/turtlebot.png" data-lightbox="Turtlebot3+OpenManipulator" >
-      <img style="width: 300px" src="/assets/equipment/turtlebot.png">
-    </a>
-</td>
-<td>
-    <a href="/assets/equipment/haetae.png" data-lightbox="Summit XL Steel + UR5e mobile manipulator" >
-      <img style="width: 300px" src="/assets/equipment/haetae.png">
-    </a>
-</td>
-<td style="text-align:center">
-    <a href="/assets/equipment/shadow.png" data-lightbox="Shadow Lite Hand" >
-      <img style="width: 300px" src="/assets/equipment/shadow.png">
-    </a><br>
-</td>
- <td>
-    <a href="/assets/equipment/glove.png" data-lightbox="Sense glove dk1" >
-      <img style="width: 300px" src="/assets/equipment/glove.png">
-    </a>
-</td>
+    <!---------------- Robots --------------------->
+    <div class="equipment-section">Robots</div>
+    <div class="boundary-line"></div>
 
-</tr>
-</tbody>
+    <div class="row">
+        <div class="column">
+             <img src="/assets/equipment/g1.png" alt="Humanoid Robot Unitree G1" style="width:80%">
+             <img src="/assets/equipment/turtlebot.png" alt="Turtlebot3+OpenManipulator" style="width:100%">
+      
+        </div>
+    
+        <div class="column">
+             <img src="/assets/equipment/haetae.png" alt="Summit XL Steel + UR5e mobile manipulator" style="width:100%">
+             <img src="/assets/equipment/shadow.png" alt="Shadow Lite Hand" style="width:80%">               </div>
+
+        <div class="column">
+             <img src="/assets/equipment/glove.png" alt="Sense glove dk1" style="width:80%">
+             <img src="/assets/equipment/panda.jpg" alt="Franka Emika Panda"  style="width:100%" >
+             <img src="/assets/equipment/spot.png" alt="Boston Dynamics Spot"  style="width:100%" >
+        </div>
+
+        <div class="column">
+             <img src="/assets/equipment/stretch.jpg" alt="Stretch II"  style="width:80%">
+             <img src="/assets/equipment/rbq.png" alt="RBQ-3"  style="width:100%" >
+        </div>
+
+    </div>
 
 
-<table>   
-<col width="25%" />
-<col width="25%" />
-<col width="25%" />
-<col width="25%" />
+    <!---------------- Robots --------------------->
+    <div class="equipment-section">Facilities</div>
+    <div class="boundary-line"></div>
 
-<thead>
-<tr>
-<th class="caption" style="text-align:center"> Franka Emika Panda <br> Robotic Arm</th>
-<th class="caption" style="text-align:center"> Boston Dynamics Spot <br> Agile Mobile Robot</th>
-<th class="caption" style="text-align:center"> Rainbow Robotics RBQ3 <br> Quadruped  Robot</th>
-<th class="caption" style="text-align:center"> Hello-Robot Stretch II <br> Mobile Manipulator</th>
-</tr>
-</thead>
+    <div class="row">
+        <div class="column">
+             <img src="/assets/equipment/server.jpg" alt="GPU servers"  style="width:100%" >
+      
+        </div>
+    
 
-<tbody>
-<tr>
-<td>
-    <a href="/assets/equipment/pandaf.jpg" data-lightbox="Franka Emika - Panda" >
-      <img style="width: 300px" src="/assets/equipment/pandaf.jpg">
-    </a>
-</td>
-<td>
-    <a href="/assets/equipment/boston.jpg" data-lightbox="Boston Dynamics Spot" >
-      <img style="width: 300px" src="/assets/equipment/spot.png">
-    </a>
-</td>
-<td style="text-align:center">
-    <a href="/assets/equipment/rbq3.jpg" data-lightbox="RBQ-3 " >
-      <img style="width: 300px" src="/assets/equipment/rbq.png">
-    </a><br>
-</td>
-<td style="text-align:center">
-    <a href="/assets/equipment/stretch.jpg" data-lightbox="Stretch II" >
-      <img style="width: 200px" src="/assets/equipment/stretch.jpg">
-    </a>
-</td>
+    </div>
 
 
-</tr>
-</tbody>
 
+
+</div>
 
 
 
