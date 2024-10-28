@@ -21,6 +21,23 @@ main_nav: true
 </tr>
 <tr>
 <td class="topic">
+    <h3>Generalist Robots in the Wild: Foundation Models for Long-horizon Tasks</h3>
+    <img src="/assets/equipment/g1.png" alt="Unitree Humanoid Robot G1" width="200">
+    <br>
+    Under construction!!
+    <br>
+    <br>
+    <b>Keywords</b>: Imitation learning
+    <br>    
+    <b>Selected paper</b>: <a href="https://arxiv.org/abs/2409.14719" target="_blank">[under review]</a> 
+</td>
+</tr>
+    
+<tr>
+<td class="topic"></td>
+</tr>
+<tr>
+<td class="topic">
     <h3>Interactive Learning Toward In-hand Manipulation of Deformable Objects</h3>
     <img src="/assets/research/research_iitp.png" alt="Deformable object manipulation + Inverse constraint learning" >
     <br>
