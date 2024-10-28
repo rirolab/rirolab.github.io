@@ -719,6 +719,37 @@ pre code.hljs {
             }
         }
     }
+    .research{
+        .research-section{
+            font-size: 1.5em;
+	    font-weight: bold;
+            font-family: "Roboto Slab", "Helvetica Neue", "Helvetica", "Arial", sans-serif;            
+        }
+        .research-container{
+
+            img {
+                position: relative;                
+	        height: 300px;
+                object-fit: contain;
+                @include media ($tablet) {
+	            width: 100%;
+                }
+            }
+
+            
+        }
+        
+        .boundary-line{
+            grid-column-start: 1;
+            grid-column-end: 2;
+            height: 0;
+            border-bottom: 1px solid $light-gray;
+            width: 100%;
+            @include media ($tablet) {
+                grid-column-end: 5;
+            }
+        }
+    }    
     .equipment{
         .equipment-section{
             font-size: 1.5em;
