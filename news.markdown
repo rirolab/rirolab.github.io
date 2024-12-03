@@ -7,7 +7,6 @@ main_nav: true
 
  <div>
       <ul class="news-list">
-        <li>Jaewhi has been accepted into the Ph.D. program at Georgia Tech!! </li>
         <li>Jaehwi, Chanyoung, Jinwoo, Ju-chul received their Master's Degrees in February 2024!! </li>
         <li>Minjae's paper has been accepted to IEEE ICRA, 2024!! </li>
         <li>Dohyun's paper has been accepted to AAAI, 2024!! </li>
