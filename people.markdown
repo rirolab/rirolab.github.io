@@ -417,37 +417,7 @@ If you want to change the style of the table, please look at the table tags in _
             </a> 
         </div>
 
-        <!--Yohan Park  -->
-        <div class="img-column">
-            <img src="/assets/people/yohan_park.jpg" alg="" >
-        </div>
-        <div class="exp-column">
-            <b>Yohan Park</b><br>
-            <i class="fa fa-graduation-cap"></i>
-            Electrical Engineering, KAIST <br>
-            Perception, Planning<br>
-            <a href="mailto:farawell777@kaist.ac.kr">
-            <i class="fa fa-envelope-o"></i>
-            <span class="username">farawell777@kaist.ac.kr </span>
-            </a>
-            <br> 
-            <a href="https://github.com/farawell">
-            <i class="fa fa-github"></i>
-            <span>Github</span>
-            </a>  
-            <span> | </span>
-            <a href="https://scholar.google.com/citations?user=AjNvEN0AAAAJ">
-            <i class="fa fa-graduation-cap"></i>
-            <span>Scholar</span>
-            </a> 
-            <span> | </span>
-            <a href="http://www.linkedin.com/in/yohanpark00">
-            <i class="fa fa-home"></i>
-            <span>LinkedIn</span>
-            </a>      
-        </div>
-
-        <!--Seungsup Lee  -->
+	<!--Seungsup Lee  -->
         <div class="img-column">
             <img src="/assets/people/seungsup_lee.jpg" alg="" >
         </div>
