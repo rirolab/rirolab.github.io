@@ -30,6 +30,7 @@ If you want to change the style of the table, please look at the publication tag
 <th colspan="2"></th>
 </tr>
 </thead>
+<tbody>
 <tr>
 <td>
     <a href="/assets/research/2024_ISR_LLM.png" data-lightbox="" >
@@ -43,7 +44,6 @@ If you want to change the style of the table, please look at the publication tag
     <a href="https://link.springer.com/article/10.1007/s11370-024-00550-5" target="_blank">[PDF]</a>
 </td>
 </tr>
-<tbody>
 <tr>
 <td>
     <a href="/assets/research/2023_RAL_TCL_demo.gif" data-lightbox="" >
@@ -157,7 +157,9 @@ Ariel Kapusta, Philip Grice, Henry Clever, Yash Chitalia, <b>Daehyung Park</b>, 
 <td>
     <b>Reactive Constraint Relaxation for Urban Environment Navigation</b><br>
     Jinwoo Kim*, Keonyoung Koh*, Samuel Seungsup Lee, Yohan Park, Daehyung Park (*- authors contributed equally)<br>
-    <i> Conference on Robot Intelligence Technology and Applications (RiTA) 2024 (Accepted)</i><br>
+    <i> Conference on Robot Intelligence Technology and Applications (RiTA) 2024 </i><br>
+    <b style="color:red;">Best Student Paper Award</b><br>
+    [PDF]
     <!--a href="https://arxiv.org/abs/2409.14719" target="_blank">[PDF]</a-->
     <!-- <a href="" target="_blank">[Video]</a> -->
 </td>
@@ -245,7 +247,7 @@ Ariel Kapusta, Philip Grice, Henry Clever, Yash Chitalia, <b>Daehyung Park</b>, 
     <b>Learning-Based Initialization of Trajectory Optimization for Path-Following Problems of Redundant Manipulators</b><br>
     Minsung Yoon, Mincheul Kang, Daehyung Park, and Sung-Eui Yoon<br>
     <i>IEEE International Conference on Robotics and Automation (ICRA), 2023. </i><br>
-    <b style="color:blue;">Outstanding Planning Paper Award</b> <br>
+    <b style="color:red;">Outstanding Planning Paper Award</b> <br>
     <a href="https://ieeexplore.ieee.org/document/10161426" target="_blank">[PDF]</a>
     <a href="http://sgvr.kaist.ac.kr/~msyoon/papers/ICRA23_RLITG/video_6m.mp4?mute=1" target="_blank">[Video]</a>    
     <br>
@@ -261,7 +263,7 @@ Ariel Kapusta, Philip Grice, Henry Clever, Yash Chitalia, <b>Daehyung Park</b>, 
     <b>Natural Language-Guided Navigation using Scene Graph</b><br>
     Dohyun Kim*, Jinwoo Kim*, Minwoo Cho, Daehyung Park (*- authors contributed equally)<br>
     <i>Conference on Robot Intelligence Technology and Applications (RiTA) 2022. </i><br>
-    <b style="color:blue;">Best Student Paper Award</b><br>
+    <b style="color:red;">Best Student Paper Award</b><br>
     <!-- A natural language-guided robotic navigation framework that can effectively ground natural-language commands in large space. Our framework consists of three modules: a scene-graph generator, a grounding network, and a semantic navigation sys-tem. The scene-graph generator incrementally stores the semantic information of object instances, properties, and relationships. Then, the proposed scene graph-based grounding network (SGGNet) predicts the desired goal robustly by associating instances in a scene graph with a user command.<br> -->
     <a href="https://link.springer.com/chapter/10.1007/978-3-031-26889-2_14" target="_blank">[PDF]</a> <br>
 </td>
@@ -276,7 +278,7 @@ Ariel Kapusta, Philip Grice, Henry Clever, Yash Chitalia, <b>Daehyung Park</b>, 
     <b>Confidence-based Robot Navigation under Sensor Occlusion with Deep Reinforcement Learning</b><br>
     Hyeongyeol Ryu, Minsung Yoon, Daehyung Park, Sung-eui Yoon<br>
     <i>IEEE International Conference on Robotics and Automation (ICRA) 2022. </i><br>
-    <b style="color:blue;">Outstanding Navigation Award Finalist</b><br>
+    <b style="color:red;">Outstanding Navigation Award Finalist</b><br>
     <!-- A confidence-based navigation method that encourages the robot to explore the uncertain region around the robot maximizing its local confidence. To effectively extract features from the variable size of sensor occlusions, we adopt a point-cloud based representation network. Our method returns a resilient navigation policy via deep reinforcement learning, autonomously avoiding collisions under sensor occlusions while reaching a goal.<br> -->
     <a href="https://ieeexplore.ieee.org/document/9812090" target="_blank">[PDF]</a><a href="https://www.youtube.com/watch?v=3Hog96Tk2fo" target="_blank">[Video]</a> <br>
 </td>
