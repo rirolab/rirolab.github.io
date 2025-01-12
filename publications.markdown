@@ -48,7 +48,7 @@ If you want to change the style of the table, please look at the publication tag
      </div>
 </div>
 
-<div class="boundary-line" />
+<div class="boundary-line" ></div>
 
 <!-- 2023 RA-L TCL -->
 <div class="pub-container">
@@ -83,7 +83,7 @@ If you want to change the style of the table, please look at the publication tag
      </div>
 </div>
 
-<div class="boundary-line" />
+<div class="boundary-line" ></div>
 
 <!-- 2022 RA-L GraphDistNet -->
 <div class="pub-container">
@@ -118,7 +118,7 @@ If you want to change the style of the table, please look at the publication tag
      </div>
 </div>
 
-<div class="boundary-line" />
+<div class="boundary-line" ></div>
 
 <!-- 2022 FR IAGLC -->
 <div class="pub-container">
@@ -153,7 +153,7 @@ If you want to change the style of the table, please look at the publication tag
      </div>
 </div>
 
-<div class="boundary-line" />
+<div class="boundary-line" ></div>
 
 <!-- 2020 IJRR MM -->
 <div class="pub-container">
@@ -188,7 +188,7 @@ If you want to change the style of the table, please look at the publication tag
      </div>
 </div>
 
-<div class="boundary-line" />
+<div class="boundary-line" ></div>
 
 <!-- 2019 RAS Feeding -->
 <div class="pub-container">
@@ -223,7 +223,7 @@ If you want to change the style of the table, please look at the publication tag
      </div>
 </div>
 
-<div class="boundary-line" />
+<div class="boundary-line" ></div>
 
 <!-- 2019 RAS Feeding -->
 <div class="pub-container">
@@ -258,7 +258,7 @@ If you want to change the style of the table, please look at the publication tag
      </div>
 </div>
 
-<div class="boundary-line" />
+<div class="boundary-line" ></div>
 
 <!-- 2018 RAL LSTM-VAE -->
 <div class="pub-container">
@@ -293,7 +293,7 @@ If you want to change the style of the table, please look at the publication tag
      </div>
 </div>
 
-<div class="boundary-line" />
+<div class="boundary-line" ></div>
 
 <!-- 2018 RAL LSTM-VAE -->
 <div class="pub-container">
@@ -365,7 +365,7 @@ If you want to change the style of the table, please look at the publication tag
      </div>
 </div>
 
-<div class="boundary-line" />
+<div class="boundary-line" ></div>
 
 <!-- 2024 RiTA Relaxation -->
 <div class="pub-container">
@@ -401,7 +401,7 @@ If you want to change the style of the table, please look at the publication tag
      </div>
 </div>
 
-<div class="boundary-line" />
+<div class="boundary-line" ></div>
 
 <!-- 2024 ICRA GNDR -->
 <div class="pub-container">
@@ -436,7 +436,7 @@ If you want to change the style of the table, please look at the publication tag
      </div>
 </div>
 
-<div class="boundary-line" />
+<div class="boundary-line" ></div>
 
 <!-- 2024 AAAI LINGO-Space -->
 <div class="pub-container">
@@ -471,7 +471,7 @@ If you want to change the style of the table, please look at the publication tag
      </div>
 </div>
 
-<div class="boundary-line" />
+<div class="boundary-line" ></div>
 
 <!-- 2023 RO-MAN SGGNet2 -->
 <div class="pub-container">
@@ -506,7 +506,7 @@ If you want to change the style of the table, please look at the publication tag
      </div>
 </div>
 
-<div class="boundary-line" />
+<div class="boundary-line" ></div>
 
 <!-- 2023 ICRA MMMP -->
 <div class="pub-container">
@@ -541,7 +541,7 @@ If you want to change the style of the table, please look at the publication tag
      </div>
 </div>
 
-<div class="boundary-line" />
+<div class="boundary-line" ></div>
 
 <!-- 2023 ICRA RLITG -->
 <div class="pub-container">
@@ -577,7 +577,7 @@ If you want to change the style of the table, please look at the publication tag
      </div>
 </div>
 
-<div class="boundary-line" />
+<div class="boundary-line" ></div>
 
 <!-- 2022 RiTA Navigation -->
 <div class="pub-container">
@@ -613,7 +613,7 @@ If you want to change the style of the table, please look at the publication tag
      </div>
 </div>
 
-<div class="boundary-line" />
+<div class="boundary-line" ></div>
 
 <!-- 2022 ICRA Confidence_navigation -->
 <div class="pub-container">
@@ -649,7 +649,7 @@ If you want to change the style of the table, please look at the publication tag
      </div>
 </div>
 
-<div class="boundary-line" />
+<div class="boundary-line" ></div>
 
 <!-- 2021 RAL LTL_BT -->
 <div class="pub-container">
@@ -684,7 +684,7 @@ If you want to change the style of the table, please look at the publication tag
      </div>
 </div>
 
-<div class="boundary-line" />
+<div class="boundary-line" ></div>
 
 <!-- 2019 CoRL CBN-IRL -->
 <div class="pub-container">
@@ -720,7 +720,7 @@ If you want to change the style of the table, please look at the publication tag
      </div>
 </div>
 
-<div class="boundary-line" />
+<div class="boundary-line" ></div>
 
 <!-- 2019 CoRL T-VAE -->
 <div class="pub-container">
@@ -755,7 +755,7 @@ If you want to change the style of the table, please look at the publication tag
      </div>
 </div>
 
-<div class="boundary-line" />
+<div class="boundary-line" ></div>
 
 <!-- 2019 CoNLL REF -->
 <div class="pub-container">
@@ -790,7 +790,7 @@ If you want to change the style of the table, please look at the publication tag
      </div>
 </div>
 
-<div class="boundary-line" />
+<div class="boundary-line" ></div>
 
 <!-- 2018 CoRL Plan -->
 <div class="pub-container">
@@ -825,7 +825,7 @@ If you want to change the style of the table, please look at the publication tag
      </div>
 </div>
 
-<div class="boundary-line" />
+<div class="boundary-line" ></div>
 
 <!-- 2018 ISER HRC -->
 <div class="pub-container">
@@ -860,7 +860,7 @@ If you want to change the style of the table, please look at the publication tag
      </div>
 </div>
 
-<div class="boundary-line" />
+<div class="boundary-line" ></div>
 
 <!-- 2018 IROS BED -->
 <div class="pub-container">
@@ -895,7 +895,7 @@ If you want to change the style of the table, please look at the publication tag
      </div>
 </div>
 
-<div class="boundary-line" />
+<div class="boundary-line" ></div>
 
 <!-- 2017 IROS AC -->
 <div class="pub-container">
@@ -930,7 +930,7 @@ If you want to change the style of the table, please look at the publication tag
      </div>
 </div>
 
-<div class="boundary-line" />
+<div class="boundary-line" ></div>
 
 <!-- 2016 ICRA AD -->
 <div class="pub-container">
@@ -965,7 +965,7 @@ If you want to change the style of the table, please look at the publication tag
      </div>
 </div>
 
-<div class="boundary-line" />
+<div class="boundary-line" ></div>
 
 <!-- 2015 IROS CRF -->
 <div class="pub-container">
@@ -1000,7 +1000,7 @@ If you want to change the style of the table, please look at the publication tag
      </div>
 </div>
 
-<div class="boundary-line" />
+<div class="boundary-line" ></div>
 
 <!-- 2015 IROS TOC -->
 <div class="pub-container">
@@ -1035,7 +1035,7 @@ If you want to change the style of the table, please look at the publication tag
      </div>
 </div>
 
-<div class="boundary-line" />
+<div class="boundary-line" ></div>
 
 <!-- 2014 Humanoids IPC -->
 <div class="pub-container">
@@ -1070,7 +1070,7 @@ If you want to change the style of the table, please look at the publication tag
      </div>
 </div>
 
-<div class="boundary-line" />
+<div class="boundary-line" ></div>
 
 <!-- 2014 IROS LIC -->
 <div class="pub-container">
@@ -1105,7 +1105,7 @@ If you want to change the style of the table, please look at the publication tag
      </div>
 </div>
 
-<div class="boundary-line" />
+<div class="boundary-line" ></div>
 
 <!-- 2009 ICRA DMP -->
 <div class="pub-container">
@@ -1140,7 +1140,7 @@ If you want to change the style of the table, please look at the publication tag
      </div>
 </div>
 
-<div class="boundary-line" />
+<div class="boundary-line" ></div>
 
 <!-- 2008 Humanoids DMP -->
 <div class="pub-container">
@@ -1175,7 +1175,7 @@ If you want to change the style of the table, please look at the publication tag
      </div>
 </div>
 
-<div class="boundary-line" />
+<div class="boundary-line" ></div>
 
 </div>
 
