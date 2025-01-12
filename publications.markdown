@@ -38,7 +38,7 @@ If you want to change the style of the table, please look at the publication tag
                </a>
                <a class="btn btn-outline-primary btn-page-header btn-sm p-0 pr-2 pl-2 "
                   href="https://arxiv.org/abs/2404.09228" target="_blank" rel="noopener">
-                  <i class="ion-ios-document mr-2"></i><span>Arxiv</span>
+                  <i class="ion-ios-document mr-2"></i><span>ePrint</span>
                </a>
                <a class="btn btn-outline-primary btn-page-header btn-sm p-0 pr-2 pl-2 disabled"
                   href="" target="_blank" rel="noopener">
@@ -73,7 +73,7 @@ If you want to change the style of the table, please look at the publication tag
                </a>
                <a class="btn btn-outline-primary btn-page-header btn-sm p-0 pr-2 pl-2"
                   href="https://arxiv.org/abs/2306.12357" target="_blank" rel="noopener">
-                  <i class="ion-ios-document mr-2"></i><span>Arxiv</span>
+                  <i class="ion-ios-document mr-2"></i><span>ePrint</span>
                </a>
                <a class="btn btn-outline-primary btn-page-header btn-sm p-0 pr-2 pl-2"
                   href="https://sites.google.com/view/transferable-cl/%ED%99%88" target="_blank" rel="noopener">
@@ -108,7 +108,7 @@ If you want to change the style of the table, please look at the publication tag
                </a>
                <a class="btn btn-outline-primary btn-page-header btn-sm p-0 pr-2 pl-2 "
                   href="https://arxiv.org/abs/2206.01517" target="_blank" rel="noopener">
-                  <i class="ion-ios-document mr-2"></i><span>Arxiv</span>
+                  <i class="ion-ios-document mr-2"></i><span>ePrint</span>
                </a>
                <a class="btn btn-outline-primary btn-page-header btn-sm p-0 pr-2 pl-2 disabled"
                   href="" target="_blank" rel="noopener">
@@ -143,7 +143,7 @@ If you want to change the style of the table, please look at the publication tag
                </a>
                <a class="btn btn-outline-primary btn-page-header btn-sm p-0 pr-2 pl-2 "
                   href="https://dspace.mit.edu/handle/1721.1/145529" target="_blank" rel="noopener">
-                  <i class="ion-ios-document mr-2"></i><span>Arxiv</span>
+                  <i class="ion-ios-document mr-2"></i><span>ePrint</span>
                </a>
                <a class="btn btn-outline-primary btn-page-header btn-sm p-0 pr-2 pl-2 disabled"
                   href="https://sites.google.com/view/transferable-cl/%ED%99%88" target="_blank" rel="noopener">
@@ -178,7 +178,7 @@ If you want to change the style of the table, please look at the publication tag
                </a>
                <a class="btn btn-outline-primary btn-page-header btn-sm p-0 pr-2 pl-2 "
                   href="https://dspace.mit.edu/bitstream/handle/1721.1/130573/multimodal-estimation-ijrr-2020.pdf" target="_blank" rel="noopener">
-                  <i class="ion-ios-document mr-2"></i><span>Arxiv</span>
+                  <i class="ion-ios-document mr-2"></i><span>ePrint</span>
                </a>
                <a class="btn btn-outline-primary btn-page-header btn-sm p-0 pr-2 pl-2"
                   href="https://www.youtube.com/watch?v=BfCeYsTvaOw&amp;feature=youtu.be" target="_blank" rel="noopener">
@@ -213,7 +213,7 @@ If you want to change the style of the table, please look at the publication tag
                </a>
                <a class="btn btn-outline-primary btn-page-header btn-sm p-0 pr-2 pl-2 "
                   href="https://arxiv.org/abs/1904.03568" target="_blank" rel="noopener">
-                  <i class="ion-ios-document mr-2"></i><span>Arxiv</span>
+                  <i class="ion-ios-document mr-2"></i><span>ePrint</span>
                </a>
                <a class="btn btn-outline-primary btn-page-header btn-sm p-0 pr-2 pl-2"
                   href="https://www.youtube.com/watch?v=I5gqtk6Cln8" target="_blank" rel="noopener">
@@ -248,7 +248,7 @@ If you want to change the style of the table, please look at the publication tag
                </a>
                <a class="btn btn-outline-primary btn-page-header btn-sm p-0 pr-2 pl-2"
                   href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6795421/pdf/pone.0221854.pdf" target="_blank" rel="noopener">
-                  <i class="ion-ios-document mr-2"></i><span>Arxiv</span>
+                  <i class="ion-ios-document mr-2"></i><span>ePrint</span>
                </a>
                <a class="btn btn-outline-primary btn-page-header btn-sm p-0 pr-2 pl-2"
                   href="https://ndownloader.figshare.com/files/18019598" target="_blank" rel="noopener">
@@ -283,7 +283,7 @@ If you want to change the style of the table, please look at the publication tag
                </a>
                <a class="btn btn-outline-primary btn-page-header btn-sm p-0 pr-2 pl-2"
                   href="https://arxiv.org/abs/1711.00614" target="_blank" rel="noopener">
-                  <i class="ion-ios-document mr-2"></i><span>Arxiv</span>
+                  <i class="ion-ios-document mr-2"></i><span>ePrint</span>
                </a>
                <a class="btn btn-outline-primary btn-page-header btn-sm p-0 pr-2 pl-2"
                   href="https://youtu.be/ZMAGEQx5Uy8" target="_blank" rel="noopener">
@@ -318,7 +318,7 @@ If you want to change the style of the table, please look at the publication tag
                </a>
                <a class="btn btn-outline-primary btn-page-header btn-sm p-0 pr-2 pl-2 disabled"
                   href="https://arxiv.org/abs/1711.00614" target="_blank" rel="noopener">
-                  <i class="ion-ios-document mr-2"></i><span>Arxiv</span>
+                  <i class="ion-ios-document mr-2"></i><span>ePrint</span>
                </a>
                <a class="btn btn-outline-primary btn-page-header btn-sm p-0 pr-2 pl-2 disabled"
                   href="https://youtu.be/ZMAGEQx5Uy8" target="_blank" rel="noopener">
@@ -355,7 +355,7 @@ If you want to change the style of the table, please look at the publication tag
                </a>
                <a class="btn btn-outline-primary btn-page-header btn-sm p-0 pr-2 pl-2 "
                   href="https://arxiv.org/abs/2409.14719" target="_blank" rel="noopener">
-                  <i class="ion-ios-document mr-2"></i><span>Arxiv</span>
+                  <i class="ion-ios-document mr-2"></i><span>ePrint</span>
                </a>
                <a class="btn btn-outline-primary btn-page-header btn-sm p-0 pr-2 pl-2 disabled"
                   href="https://youtu.be/ZMAGEQx5Uy8" target="_blank" rel="noopener">
@@ -391,7 +391,7 @@ If you want to change the style of the table, please look at the publication tag
                </a>
                <a class="btn btn-outline-primary btn-page-header btn-sm p-0 pr-2 pl-2 disabled"
                   href="https://arxiv.org/abs/1711.00614" target="_blank" rel="noopener">
-                  <i class="ion-ios-document mr-2"></i><span>Arxiv</span>
+                  <i class="ion-ios-document mr-2"></i><span>ePrint</span>
                </a>
                <a class="btn btn-outline-primary btn-page-header btn-sm p-0 pr-2 pl-2 "
                   href="https://www.youtube.com/watch?v=Gpro85V-zBk" target="_blank" rel="noopener">
@@ -426,7 +426,7 @@ If you want to change the style of the table, please look at the publication tag
                </a>
                <a class="btn btn-outline-primary btn-page-header btn-sm p-0 pr-2 pl-2 "
                   href="https://arxiv.org/abs/2310.04044" target="_blank" rel="noopener">
-                  <i class="ion-ios-document mr-2"></i><span>Arxiv</span>
+                  <i class="ion-ios-document mr-2"></i><span>ePrint</span>
                </a>
                <a class="btn btn-outline-primary btn-page-header btn-sm p-0 pr-2 pl-2 "
                   href="https://www.youtube.com/watch?v=TGKSoxB-WvI" target="_blank" rel="noopener">
@@ -461,7 +461,7 @@ If you want to change the style of the table, please look at the publication tag
                </a>
                <a class="btn btn-outline-primary btn-page-header btn-sm p-0 pr-2 pl-2 "
                   href="https://arxiv.org/abs/2402.01183" target="_blank" rel="noopener">
-                  <i class="ion-ios-document mr-2"></i><span>Arxiv</span>
+                  <i class="ion-ios-document mr-2"></i><span>ePrint</span>
                </a>
                <a class="btn btn-outline-primary btn-page-header btn-sm p-0 pr-2 pl-2 "
                   href="https://lingo-space.github.io" target="_blank" rel="noopener">
@@ -496,7 +496,7 @@ If you want to change the style of the table, please look at the publication tag
                </a>
                <a class="btn btn-outline-primary btn-page-header btn-sm p-0 pr-2 pl-2 "
                   href="https://arxiv.org/abs/2307.07468" target="_blank" rel="noopener">
-                  <i class="ion-ios-document mr-2"></i><span>Arxiv</span>
+                  <i class="ion-ios-document mr-2"></i><span>ePrint</span>
                </a>
                <a class="btn btn-outline-primary btn-page-header btn-sm p-0 pr-2 pl-2 disabled"
                   href="" target="_blank" rel="noopener">
@@ -531,7 +531,7 @@ If you want to change the style of the table, please look at the publication tag
                </a>
                <a class="btn btn-outline-primary btn-page-header btn-sm p-0 pr-2 pl-2 "
                   href="https://arxiv.org/abs/2303.03825" target="_blank" rel="noopener">
-                  <i class="ion-ios-document mr-2"></i><span>Arxiv</span>
+                  <i class="ion-ios-document mr-2"></i><span>ePrint</span>
                </a>
                <a class="btn btn-outline-primary btn-page-header btn-sm p-0 pr-2 pl-2 disabled"
                   href="" target="_blank" rel="noopener">
@@ -567,7 +567,7 @@ If you want to change the style of the table, please look at the publication tag
                </a>
                <a class="btn btn-outline-primary btn-page-header btn-sm p-0 pr-2 pl-2 disabled"
                   href="https://arxiv.org/abs/2303.03825" target="_blank" rel="noopener">
-                  <i class="ion-ios-document mr-2"></i><span>Arxiv</span>
+                  <i class="ion-ios-document mr-2"></i><span>ePrint</span>
                </a>
                <a class="btn btn-outline-primary btn-page-header btn-sm p-0 pr-2 pl-2 "
                   href="http://sgvr.kaist.ac.kr/~msyoon/papers/ICRA23_RLITG/" target="_blank" rel="noopener">
@@ -603,7 +603,7 @@ If you want to change the style of the table, please look at the publication tag
                </a>
                <a class="btn btn-outline-primary btn-page-header btn-sm p-0 pr-2 pl-2 disabled"
                   href="https://arxiv.org/abs/2303.03825" target="_blank" rel="noopener">
-                  <i class="ion-ios-document mr-2"></i><span>Arxiv</span>
+                  <i class="ion-ios-document mr-2"></i><span>ePrint</span>
                </a>
                <a class="btn btn-outline-primary btn-page-header btn-sm p-0 pr-2 pl-2 disabled"
                   href="http://sgvr.kaist.ac.kr/~msyoon/papers/ICRA23_RLITG/" target="_blank" rel="noopener">
@@ -639,7 +639,7 @@ If you want to change the style of the table, please look at the publication tag
                </a>
                <a class="btn btn-outline-primary btn-page-header btn-sm p-0 pr-2 pl-2"
                   href="http://sgvr.kaist.ac.kr/~msyoon/papers/CBN-DRL/paper.pdf" target="_blank" rel="noopener">
-                  <i class="ion-ios-document mr-2"></i><span>Arxiv</span>
+                  <i class="ion-ios-document mr-2"></i><span>ePrint</span>
                </a>
                <a class="btn btn-outline-primary btn-page-header btn-sm p-0 pr-2 pl-2 "
                   href="https://www.youtube.com/watch?v=3Hog96Tk2fo" target="_blank" rel="noopener">
@@ -674,7 +674,7 @@ If you want to change the style of the table, please look at the publication tag
                </a>
                <a class="btn btn-outline-primary btn-page-header btn-sm p-0 pr-2 pl-2"
                   href="https://arxiv.org/abs/2103.14464" target="_blank" rel="noopener">
-                  <i class="ion-ios-document mr-2"></i><span>Arxiv</span>
+                  <i class="ion-ios-document mr-2"></i><span>ePrint</span>
                </a>
                <a class="btn btn-outline-primary btn-page-header btn-sm p-0 pr-2 pl-2 "
                   href="https://www.youtube.com/watch?v=lPpMVfBzZH0&t=4s" target="_blank" rel="noopener">
@@ -710,7 +710,7 @@ If you want to change the style of the table, please look at the publication tag
                </a>
                <a class="btn btn-outline-primary btn-page-header btn-sm p-0 pr-2 pl-2 "
                   href="http://groups.csail.mit.edu/rrg/papers/daehyung_corl_19.pdf" target="_blank" rel="noopener">
-                  <i class="ion-ios-document mr-2"></i><span>Arxiv</span>
+                  <i class="ion-ios-document mr-2"></i><span>ePrint</span>
                </a>
                <a class="btn btn-outline-primary btn-page-header btn-sm p-0 pr-2 pl-2 "
                   href="https://www.youtube.com/watch?v=SeekC-147SI" target="_blank" rel="noopener">
@@ -745,7 +745,7 @@ If you want to change the style of the table, please look at the publication tag
                </a>
                <a class="btn btn-outline-primary btn-page-header btn-sm p-0 pr-2 pl-2 "
                   href="https://groups.csail.mit.edu/rrg/papers/noseworthy_corl_19.pdf" target="_blank" rel="noopener">
-                  <i class="ion-ios-document mr-2"></i><span>Arxiv</span>
+                  <i class="ion-ios-document mr-2"></i><span>ePrint</span>
                </a>
                <a class="btn btn-outline-primary btn-page-header btn-sm p-0 pr-2 pl-2 disabled"
                   href="https://www.youtube.com/watch?v=SeekC-147SI" target="_blank" rel="noopener">
@@ -780,7 +780,7 @@ If you want to change the style of the table, please look at the publication tag
                </a>
                <a class="btn btn-outline-primary btn-page-header btn-sm p-0 pr-2 pl-2 "
                   href="https://dspace.mit.edu/bitstream/handle/1721.1/137308/K19-1040.pdf" target="_blank" rel="noopener">
-                  <i class="ion-ios-document mr-2"></i><span>Arxiv</span>
+                  <i class="ion-ios-document mr-2"></i><span>ePrint</span>
                </a>
                <a class="btn btn-outline-primary btn-page-header btn-sm p-0 pr-2 pl-2 disabled"
                   href="https://www.youtube.com/watch?v=SeekC-147SI" target="_blank" rel="noopener">
@@ -815,7 +815,7 @@ If you want to change the style of the table, please look at the publication tag
                </a>
                <a class="btn btn-outline-primary btn-page-header btn-sm p-0 pr-2 pl-2 "
                   href="https://groups.csail.mit.edu/rrg/papers/NygaCORL2018.pdf" target="_blank" rel="noopener">
-                  <i class="ion-ios-document mr-2"></i><span>Arxiv</span>
+                  <i class="ion-ios-document mr-2"></i><span>ePrint</span>
                </a>
                <a class="btn btn-outline-primary btn-page-header btn-sm p-0 pr-2 pl-2 "
                   href="https://www.youtube.com/watch?v=uWv-l7XMoB8" target="_blank" rel="noopener">
@@ -850,7 +850,7 @@ If you want to change the style of the table, please look at the publication tag
                </a>
                <a class="btn btn-outline-primary btn-page-header btn-sm p-0 pr-2 pl-2 disabled"
                   href="https://dspace.mit.edu/bitstream/handle/1721.1/137308/K19-1040.pdf" target="_blank" rel="noopener">
-                  <i class="ion-ios-document mr-2"></i><span>Arxiv</span>
+                  <i class="ion-ios-document mr-2"></i><span>ePrint</span>
                </a>
                <a class="btn btn-outline-primary btn-page-header btn-sm p-0 pr-2 pl-2 "
                   href="https://youtu.be/JTVJkJavU6g" target="_blank" rel="noopener">
@@ -885,7 +885,7 @@ If you want to change the style of the table, please look at the publication tag
                </a>
                <a class="btn btn-outline-primary btn-page-header btn-sm p-0 pr-2 pl-2 "
                   href="https://arxiv.org/abs/1804.07873" target="_blank" rel="noopener">
-                  <i class="ion-ios-document mr-2"></i><span>Arxiv</span>
+                  <i class="ion-ios-document mr-2"></i><span>ePrint</span>
                </a>
                <a class="btn btn-outline-primary btn-page-header btn-sm p-0 pr-2 pl-2 disabled"
                   href="https://youtu.be/JTVJkJavU6g" target="_blank" rel="noopener">
@@ -920,7 +920,7 @@ If you want to change the style of the table, please look at the publication tag
                </a>
                <a class="btn btn-outline-primary btn-page-header btn-sm p-0 pr-2 pl-2 "
                   href="https://bpb-us-w2.wpmucdn.com/sites.gatech.edu/dist/9/231/files/2017/09/IROS17_anomaly_classification.pdf" target="_blank" rel="noopener">
-                  <i class="ion-ios-document mr-2"></i><span>Arxiv</span>
+                  <i class="ion-ios-document mr-2"></i><span>ePrint</span>
                </a>
                <a class="btn btn-outline-primary btn-page-header btn-sm p-0 pr-2 pl-2 "
                   href="https://youtu.be/KQlVSz3URnA" target="_blank" rel="noopener">
@@ -955,7 +955,7 @@ If you want to change the style of the table, please look at the publication tag
                </a>
                <a class="btn btn-outline-primary btn-page-header btn-sm p-0 pr-2 pl-2 "
                   href="https://repository.gatech.edu/server/api/core/bitstreams/815fb414-6f8a-4218-99fd-411af2be5bce/content" target="_blank" rel="noopener">
-                  <i class="ion-ios-document mr-2"></i><span>Arxiv</span>
+                  <i class="ion-ios-document mr-2"></i><span>ePrint</span>
                </a>
                <a class="btn btn-outline-primary btn-page-header btn-sm p-0 pr-2 pl-2 "
                   href="https://youtu.be/gLcPZQnDmkk" target="_blank" rel="noopener">
@@ -990,7 +990,7 @@ If you want to change the style of the table, please look at the publication tag
                </a>
                <a class="btn btn-outline-primary btn-page-header btn-sm p-0 pr-2 pl-2 "
                   href="https://cpb-us-w2.wpmucdn.com/sites.gatech.edu/dist/9/231/files/2016/05/iros2015mapping.pdf" target="_blank" rel="noopener">
-                  <i class="ion-ios-document mr-2"></i><span>Arxiv</span>
+                  <i class="ion-ios-document mr-2"></i><span>ePrint</span>
                </a>
                <a class="btn btn-outline-primary btn-page-header btn-sm p-0 pr-2 pl-2 "
                   href="https://www.youtube.com/watch?v=FTk8ewAP8yY" target="_blank" rel="noopener">
@@ -1025,7 +1025,7 @@ If you want to change the style of the table, please look at the publication tag
                </a>
                <a class="btn btn-outline-primary btn-page-header btn-sm p-0 pr-2 pl-2 "
                   href="https://pidipidi.github.io/pdf/iros_2015_baseselection.pdf" target="_blank" rel="noopener">
-                  <i class="ion-ios-document mr-2"></i><span>Arxiv</span>
+                  <i class="ion-ios-document mr-2"></i><span>ePrint</span>
                </a>
                <a class="btn btn-outline-primary btn-page-header btn-sm p-0 pr-2 pl-2 disabled"
                   href="https://www.youtube.com/watch?v=FTk8ewAP8yY" target="_blank" rel="noopener">
@@ -1060,7 +1060,7 @@ If you want to change the style of the table, please look at the publication tag
                </a>
                <a class="btn btn-outline-primary btn-page-header btn-sm p-0 pr-2 pl-2 disabled"
                   href="https://www.naric.com/rehab-srch-results-rec%3Fdocument%3DO19912.pdf" target="_blank" rel="noopener">
-                  <i class="ion-ios-document mr-2"></i><span>Arxiv</span>
+                  <i class="ion-ios-document mr-2"></i><span>ePrint</span>
                </a>
                <a class="btn btn-outline-primary btn-page-header btn-sm p-0 pr-2 pl-2 "
                   href="https://youtu.be/WHHv3womkYs" target="_blank" rel="noopener">
@@ -1095,7 +1095,7 @@ If you want to change the style of the table, please look at the publication tag
                </a>
                <a class="btn btn-outline-primary btn-page-header btn-sm p-0 pr-2 pl-2 disabled"
                   href="https://pidipidi.github.io/pdf/iros_2015_baseselection.pdf" target="_blank" rel="noopener">
-                  <i class="ion-ios-document mr-2"></i><span>Arxiv</span>
+                  <i class="ion-ios-document mr-2"></i><span>ePrint</span>
                </a>
                <a class="btn btn-outline-primary btn-page-header btn-sm p-0 pr-2 pl-2 "
                   href="https://youtu.be/Gjy-MDEbZUU" target="_blank" rel="noopener">
@@ -1130,7 +1130,7 @@ If you want to change the style of the table, please look at the publication tag
                </a>
                <a class="btn btn-outline-primary btn-page-header btn-sm p-0 pr-2 pl-2 "
                   href="https://www.heikohoffmann.de/documents/dmp_gen_obstavoid.pdf" target="_blank" rel="noopener">
-                  <i class="ion-ios-document mr-2"></i><span>Arxiv</span>
+                  <i class="ion-ios-document mr-2"></i><span>ePrint</span>
                </a>
                <a class="btn btn-outline-primary btn-page-header btn-sm p-0 pr-2 pl-2 disabled"
                   href="https://youtu.be/Gjy-MDEbZUU" target="_blank" rel="noopener">
@@ -1165,7 +1165,7 @@ If you want to change the style of the table, please look at the publication tag
                </a>
                <a class="btn btn-outline-primary btn-page-header btn-sm p-0 pr-2 pl-2 "
                   href="https://www.researchgate.net/publication/228891557_Movement_reproduction_and_obstacle_avoidance_with_dynamic_movement_primitives_and_potential_fields" target="_blank" rel="noopener">
-                  <i class="ion-ios-document mr-2"></i><span>Arxiv</span>
+                  <i class="ion-ios-document mr-2"></i><span>ePrint</span>
                </a>
                <a class="btn btn-outline-primary btn-page-header btn-sm p-0 pr-2 pl-2 disabled"
                   href="https://youtu.be/Gjy-MDEbZUU" target="_blank" rel="noopener">
