@@ -23,7 +23,7 @@ If you want to change the style of the table, please look at the table tags in _
         </div>
         <div class="exp-column">
             <b>Daehyung Park (박대형)</b><br>
-            Assistant Professor at School of Computing<br>
+            Associate Professor at School of Computing<br>
             Affiliated Asst. Prof. at Graduate School of AI<br>
             <i class="fa fa-building" aria-hidden="true"></i> E3-1 #2429 at Main Campus <br>    
             <a href="mailto:{{ site.email}}">
