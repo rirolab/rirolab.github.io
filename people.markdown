@@ -217,32 +217,6 @@ If you want to change the style of the table, please look at the table tags in _
             </a>
         </div>
 
-        <!-- jieun choi  -->
-        <div class="img-column">
-            <img src="/assets/people/jieun_choi.png" alg="" >
-        </div>
-        <div class="exp-column">
-            <b>Jieun Choi</b><br>
-            School of Computing, 2023 <br>
-            <i class="fa fa-graduation-cap"></i>
-            B.S. in Computer Information and Communication Engineering, CNU (2023)<br>
-            Multimodal Perception, Mobile Manipulation<br>
-            <a href="mailto:jichoi0101@kaist.ac.kr">
-            <i class="fa fa-envelope-o"></i>
-            <span class="username">jichoi0101@kaist.ac.kr </span>
-            </a>
-            <br>
-            <a href="https://github.com/ilileun">
-            <i class="fa fa-github"></i>
-            <span>Github</span>
-            </a>
-            <span> | </span>
-            <a href="https://scholar.google.com/citations?user=7BHY-McAAAAJ">
-            <i class="fa fa-graduation-cap"></i>
-            <span>Scholar</span>
-            </a>
-        </div>
-
         <!--Keonyoung Koh  -->
         <div class="img-column">
             <img src="/assets/people/keonyoung_koh.jpg" alg="" >
@@ -382,15 +356,6 @@ If you want to change the style of the table, please look at the table tags in _
             <span>Scholar</span>
             </a>
         </div>
-    </div>
-    <br>
-
-    
-    <!---------------- Undergrad --------------------->
-    <div class="people-section">Undergrad Students</div>
-    <div class="people-container">
-
-        <div class="boundary-line"></div>
 
         <!--Minseok Song  -->
         <div class="img-column">
@@ -398,8 +363,9 @@ If you want to change the style of the table, please look at the table tags in _
         </div>
         <div class="exp-column">
             <b>Minseok Song</b><br>
+            School of Computing, 2025<br>
             <i class="fa fa-graduation-cap"></i>
-            Mechanical Engineering, KAIST <br>
+            Mechanical Engineering, KAIST (2025) <br>
             Manipulation<br>
             <a href="mailto:hjmngb@kaist.ac.kr">
             <i class="fa fa-envelope-o"></i>
@@ -423,8 +389,9 @@ If you want to change the style of the table, please look at the table tags in _
         </div>
         <div class="exp-column">
             <b>Seungsup Lee</b><br>
+            School of Computing, 2025<br>
             <i class="fa fa-graduation-cap"></i>
-            Mechanical and Aerospace Engineering, SNU<br>
+            Mechanical and Aerospace Engineering, SNU (2025)<br>
             Perception, Robust Navigation, TAMP<br>
             <a href="mailto:johngalt827@snu.ac.kr">
             <i class="fa fa-envelope-o"></i>
@@ -446,6 +413,18 @@ If you want to change the style of the table, please look at the table tags in _
             <span>LinkedIn</span>
             </a>           
         </div>
+
+
+    </div>
+    <br>
+
+    
+    <!---------------- Undergrad --------------------->
+    <div class="people-section">Undergrad Students</div>
+    <div class="people-container">
+
+        <div class="boundary-line"></div>
+
 
         <div class="img-column">
             <img src="" alg="" >
@@ -515,18 +494,18 @@ If you want to change the style of the table, please look at the table tags in _
     <!---------------- Alum. --------------------->
     <div class="people-section">Alumni</div>
     <div class="people-container">
-
         <div class="boundary-line"></div>
+
         <div class="img-column">
-            Gyeongwu Kim
+            Jieun Choi
         </div>
         <div class="exp-column">
-            MIT CS Undergraduate <br>
+            KT<br> 
             <i class="fa fa-graduation-cap"></i>
-            Summer Internship, 2024 <br>
-            <a href="mailto:gkim27@mit.edu">
+            M.S. in School of Computing KT-AI , 2025<br>
+            <a href="mailto:jichoi0101@kaist.ac.kr">
             <i class="fa fa-envelope-o"></i>
-            <span class="username">gkim27@mit.edu</span>
+            <span class="username">jichoi0101@kaist.ac.kr</span>
             </a>        
         </div>
 
@@ -536,7 +515,7 @@ If you want to change the style of the table, please look at the table tags in _
         <div class="exp-column">
             <!-- LIG Nex1 (LIG넥스원)<br> -->
             <i class="fa fa-graduation-cap"></i>
-            M.S. in Computer Science, 2024<br>
+            M.S. in School of Computing, 2024<br>
             <a href="mailto:smj0398@kaist.ac.kr">
             <i class="fa fa-envelope-o"></i>
             <span class="username">smj0398@kaist.ac.kr</span>
@@ -585,7 +564,7 @@ If you want to change the style of the table, please look at the table tags in _
         <div class="exp-column">
             Industrial Technical Personnel at ROBOTIS<br>
             <i class="fa fa-graduation-cap"></i>
-            M.S. in Computer Science, 2024<br>
+            M.S. in School of Computing, 2024<br>
             <a href="mailto:kjwoo31@kaist.ac.kr">
             <i class="fa fa-envelope-o"></i>
             <span class="username">kjwoo31@kaist.ac.kr</span>
@@ -607,7 +586,26 @@ If you want to change the style of the table, please look at the table tags in _
 
         <div class="boundary-line"></div>
     </div>
+    <br>
 
+    <!---------------- Past Visiting Scholars. --------------------->
+    <div class="people-section">Past Visiting Scholars</div>
+    <div class="people-container">
+        <div class="boundary-line"></div>
+        <div class="img-column">
+            Gyeongwu Kim
+        </div>
+        <div class="exp-column">
+            MIT CS Undergraduate <br>
+            <i class="fa fa-graduation-cap"></i>
+            Summer Internship, 2024 <br>
+            <a href="mailto:gkim27@mit.edu">
+            <i class="fa fa-envelope-o"></i>
+            <span class="username">gkim27@mit.edu</span>
+            </a>        
+        </div>
+        <div class="boundary-line"></div>
+    </div>
 
 </div>
         

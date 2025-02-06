@@ -1,14 +1,21 @@
 // Primary site layout for Centrarium Theme
 
+
 /*
 *	Variables
 */
+$b4: 240px;  
 $b3: 480px;  
 $mobile: $b3;
 $b2: 768px;
 $tablet: $b2;
 $b1: 960px;
 $desktop: $b1;
+
+/*
+*       Aditional scss
+*/
+@import "_custom.scss";
 
 /*
 *	Globals
@@ -84,161 +91,40 @@ pre code.hljs {
 }
 
 
-/*
-*	Slider view
-*/
-.cbs_slider{
-	position: relative;
-	margin: 0 auto 0;
-}
-
-.cbs_slider input[type=radio]{
-	display: none;
-}
-
-.cbs_slider ul.imgs{
-    padding: 0px 0px 0px;
-    margin: 0;
-}
-
-@keyframes cbs_fadeout {
-	0% {opacity: 1; z-index: 9;}
-	90% {opacity: 1;}
-	100% {opacity: 0; z-index: 0;}
-}
-
-@keyframes cbs_fadein {
-	0% {opacity: 0;}
-	100% {opacity: 1;}
-}
-
-.cbs_slider ul.imgs li{
-    position: absolute;
-    list-style: none;
-    padding: 0;
-
-	animation-name: cbs_fadeout;
-	animation-duration: 1s;
-	animation-iteration-count: 1;
-	animation-timing-function: linear;
-	animation-fill-mode: forwards;
-}
-
-.cbs_slider .bullets{
-	position: absolute;
-	left: 50%;
-	transform: translateX(-50%);
-	bottom: 20px;
-	z-index: 15;
-}
-
-.cbs_slider .bullets label{
-	display: inline-block;
-	border-radius: 50%;
-	background-color: rgba(0,0,0,0.45);
-	width: 20px;
-	height: 20px;
-	cursor: pointer;
-	
-	margin: 2px;
-}
-
-.cbs_slider .imgs{
-	width: 100%;
-}
-
-.cbs_slider .imgs>li{
-    width: 100%;
-    line-height: unset;
-}
-
-.cbs_slider input[type=radio]:nth-child(1):checked~.bullets>label:nth-child(1){
-    background-color: #eee;
-}
-.cbs_slider input[type=radio]:nth-child(2):checked~.bullets>label:nth-child(2){
-    background-color: #eee;
-}
-.cbs_slider input[type=radio]:nth-child(3):checked~.bullets>label:nth-child(3){
-    background-color: #eee;
-}
-.cbs_slider input[type=radio]:nth-child(4):checked~.bullets>label:nth-child(4){
-    background-color: #eee;
-}
-
-
-
-.cbs_slider input[type=radio]:nth-child(1):checked~ul.imgs>li.first-load{
-	animation: none !important;
-}
-.cbs_slider input[type=radio]:nth-child(1):checked~ul.imgs>li:nth-child(1){
-    z-index: 10;
-	animation-name: cbs_fadein;
-	animation-duration: 1s;
-	animation-iteration-count: 1;
-	animation-timing-function: linear;
-}
-.cbs_slider input[type=radio]:nth-child(2):checked~ul.imgs>li:nth-child(2){
-    z-index: 10;
-	animation-name: cbs_fadein;
-	animation-duration: 1s;
-	animation-iteration-count: 1;
-	animation-timing-function: linear;
-}
-.cbs_slider input[type=radio]:nth-child(3):checked~ul.imgs>li:nth-child(3){
-    z-index: 10;
-	animation-name: cbs_fadein;
-	animation-duration: 1s;
-	animation-iteration-count: 1;
-	animation-timing-function: linear;
-}
-.cbs_slider input[type=radio]:nth-child(4):checked~ul.imgs>li:nth-child(4){
-    z-index: 10;
-	animation-name: cbs_fadein;
-	animation-duration: 1s;
-	animation-iteration-count: 1;
-	animation-timing-function: linear;
-}
-
-
-.cbs_slider .imgs>li:nth-child(1)>div{
-	background-image: url("/assets/group_202402.jpg");
-        background-color: #fff;
-	background-size: contain;
-}
-.cbs_slider .imgs>li:nth-child(2)>div{
-	background-image: url("/assets/advertisement.png");
-        background-color: #fff;
-	background-size: contain;
-}
-.cbs_slider .imgs>li:nth-child(3)>div{
-	background-image: url("/assets/group_pict3_wide_2.jpg");
-        background-color: #fff;
-	background-size: contain;
-}
-.cbs_slider .imgs>li:nth-child(4)>div{
-	background-image: url("/assets/lab_cover_img.jpg");
-        background-color: #fff;
-	background-size: contain;
-}
 
 
 
 .site-header-container, .post-header-container {
-	width: 100%;
-	text-align: center;
-	&.has-cover {
-		color: $white;
-		text-shadow: 0 2px 1px rgba(0,0,0,0.67) !important;
-		background-position: center center;
-		background-size: cover;
-		object-fit: cover;
-		.title {
-			font-size: modular-scale(6);
-		}
-		.subtitle, .info {
-			font-size: modular-scale(1);
-		}
+    width: 100%;
+    text-align: center;
+    &.has-cover {
+	color: $white;
+	text-shadow: 0 2px 1px rgba(0,0,0,0.67) !important;
+	background-position: center center;
+	background-size: cover;
+	object-fit: cover;
+        
+        height: $b4; //unset;
+        @include media ($tablet) {
+            height: $b3; //unset;
+        }
+	.title {
+            position: relative;
+            top: 20%;
+	    font-size: modular-scale(3);
+	    @include media($tablet) {
+		font-size: modular-scale(6);
+            }
 	}
+	.subtitle, .info {
+            position: relative;
+            bottom: -20%;
+	    font-size: modular-scale(2);
+	    @include media($tablet) {
+		font-size: modular-scale(3);
+            }
+	}
+    }
 	.scrim {
 		padding: 3em 1em;
 		&.has-cover {
@@ -281,7 +167,6 @@ pre code.hljs {
   .navigation-wrapper {
       @include outer-container(80%);
       @include clearfix;
-      position: relative;
   }
   .logo {
     float: left;
