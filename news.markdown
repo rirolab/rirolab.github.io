@@ -1,12 +1,24 @@
 ---
 layout: page
-title: Newslist
+title: RIRO Lab News
 permalink: "/news/newslist"
 main_nav: true
 ---
 
  <div>
       <ul class="news-list">
+      <li>We appeared in the news story of <a href="https://www.chosun.com/economy/tech_it/2025/01/15/LOSMJ4HMEBEBJJRGUJV3Q44ZHE/" target="_blank"><b>"사람 말 알아듣고 똑똑해진 로봇" - 조선일보</b></a> (2025.01.15) </li> 
+      <li>We won the <a href="https://cs.kaist.ac.kr/board/view?bbs_id=news&bbs_sn=11324&menu=83"
+      target="_blank"><b>Best Student Paper Award at RiTA 2024</b></a>!! </li>
+      <li>We had a great field trip at DRB (Yangsan, Busan), thanks to the support from DRB, 2024 </li>	      
+      <li>Prof. Park organizes a workshop on "<a href="https://humanoids-ws-2024.github.io/" target="_blank"><b>Designing Interactive Humanoids:
+      Learning Tasks through Interaction with Humans</b></a>" at Humanoids, 2024</li>	      
+      <li>Prof. Park provided a keynote speech at
+      "<a href="https://robotelite.sdu.dk"
+      target="_blank"><b>International Elite Robotics Summer School</b></a>" 2024</li>	      
+      <li>Minseok received the student paper award at ICROS, 2024 </li>	      
+      <li>Minseok's paper has been accepted to ICROS, 2024!! </li>	      
+      <li>Yeseung's LLM survey paper has been accepted to ISR, 2024!! </li>	      
         <li>Jaehwi, Chanyoung, Jinwoo, Ju-chul received their Master's Degrees in February 2024!! </li>
         <li>Minjae's paper has been accepted to IEEE ICRA, 2024!! </li>
         <li>Dohyun's paper has been accepted to AAAI, 2024!! </li>
