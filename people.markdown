@@ -395,7 +395,7 @@ If you want to change the style of the table, please look at the table tags in _
             Perception, Robust Navigation, TAMP<br>
             <a href="mailto:johngalt827@snu.ac.kr">
             <i class="fa fa-envelope-o"></i>
-            <span class="username">johngalt827@snu.ac.kr </span>
+            <span class="username">leesamuel1007@kaist.ac.kr </span>
             </a>
             <br> 
             <a href="https://github.com/piratecat-lover">
@@ -414,6 +414,31 @@ If you want to change the style of the table, please look at the table tags in _
             </a>           
         </div>
 
+	<!--Jun Park -->
+        <div class="img-column">
+            <img src="/assets/people/jun_park.jpg" alg="" >
+        </div>
+        <div class="exp-column">
+            <b>Jun Park</b><br>
+            Robotics Program, 2025<br>
+            <i class="fa fa-graduation-cap"></i>
+            Artificial Intelligence, UOS (2025)<br>
+            Manipulation, Task Planning<br>
+            <a href="mailto:jun.park@kaist.ac.kr">
+            <i class="fa fa-envelope-o"></i>
+            <span class="username">jun.park@kaist.ac.kr </span>
+            </a>
+            <br> 
+            <a href="https://github.com/junpark-ai">
+            <i class="fa fa-github"></i>
+            <span>Github</span>
+            </a>
+            <span> | </span>
+            <a href="https://scholar.google.com/citations?user=f7HbsNkAAAAJ&hl=en">
+            <i class="fa fa-graduation-cap"></i>
+            <span>Scholar</span>
+            </a>
+        </div>
 
     </div>
     <br>
