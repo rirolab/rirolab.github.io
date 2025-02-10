@@ -357,8 +357,8 @@ If you want to change the style of the table, please look at the publication tag
                   href="https://arxiv.org/abs/2409.14719" target="_blank" rel="noopener">
                   <i class="ion-ios-document mr-2"></i><span>ePrint</span>
                </a>
-               <a class="btn btn-outline-primary btn-page-header btn-sm p-0 pr-2 pl-2 disabled"
-                  href="https://youtu.be/ZMAGEQx5Uy8" target="_blank" rel="noopener">
+               <a class="btn btn-outline-primary btn-page-header btn-sm p-0 pr-2 pl-2 "
+                  href="https://youtu.be/MSIhXhXHLXE" target="_blank" rel="noopener">
                   <i class="ion-ios-globe mr-2"></i><span>Site</span>
                </a>
           </div>
