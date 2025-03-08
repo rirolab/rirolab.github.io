@@ -45,7 +45,7 @@ You can apply for a Master program in <b>School of Computing, Graduate School of
 We prefer undergrads, who had collaborated with us through individual studies or internships before. 
 
 ## Frequently Asked Questions
-- 석사 TO? 1년에 보통 3-4 자리가 있으며, 개별연구생을 우선으로 선발합니다. 따라서 인턴 지원을 미리 해보길 추천합니다. 
+- 석사 TO? 1년에 보통 3-4 자리가 있으며, 개별연구생을 우선으로 선발합니다. 따라서 인턴 지원을 미리 해보길 추천합니다. 실시간 TO정보는 상기 pre-interview form에 표기하였으니 클릭하여 확인 바랍니다.  
 - 위촉연구원? 석사 혹은 박사진학을 위해 위촉연구원 포지션 또한 제공합니다. 보통 1년에 1-2명 선발.
 - 기간? 3-4학기로 연구 실적/완성도에 따라 박사진학자는 3학기 졸업을 권장합니다. 
 - 토픽? 학생의 경력/스킬에 따라 연구실내 2개의 팀중 하나로 배정되며 초기에는 시니어 학생과 1편의 논문을 쓰고 개인토픽을 선택 연구합니다. 
