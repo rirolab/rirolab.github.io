@@ -8,6 +8,7 @@ main_nav: true
 # We are always looking for highly motivated undergrads! 
 
 ## Potential topics (연구 토픽)
+- Robot foundation model (RFM) for humanoid robots
 - Large-language model-based mobile manipulation
 - Constraint-based Quadruped robot navigation
 - Deformable object manipulation via reinforcement learning (RL)
