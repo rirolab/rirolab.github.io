@@ -165,32 +165,6 @@ If you want to change the style of the table, please look at the table tags in _
             </a>        
         </div>
 
-        <!-- 박봉경 -->
-        <div class="img-column">
-            <img src="/assets/people/bonggyeong_park.png" alg="" >
-        </div>
-        <div class="exp-column">
-            <b>Bonggyeong Park</b><br>
-            Robotics Program, 2023<br>
-            <i class="fa fa-graduation-cap"></i>
-            B.S. in Mechanical Engineering, KHU (2021)<br>
-            Manipulation, Learning from Demonstration<br>
-            <a href="mailto:iampbk@kaist.ac.kr">
-            <i class="fa fa-envelope-o"></i>
-            <span class="username">iampbk@kaist.ac.kr</span>
-            </a>
-            <br>
-            <a href="https://github.com/PARKBONG">
-            <i class="fa fa-github"></i>
-            <span>Github</span>
-            </a>
-            <span> | </span>
-            <a href="https://scholar.google.com/citations?user=XBi4GLkAAAAJ">
-            <i class="fa fa-graduation-cap"></i>
-            <span>Scholar</span>
-            </a>
-        </div>
-
         <!--Minwoo Cho  -->
         <div class="img-column">
             <img src="/assets/people/minwoo_cho.jpg" alg="" >
@@ -287,7 +261,7 @@ If you want to change the style of the table, please look at the table tags in _
             <b>Moonkyeong Jung</b><br>
             Robotics Program, 2024<br>
             <i class="fa fa-graduation-cap"></i>
-            B.S. in Mechanical Systems Engineering, SWMWU (2024)<br>
+            B.S. in Mechanical Systems Engineering, SMWU (2024)<br>
             Perception based Planning<br>
             <a href="mailto:jmk7791@kaist.ac.kr">
             <i class="fa fa-envelope-o"></i>
@@ -392,7 +366,7 @@ If you want to change the style of the table, please look at the table tags in _
             School of Computing, 2025<br>
             <i class="fa fa-graduation-cap"></i>
             Mechanical and Aerospace Engineering, SNU (2025)<br>
-            Perception, Robust Navigation, TAMP<br>
+            Perception, Manipulation, Planning<br>
             <a href="mailto:johngalt827@snu.ac.kr">
             <i class="fa fa-envelope-o"></i>
             <span class="username">leesamuel1007@kaist.ac.kr </span>
@@ -451,6 +425,7 @@ If you want to change the style of the table, please look at the table tags in _
         <div class="boundary-line"></div>
 
 
+
         <div class="img-column">
             <img src="" alg="" >
         </div>
@@ -499,6 +474,28 @@ If you want to change the style of the table, please look at the table tags in _
             <span>LinkedIn</span>
             </a>      
         </div>
+
+        <!-- 장재형 -->
+        <div class="img-column">
+            <img src="/assets/people/jaehyeong_jang.jpg" alg="" >
+        </div>
+        <div class="exp-column">
+            <b>Jaehyeong Jang</b><br>
+            Research Associate <br>
+            <i class="fa fa-graduation-cap"></i>
+            B.S. in School of Computing, KAIST (2025)<br>
+            Imitation Learning, Reinforcement Learning<br>
+            <a href="mailto:wogud9019@kaist.ac.kr">
+            <i class="fa fa-envelope-o"></i>
+            <span class="username">wogud9019@kaist.ac.kr</span>
+            </a>
+            <br>
+            <a href="https://github.com/gud0824">
+            <i class="fa fa-github"></i>
+            <span>Github</span>
+            </a>
+        </div>
+
 
         <div class="boundary-line"></div>
     </div>
