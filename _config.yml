@@ -23,7 +23,7 @@ address1: "RIRO Lab., Room 2429"
 address2: 291 Daehak-ro Building E3-1, Yuseong, Daejeon (34141), Republic of Korea
 description: This is the webpage of Robust Intelligence and Robotics Laboratory at KAIST.
 admin: Daehyung Park
-admin_email: daehyung@kaist.ac.kr
+admin_email: daehyung [at] kaist.ac.kr
   
 # Base URL of site (i.e. /blog). It should always start with a slash,
 # and never end with a slash. Set it to a blank value if hosting at the

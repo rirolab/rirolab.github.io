@@ -13,7 +13,7 @@ Our research seeks to advance the capabilities of real robots so that they can a
 
 **E-mail**
 
- daehyung@kaist.ac.kr
+ daehyung [at] kaist.ac.kr
  
 
 **Address**
