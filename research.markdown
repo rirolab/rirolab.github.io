@@ -24,10 +24,10 @@ main_nav: true
         <br>
         <img src="/assets/equipment/g1.png" alt="Unitree Humanoid Robot G1">
         <br>
-        Under construction!!
+        We aim to develop fundamental learning methodologies for whole-body manipulation using humanoid robots, including humanoid robots (Unitree G1) and a mobile humanoid platform (T.B.D). Whole-body manipulation is one of the most rapidly emerging research areas globally. To lead advancements in this domain, the RIRO Lab focuses on both novel policy learning methods based on imitation & reinforcement learning, as well as high-level planning strategies leveraging large language models (LLMs) and other foundation models. Our goal is to develop hierarchical foundation models for complex task executions. We will evaluate the proposed methods on our in-house humanoid platforms and through collaborations with external partners, including Hyundai Motor Company and Samsung Electronics.
         <br>
         <br>
-        <b>Keywords</b>: Imitation learning, State-space models (SSM), Diffusion policy, Constraint learning
+        <b>Keywords</b>: Imitation learning, State-space models (SSM), Diffusion policy, Constraint learning, humanoid navigation
         <br>    
         <b>Selected paper</b>: <a href="https://arxiv.org/abs/2409.14719" target="_blank">[under review]</a> 
     </div>
