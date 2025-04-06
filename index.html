@@ -129,7 +129,7 @@ pagination:
 </div>
 
 <div class=wrapper>
-  <h3>Selected experiment videos!</h3>
+  <h1>Selected experiment videos!</h1>
   <div class="video-multi-container">
     <div class="responsive-iframe">
       <iframe src="https://www.youtube.com/embed/MSIhXhXHLXE"
@@ -152,7 +152,7 @@ pagination:
 </div>    
 
 <div class=wrapper>
-  <h3>Selected presentation videos!</h3>
+  <h1>Selected presentation videos!</h1>
   <div class="video-multi-container">
     <div class="responsive-iframe">
       <iframe src="https://www.youtube.com/embed/vhvYRXtfD_I"
@@ -176,7 +176,7 @@ pagination:
     
         
 <div class=wrapper>
-  <h3>Recent news</h3>
+  <h1>Recent news</h1>
   {%- assign pages = site.pages | where: 'title', 'RIRO Lab News' -%}
   {% for page in pages %}
     <p>{{ page.content | truncatewords: 150 }} </p>
