@@ -543,7 +543,7 @@ If you want to change the style of the table, please look at the table tags in _
             KT<br> 
             <i class="fa fa-graduation-cap"></i>
             M.S. in School of Computing KT-AI , 2025<br>
-            <a href="mailto:jichoi0101 [at] kaist.ac.kr">
+            <!--a href="mailto:jichoi0101 [at] kaist.ac.kr"-->
             <i class="fa fa-envelope-o"></i>
             <span class="username">jichoi0101 [at] kaist.ac.kr</span>
             </a>        
@@ -553,10 +553,10 @@ If you want to change the style of the table, please look at the table tags in _
             Minjae Song
         </div>
         <div class="exp-column">
-            <!-- LIG Nex1 (LIG넥스원)<br> -->
+            Maum AI<br>
             <i class="fa fa-graduation-cap"></i>
             M.S. in School of Computing, 2024<br>
-            <a href="mailto:smj0398 [at] kaist.ac.kr">
+            <!--a href="mailto:smj0398 [at] kaist.ac.kr"-->
             <i class="fa fa-envelope-o"></i>
             <span class="username">smj0398 [at] kaist.ac.kr</span>
             </a>        
@@ -569,7 +569,7 @@ If you want to change the style of the table, please look at the table tags in _
             Georgia Tech Ph.D. Course <br>
             <i class="fa fa-graduation-cap"></i>
             M.S. in Artificial Intelligence, 2024<br>
-            <a href="mailto:wognl0402 [at] kaist.ac.kr">
+            <!--a href="mailto:wognl0402 [at] kaist.ac.kr"-->
 	    <i class="fa fa-envelope-o"></i>
 	    <span class="username">wognl0402 [at] kaist.ac.kr</span>
             </a>
@@ -589,10 +589,10 @@ If you want to change the style of the table, please look at the table tags in _
             Chanyoung Ahn
         </div>
         <div class="exp-column">
-            Intern at KISTI (한국과학기술정보연구원)<br>
+            KIST<br>
             <i class="fa fa-graduation-cap"></i>
             M.S. in Robotics, 2024<br>
-            <a href="mailto:coldyoung [at] kaist.ac.kr">
+            <!--a href="mailto:coldyoung [at] kaist.ac.kr"-->
             <i class="fa fa-envelope-o"></i>
             <span class="username">coldyoung [at] kaist.ac.kr</span>
             </a>
@@ -602,10 +602,10 @@ If you want to change the style of the table, please look at the table tags in _
             Jinwoo Kim
         </div>
         <div class="exp-column">
-            Industrial Technical Personnel at ROBOTIS<br>
+            ROBOTIS<br>
             <i class="fa fa-graduation-cap"></i>
             M.S. in School of Computing, 2024<br>
-            <a href="mailto:kjwoo31 [at] kaist.ac.kr">
+            <!--a href="mailto:kjwoo31 [at] kaist.ac.kr"-->
             <i class="fa fa-envelope-o"></i>
             <span class="username">kjwoo31 [at] kaist.ac.kr</span>
             </a>
@@ -618,7 +618,7 @@ If you want to change the style of the table, please look at the table tags in _
             LIG Nex1 (LIG넥스원)<br>
             <i class="fa fa-graduation-cap"></i>
             M.S. in Software Engineering, 2024<br>
-            <a href="mailto:castiron [at] kaist.ac.kr">
+            <!--a href="mailto:castiron [at] kaist.ac.kr"-->
             <i class="fa fa-envelope-o"></i>
             <span class="username">castiron [at] kaist.ac.kr </span>
             </a>
