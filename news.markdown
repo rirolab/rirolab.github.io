@@ -7,6 +7,8 @@ main_nav: true
 
  <div>
       <ul class="news-list">
+      <li>We were awarded 8 NVIDIA H100 GPUs through Artificial Intelligence Industry Cluster Agency (AICA) 2025 </li> 	      
+      <li>Unitree G1 Humanoid arrives at our Lab with support from Hyundai Motors 2025</li> 	      	      
       <li>We appeared in the news story of <a href="https://www.chosun.com/economy/tech_it/2025/01/15/LOSMJ4HMEBEBJJRGUJV3Q44ZHE/" target="_blank"><b>"사람 말 알아듣고 똑똑해진 로봇" - 조선일보</b></a> (2025.01.15) </li> 
       <li>We won the <a href="https://cs.kaist.ac.kr/board/view?bbs_id=news&bbs_sn=11324&menu=83"
       target="_blank"><b>Best Student Paper Award at RiTA 2024</b></a>!! </li>
