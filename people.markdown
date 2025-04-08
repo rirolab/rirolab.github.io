@@ -57,8 +57,10 @@ If you want to change the style of the table, please look at the table tags in _
         </div>
         <div class="exp-column">
             <b>Yeseung Kim</b><br>
-            School of Computing, 2023<br>
-            Motion Planning, Collision Detection<br>
+            <i class="fas fa-graduation-cap"></i>
+	    School of Computing, 2023<br>
+	    <i class="fas fa-microscope"></i>
+	    Motion Planning, Collision Detection<br>
             <a href="mailto:yeseung.kim.88 [at] kaist.ac.kr">
             <i class="fa fa-envelope-o"></i>
             <span class="username"> yeseung.kim.88 [at] kaist.ac.kr</span>
@@ -81,7 +83,9 @@ If you want to change the style of the table, please look at the table tags in _
         </div>
         <div class="exp-column">
             <b>Dohyun Kim</b><br>
+            <i class="fas fa-graduation-cap"></i>    
             School of Computing, 2024<br>
+	    <i class="fas fa-microscope"></i>
             Robotic Natural Language Processing<br>
             <a href="mailto:dohyun141 [at] kaist.ac.kr">
             <i class="fa fa-envelope-o"></i>
@@ -115,7 +119,9 @@ If you want to change the style of the table, please look at the table tags in _
         </div>
         <div class="exp-column">
             <b>JeongHo Ha</b><br>
+            <i class="fas fa-graduation-cap"></i>
             School of Computing, 2023<br>
+	    <i class="fas fa-microscope"></i>
             Deformable Object Manipulation, Representation Learining<br>
             <a href="mailto:hajeongho95 [at] kaist.ac.kr">
                 <i class="fa fa-envelope-o"></i>
@@ -139,7 +145,9 @@ If you want to change the style of the table, please look at the table tags in _
         </div>
         <div class="exp-column">
             <b>Deok-Min Hwang</b><br>
+            <i class="fas fa-graduation-cap"></i>
             School of Computing, 2023 <br>
+	    <i class="fas fa-microscope"></i>
             Perception, Task Planning<br>
             <a href="mailto:gsh04089 [at] kaist.ac.kr">
             <i class="fa fa-envelope-o"></i>
@@ -163,7 +171,9 @@ If you want to change the style of the table, please look at the table tags in _
         </div>
         <div class="exp-column">
             <b>Minwoo Cho</b><br>
+            <i class="fas fa-graduation-cap"></i>
             School of Computing, 2023<br>
+	    <i class="fas fa-microscope"></i>
             Constrained RL, Inverse RL, Constraint Inference<br>
             <a href="mailto:cmw9903 [at] kaist.ac.kr">
             <i class="fa fa-envelope-o"></i>
@@ -187,7 +197,9 @@ If you want to change the style of the table, please look at the table tags in _
         </div>
         <div class="exp-column">
             <b>Keonyoung Koh</b><br>
+            <i class="fas fa-graduation-cap"></i>
             School of Computing, 2024 <br>
+	    <i class="fas fa-microscope"></i>
             Perception based Planning<br>
             <a href="mailto:kkyjusikhoisa [at] kaist.ac.kr">
             <i class="fa fa-envelope-o"></i>
@@ -216,7 +228,9 @@ If you want to change the style of the table, please look at the table tags in _
         </div>
         <div class="exp-column">
             <b>Nayoung Oh</b><br>
+            <i class="fas fa-graduation-cap"></i>
             Graduate School of AI, 2024<br>
+	    <i class="fas fa-microscope"></i>
             Natural Language Grounding, HRI<br>
             <a href="mailto:lightsalt [at] kaist.ac.kr">
             <i class="fa fa-envelope-o"></i>
@@ -245,7 +259,9 @@ If you want to change the style of the table, please look at the table tags in _
         </div>
         <div class="exp-column">
             <b>Moonkyeong Jung</b><br>
+            <i class="fas fa-graduation-cap"></i>
             Robotics Program, 2024<br>
+	    <i class="fas fa-microscope"></i>
             Perception based Planning<br>
             <a href="mailto:jmk7791 [at] kaist.ac.kr">
             <i class="fa fa-envelope-o"></i>
@@ -269,7 +285,9 @@ If you want to change the style of the table, please look at the table tags in _
         </div>
         <div class="exp-column">
             <b>Gyungjin Eo</b><br>
+            <i class="fas fa-graduation-cap"></i>
             Robotics Program, 2024<br>
+	    <i class="fas fa-microscope"></i>
             Perception, Task Planning<br>
             <a href="mailto:gyungjin.eo [at] kaist.ac.kr">
             <i class="fa fa-envelope-o"></i>
@@ -293,7 +311,9 @@ If you want to change the style of the table, please look at the table tags in _
         </div>
         <div class="exp-column">
             <b>Junhyeong Bang</b><br>
+            <i class="fas fa-graduation-cap"></i>
             School of Computing, 2024<br>
+	    <i class="fas fa-microscope"></i>
             Natural Language Grounding<br>
             <a href="mailto:jazzdosa [at] kaist.ac.kr">
             <i class="fa fa-envelope-o"></i>
@@ -317,7 +337,9 @@ If you want to change the style of the table, please look at the table tags in _
         </div>
         <div class="exp-column">
             <b>Minseok Song</b><br>
+            <i class="fas fa-graduation-cap"></i>
             School of Computing, 2025<br>
+	    <i class="fas fa-microscope"></i>
             Manipulation<br>
             <a href="mailto:hjmngb [at] kaist.ac.kr">
             <i class="fa fa-envelope-o"></i>
@@ -341,7 +363,9 @@ If you want to change the style of the table, please look at the table tags in _
         </div>
         <div class="exp-column">
             <b>Seungsup Lee</b><br>
+            <i class="fas fa-graduation-cap"></i>
             School of Computing, 2025<br>
+	    <i class="fas fa-microscope"></i>
             Perception, Manipulation, Planning<br>
             <a href="mailto:johngalt827 [at] snu.ac.kr">
             <i class="fa fa-envelope-o"></i>
@@ -370,7 +394,9 @@ If you want to change the style of the table, please look at the table tags in _
         </div>
         <div class="exp-column">
             <b>Jun Park</b><br>
+            <i class="fas fa-graduation-cap"></i>
             Robotics Program, 2025<br>
+	    <i class="fas fa-microscope"></i>
             Manipulation, Task Planning<br>
             <a href="mailto:jun.park [at] kaist.ac.kr">
             <i class="fa fa-envelope-o"></i>
@@ -404,7 +430,9 @@ If you want to change the style of the table, please look at the table tags in _
         </div>
         <div class="exp-column">
             <b>Ahyoung Seong</b><br>
+            <i class="fas fa-graduation-cap"></i>
             School of Computing, 2023 <br>
+	    <i class="fas fa-microscope"></i>
             Natural Language Grounding<br>
             <a href="mailto:seongahyoung [at] gmail.com">
             <i class="fa fa-envelope-o"></i>
@@ -445,6 +473,7 @@ If you want to change the style of the table, please look at the table tags in _
             Research Associate <br>
             <i class="fa fa-graduation-cap"></i>
             B.B.A & B.S. in Computer Science & Engineering, SNU (2022)<br>
+	    <i class="fas fa-microscope"></i>
             HRI, Perception, Task Planning<br>
             <a href="mailto:jisang.park [at] kaist.ac.kr">
             <i class="fa fa-envelope-o"></i>
@@ -476,6 +505,7 @@ If you want to change the style of the table, please look at the table tags in _
             Research Associate <br>
             <i class="fa fa-graduation-cap"></i>
             B.S. in School of Computing, KAIST (2025)<br>
+	    <i class="fas fa-microscope"></i>
             Imitation Learning, Reinforcement Learning<br>
             <a href="mailto:wogud9019 [at] kaist.ac.kr">
             <i class="fa fa-envelope-o"></i>
