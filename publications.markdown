@@ -345,7 +345,7 @@ If you want to change the style of the table, please look at the publication tag
                JeongHo Ha, Minseok Song, Bonggyeong Park, Daehyung Park
           </div>
           <div class="publisher">
-               under review
+               Robotics: Science and Systems (RSS), 2025 (accepted)
           </div>
           <div class="btn-links">
                <a class="btn btn-outline-primary btn-page-header btn-sm p-0 pr-2 pl-2 disabled"
