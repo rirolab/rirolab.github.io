@@ -7,6 +7,7 @@ main_nav: true
 
  <div>
       <ul class="news-list">
+      <li>Jeongho and Minseok's paper has been accepted to RSS, 2025!! </li> 	      
       <li>We joined <a href="https://www.aitimes.kr/news/articleView.html?idxno=34578&fbclid=IwY2xjawJklRtleHRuA2FlbQIxMQABHvwiGjNlK54NxIsoCyMBN78nc9Grh3WvPk6kgHASbCVJYNWmrSQysDwSYKbs_aem_L6Rv2Flcoy9Nf2aWVOXJhg" target="_blank"> <b> K-Humanoid Alliance (K-Humanoid 연합)</b> </a> (2025.04.10) </li> 	      
       <li>We were awarded 8 NVIDIA H100 GPUs through Artificial Intelligence Industry Cluster Agency (AICA) 2025 </li> 	      
       <li>Unitree G1 Humanoid arrives at our Lab with support from Hyundai Motors 2025</li> 	      	      
