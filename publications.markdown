@@ -335,7 +335,7 @@ If you want to change the style of the table, please look at the publication tag
 <!-- 2025 CoRL ForeSight -->
 <div class="pub-container">
     <div class="img-column">
-        <img style="width: 85%" src="/assets/research/2025_RSS_INR_DOM.gif">
+        <img style="width: 85%" src="/assets/research/2025_CoRL_ForeSight.png">
      </div>
      <div class="exp-column">
           <div class="title">
