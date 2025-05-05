@@ -335,14 +335,14 @@ If you want to change the style of the table, please look at the publication tag
 <!-- 2025 RSS INR-DOM -->
 <div class="pub-container">
     <div class="img-column">
-        <img style="width: 85%" src="/assets/research/2025_RSS_INR_DOM.png">
+        <img style="width: 85%" src="/assets/research/2025_RSS_INR_DOM.gif">
      </div>
      <div class="exp-column">
           <div class="title">
                Implicit Neural-Representation Learning for Elastic Deformable-Object Manipulation
           </div>
           <div class="authors">
-               JeongHo Ha, Minseok Song, Bonggyeong Park, Daehyung Park
+               Minseok Song, JeongHo Ha, Bonggyeong Park, Daehyung Park
           </div>
           <div class="publisher">
                Robotics: Science and Systems (RSS), 2025 (accepted)
@@ -353,8 +353,8 @@ If you want to change the style of the table, please look at the publication tag
                   target="_blank" rel="noopener">
                   <i class="ion-ios-document mr-2"></i><span>Paper</span>
                </a>
-               <a class="btn btn-outline-primary btn-page-header btn-sm p-0 pr-2 pl-2 disabled"
-                  href="https://arxiv.org/abs/2409.14719" target="_blank" rel="noopener">
+               <a class="btn btn-outline-primary btn-page-header btn-sm p-0 pr-2 pl-2"
+                  href="https://arxiv.org/abs/2505.00500" target="_blank" rel="noopener">
                   <i class="ion-ios-document mr-2"></i><span>ePrint</span>
                </a>
                <a class="btn btn-outline-primary btn-page-header btn-sm p-0 pr-2 pl-2 "
