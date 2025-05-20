@@ -335,7 +335,7 @@ If you want to change the style of the table, please look at the publication tag
 <!-- 2025 CoRL ForeSight -->
 <div class="pub-container">
     <div class="img-column">
-        <img style="width: 85%" src="/assets/research/2025_CoRL_ForeSight.png">
+        <img style="width: 85%" src="/assets/research/2025_CoRL_ForeSight.gif">
      </div>
      <div class="exp-column">
           <div class="title">
@@ -434,17 +434,17 @@ If you want to change the style of the table, please look at the publication tag
 </div>
 
 
-<!-- 2025 ICRA DisPo -->
+<!-- 2025 CoRL DisPo -->
 <div class="pub-container">
     <div class="img-column">
-        <img style="width: 85%" src="/assets/research/2025_ICRA_DisPo.gif">
+        <img style="width: 85%" src="/assets/research/2025_CoRL_DisPo.gif">
      </div>
      <div class="exp-column">
           <div class="title">
                DiSPo: Diffusion-SSM based Policy Learning for Coarse-to-Fine Action Discretization
           </div>
           <div class="authors">
-               Nayoung Oh, Moonkyeong Jung, Daehyung Park
+               Nayoung Oh, Jaehyung Jang, Moonkyeong Jung, Daehyung Park
           </div>
           <div class="publisher">
                under review
