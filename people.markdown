@@ -57,9 +57,9 @@ If you want to change the style of the table, please look at the table tags in _
         </div>
         <div class="exp-column">
             <b>Yeseung Kim</b><br>
-            <i class="fa fa-graduation-cap"></i>
+            <i class="fas fa-school"></i>
 	    School of Computing, 2023<br>
-	    <i class="fa-solid fa-microscope"></i>
+	    <i class="fas fa-microscope"></i>
 	    Motion Planning, Collision Detection<br>
             <a href="mailto:yeseung.kim.88 [at] kaist.ac.kr">
             <i class="fa fa-envelope-o"></i>
@@ -102,6 +102,33 @@ If you want to change the style of the table, please look at the table tags in _
             <span>Scholar</span>
             </a>
         </div>
+
+         <!-- Junhyeong Bang -->
+        <div class="img-column">
+            <img src="/assets/people/junhyeong_bang.png" alg="" >
+        </div>
+        <div class="exp-column">
+            <b>Junhyeong Bang</b><br>
+            <i class="fa fa-graduation-cap"></i>
+            School of Computing, 2025<br>
+	    <i class="fa-solid fa-microscope"></i>
+            Natural Language Grounding<br>
+            <a href="mailto:jazzdosa [at] kaist.ac.kr">
+            <i class="fa fa-envelope-o"></i>
+            <span class="username">jazzdosa [at] kaist.ac.kr </span>
+            </a>
+            <br>
+            <a href="https://github.com/junhyeong0411">
+            <i class="fa fa-github"></i>
+            <span>Github</span>
+            </a>
+            <span> | </span>
+            <a href="https://scholar.google.com/citations?user=y7qnVR0AAAAJ">
+            <i class="fa fa-graduation-cap"></i>
+            <span>Scholar</span>
+            </a>
+        </div>
+	
         <div class="boundary-line"></div>
     </div>
     <br>
@@ -300,32 +327,6 @@ If you want to change the style of the table, please look at the table tags in _
             </a>
             <span> | </span>
             <a href="https://scholar.google.com/citations?user=Ek6yy7gAAAAJ">
-            <i class="fa fa-graduation-cap"></i>
-            <span>Scholar</span>
-            </a>
-        </div>
-
-        <!-- Junhyeong Bang -->
-        <div class="img-column">
-            <img src="/assets/people/junhyeong_bang.png" alg="" >
-        </div>
-        <div class="exp-column">
-            <b>Junhyeong Bang</b><br>
-            <i class="fa fa-graduation-cap"></i>
-            School of Computing, 2024<br>
-	    <i class="fa-solid fa-microscope"></i>
-            Natural Language Grounding<br>
-            <a href="mailto:jazzdosa [at] kaist.ac.kr">
-            <i class="fa fa-envelope-o"></i>
-            <span class="username">jazzdosa [at] kaist.ac.kr </span>
-            </a>
-            <br>
-            <a href="https://github.com/junhyeong0411">
-            <i class="fa fa-github"></i>
-            <span>Github</span>
-            </a>
-            <span> | </span>
-            <a href="https://scholar.google.com/citations?user=y7qnVR0AAAAJ">
             <i class="fa fa-graduation-cap"></i>
             <span>Scholar</span>
             </a>
