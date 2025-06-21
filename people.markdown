@@ -25,9 +25,9 @@ If you want to change the style of the table, please look at the table tags in _
             <b>Daehyung Park (박대형)</b><br>
             Associate Professor at School of Computing<br>
             Affiliated Asst. Prof. at Graduate School of AI<br>
-            <i class="fa fa-building" aria-hidden="true"></i> E3-1 #2429 at Main Campus <br>    
+            <i class="fas fa-building" aria-hidden="true"></i> E3-1 #2429 at Main Campus <br>    
             <a href="mailto:daehyung [at] kaist.ac.kr">
-            <i class="fa fa-envelope-o"></i>
+            <i class="far fa-envelope"></i>
             <span class="username"> daehyung [at] kaist.ac.kr </span>
             </a>
             <br>
@@ -62,17 +62,17 @@ If you want to change the style of the table, please look at the table tags in _
 	    <i class="fas fa-microscope"></i>
 	    Motion Planning, Collision Detection<br>
             <a href="mailto:yeseung.kim.88 [at] kaist.ac.kr">
-            <i class="fa fa-envelope-o"></i>
+            <i class="far fa-envelope"></i>
             <span class="username"> yeseung.kim.88 [at] kaist.ac.kr</span>
             </a>
             <br>
             <a href="https://github.com/aries-robot/">
-            <i class="fa fa-github"></i>
+            <i class="fab fa-github"></i>
             <span>Github</span>
             </a>
             <span> | </span>
             <a href="https://scholar.google.com/citations?user=NsNnSNYAAAAJ">
-            <i class="fa fa-graduation-cap"></i>
+            <i class="fas fa-graduation-cap"></i>
             <span>Scholar</span>
             </a>        
         </div>
@@ -88,12 +88,12 @@ If you want to change the style of the table, please look at the table tags in _
 	    <i class="fa-solid fa-microscope"></i>
             Robotic Natural Language Processing<br>
             <a href="mailto:dohyun141 [at] kaist.ac.kr">
-            <i class="fa fa-envelope-o"></i>
+            <i class="far fa-envelope"></i>
             <span class="username">dohyun141 [at] kaist.ac.kr</span>
             </a>
             <br>
             <a href="https://github.com/dohyun1411">
-            <i class="fa fa-github"></i>
+            <i class="fab fa-github"></i>
             <span>Github</span>
             </a>
             <span> | </span>
@@ -114,12 +114,12 @@ If you want to change the style of the table, please look at the table tags in _
 	    <i class="fa-solid fa-microscope"></i>
             Natural Language Grounding<br>
             <a href="mailto:jazzdosa [at] kaist.ac.kr">
-            <i class="fa fa-envelope-o"></i>
+            <i class="far fa-envelope"></i>
             <span class="username">jazzdosa [at] kaist.ac.kr </span>
             </a>
             <br>
             <a href="https://github.com/junhyeong0411">
-            <i class="fa fa-github"></i>
+            <i class="fab fa-github"></i>
             <span>Github</span>
             </a>
             <span> | </span>
@@ -141,22 +141,22 @@ If you want to change the style of the table, please look at the table tags in _
         <div class="boundary-line"></div>
 
         <!--하정호  -->
-        <div class="img-column">
+        <!--div class="img-column">
             <img src="/assets/people/jeongho_ha.jpg" alg="" >
-        </div>
-        <div class="exp-column">
+        </div-->
+        <!--div class="exp-column">
             <b>JeongHo Ha</b><br>
             <i class="fa fa-graduation-cap"></i>
             School of Computing, 2023<br>
 	    <i class="fa-solid fa-microscope"></i>
             Deformable Object Manipulation, Representation Learining<br>
             <a href="mailto:hajeongho95 [at] kaist.ac.kr">
-                <i class="fa fa-envelope-o"></i>
+                <i class="far fa-envelope"></i>
                 <span class="username">hajeongho95 [at] kaist.ac.kr </span>
             </a>    
             <br>
             <a href="https://github.com/Ha-JH">
-               <i class="fa fa-github"></i>
+               <i class="fab fa-github"></i>
                <span>Github</span>
             </a>
             <span> | </span>
@@ -164,7 +164,7 @@ If you want to change the style of the table, please look at the table tags in _
                 <i class="fa fa-graduation-cap"></i>
                 <span>Scholar</span>
             </a>        
-        </div>
+        </div-->
 
         <!--황덕민  -->
         <div class="img-column">
@@ -177,12 +177,12 @@ If you want to change the style of the table, please look at the table tags in _
 	    <i class="fa-solid fa-microscope"></i>
             Perception, Task Planning<br>
             <a href="mailto:gsh04089 [at] kaist.ac.kr">
-            <i class="fa fa-envelope-o"></i>
+            <i class="far fa-envelope"></i>
             <span class="username">gsh04089 [at] kaist.ac.kr </span>
             </a>
             <br>
             <a href="https://github.com/Deok-min">
-            <i class="fa fa-github"></i>
+            <i class="fab fa-github"></i>
             <span>Github</span>
             </a>
             <span> | </span>
@@ -203,12 +203,12 @@ If you want to change the style of the table, please look at the table tags in _
 	    <i class="fa-solid fa-microscope"></i>
             Constrained RL, Inverse RL, Constraint Inference<br>
             <a href="mailto:cmw9903 [at] kaist.ac.kr">
-            <i class="fa fa-envelope-o"></i>
+            <i class="far fa-envelope"></i>
             <span class="username">cmw9903 [at] kaist.ac.kr </span>
             </a>
             <br>
             <a href="https://github.com/MinchoU">
-            <i class="fa fa-github"></i>
+            <i class="fab fa-github"></i>
             <span>Github</span>
             </a>
             <span> | </span>
@@ -229,12 +229,12 @@ If you want to change the style of the table, please look at the table tags in _
 	    <i class="fa-solid fa-microscope"></i>
             Perception based Planning<br>
             <a href="mailto:kkyjusikhoisa [at] kaist.ac.kr">
-            <i class="fa fa-envelope-o"></i>
+            <i class="far fa-envelope"></i>
             <span class="username">kkyjusikhoisa [at] kaist.ac.kr </span>
             </a>
             <br>
             <a href="https://github.com/KeonyoungKoh">
-            <i class="fa fa-github"></i>
+            <i class="fab fa-github"></i>
             <span>Github</span>
             </a>
             <span> | </span>
@@ -260,12 +260,12 @@ If you want to change the style of the table, please look at the table tags in _
 	    <i class="fa-solid fa-microscope"></i>
             Natural Language Grounding, HRI<br>
             <a href="mailto:lightsalt [at] kaist.ac.kr">
-            <i class="fa fa-envelope-o"></i>
+            <i class="far fa-envelope"></i>
             <span class="username">lightsalt [at] kaist.ac.kr </span>
             </a>
             <br>
             <a href="https://github.com/Nayoung-Oh">
-            <i class="fa fa-github"></i>
+            <i class="fab fa-github"></i>
             <span>Github</span>
             </a>
             <span> | </span>
@@ -291,12 +291,12 @@ If you want to change the style of the table, please look at the table tags in _
 	    <i class="fa-solid fa-microscope"></i>
             Perception based Planning<br>
             <a href="mailto:jmk7791 [at] kaist.ac.kr">
-            <i class="fa fa-envelope-o"></i>
+            <i class="far fa-envelope"></i>
             <span class="username">jmk7791 [at] kaist.ac.kr </span>
             </a>
             <br>
             <a href="https://github.com/jmk7791">
-            <i class="fa fa-github"></i>
+            <i class="fab fa-github"></i>
             <span>Github</span>
             </a>
             <span> | </span>
@@ -317,12 +317,12 @@ If you want to change the style of the table, please look at the table tags in _
 	    <i class="fa-solid fa-microscope"></i>
             Perception, Task Planning<br>
             <a href="mailto:gyungjin.eo [at] kaist.ac.kr">
-            <i class="fa fa-envelope-o"></i>
+            <i class="far fa-envelope"></i>
             <span class="username">gyungjin.eo [at] kaist.ac.kr </span>
             </a>
             <br>
             <a href="https://github.com/eogyeongjin">
-            <i class="fa fa-github"></i>
+            <i class="fab fa-github"></i>
             <span>Github</span>
             </a>
             <span> | </span>
@@ -343,12 +343,12 @@ If you want to change the style of the table, please look at the table tags in _
 	    <i class="fa-solid fa-microscope"></i>
             Manipulation<br>
             <a href="mailto:hjmngb [at] kaist.ac.kr">
-            <i class="fa fa-envelope-o"></i>
+            <i class="far fa-envelope"></i>
             <span class="username">hjmngb [at] kaist.ac.kr </span>
             </a>
             <br>
             <a href="https://github.com/Caterpiemaster">
-            <i class="fa fa-github"></i>
+            <i class="fab fa-github"></i>
             <span>Github</span>
             </a> 
             <span> | </span>
@@ -369,12 +369,12 @@ If you want to change the style of the table, please look at the table tags in _
 	    <i class="fa-solid fa-microscope"></i>
             Perception, Manipulation, Planning<br>
             <a href="mailto:johngalt827 [at] snu.ac.kr">
-            <i class="fa fa-envelope-o"></i>
+            <i class="far fa-envelope"></i>
             <span class="username">leesamuel1007 [at] kaist.ac.kr </span>
             </a>
             <br> 
             <a href="https://github.com/piratecat-lover">
-            <i class="fa fa-github"></i>
+            <i class="fab fa-github"></i>
             <span>Github</span>
             </a>
             <span> | </span>
@@ -400,12 +400,12 @@ If you want to change the style of the table, please look at the table tags in _
 	    <i class="fa-solid fa-microscope"></i>
             Manipulation, Task Planning<br>
             <a href="mailto:jun.park [at] kaist.ac.kr">
-            <i class="fa fa-envelope-o"></i>
+            <i class="far fa-envelope"></i>
             <span class="username">jun.park [at] kaist.ac.kr </span>
             </a>
             <br> 
             <a href="https://github.com/junpark-ai">
-            <i class="fa fa-github"></i>
+            <i class="fab fa-github"></i>
             <span>Github</span>
             </a>
             <span> | </span>
@@ -436,12 +436,12 @@ If you want to change the style of the table, please look at the table tags in _
 	    <i class="fa-solid fa-microscope"></i>
             Natural Language Grounding<br>
             <a href="mailto:seongahyoung [at] gmail.com">
-            <i class="fa fa-envelope-o"></i>
+            <i class="far fa-envelope"></i>
             <span class="username">seongahyoung [at] gmail.com</span>
             </a>
             <br>
             <a href="https://github.com/ahyoungS">
-            <i class="fa fa-github"></i>
+            <i class="fab fa-github"></i>
             <span>Github</span>
             </a>
         </div>
@@ -477,12 +477,12 @@ If you want to change the style of the table, please look at the table tags in _
 	    <i class="fa-solid fa-microscope"></i>
             HRI, Perception, Task Planning<br>
             <a href="mailto:jisang.park [at] kaist.ac.kr">
-            <i class="fa fa-envelope-o"></i>
+            <i class="far fa-envelope"></i>
             <span class="username">jisang.park [at] kaist.ac.kr </span>
             </a>
             <br>   
             <a href="https://github.com/alsichcan">
-            <i class="fa fa-github"></i>
+            <i class="fab fa-github"></i>
             <span>Github</span>
             </a>
             <span> | </span>
@@ -509,12 +509,12 @@ If you want to change the style of the table, please look at the table tags in _
 	    <i class="fa-solid fa-microscope"></i>
             Imitation Learning, Reinforcement Learning<br>
             <a href="mailto:wogud9019 [at] kaist.ac.kr">
-            <i class="fa fa-envelope-o"></i>
+            <i class="far fa-envelope"></i>
             <span class="username">wogud9019 [at] kaist.ac.kr</span>
             </a>
             <br>
             <a href="https://github.com/gud0824">
-            <i class="fa fa-github"></i>
+            <i class="fab fa-github"></i>
             <span>Github</span>
             </a>
         </div>
@@ -549,7 +549,7 @@ If you want to change the style of the table, please look at the table tags in _
             <i class="fa fa-graduation-cap"></i>
             M.S. in School of Computing KT-AI , 2025<br>
             <!--a href="mailto:jichoi0101 [at] kaist.ac.kr">
-            <i class="fa fa-envelope-o"></i>
+            <i class="far fa-envelope"></i>
             <span class="username">jichoi0101 [at] kaist.ac.kr</span>
             </a-->        
         </div>
@@ -562,7 +562,7 @@ If you want to change the style of the table, please look at the table tags in _
             <i class="fa fa-graduation-cap"></i>
             M.S. in School of Computing, 2024<br>
             <!--a href="mailto:smj0398 [at] kaist.ac.kr">
-            <i class="fa fa-envelope-o"></i>
+            <i class="far fa-envelope"></i>
             <span class="username">smj0398 [at] kaist.ac.kr</span>
             </a-->        
         </div>
@@ -575,7 +575,7 @@ If you want to change the style of the table, please look at the table tags in _
             <i class="fa fa-graduation-cap"></i>
             M.S. in Artificial Intelligence, 2024<br>
             <!--a href="mailto:wognl0402 [at] kaist.ac.kr">
-	    <i class="fa fa-envelope-o"></i>
+	    <i class="far fa-envelope"></i>
 	    <span class="username">wognl0402 [at] kaist.ac.kr</span>
             </a-->
         </div>
@@ -588,7 +588,7 @@ If you want to change the style of the table, please look at the table tags in _
             <i class="fa fa-graduation-cap"></i>
             M.S. in Robotics, 2024<br>
             <!--a href="mailto:coldyoung [at] kaist.ac.kr">
-            <i class="fa fa-envelope-o"></i>
+            <i class="far fa-envelope"></i>
             <span class="username">coldyoung [at] kaist.ac.kr</span>
             </a-->
         </div>
@@ -601,7 +601,7 @@ If you want to change the style of the table, please look at the table tags in _
             <i class="fa fa-graduation-cap"></i>
             M.S. in School of Computing, 2024<br>
             <!--a href="mailto:kjwoo31 [at] kaist.ac.kr">
-            <i class="fa fa-envelope-o"></i>
+            <i class="far fa-envelope"></i>
             <span class="username">kjwoo31 [at] kaist.ac.kr</span>
             </a-->
         </div>
@@ -614,7 +614,7 @@ If you want to change the style of the table, please look at the table tags in _
             <i class="fa fa-graduation-cap"></i>
             M.S. in Software Engineering, 2024<br>
             <!--a href="mailto:castiron [at] kaist.ac.kr">
-            <i class="fa fa-envelope-o"></i>
+            <i class="far fa-envelope"></i>
             <span class="username">castiron [at] kaist.ac.kr </span>
             </a-->
         </div>
@@ -635,7 +635,7 @@ If you want to change the style of the table, please look at the table tags in _
             <i class="fa fa-graduation-cap"></i>
             Summer Internship, 2024 <br>
             <a href="mailto:gkim27 [at] mit.edu">
-            <i class="fa fa-envelope-o"></i>
+            <i class="far fa-envelope"></i>
             <span class="username">gkim27 [at] mit.edu</span>
             </a>        
         </div>
