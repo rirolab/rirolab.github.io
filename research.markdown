@@ -17,14 +17,14 @@ main_nav: true
 <div class="research">
 
     <!---------------- Topic --------------------->
-    <div class="research-section">Generalist Robots in the Wild: Foundation Models for Long-horizon Tasks</div>
+    <div class="research-section">Generalist Robots in the Wild: Foundation Models for Real-World Tasks</div>
     <div class="boundary-line"></div>
 
     <div class="research-container">
         <br>
-        <img src="/assets/equipment/g1.png" alt="Unitree Humanoid Robot G1">
+        <img src="/assets/equipment/fm_goal.png" alt="High-precision task for Humanoid Robot ">
         <br>
-        We aim to develop fundamental learning methodologies for whole-body manipulation using humanoid robots, including humanoid robots (Unitree G1) and a mobile humanoid platform (T.B.D). Whole-body manipulation is one of the most rapidly emerging research areas globally. To lead advancements in this domain, the RIRO Lab focuses on both novel policy learning methods based on imitation & reinforcement learning, as well as high-level planning strategies leveraging large language models (LLMs) and other foundation models. Our goal is to develop hierarchical foundation models for complex task executions. We will evaluate the proposed methods on our in-house humanoid platforms and through collaborations with external partners, including Hyundai Motor Company and Samsung Electronics.
+        We aim to develop fundamental learning methodologies for whole-body manipulation using humanoid robots, including a humanoid platform (e.g., Unitree G1) and a mobile humanoid platform (T.B.D). Whole-body manipulation has recently emerged as a key frontier in robotics. To lead advancements in this domain, the RIRO Lab focuses on two core directions: (1) developing novel policy learning methods based on imitation and reinforcement learning, and (2) designing high-level planning strategies that leverage large language models (LLMs) and other foundation models such as vision-language-action (VLA) models. Our long-term goal is to build hierarchical foundation models capable of generalizing across complex, real-world tasks. The proposed methods will be rigorously evaluated using our robotic platforms and through collaborative efforts with industry partners.
         <br>
         <br>
         <b>Keywords</b>: Imitation learning, State-space models (SSM), Diffusion policy, Constraint learning, humanoid navigation
@@ -53,7 +53,7 @@ main_nav: true
     <br>
 
     <!---------------- Topic --------------------->
-    <div class="research-section">LLM/VLM/LMM-based Task-and-Motion Planning</div>
+    <div class="research-section">LLM/VLM-based Task-and-Motion Planning</div>
     <div class="boundary-line"></div>
 
     <div class="research-container">
@@ -71,7 +71,7 @@ main_nav: true
     <br>
 
     <!---------------- Topic --------------------->
-    <div class="research-section">Language-guided Quadrupedal Robot Navigation & Manipulation</div>
+    <div class="research-section">Language-Guided Navigation & Manipulation </div>
     <div class="boundary-line"></div>
 
     <div class="research-container">
@@ -79,7 +79,11 @@ main_nav: true
         <img src="/assets/research/research_quad.jpg" alt="Task-and-Motion Planning" >
         <!--img src="/assets/research/research_grounding.png" alt="Commonsense spatial grounding" -->
         <br>
-        Natural language is a convenient means to deliver a user’s high-level instruction. We introduce a language-guided manipulation framework that learns common-sense knowledge from natural language instructions and corresponding motion demonstrations. We apply the technologies on various quadrupedal robots like Boston Dynamics Spot!
+Natural language is one of the most intuitive and accessible ways for humans to convey intent, without the need for specialized tools or training. This research aims to ground natural language instructions in real-world robotic tasks involving navigation and manipulation. While conventional natural language grounding (NLG) methods often focus on mapping language to sparse goal specifications, our approach explores richer forms of grounding—spanning spatial reasoning, action understanding, and plan generation—by leveraging common-sense knowledge and motion demonstrations.
+
+A key challenge in this domain is the inherent ambiguity and implicit assumptions in human instructions. To address this, we develop frameworks that learn common-sense priors from language-motion pairs, enabling robots to interpret under-specified instructions in a context-aware manner.
+
+Our methods are evaluated on diverse mobile platforms, including quadrupedal robots such as Boston Dynamics Spot, demonstrating the effectiveness of language-guided policy learning in both structured and unstructured environments.
         <br>
         <br>
         <b>Keywords</b>: Quadruped robot, Semantic SLAM, Natural language grounding, Space grounding

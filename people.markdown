@@ -618,10 +618,6 @@ If you want to change the style of the table, please look at the table tags in _
             MIT CS Undergraduate <br>
             <i class="fa fa-graduation-cap"></i>
             Summer Internship, 2024 <br>
-            <a href="mailto:gkim27 [at] mit.edu">
-            <i class="far fa-envelope"></i>
-            <span class="username">gkim27 [at] mit.edu</span>
-            </a>        
         </div>
         <div class="boundary-line"></div>
     </div>

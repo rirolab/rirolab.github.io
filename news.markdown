@@ -7,9 +7,10 @@ main_nav: true
 
  <div>
       <ul class="news-list">
-      <li>Jeongho and Minseok's paper has been accepted to RSS, 2025!! </li> 	      
+      <li>We have accepted outstanding students for our 2025 summer internship program, including 김건우, 원상윤, 신무진, 이찬규, 김수원, 강원재, and Teetat Thamronglak.</li>
+      <li>Minseok and Jeongho's paper has been accepted to RSS, 2025!! </li> 	      
       <li>We joined <a href="https://www.aitimes.kr/news/articleView.html?idxno=34578&fbclid=IwY2xjawJklRtleHRuA2FlbQIxMQABHvwiGjNlK54NxIsoCyMBN78nc9Grh3WvPk6kgHASbCVJYNWmrSQysDwSYKbs_aem_L6Rv2Flcoy9Nf2aWVOXJhg" target="_blank"> <b> K-Humanoid Alliance (K-Humanoid 연합)</b> </a> (2025.04.10) </li> 	      
-      <li>We were awarded 8 NVIDIA H100 GPUs through Artificial Intelligence Industry Cluster Agency (AICA) 2025 </li> 	      
+      <li>We were awarded 8 NVIDIA H100 GPUs through Artificial Intelligence Industry Cluster Agency (AICA), 2025 </li> 	      
       <li>Unitree G1 Humanoid arrives at our Lab with support from Hyundai Motors 2025</li> 	      	      
       <li>We appeared in the news story of <a href="https://www.chosun.com/economy/tech_it/2025/01/15/LOSMJ4HMEBEBJJRGUJV3Q44ZHE/" target="_blank"><b>"사람 말 알아듣고 똑똑해진 로봇" - 조선일보</b></a> (2025.01.15) </li> 
       <li>We won the <a href="https://cs.kaist.ac.kr/board/view?bbs_id=news&bbs_sn=11324&menu=83"
