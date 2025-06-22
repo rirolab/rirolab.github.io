@@ -743,7 +743,7 @@ pre code.hljs {
             gap: 1rem 0rem;
             margin: 1.0em;
         }
-	@include media ($tablet) {
+	@include media ($tablet){
             .pub-container {
                 gap: 1rem;                
                 grid-template-columns: 1fr 3fr;
@@ -763,8 +763,11 @@ pre code.hljs {
                 border-radius: 0%;                  
                 
 	        display: block;
-	        margin: auto auto;
-	        width: 60%;
+	        margin: auto;
+	        width: 100%;
+                height: auto;
+                aspect-ratio: 16/9;
+                object-fit: contain;
                 @include media ($tablet) {
 	            width: 100%;
                     height: 160px;
