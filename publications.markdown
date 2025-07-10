@@ -380,7 +380,7 @@ If you want to change the style of the table, please look at the publication tag
                Minseok Song, JeongHo Ha, Bonggyeong Park, Daehyung Park
           </div>
           <div class="publisher">
-               Robotics: Science and Systems (RSS), 2025 (accepted)
+               Robotics: Science and Systems (RSS), 2025 
           </div>
           <div class="btn-links">
                <a class="btn btn-outline-primary btn-page-header btn-sm p-0 pr-2 pl-2 disabled"
