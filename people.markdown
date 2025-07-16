@@ -321,11 +321,6 @@ If you want to change the style of the table, please look at the table tags in _
             <i class="fa fa-graduation-cap"></i>
             <span>Scholar</span>
             </a>
-            <span> | </span>
-            <a href="https://www.linkedin.com/in/minseok-song-442066371">
-            <i class="fa fa-home"></i>
-            <span>LinkedIn</span>
-            </a>
         </div>
 
         <!--Minseok Song  -->
@@ -350,7 +345,12 @@ If you want to change the style of the table, please look at the table tags in _
             <a href="https://scholar.google.com/citations?user=MErjm0EAAAAJ">
             <i class="fa fa-graduation-cap"></i>
             <span>Scholar</span>
-            </a> 
+            </a>
+	    <span> | </span>
+            <a href="https://www.linkedin.com/in/minseok-song-442066371">
+            <i class="fa fa-home"></i>
+            <span>LinkedIn</span>
+            </a>
         </div>
 
 	<!--Seungsup Lee  -->
