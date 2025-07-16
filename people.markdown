@@ -423,6 +423,28 @@ If you want to change the style of the table, please look at the table tags in _
             </a>
         </div>
 
+        <!--Yunha Jo -->
+        <div class="img-column">
+            <img src="/assets/people/yunha_jo.jpg" alg="" >
+        </div>
+        <div class="exp-column">
+            <b>Yunha Jo</b><br>
+            Graduate School of AI, 2025<br>
+	    <i class="fa-solid fa-microscope"></i>
+            Robot Learning<br>
+            <a href="mailto:yio217 [at] kaist.ac.kr">
+            <i class="far fa-envelope"></i>
+            <span class="username">yio217 [at] kaist.ac.kr </span>
+            </a>
+            <br> 
+            <a href="https://github.com/yio217">
+            <i class="fab fa-github"></i>
+            <span>Github</span>
+            </a>
+        </div>
+
+        <div class="boundary-line"></div>
+
     </div>
     <br>
 
