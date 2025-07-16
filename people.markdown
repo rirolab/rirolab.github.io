@@ -448,13 +448,7 @@ If you want to change the style of the table, please look at the table tags in _
             <i class="fab fa-github"></i>
             <span>Github</span>
             </a>
-            <span> | </span>
-            <a href="https://scholar.google.com/citations?user=f7HbsNkAAAAJ&hl=en">
-            <i class="fa fa-graduation-cap"></i>
-            <span>Scholar</span>
-            </a>
         </div>
-
 
     </div>
     <br>
