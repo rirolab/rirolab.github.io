@@ -15,6 +15,42 @@ If you want to change the style of the table, please look at the publication tag
 <!------------------- Journal Articles --------------------->
 <div class="pub-title"> Journal Articles </div>
 
+<!-- 2025 RA-L ILCL -->
+<div class="pub-container">
+    <div class="img-column">
+        <img style="width: 85%" src="/assets/research/2025_RSS_ILCL.png">
+     </div>
+     <div class="exp-column">
+          <div class="title">
+               ILCL: Inverse Logic-Constraint Learning from Temporally Constrained Demonstrations
+          </div>
+          <div class="authors">
+               Minwoo Cho, Jaehwi Jang, Daehyung Park
+          </div>
+          <div class="publisher">
+               under review
+          </div>
+          <div class="btn-links">
+               <a class="btn btn-outline-primary btn-page-header btn-sm p-0 pr-2 pl-2 disabled"
+                  href="https://arxiv.org/abs/2507.11000, https://minchou.github.io/projects/ilcl.html"
+                  target="_blank" rel="noopener">
+                  <i class="ion-ios-document mr-2"></i><span>Paper</span>
+               </a>
+               <a class="btn btn-outline-primary btn-page-header btn-sm p-0 pr-2 pl-2 disabled"
+                  href="https://arxiv.org/abs/2409.14719" target="_blank" rel="noopener">
+                  <i class="ion-ios-document mr-2"></i><span>ePrint</span>
+               </a>
+               <a class="btn btn-outline-primary btn-page-header btn-sm p-0 pr-2 pl-2 disabled"
+                  href="https://minchou.github.io/projects/ilcl.html" target="_blank" rel="noopener">
+                  <i class="ion-ios-globe mr-2"></i><span>Site</span>
+               </a>
+          </div>
+     </div>
+</div>
+
+<div class="boundary-line" ></div>
+
+
 <!-- 2024 ISR Survey -->
 <div class="pub-container">
      <div class="img-column">
@@ -328,6 +364,9 @@ If you want to change the style of the table, please look at the publication tag
      </div>
 </div>
 
+<div class="boundary-line" ></div>
+
+
 <br>
 <!------------------- International Conference Articles --------------------->
 <div class="pub-title"> International Conference Articles </div>
@@ -365,74 +404,7 @@ If you want to change the style of the table, please look at the publication tag
      </div>
 </div>
 
-
-
-<!-- 2025 RSS INR-DOM -->
-<div class="pub-container">
-    <div class="img-column">
-        <img style="width: 85%" src="/assets/research/2025_RSS_INR_DOM.gif">
-     </div>
-     <div class="exp-column">
-          <div class="title">
-               Implicit Neural-Representation Learning for Elastic Deformable-Object Manipulation
-          </div>
-          <div class="authors">
-               Minseok Song, JeongHo Ha, Bonggyeong Park, Daehyung Park
-          </div>
-          <div class="publisher">
-               Robotics: Science and Systems (RSS), 2025 
-          </div>
-          <div class="btn-links">
-               <a class="btn btn-outline-primary btn-page-header btn-sm p-0 pr-2 pl-2 disabled"
-                  href="http://ieeexplore.ieee.org/document/8279425/"
-                  target="_blank" rel="noopener">
-                  <i class="ion-ios-document mr-2"></i><span>Paper</span>
-               </a>
-               <a class="btn btn-outline-primary btn-page-header btn-sm p-0 pr-2 pl-2"
-                  href="https://arxiv.org/abs/2505.00500" target="_blank" rel="noopener">
-                  <i class="ion-ios-document mr-2"></i><span>ePrint</span>
-               </a>
-               <a class="btn btn-outline-primary btn-page-header btn-sm p-0 pr-2 pl-2 "
-                  href="https://inr-dom.github.io" target="_blank" rel="noopener">
-                  <i class="ion-ios-globe mr-2"></i><span>Site</span>
-               </a>
-          </div>
-     </div>
-</div>
-
-<!-- 2025 RSS ILCL -->
-<div class="pub-container">
-    <div class="img-column">
-        <img style="width: 85%" src="/assets/research/2025_RSS_ILCL.png">
-     </div>
-     <div class="exp-column">
-          <div class="title">
-               ILCL: Inverse Logic-Constraint Learning from Temporally Constrained Demonstrations
-          </div>
-          <div class="authors">
-               Minwoo Cho, Jaehwi Jang, Daehyung Park
-          </div>
-          <div class="publisher">
-               under review
-          </div>
-          <div class="btn-links">
-               <a class="btn btn-outline-primary btn-page-header btn-sm p-0 pr-2 pl-2 disabled"
-                  href="http://ieeexplore.ieee.org/document/8279425/"
-                  target="_blank" rel="noopener">
-                  <i class="ion-ios-document mr-2"></i><span>Paper</span>
-               </a>
-               <a class="btn btn-outline-primary btn-page-header btn-sm p-0 pr-2 pl-2 disabled"
-                  href="https://arxiv.org/abs/2409.14719" target="_blank" rel="noopener">
-                  <i class="ion-ios-document mr-2"></i><span>ePrint</span>
-               </a>
-               <a class="btn btn-outline-primary btn-page-header btn-sm p-0 pr-2 pl-2 disabled"
-                  href="https://youtu.be/ZMAGEQx5Uy8" target="_blank" rel="noopener">
-                  <i class="ion-ios-globe mr-2"></i><span>Site</span>
-               </a>
-          </div>
-     </div>
-</div>
-
+<div class="boundary-line" ></div>
 
 <!-- 2025 CoRL DisPo -->
 <div class="pub-container">
@@ -461,6 +433,41 @@ If you want to change the style of the table, please look at the publication tag
                </a>
                <a class="btn btn-outline-primary btn-page-header btn-sm p-0 pr-2 pl-2"
                   href="https://www.youtube.com/watch?v=vAdhXM6G2DQ" target="_blank" rel="noopener">
+                  <i class="ion-ios-globe mr-2"></i><span>Site</span>
+               </a>
+          </div>
+     </div>
+</div>
+
+<div class="boundary-line" ></div>
+
+<!-- 2025 RSS INR-DOM -->
+<div class="pub-container">
+    <div class="img-column">
+        <img style="width: 85%" src="/assets/research/2025_RSS_INR_DOM.gif">
+     </div>
+     <div class="exp-column">
+          <div class="title">
+               Implicit Neural-Representation Learning for Elastic Deformable-Object Manipulation
+          </div>
+          <div class="authors">
+               Minseok Song, JeongHo Ha, Bonggyeong Park, Daehyung Park
+          </div>
+          <div class="publisher">
+               Robotics: Science and Systems (RSS), 2025 
+          </div>
+          <div class="btn-links">
+               <a class="btn btn-outline-primary btn-page-header btn-sm p-0 pr-2 pl-2 disabled"
+                  href="http://ieeexplore.ieee.org/document/8279425/"
+                  target="_blank" rel="noopener">
+                  <i class="ion-ios-document mr-2"></i><span>Paper</span>
+               </a>
+               <a class="btn btn-outline-primary btn-page-header btn-sm p-0 pr-2 pl-2"
+                  href="https://arxiv.org/abs/2505.00500" target="_blank" rel="noopener">
+                  <i class="ion-ios-document mr-2"></i><span>ePrint</span>
+               </a>
+               <a class="btn btn-outline-primary btn-page-header btn-sm p-0 pr-2 pl-2 "
+                  href="https://inr-dom.github.io" target="_blank" rel="noopener">
                   <i class="ion-ios-globe mr-2"></i><span>Site</span>
                </a>
           </div>
