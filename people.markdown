@@ -321,6 +321,11 @@ If you want to change the style of the table, please look at the table tags in _
             <i class="fa fa-graduation-cap"></i>
             <span>Scholar</span>
             </a>
+            <span> | </span>
+            <a href="https://www.linkedin.com/in/minseok-song-442066371">
+            <i class="fa fa-home"></i>
+            <span>LinkedIn</span>
+            </a>
         </div>
 
         <!--Minseok Song  -->
@@ -500,14 +505,12 @@ If you want to change the style of the table, please look at the table tags in _
         </div>
         <div class="exp-column">
             <b>Jisang Park</b><br>
-            Research Associate <br>
-            <i class="fa fa-graduation-cap"></i>
-            B.B.A & B.S. in Computer Science & Engineering, SNU (2022)<br>
+            Contract Research Scientist <br>
 	    <i class="fa-solid fa-microscope"></i>
-            HRI, Perception, Task Planning<br>
-            <a href="mailto:jisang.park [at] kaist.ac.kr">
+            Task Planning, LLM/VLM <br>
+            <a href="mailto:jisangp [at] stanford.edu">
             <i class="far fa-envelope"></i>
-            <span class="username">jisang.park [at] kaist.ac.kr </span>
+            <span class="username">jisangp [at] stanford.edu </span>
             </a>
             <br>   
             <a href="https://github.com/alsichcan">
@@ -532,14 +535,33 @@ If you want to change the style of the table, please look at the table tags in _
 
 
     <!---------------- Visiting Scholars. --------------------->
-    <!-- <div class="people-section">Visiting Scholars</div>
+    <div class="people-section">Visiting Scholars</div>
     <div class="people-container">
-
         <div class="boundary-line"></div>
+
+        <!-- Teetat  -->
+        <div class="img-column">
+            <img src="/assets/people/teetat.jpg" alg="" >
+        </div>
+        <div class="exp-column">
+            <b>Teetat Thamronglak</b><br>
+            SoC Summer Internship 2025<br>
+	    <i class="fa-solid fa-microscope"></i>
+            Imitation Learning<br>
+            <a href="mailto:6632100121 [at] student.chula.ac.th">
+            <i class="far fa-envelope"></i>
+            <span class="username">6632100121 [at] student.chula.ac.th </span>
+            </a>
+            <br>   
+            <a href="https://github.com/ttamx">
+            <i class="fab fa-github"></i>
+            <span>Github</span>
+            </a>
+        </div>
 
         <div class="boundary-line"></div>
     </div>
-    <br> -->
+    <br>
 
 
     <!---------------- Alum. --------------------->
