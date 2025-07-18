@@ -448,6 +448,31 @@ If you want to change the style of the table, please look at the table tags in _
             </a>
         </div>
 
+        <!--Hyungjin Kwon -->
+        <div class="img-column">
+            <img src="/assets/people/hyungjin_kwon.jpg" alg="" >
+        </div>
+        <div class="exp-column">
+            <b>Hyungjin Kwon</b><br>
+            Robotics Program, 2025<br>
+	    <i class="fa-solid fa-microscope"></i>
+            Planning, Navigation<br>
+            <a href="mailto:hjkwon [at] kaist.ac.kr">
+            <i class="far fa-envelope"></i>
+            <span class="username">hjkwon [at] kaist.ac.kr </span>
+            </a>
+            <br> 
+            <a href="https://github.com/Derrick-Kwon">
+            <i class="fab fa-github"></i>
+            <span>Github</span>
+            </a>
+            <span> | </span>
+            <a href="https://scholar.google.com/citations?user=PK9-Mh0AAAAJ&hl=en">
+            <i class="fa fa-graduation-cap"></i>
+            <span>Scholar</span>
+            </a>
+        </div>
+
         <div class="boundary-line"></div>
 
     </div>
