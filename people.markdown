@@ -188,31 +188,6 @@ If you want to change the style of the table, please look at the table tags in _
             </a>        
         </div>
 
-        <!--Minwoo Cho  -->
-        <div class="img-column">
-            <img src="/assets/people/minwoo_cho.jpg" alg="" >
-        </div>
-        <div class="exp-column">
-            <b>Minwoo Cho</b><br>
-            School of Computing, 2023<br>
-	    <i class="fa-solid fa-microscope"></i>
-            Constrained RL, Inverse RL, Constraint Inference<br>
-            <a href="mailto:cmw9903 [at] kaist.ac.kr">
-            <i class="far fa-envelope"></i>
-            <span class="username">cmw9903 [at] kaist.ac.kr </span>
-            </a>
-            <br>
-            <a href="https://github.com/MinchoU">
-            <i class="fab fa-github"></i>
-            <span>Github</span>
-            </a>
-            <span> | </span>
-            <a href="https://scholar.google.com/citations?user=yeAv8qEAAAAJ">
-            <i class="fa fa-graduation-cap"></i>
-            <span>Scholar</span>
-            </a>
-        </div>
-
         <!--Keonyoung Koh  -->
         <div class="img-column">
             <img src="/assets/people/keonyoung_koh.jpg" alg="" >
@@ -428,26 +403,6 @@ If you want to change the style of the table, please look at the table tags in _
             </a>
         </div>
 
-        <!--Yunha Jo -->
-        <div class="img-column">
-            <img src="/assets/people/yunha_jo.jpg" alg="" >
-        </div>
-        <div class="exp-column">
-            <b>Yunha Jo</b><br>
-            Graduate School of AI, 2025<br>
-	    <i class="fa-solid fa-microscope"></i>
-            Robot Learning<br>
-            <a href="mailto:yio217 [at] kaist.ac.kr">
-            <i class="far fa-envelope"></i>
-            <span class="username">yio217 [at] kaist.ac.kr </span>
-            </a>
-            <br> 
-            <a href="https://github.com/yio217">
-            <i class="fab fa-github"></i>
-            <span>Github</span>
-            </a>
-        </div>
-
         <!--Hyungjin Kwon -->
         <div class="img-column">
             <img src="/assets/people/hyungjin_kwon.jpg" alg="" >
@@ -519,44 +474,13 @@ If you want to change the style of the table, please look at the table tags in _
 
 
     <!------------ Research Associate and Assistant ---------------->
-    <div class="people-section">Research Associate & Assistant</div>
+    <!--div class="people-section">Research Associate & Assistant</div>
     <div class="people-container">
 
         <div class="boundary-line"></div>
 
-        <!-- jisang park  -->
-        <div class="img-column">
-            <img src="/assets/people/jisang_park.jpg" alg="" >
-        </div>
-        <div class="exp-column">
-            <b>Jisang Park</b><br>
-            Contract Research Scientist <br>
-	    <i class="fa-solid fa-microscope"></i>
-            Task Planning, LLM/VLM <br>
-            <a href="mailto:jisangp [at] stanford.edu">
-            <i class="far fa-envelope"></i>
-            <span class="username">jisangp [at] stanford.edu </span>
-            </a>
-            <br>   
-            <a href="https://github.com/alsichcan">
-            <i class="fab fa-github"></i>
-            <span>Github</span>
-            </a>
-            <span> | </span>
-            <a href="https://scholar.google.com/citations?user=YXjaSZoAAAAJ">
-            <i class="fa fa-graduation-cap"></i>
-            <span>Scholar</span>
-            </a>
-            <span> | </span>
-            <a href="https://www.linkedin.com/in/jace-jisang-park">
-            <i class="fa fa-home"></i>
-            <span>LinkedIn</span>
-            </a>      
-        </div>
-
-        <div class="boundary-line"></div>
     </div>
-    <br>
+    <br-->
 
 
     <!---------------- Visiting Scholars. --------------------->
@@ -593,6 +517,22 @@ If you want to change the style of the table, please look at the table tags in _
     <div class="people-section">Alumni</div>
     <div class="people-container">
         <div class="boundary-line"></div>
+
+
+        <div class="img-column">
+            <a href="https://github.com/MinchoU">Minwoo Cho</a>
+        </div>
+        <div class="exp-column">
+            T.B.D. <br>
+            <i class="fa fa-graduation-cap"></i> 
+            M.S. in School of Computing, 2025<br>
+            <!--a href="mailto:cmw9903 [at] kaist.ac.kr">
+            <i class="far fa-envelope"></i>
+            <span class="username">cmw9903 [at] kaist.ac.kr </span>
+            </a-->
+        </div>
+
+
 
         <div class="img-column">
             Jieun Choi
@@ -677,9 +617,19 @@ If you want to change the style of the table, please look at the table tags in _
     <br>
 
     <!---------------- Past Visiting Scholars. --------------------->
-    <div class="people-section">Past Visiting Scholars</div>
+    <div class="people-section">Past RA & Visiting Scholars </div>
     <div class="people-container">
         <div class="boundary-line"></div>
+
+        <div class="img-column">
+            <a href="https://www.linkedin.com/in/jace-jisang-park">Jisang Park</a>
+        </div>
+        <div class="exp-column">
+            Stanford CS MS <br>
+            <i class="fa fa-graduation-cap"></i>
+            Research Assistant, 2024-2025 <br>
+        </div>
+
         <div class="img-column">
             Gyeongwu Kim
         </div>
