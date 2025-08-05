@@ -13,7 +13,7 @@
 }
 
 .cbs_slider ul.imgs{
-    padding: 0px 0px 0px;
+    padding: 0;
     margin: 0;
 }
 
@@ -117,21 +117,34 @@
 
 .cbs_slider .imgs>li:nth-child(1)>div{
 	background-image: url("/assets/humanoid.gif");
+        aspect-ratio: 16 / 9;
         background-color: #fff;
-	background-size: contain;
+	background-size: cover;
+	background-position: center;
+        background-repeat: no-repeat;
 }
 .cbs_slider .imgs>li:nth-child(2)>div{
-	background-image: url("/assets/advertisement.png");
+        background-image: url("/assets/advertisement.png");
+        aspect-ratio: 16 / 9;
         background-color: #fff;
 	background-size: contain;
+	background-position: center;
+        background-repeat: no-repeat;
+        width: 100%;
 }
 .cbs_slider .imgs>li:nth-child(3)>div{
 	background-image: url("/assets/group_202402.jpg");
+        aspect-ratio: 16 / 9;
         background-color: #fff;
-	background-size: contain;
+	background-size: cover;
+	background-position: center 35%;
+        background-repeat: no-repeat;
 }
 .cbs_slider .imgs>li:nth-child(4)>div{
 	background-image: url("/assets/lab_cover_img.jpg");
+        aspect-ratio: 16 / 9;
         background-color: #fff;
-	background-size: contain;
+	background-size: cover;
+	background-position: center;
+        background-repeat: no-repeat;
 }

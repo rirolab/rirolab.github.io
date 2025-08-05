@@ -142,13 +142,14 @@ pre code.hljs {
 */
 .navigation {
     box-shadow: 0 2px $highlight-color;
-    padding: 0 0em;
+    padding: 0 0;
     margin: 0;
     // Remove this to make header scrollable again
     position: fixed;
     top: 0;
     left: 0;
     right: 0;
+    //height: 60px;
     background: $white;
     z-index: 99;
     
