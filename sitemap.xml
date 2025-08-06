@@ -1,67 +1,68 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset
-      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
-            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
-
-
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-  <loc>https://rirolab.kaist.ac.kr</loc>
-  <lastmod>2024-06-16T16:00:53+00:00</lastmod>
-  <priority>1.00</priority>
+<loc>https://rirolab.github.io/jekyll/update/2020/08/10/welcome-to-jekyll.html</loc>
+<lastmod>2020-08-10T18:22:27+09:00</lastmod>
 </url>
 <url>
-  <loc>https://rirolab.kaist.ac.kr/people</loc>
-  <lastmod>2024-06-16T16:00:53+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>https://rirolab.github.io/news/awards</loc>
 </url>
 <url>
-  <loc>https://rirolab.kaist.ac.kr/news/news</loc>
-  <lastmod>2024-07-19T16:00:53+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>https://rirolab.github.io/contact/</loc>
 </url>
 <url>
-  <loc>https://rirolab.kaist.ac.kr/news/awards</loc>
-  <lastmod>2024-07-19T16:00:53+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>https://rirolab.github.io/publication/domestic/</loc>
 </url>
 <url>
-  <loc>https://rirolab.kaist.ac.kr/research/topics</loc>
-  <lastmod>2024-06-16T16:00:53+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>https://rirolab.github.io/research/equipments/</loc>
 </url>
 <url>
-  <loc>https://rirolab.kaist.ac.kr/research/equipments</loc>
-  <lastmod>2024-06-16T16:00:53+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>https://rirolab.github.io/position/graduates/</loc>
 </url>
 <url>
-  <loc>https://rirolab.kaist.ac.kr/publication/international</loc>
-  <lastmod>2024-06-16T16:00:53+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>https://rirolab.github.io/news/newslist</loc>
 </url>
 <url>
-  <loc>https://rirolab.kaist.ac.kr/publication/domestic</loc>
-  <lastmod>2024-06-16T16:00:53+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>https://rirolab.github.io/people</loc>
 </url>
 <url>
-  <loc>https://rirolab.kaist.ac.kr/position/postdoc</loc>
-  <lastmod>2024-06-16T16:00:53+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>https://rirolab.github.io/position/postdoc/</loc>
 </url>
 <url>
-  <loc>https://rirolab.kaist.ac.kr/position/graduates</loc>
-  <lastmod>2024-06-16T16:00:53+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>https://rirolab.github.io/posts/</loc>
 </url>
 <url>
-  <loc>https://rirolab.kaist.ac.kr/position/undergrads</loc>
-  <lastmod>2024-06-16T16:00:53+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>https://rirolab.github.io/advisor</loc>
 </url>
-
-
+<url>
+<loc>https://rirolab.github.io/publication/international</loc>
+</url>
+<url>
+<loc>https://rirolab.github.io/research/topics</loc>
+</url>
+<url>
+<loc>https://rirolab.github.io/position/undergrads/</loc>
+</url>
+<url>
+<loc>https://rirolab.github.io/category/jekyll/</loc>
+</url>
+<url>
+<loc>https://rirolab.github.io/category/update/</loc>
+</url>
+<url>
+<loc>https://rirolab.github.io/assets/css/bootstrap-buttons-20/</loc>
+<lastmod>2025-01-11T00:15:22+09:00</lastmod>
+</url>
+<url>
+<loc>https://rirolab.github.io/assets/css/bootstrap-buttons-20/main.html</loc>
+<lastmod>2025-01-11T00:02:09+09:00</lastmod>
+</url>
+<url>
+<loc>https://rirolab.github.io/googlec7455da8275c0ac3.html</loc>
+<lastmod>2024-07-20T11:09:48+09:00</lastmod>
+</url>
+<url>
+<loc>https://rirolab.github.io/naverc33d48c4c259fc1c8e61b80f9ece56d7.html</loc>
+<lastmod>2024-07-20T11:09:48+09:00</lastmod>
+</url>
 </urlset>
