@@ -1,0 +1,74 @@
+.professor-container {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 2rem;
+  margin: 3rem auto;
+  //max-width: 1000px;
+  padding: 1rem;
+
+  .professor-photo {
+    flex: 1 1 250px;
+    text-align: left;
+    line-height: 1.0;
+
+    img {
+      max-width: none;
+      width: 100%;  
+      height: auto;
+      border-radius: 8px;
+      box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+    }
+  }
+
+  .professor-info {
+    flex: 2 1 600px;
+
+    h2 {
+      font-size: 2rem;
+      margin-bottom: 0.2rem;
+    }
+
+    h3 {
+      margin-top: 2rem;
+      font-size: 1.3rem;
+      border-bottom: 1px solid #ccc;
+      padding-bottom: 0.3rem;
+    }
+
+    p, li {
+      font-size: 1rem;
+      line-height: 1.0;
+      color: #333;
+    }
+
+    ul {
+      padding-left: 1.2rem;
+      li{  
+          line-height: 1.3;
+          margin-bottom: 0.5em;  // 항목 아래에 추가 여백          
+      }
+    }
+
+    a {
+      color: #0055aa;
+      text-decoration: underline;
+
+      &:hover {
+        color: #003d80;
+      }
+    }
+  }
+}
+
+// 반응형 (모바일 대응)
+@media screen and (max-width: 768px) {
+  .professor-container {
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+
+    .professor-info {
+      text-align: left;
+    }
+  }
+}

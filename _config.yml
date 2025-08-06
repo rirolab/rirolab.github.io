@@ -115,6 +115,8 @@ maps:
 
 # Navigation
 navigation:
+  - title: "Advisor"
+    url: /advisor
   - title: "People"
     url: /people
   - title: "News"
