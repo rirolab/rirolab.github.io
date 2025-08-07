@@ -14,7 +14,7 @@ main_nav: true
 5. <a href="https://gsai.kaist.ac.kr/admission"> AI 대학원 (Kim Jaechul Graduate School) </a>: KAIST 장학생
    
 ## Potential Research Topics
-1. Whole-body manipulation for humanoid robots 
+1. Robot foundation model / vision-language action model for humanoid robots 
 2. Language-driven mobile manipulation (natural language grounding)
 3. Inverse reinforcement learning / inverse constraint learning
 4. Deformable object manipulation using diffusion policy/state-space models (SSM)
