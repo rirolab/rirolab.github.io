@@ -58,6 +58,9 @@ main_nav: true
 
 <ol>
 <div class="pub-item"><li>
+     Seunghyuk Hyun et al. <b style="color:red;">학부생논문상</b>, 제어로봇시스템학회, 2025.
+</li></div>
+<div class="pub-item"><li>
      Minseok Song et al. <b style="color:red;">학부생우수논문상</b>, 제어로봇시스템학회, 2024.
 </li></div>
 
