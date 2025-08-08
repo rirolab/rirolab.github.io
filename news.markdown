@@ -7,8 +7,8 @@ main_nav: true
 
  <div>
       <ul class="news-list">
-      <li>Seunghyuk and Minwoo received an ICROS 2025 Undergraduate Research Paper Award.</li>      
-      <li>We have accepted outstanding students for our 2025 summer internship program, including 김건우, 원상윤, 신무진, 이찬규, 김수원, 강원재, and Teetat Thamronglak.</li>
+      <li>Seunghyuk and Minwoo received an ICROS 2025 Undergraduate Research Paper Award, 2025.</li>      
+      <li>We have accepted outstanding students for our 2025 summer internship program, including 김건우, 원상윤, 신무진, 이찬규, 김수원, 강원재, and Teetat Thamronglak, 2025.</li>
       <li>Our INR-DOM work appeared in <a href="https://kmatrix.kaist.ac.kr/advancements-in-elastic-deformable-object-manipulation/" target="_blank"><b>the KI news letter</b></a> (2025.04.22) </li> 	      
       <li>Minseok and Jeongho's paper has been accepted to RSS, 2025!! </li> 	      
       <li>We joined <a href="https://www.aitimes.kr/news/articleView.html?idxno=34578&fbclid=IwY2xjawJklRtleHRuA2FlbQIxMQABHvwiGjNlK54NxIsoCyMBN78nc9Grh3WvPk6kgHASbCVJYNWmrSQysDwSYKbs_aem_L6Rv2Flcoy9Nf2aWVOXJhg" target="_blank"> <b> K-Humanoid Alliance (K-Humanoid 연합)</b> </a> (2025.04.10) </li> 	      
