@@ -17,7 +17,7 @@ main_nav: true
   <br>
   <p><strong>Contact Information</strong></p>
   <p>Call: +82-42-350-3586</p>
-  <p>E-mail: daehyung [at] kasit.ac.kr</p>
+  <p>E-mail: daehyung [at] kaist.ac.kr</p>
   <p>
   <a href="https://scholar.google.com/citations?user=5mWSk04AAAAJ">
                <i class="fa fa-graduation-cap"></i>
