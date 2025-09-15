@@ -484,33 +484,14 @@ If you want to change the style of the table, please look at the table tags in _
 
 
     <!---------------- Visiting Scholars. --------------------->
-    <div class="people-section">Visiting Scholars</div>
+    <!-- <div class="people-section">Visiting Scholars</div>
     <div class="people-container">
         <div class="boundary-line"></div>
 
-        <!-- Teetat  -->
-        <div class="img-column">
-            <img src="/assets/people/teetat.jpg" alg="" >
-        </div>
-        <div class="exp-column">
-            <b>Teetat Thamronglak</b><br>
-            SoC Summer Internship 2025<br>
-	    <i class="fa-solid fa-microscope"></i>
-            Imitation Learning<br>
-            <a href="mailto:6632100121 [at] student.chula.ac.th">
-            <i class="far fa-envelope"></i>
-            <span class="username">6632100121 [at] student.chula.ac.th </span>
-            </a>
-            <br>   
-            <a href="https://github.com/ttamx">
-            <i class="fab fa-github"></i>
-            <span>Github</span>
-            </a>
-        </div>
 
         <div class="boundary-line"></div>
     </div>
-    <br>
+    <br> -->
 
 
     <!---------------- Alum. --------------------->
@@ -620,6 +601,15 @@ If you want to change the style of the table, please look at the table tags in _
     <div class="people-section">Past RA & Visiting Scholars </div>
     <div class="people-container">
         <div class="boundary-line"></div>
+
+        <div class="img-column">
+            Teetat Thamronglak
+        </div>
+        <div class="exp-column">
+            Chulalongkorn University CE Undergraduate <br>
+            <i class="fa fa-graduation-cap"></i>
+            Summer Internship, 2025 <br>
+        </div>
 
         <div class="img-column">
             <a href="https://www.linkedin.com/in/jace-jisang-park">Jisang Park</a>
