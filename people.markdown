@@ -352,7 +352,7 @@ If you want to change the style of the table, please look at the table tags in _
             <span>Scholar</span>
             </a>
             <span> | </span>
-            <a href="https://www.linkedin.com/profile/in/samuelseungsuplee/">
+            <a href="https://www.linkedin.com/in/samuelseungsuplee/">
             <i class="fa fa-home"></i>
             <span>LinkedIn</span>
             </a>           
@@ -381,6 +381,11 @@ If you want to change the style of the table, please look at the table tags in _
             <i class="fa fa-graduation-cap"></i>
             <span>Scholar</span>
             </a>
+            <span> | </span>
+            <a href="https://www.linkedin.com/in/junpark-ai/">
+            <i class="fa fa-home"></i>
+            <span>LinkedIn</span>
+            </a>           
         </div>
 
         <!-- 장재형 -->
@@ -449,12 +454,97 @@ If you want to change the style of the table, please look at the table tags in _
             School of Computing, 2023 <br>
 	    <i class="fa-solid fa-microscope"></i>
             Natural Language Grounding<br>
-            <a href="mailto:seongahyoung [at] gmail.com">
+            <a href="mailto:seongahyoung [at] kaist.ac.kr">
             <i class="far fa-envelope"></i>
-            <span class="username">seongahyoung [at] gmail.com</span>
+            <span class="username">seongahyoung [at] kaist.ac.kr</span>
             </a>
             <br>
             <a href="https://github.com/ahyoungS">
+            <i class="fab fa-github"></i>
+            <span>Github</span>
+            </a>
+        </div>
+
+        <!-- 김수원 -->
+        <div class="img-column">
+            <img src="/assets/people/soowon_kim.jpg" alg="" >
+        </div>
+        <div class="exp-column">
+            <b>Soowon Kim</b><br>            
+            Mechanical Engineering, 2021 <br>
+	    <i class="fa-solid fa-microscope"></i>
+            Locomotion, Manipulation<br>
+            <a href="mailto:soowonic2373 [at] kaist.ac.kr">
+            <i class="far fa-envelope"></i>
+            <span class="username">soowonic2373 [at] kaist.ac.kr</span>
+            </a>
+            <br>
+            <a href="https://github.com/soowonic">
+            <i class="fab fa-github"></i>
+            <span>Github</span>
+            </a>
+        </div>
+
+        <!-- 이찬규 -->
+        <div class="img-column">
+            <img src="/assets/people/chankyu_lee.jpg" alg="" >
+        </div>
+        <div class="exp-column">
+            <b>Chankyu Lee</b><br>            
+            School of Computing, 2019 <br>
+	    <i class="fa-solid fa-microscope"></i>
+            Manipulation<br>
+            <a href="mailto:chankyu04 [at] kaist.ac.kr">
+            <i class="far fa-envelope"></i>
+            <span class="username">chankyu04 [at] kaist.ac.kr</span>
+            </a>
+            <br>
+            <a href="https://github.com/framewolf">
+            <i class="fab fa-github"></i>
+            <span>Github</span>
+            </a>
+        </div>
+
+        <!-- 강원재 -->
+        <div class="img-column">
+            <img src="/assets/people/wonjae_kang.jpg" alg="" >
+        </div>
+        <div class="exp-column">
+            <b>Wonjae Kang</b><br>            
+            School of Computing, 2024 <br>
+	    <i class="fa-solid fa-microscope"></i>
+            Manipulation, Foundation Models<br>
+            <a href="mailto:k1j24 [at] kaist.ac.kr">
+            <i class="far fa-envelope"></i>
+            <span class="username">k1j24 [at] kaist.ac.kr</span>
+            </a>
+            <br>
+            <a href="https://github.com/gssh1602">
+            <i class="fab fa-github"></i>
+            <span>Github</span>
+            </a>
+            <span> | </span>
+            <a href="https://www.linkedin.com/in/heyits-willkang/">
+            <i class="fa fa-home"></i>
+            <span>LinkedIn</span>
+            </a>
+        </div>
+
+        <!-- 신무진 -->
+        <div class="img-column">
+            <img src="/assets/people/mujin_shin.jpg" alg="" >
+        </div>
+        <div class="exp-column">
+            <b>Mujin Shin</b><br>            
+            Electrical Engineering, 2020 <br>
+	    <i class="fa-solid fa-microscope"></i>
+            Perception, Manipulation Models<br>
+            <a href="mailto:frank0216 [at] kaist.ac.kr">
+            <i class="far fa-envelope"></i>
+            <span class="username">frank0216 [at] kaist.ac.kr</span>
+            </a>
+            <br>
+            <a href="https://github.com/moo-jin">
             <i class="fab fa-github"></i>
             <span>Github</span>
             </a>
