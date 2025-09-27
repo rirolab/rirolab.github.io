@@ -9,9 +9,8 @@ main_nav: true
 ## List of Available Graduate Schools
 1. <a href="https://cs.kaist.ac.kr/content?menu=41"> 전산학부 (School of Computing) </a>: 국비장학생, KAIST 장학생, International Students
 2. <a href="https://rp.kaist.ac.kr/home/admission"> 로봇학제전공 - 삼성전자 로보틱스 인재양성 프로그램 (REPS) </a>: KAIST 장학생 (연구실 TO외 우선선발)
-3. <a href="https://isc.kaist.ac.kr/sub0301"> 안보과학기술대학원 </a>: KAIST 장학생
-4. <a href="https://rp.kaist.ac.kr/home/admission"> 로봇학제전공 (Robotics Program) </a>: KAIST 장학생
-5. <a href="https://gsai.kaist.ac.kr/admission"> AI 대학원 (Kim Jaechul Graduate School) </a>: KAIST 장학생
+3. <a href="https://rp.kaist.ac.kr/home/admission"> 로봇학제전공 (Robotics Program) </a>: KAIST 장학생
+4. <a href="https://gsai.kaist.ac.kr/admission"> AI 대학원 (Kim Jaechul Graduate School) </a>: KAIST 장학생
    
 ## Potential Research Topics
 1. Robot foundation model / vision-language action model for humanoid robots 
