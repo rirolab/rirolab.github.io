@@ -622,7 +622,7 @@ If you want to change the style of the table, please look at the table tags in _
             Minjae Song
         </div>
         <div class="exp-column">
-            Maum AI<br>
+            Vuno<br>
             <i class="fa fa-graduation-cap"></i>
             M.S. in School of Computing, 2024<br>
             <!--a href="mailto:smj0398 [at] kaist.ac.kr">
