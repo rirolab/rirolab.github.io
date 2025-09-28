@@ -372,6 +372,75 @@ If you want to change the style of the table, please look at the publication tag
 <div class="pub-title"> International Conference Articles </div>
 
 
+<!-- 2026 ICRA SuReNav-->
+<div class="pub-container">
+    <div class="img-column">
+        <img style="width: 85%" src="/assets/research/2026_ICRA_SuReNav.gif">
+     </div>
+     <div class="exp-column">
+          <div class="title">
+               SuReNav: Superpixel Graph-based Constraint Relaxation for Navigation in Over-constrained Environments
+          </div>
+          <div class="authors">
+               Keonyoung Koh, Moonkyeong Jung, Samuel Seungsup Lee, Daehyung Park
+          </div>
+          <div class="publisher">
+               under review
+          </div>
+          <div class="btn-links">
+               <a class="btn btn-outline-primary btn-page-header btn-sm p-0 pr-2 pl-2 disabled"
+                  href="http://ieeexplore.ieee.org/document/8279425/"
+                  target="_blank" rel="noopener">
+                  <i class="ion-ios-document mr-2"></i><span>Paper</span>
+               </a>
+               <a class="btn btn-outline-primary btn-page-header btn-sm p-0 pr-2 pl-2 disabled"
+                  href="https://arxiv.org/abs/2505.00500" target="_blank" rel="noopener">
+                  <i class="ion-ios-document mr-2"></i><span>ePrint</span>
+               </a>
+               <a class="btn btn-outline-primary btn-page-header btn-sm p-0 pr-2 pl-2 disabled"
+                  href="https://inr-dom.github.io" target="_blank" rel="noopener">
+                  <i class="ion-ios-globe mr-2"></i><span>Site</span>
+               </a>
+          </div>
+     </div>
+</div>
+
+<div class="boundary-line" ></div>
+
+<!-- 2026 RiTA Gripper-->
+<div class="pub-container">
+    <div class="img-column">
+        <img style="width: 85%" src="/assets/research/2026_RiTA_Gripper.png">
+     </div>
+     <div class="exp-column">
+          <div class="title">
+               A Visuo-Tactile Data Collection System with Haptic Feedback for Coarse-to-Fine Imitation Learning
+          </div>
+          <div class="authors">
+               Yeseung Kim*, Nayoung Oh*, Jun Park*, Teetat Thamronglak*, Daehyung Park (*- authors contributed equally)
+          </div>
+          <div class="publisher">
+               under review
+          </div>
+          <div class="btn-links">
+               <a class="btn btn-outline-primary btn-page-header btn-sm p-0 pr-2 pl-2 disabled"
+                  href="http://ieeexplore.ieee.org/document/8279425/"
+                  target="_blank" rel="noopener">
+                  <i class="ion-ios-document mr-2"></i><span>Paper</span>
+               </a>
+               <a class="btn btn-outline-primary btn-page-header btn-sm p-0 pr-2 pl-2 disabled"
+                  href="https://arxiv.org/abs/2505.00500" target="_blank" rel="noopener">
+                  <i class="ion-ios-document mr-2"></i><span>ePrint</span>
+               </a>
+               <a class="btn btn-outline-primary btn-page-header btn-sm p-0 pr-2 pl-2 disabled"
+                  href="https://inr-dom.github.io" target="_blank" rel="noopener">
+                  <i class="ion-ios-globe mr-2"></i><span>Site</span>
+               </a>
+          </div>
+     </div>
+</div>
+
+<div class="boundary-line" ></div>
 
 <!-- 2025 IJCNLP C2F-Space-->
 <div class="pub-container">
