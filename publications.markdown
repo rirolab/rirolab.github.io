@@ -420,7 +420,7 @@ If you want to change the style of the table, please look at the publication tag
                Yeseung Kim*, Nayoung Oh*, Jun Park*, Teetat Thamronglak*, Daehyung Park (*- authors contributed equally)
           </div>
           <div class="publisher">
-               under review
+               Conference on Robot Intelligence Technology and Applications (RiTA) 2025 [Accepted]
           </div>
           <div class="btn-links">
                <a class="btn btn-outline-primary btn-page-header btn-sm p-0 pr-2 pl-2 disabled"
