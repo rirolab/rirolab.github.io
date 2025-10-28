@@ -126,6 +126,18 @@ If you want to change the style of the table, please look at the table tags in _
             <span>Scholar</span>
             </a>
         </div>
+
+
+        <!--Woosong Kang-->
+        <div class="img-column">
+            <img src="/assets/people/noname.jpg" alg="" >
+        </div>
+        <div class="exp-column">
+            <b>Woosong Kang</b><br>
+            School of Computing, 2026 (Prospective) <br>
+	    <i class="fa-solid fa-microscope"></i>
+            <br> 
+	
 	
         <div class="boundary-line"></div>
     </div>
