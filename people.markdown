@@ -137,7 +137,7 @@ If you want to change the style of the table, please look at the table tags in _
             School of Computing, 2026 (Prospective) <br>
 	    <i class="fa-solid fa-microscope"></i>
             <br> 
-	
+		</div>
 	
         <div class="boundary-line"></div>
     </div>
