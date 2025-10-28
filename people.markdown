@@ -433,6 +433,25 @@ If you want to change the style of the table, please look at the table tags in _
             </a>
         </div>
 
+        <!--Sungtai Jang-->
+        <div class="img-column">
+            <img src="/assets/people/noname.jpg" alg="" >
+        </div>
+        <div class="exp-column">
+            <b>Sungtai Jang</b><br>
+            Software Program (Hyundai Motor), 2025<br>
+	    <i class="fa-solid fa-microscope"></i>
+            Engineering & HRI<br> 
+            <a href="mailto:mrgv109 [at] kaist.ac.kr">
+            <i class="far fa-envelope"></i>
+            <span class="username">mrgv109 [at] kaist.ac.kr </span>
+            </a>
+            <br> 
+			<a href="www.linkedin.com/in/awesomej">
+            <i class="fa fa-home"></i>
+            <span>LinkedIn</span>
+            </a>
+        </div>
         <div class="boundary-line"></div>
 
     </div>
