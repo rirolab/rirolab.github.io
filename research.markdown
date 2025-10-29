@@ -22,7 +22,18 @@ main_nav: true
 
     <div class="research-container">
         <br>
-        <img src="/assets/equipment/fm_goal.png" alt="High-precision task for Humanoid Robot ">
+        <div class="img-multi-container">
+             <div class="responsive-img">
+                  <img src="/assets/equipment/fm_goal.png" alt="High-precision task for Humanoid Robot ">
+             </div>
+             <div class="responsive-img">
+                  <img style="width: 85%" src="/assets/research/research_humanoid_nav.png">
+             </div>
+             <div class="responsive-img">
+                  <img style="width: 85%" src="/assets/research/2024_ISR_LLM.png">
+             </div>
+        </div>
+
         <br>
         We aim to develop fundamental learning methodologies for whole-body manipulation using humanoid robots, including a humanoid platform (e.g., Unitree G1) and a mobile humanoid platform (T.B.D). Whole-body manipulation has recently emerged as a key frontier in robotics. To lead advancements in this domain, the RIRO Lab focuses on two core directions: (1) developing novel policy learning methods based on imitation and reinforcement learning, and (2) designing high-level planning strategies that leverage large language models (LLMs) and other foundation models such as vision-language-action (VLA) models. Our long-term goal is to build hierarchical foundation models capable of generalizing across complex, real-world tasks. The proposed methods will be rigorously evaluated using our robotic platforms and through collaborative efforts with industry partners.
         <br>
@@ -40,7 +51,18 @@ main_nav: true
 
     <div class="research-container">
         <br>
-        <img src="/assets/research/research_iitp.png" alt="Deformable object manipulation + Inverse constraint learning">
+        <div class="img-multi-container">
+             <div class="responsive-img">
+                  <img style="width: 100%" src="/assets/research/2025_RSS_INR_DOM.gif">
+             </div>
+             <div class="responsive-img">
+                  <img style="width: 85%" src="/assets/research/2025_RSS_ILCL.png">
+             </div>
+             <div class="responsive-img">
+                  <img src="/assets/research/research_iitp.png" alt="Deformable object manipulation + Inverse constraint learning">
+             </div>
+        </div>
+        
         <br>
         In-hand manipulation of deformable objects offers unprecedented opportunities to resolve various real-world problems, such as binding and taping. This project aims to develop a visuotactile in-hand manipulation that repositions/reorientations deformable objects in hand as we want. Toward this line of research, we propose three research thrusts: 1) a physics-informed reinforcement learning (RL) framework, 2) an interactive RL framework, and 3) Sim2Real transfer learning method.
         <br>
@@ -58,7 +80,18 @@ main_nav: true
 
     <div class="research-container">
         <br>
-        <img src="/assets/research/research_TAMP.jpg" alt="Task-and-Motion Planning" >
+        <div class="img-multi-container">
+             <div class="responsive-img">
+                  <img style="width: 95%" src="/assets/research/2021_RAL_LTL_BT.gif">
+             </div>
+             <div class="responsive-img">
+                  <img style="width: 95%" src="/assets/research/2026_ICRA_SuReNav.gif">
+             </div>
+             <div class="responsive-img">
+                  <img style="width: 95%" src="/assets/research/2025_CoRL_ForeSight.gif">
+             </div>
+        </div>
+        
         <br>
         We aim to introduce task-and-motion planning (TAMP) framework that is to solve complex and longer-time horizon of human tasks. To resolve completeness, optimality, and robustness issues, we are working on various task planning and motion planning approaches. We will show a generalizable TAMP framework under human operator’s cooperative or adversarial interventions.
         <br>    
@@ -76,8 +109,17 @@ main_nav: true
 
     <div class="research-container">
         <br>
-        <img src="/assets/research/research_quad.jpg" alt="Task-and-Motion Planning" >
-        <!--img src="/assets/research/research_grounding.png" alt="Commonsense spatial grounding" -->
+        <div class="img-multi-container">
+             <div class="responsive-img">
+                  <img style="width: 100%" src="/assets/research/2020_IJRR_opt.png">
+             </div>
+             <div class="responsive-img">
+                  <img style="width: 95%" src="/assets/research/2025_IJCNLP_C2F.png">
+             </div>
+             <div class="responsive-img">
+                  <img style="width: 100%" src="/assets/research/2024_LINGO-Space_demo.gif">
+             </div>
+        </div>
         <br>
 Natural language is one of the most intuitive and accessible ways for humans to convey intent, without the need for specialized tools or training. This research aims to ground natural language instructions in real-world robotic tasks involving navigation and manipulation. While conventional natural language grounding (NLG) methods often focus on mapping language to sparse goal specifications, our approach explores richer forms of grounding—spanning spatial reasoning, action understanding, and plan generation—by leveraging common-sense knowledge and motion demonstrations.
 

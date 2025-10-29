@@ -36,7 +36,7 @@ If you want to change the style of the table, please look at the table tags in _
             <span>Scholar</span>
             </a>
             <span> | </span>
-            <a href="https://sites.google.com/site/daehyungpark">
+            <a href="/advisor">
             <i class="fa fa-home"></i>
             <span>Homepage</span>
             </a>           
@@ -135,9 +135,7 @@ If you want to change the style of the table, please look at the table tags in _
         <div class="exp-column">
             <b>Woosong Kang</b><br>
             School of Computing, 2026 (Prospective) <br>
-	    <i class="fa-solid fa-microscope"></i>
-            <br> 
-		</div>
+        </div>
 	
         <div class="boundary-line"></div>
     </div>

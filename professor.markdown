@@ -28,6 +28,11 @@ main_nav: true
      <i class="fa fa-home"></i>
      <span>Homepage</span>
   </a>           
+  <span> | </span>
+  <a href="https://sites.google.com/site/daehyungpark">
+     <i class="fa fa-file"></i>
+     <span>CV</span>
+  </a>           
   </p>
 </div>
 
