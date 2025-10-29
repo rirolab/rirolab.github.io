@@ -29,7 +29,7 @@ main_nav: true
      <span>Homepage</span>
   </a>           
   <span> | </span>
-  <a href="https://sites.google.com/site/daehyungpark">
+  <a href="assets/document/CV.pdf">
      <i class="fa fa-file"></i>
      <span>CV</span>
   </a>           
