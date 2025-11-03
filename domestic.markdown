@@ -16,6 +16,41 @@ If you want to change the style of the table, please look at the publication tag
 <!-- 2024 ICROS VR -->
 <div class="pub-container">
      <div class="img-column">
+          <img style="width: 85%" src="/assets/research/2025_ICROS_GROUNDING.png">
+     </div>
+     <div class="exp-column">
+          <div class="title">
+               A Training Dataset for Pixelwise Grounding of Object Placement from Natural Language Instructions
+          </div>
+          <div class="authors">
+               Junhyeong Bang, Dohyun Kim, Ahyoung Seong, Daehyung Park
+          </div>
+          <div class="publisher">
+               Institute of Control, Robotics and Systems (ICROS), 2025
+          </div>
+          <div class="btn-links">
+               <a class="btn btn-outline-primary btn-page-header btn-sm p-0 pr-2 pl-2 disabled"
+                  href="https://link.springer.com/article/10.1007/s11370-024-00550-5"
+                  target="_blank" rel="noopener">
+                  <i class="ion-ios-document mr-2"></i><span>Paper</span>
+               </a>
+               <a class="btn btn-outline-primary btn-page-header btn-sm p-0 pr-2 pl-2 disabled"
+                  href="https://drive.google.com/file/d/1WZ4T-zPZOyHhmuI6wFstx5vFmCZNsMjH/view?usp=sharing" target="_blank" rel="noopener">
+                  <i class="ion-ios-document mr-2"></i><span>ePrint</span>
+               </a>
+               <a class="btn btn-outline-primary btn-page-header btn-sm p-0 pr-2 pl-2 disabled"
+                  href="" target="_blank" rel="noopener">
+                  <i class="ion-ios-globe mr-2"></i><span>Site</span>
+               </a>
+          </div>
+     </div>
+</div>
+
+<div class="boundary-line" ></div>
+
+<!-- 2024 ICROS VR -->
+<div class="pub-container">
+     <div class="img-column">
           <img style="width: 85%" src="/assets/research/2025_ICROS_RESET.png">
      </div>
      <div class="exp-column">
