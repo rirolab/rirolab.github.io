@@ -603,14 +603,32 @@ If you want to change the style of the table, please look at the table tags in _
 
 
     <!---------------- Visiting Scholars. --------------------->
-    <!-- <div class="people-section">Visiting Scholars</div>
+    <div class="people-section">Visiting Scholars</div>
     <div class="people-container">
         <div class="boundary-line"></div>
-
-
+		
+        <!--Seohee Choy-->
+        <div class="img-column">
+            <img src="/assets/people/noname.jpg" alg="" >
+        </div>
+        <div class="exp-column">
+            <b>Seohee Choy</b><br>
+            Visiting Scholar (University of Wisconsin–Madison), 2025<br>
+	    <i class="fa-solid fa-microscope"></i>
+            Engineering <br> 
+            <!--a href="mailto:mrgv109 [at] kaist.ac.kr">
+            <i class="far fa-envelope"></i>
+            <span class="username">mrgv109 [at] kaist.ac.kr </span>
+            </a-->
+            <br> 
+			<!--a href="www.linkedin.com/in/awesomej">
+            <i class="fa fa-home"></i>
+            <span>LinkedIn</span>
+            </a-->
+        </div>
         <div class="boundary-line"></div>
     </div>
-    <br> -->
+    <br> 
 
 
     <!---------------- Alum. --------------------->
