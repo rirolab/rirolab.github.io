@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Graduate Research Assistant Positions (대학원 지원)
+title: Graduate Research Assistant Positions 
 permalink: /position/graduates/
 main_nav: true
 ---
@@ -9,15 +9,17 @@ main_nav: true
 ## List of Available Graduate Schools
 1. <a href="https://cs.kaist.ac.kr/content?menu=41"> 전산학부 (School of Computing) </a>: 국비장학생, KAIST 장학생, International Students
 2. <a href="https://rp.kaist.ac.kr/home/admission"> 로봇학제전공 - 삼성전자 로보틱스 인재양성 프로그램 (REPS) </a>: KAIST 장학생 (연구실 TO외 우선선발)
-3. <a href="https://rp.kaist.ac.kr/home/admission"> 로봇학제전공 (Robotics Program) </a>: KAIST 장학생
-4. <a href="https://gsai.kaist.ac.kr/admission"> AI 대학원 (Kim Jaechul Graduate School) </a>: KAIST 장학생
+3. <a href="https://cs.kaist.ac.kr/content?menu=41"> 전산학부 (School of Computing) - KT AI 프로그램 </a>: KAIST 장학생 (연구실 TO외 우선선발)
+4. <a href="https://rp.kaist.ac.kr/home/admission"> 로봇학제전공 (Robotics Program) </a>: KAIST 장학생
+5. <a href="https://gsai.kaist.ac.kr/admission"> AI 대학원 (Kim Jaechul Graduate School) </a>: KAIST 장학생
    
 ## Potential Research Topics
-1. Robot foundation model / vision-language action model for humanoid robots 
-2. Language-driven mobile manipulation (natural language grounding)
-3. Inverse reinforcement learning / inverse constraint learning
-4. Deformable object manipulation using diffusion policy/state-space models (SSM)
-5. LLM/VLM/LMM-guided mobile manipulation
+1. Robot foundation model / vision-language action (VLA) model
+2. Humanoid navigation + whole-body manipulation 
+3. Space grounding + VLA
+4. Inverse reinforcement learning / inverse constraint learning
+5. Deformable object manipulation 
+6. LLM/VLM/LMM-guided task planning and execution
 
 ## Application Process for Ph.D. positions (박사지원)
 We have an open position for talented students from other schools/labs.
@@ -30,11 +32,11 @@ We have an open position for talented students from other schools/labs.
 Note that a qualified applicant must have at least one 1st-author publication from major robotics/AI/ML/etc publishers. 
 
 ## Frequently Asked Questions
-- 박사 TO? 1년에 보통 1-2 자리의 국비장학생 TO가 있습니다. 상황에따라 KAIST 장학생 1명 선발합니다. 
-- 기간? 보통 5년으로 연구실내 졸업 요건 및 연구 완성도에 따라 결정됩니다.
+- 박사 TO? 우수한 학생은 최대한 선발합니다.  
+- 기간? 보통 4-5년으로 연구실내 졸업 요건 및 연구 완성도에 따라 결정됩니다.
 - 병역? 특례는 매년 1-2명이 가능합니다.
 - 인건비? 박사기준 연구실 인건비(200중반/월) + 일반 조교 수당(45/월)을 받게됩니다.
-- 석박통합 TO? 박사TO와 동일합니다.
+- 석박통합 TO? 전산학부 입시 통과 여부에 달렸습니다. 
 
 
 ## Application Process for Master positions (석사지원)
