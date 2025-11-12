@@ -566,8 +566,8 @@ If you want to change the style of the table, please look at the publication tag
                Robotics: Science and Systems (RSS), 2025 
           </div>
           <div class="btn-links">
-               <a class="btn btn-outline-primary btn-page-header btn-sm p-0 pr-2 pl-2 disabled"
-                  href="http://ieeexplore.ieee.org/document/8279425/"
+               <a class="btn btn-outline-primary btn-page-header btn-sm p-0 pr-2 pl-2 "
+                  href="https://roboticsconference.org/program/papers/35/"
                   target="_blank" rel="noopener">
                   <i class="ion-ios-document mr-2"></i><span>Paper</span>
                </a>
