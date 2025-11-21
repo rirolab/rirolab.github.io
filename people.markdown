@@ -130,11 +130,37 @@ If you want to change the style of the table, please look at the table tags in _
 
         <!--Woosong Kang-->
         <div class="img-column">
-            <img src="/assets/people/noname.jpg" alg="" >
+            <img src="/assets/people/woosong_kang.jpg" alg="Woosong Kang" >
         </div>
         <div class="exp-column">
             <b>Woosong Kang</b><br>
             School of Computing, 2026 (Prospective) <br>
+	    <i class="fa-solid fa-microscope"></i>
+            Humanoid Whole-body Control<br>
+            <a href="mailto:woosong [at] kaist.ac.kr">
+            <i class="far fa-envelope"></i>
+            <span class="username">woosong [at] kaist.ac.kr</span>
+            </a>
+            <br>
+            <a href="https://github.com/WoosongKang">
+            <i class="fab fa-github"></i>
+            <span>Github</span>
+            </a>
+            <span> | </span>
+            <a href="https://scholar.google.com/citations?user=s8_YalsAAAAJ&hl=ko&oi=ao">
+            <i class="fa fa-graduation-cap"></i>
+            <span>Scholar</span>
+            </a>
+            <span> | </span>
+            <a href="https://www.linkedin.com/in/woosongkang961029/">
+            <i class="fab fa-linkedin"></i>
+            <span>LinkedIn</span>
+            </a>
+            <span> | </span>
+            <a href="https://woosongkang.github.io/">
+            <i class="fa fa-home"></i>
+            <span>Homepage</span>
+            </a>
         </div>
 	
         <div class="boundary-line"></div>
@@ -609,22 +635,27 @@ If you want to change the style of the table, please look at the table tags in _
 		
         <!--Seohee Choy-->
         <div class="img-column">
-            <img src="/assets/people/noname.jpg" alg="" >
+            <img src="/assets/people/seohee_choy.png" alg="Seohee Choy" >
         </div>
         <div class="exp-column">
             <b>Seohee Choy</b><br>
             Visiting Scholar (University of Wisconsin–Madison), 2025<br>
 	    <i class="fa-solid fa-microscope"></i>
-            Engineering <br> 
-            <!--a href="mailto:mrgv109 [at] kaist.ac.kr">
+            Perception, Manipulation<br>
+            <a href="mailto:seohee.choy [at] kaist.ac.kr">
             <i class="far fa-envelope"></i>
-            <span class="username">mrgv109 [at] kaist.ac.kr </span>
-            </a-->
-            <br> 
-			<!--a href="www.linkedin.com/in/awesomej">
-            <i class="fa fa-home"></i>
+            <span class="username">seohee.choy [at] kaist.ac.kr</span>
+            </a>
+            <br>
+            <a href="https://github.com/zseohee">
+            <i class="fab fa-github"></i>
+            <span>Github</span>
+            </a>
+            <span> | </span>
+            <a href="https://www.linkedin.com/in/seohee-choy/">
+            <i class="fab fa-linkedin"></i>
             <span>LinkedIn</span>
-            </a-->
+            </a>
         </div>
         <div class="boundary-line"></div>
     </div>
@@ -770,5 +801,3 @@ If you want to change the style of the table, please look at the table tags in _
 
 </div>
         
-
-
