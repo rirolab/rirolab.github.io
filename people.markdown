@@ -249,7 +249,7 @@ If you want to change the style of the table, please look at the table tags in _
             </a>
             <span> | </span>
             <a href="https://www.linkedin.com/in/keonyoungkoh/">
-            <i class="fa fa-home"></i>
+            <i class="fab fa-linkedin"></i>
             <span>LinkedIn</span>
             </a>   
         </div>
@@ -359,7 +359,7 @@ If you want to change the style of the table, please look at the table tags in _
             </a>
 	    <span> | </span>
             <a href="https://www.linkedin.com/in/minseok-song-442066371">
-            <i class="fa fa-home"></i>
+            <i class="fab fa-linkedin"></i>
             <span>LinkedIn</span>
             </a>
         </div>
@@ -389,7 +389,7 @@ If you want to change the style of the table, please look at the table tags in _
             </a>
             <span> | </span>
             <a href="https://www.linkedin.com/in/samuelseungsuplee/">
-            <i class="fa fa-home"></i>
+            <i class="fab fa-linkedin"></i>
             <span>LinkedIn</span>
             </a>           
         </div>
@@ -419,7 +419,7 @@ If you want to change the style of the table, please look at the table tags in _
             </a>
             <span> | </span>
             <a href="https://www.linkedin.com/in/junpark-ai/">
-            <i class="fa fa-home"></i>
+            <i class="fab fa-linkedin"></i>
             <span>LinkedIn</span>
             </a>           
         </div>
@@ -484,7 +484,7 @@ If you want to change the style of the table, please look at the table tags in _
             </a>
             <br> 
 			<a href="www.linkedin.com/in/awesomej">
-            <i class="fa fa-home"></i>
+            <i class="fab fa-linkedin"></i>
             <span>LinkedIn</span>
             </a>
         </div>
@@ -499,26 +499,6 @@ If you want to change the style of the table, please look at the table tags in _
     <div class="people-container">
 
         <div class="boundary-line"></div>
-
-        <!-- 성아영 -->
-        <div class="img-column">
-            <img src="/assets/people/ahyoung_seong.jpg" alg="" >
-        </div>
-        <div class="exp-column">
-            <b>Ahyoung Seong</b><br>            
-            School of Computing, 2023 <br>
-	    <i class="fa-solid fa-microscope"></i>
-            Natural Language Grounding<br>
-            <a href="mailto:seongahyoung [at] kaist.ac.kr">
-            <i class="far fa-envelope"></i>
-            <span class="username">seongahyoung [at] kaist.ac.kr</span>
-            </a>
-            <br>
-            <a href="https://github.com/ahyoungS">
-            <i class="fab fa-github"></i>
-            <span>Github</span>
-            </a>
-        </div>
 
         <!-- 김수원 -->
         <div class="img-column">
@@ -580,7 +560,7 @@ If you want to change the style of the table, please look at the table tags in _
             </a>
             <span> | </span>
             <a href="https://www.linkedin.com/in/heyits-willkang/">
-            <i class="fa fa-home"></i>
+            <i class="fab fa-linkedin"></i>
             <span>LinkedIn</span>
             </a>
         </div>
