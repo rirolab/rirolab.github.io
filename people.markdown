@@ -483,7 +483,7 @@ If you want to change the style of the table, please look at the table tags in _
             <span class="username">mrgv109 [at] kaist.ac.kr </span>
             </a>
             <br> 
-			<a href="www.linkedin.com/in/awesomej">
+			<a href="https://www.linkedin.com/in/awesomej">
             <i class="fab fa-linkedin"></i>
             <span>LinkedIn</span>
             </a>
