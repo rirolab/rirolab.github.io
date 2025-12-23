@@ -488,6 +488,27 @@ If you want to change the style of the table, please look at the table tags in _
             <span>LinkedIn</span>
             </a>
         </div>
+
+        <!--Sangyun Won -->
+        <div class="img-column">
+            <img src="/assets/people/sangyun_won.jpg" alg="" >
+        </div>
+        <div class="exp-column">
+            <b>Sangyun Won</b><br>
+            School of Computing, 2026 (Prospective)<br>
+	    <i class="fa-solid fa-microscope"></i>
+            Reinforcement Learning, Imitation Learning<br>
+            <a href="mailto:wonsang4232 [at] kaist.ac.kr">
+            <i class="far fa-envelope"></i>
+            <span class="username">wonsang4232 [at] kaist.ac.kr </span>
+            </a>
+            <br> 
+            <a href="https://github.com/comibear">
+            <i class="fab fa-github"></i>
+            <span>Github</span>
+            </a>
+        </div>
+
         <div class="boundary-line"></div>
 
     </div>
