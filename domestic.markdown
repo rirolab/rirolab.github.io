@@ -13,7 +13,7 @@ If you want to change the style of the table, please look at the publication tag
 <!------------------- Domestic Conference Articles --------------------->
 <div class="pub-title"> Domestic Conference Articles </div>
 
-<!-- 2024 ICROS VR -->
+<!-- 2025 ICROS GROUNDING -->
 <div class="pub-container">
      <div class="img-column">
           <img style="width: 85%" src="/assets/research/2025_ICROS_GROUNDING.png">
@@ -48,7 +48,7 @@ If you want to change the style of the table, please look at the publication tag
 
 <div class="boundary-line" ></div>
 
-<!-- 2024 ICROS VR -->
+<!-- 2025 ICROS RESET -->
 <div class="pub-container">
      <div class="img-column">
           <img style="width: 85%" src="/assets/research/2025_ICROS_RESET.png">
@@ -70,8 +70,8 @@ If you want to change the style of the table, please look at the publication tag
                   target="_blank" rel="noopener">
                   <i class="ion-ios-document mr-2"></i><span>Paper</span>
                </a>
-               <a class="btn btn-outline-primary btn-page-header btn-sm p-0 pr-2 pl-2 disabled"
-                  href="https://drive.google.com/file/d/1WZ4T-zPZOyHhmuI6wFstx5vFmCZNsMjH/view?usp=sharing" target="_blank" rel="noopener">
+               <a class="btn btn-outline-primary btn-page-header btn-sm p-0 pr-2 pl-2"
+                  href="https://www.dbpia.co.kr/pdf/pdfView.do?nodeId=NODE12313710" target="_blank" rel="noopener">
                   <i class="ion-ios-document mr-2"></i><span>ePrint</span>
                </a>
                <a class="btn btn-outline-primary btn-page-header btn-sm p-0 pr-2 pl-2 disabled"
