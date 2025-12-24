@@ -134,7 +134,7 @@ If you want to change the style of the table, please look at the table tags in _
         </div>
         <div class="exp-column">
             <b>Woosong Kang</b><br>
-            School of Computing, 2026 (Prospective) <br>
+            School of Computing, 2026<br>
 	    <i class="fa-solid fa-microscope"></i>
             Humanoid Whole-body Control<br>
             <a href="mailto:woosong [at] kaist.ac.kr">
@@ -173,31 +173,6 @@ If you want to change the style of the table, please look at the table tags in _
     <div class="people-container">
 
         <div class="boundary-line"></div>
-
-        <!--하정호  -->
-        <!--div class="img-column">
-            <img src="/assets/people/jeongho_ha.jpg" alg="" >
-        </div-->
-        <!--div class="exp-column">
-            <b>JeongHo Ha</b><br>
-            School of Computing, 2023<br>
-	    <i class="fa-solid fa-microscope"></i>
-            Deformable Object Manipulation, Representation Learining<br>
-            <a href="mailto:hajeongho95 [at] kaist.ac.kr">
-                <i class="far fa-envelope"></i>
-                <span class="username">hajeongho95 [at] kaist.ac.kr </span>
-            </a>    
-            <br>
-            <a href="https://github.com/Ha-JH">
-               <i class="fab fa-github"></i>
-               <span>Github</span>
-            </a>
-            <span> | </span>
-            <a href="https://scholar.google.com/citations?user=7_G2LRkAAAAJ">
-                <i class="fa fa-graduation-cap"></i>
-                <span>Scholar</span>
-            </a>        
-        </div-->
 
         <!--황덕민  -->
         <div class="img-column">
@@ -489,13 +464,33 @@ If you want to change the style of the table, please look at the table tags in _
             </a>
         </div>
 
+        <!-- Chankyu Lee -->
+        <div class="img-column">
+            <img src="/assets/people/chankyu_lee.jpg" alg="" >
+        </div>
+        <div class="exp-column">
+            <b>Chankyu Lee</b><br>            
+            School of Computing, 2026 <br>
+	    <i class="fa-solid fa-microscope"></i>
+            Manipulation<br>
+            <a href="mailto:chankyu04 [at] kaist.ac.kr">
+            <i class="far fa-envelope"></i>
+            <span class="username">chankyu04 [at] kaist.ac.kr</span>
+            </a>
+            <br>
+            <a href="https://github.com/framewolf">
+            <i class="fab fa-github"></i>
+            <span>Github</span>
+            </a>
+        </div>
+
         <!--Sangyun Won -->
         <div class="img-column">
             <img src="/assets/people/sangyun_won.jpg" alg="" >
         </div>
         <div class="exp-column">
             <b>Sangyun Won</b><br>
-            School of Computing, 2026 (Prospective)<br>
+            School of Computing, 2026<br>
 	    <i class="fa-solid fa-microscope"></i>
             Reinforcement Learning, Imitation Learning<br>
             <a href="mailto:wonsang4232 [at] kaist.ac.kr">
@@ -521,7 +516,7 @@ If you want to change the style of the table, please look at the table tags in _
 
         <div class="boundary-line"></div>
 
-        <!-- 김수원 -->
+        <!-- Soowon Kim -->
         <div class="img-column">
             <img src="/assets/people/soowon_kim.jpg" alg="" >
         </div>
@@ -541,27 +536,7 @@ If you want to change the style of the table, please look at the table tags in _
             </a>
         </div>
 
-        <!-- 이찬규 -->
-        <div class="img-column">
-            <img src="/assets/people/chankyu_lee.jpg" alg="" >
-        </div>
-        <div class="exp-column">
-            <b>Chankyu Lee</b><br>            
-            School of Computing, 2019 <br>
-	    <i class="fa-solid fa-microscope"></i>
-            Manipulation<br>
-            <a href="mailto:chankyu04 [at] kaist.ac.kr">
-            <i class="far fa-envelope"></i>
-            <span class="username">chankyu04 [at] kaist.ac.kr</span>
-            </a>
-            <br>
-            <a href="https://github.com/framewolf">
-            <i class="fab fa-github"></i>
-            <span>Github</span>
-            </a>
-        </div>
-
-        <!-- 강원재 -->
+        <!-- Wonjae Kang -->
         <div class="img-column">
             <img src="/assets/people/wonjae_kang.jpg" alg="" >
         </div>
@@ -586,7 +561,7 @@ If you want to change the style of the table, please look at the table tags in _
             </a>
         </div>
 
-        <!-- 신무진 -->
+        <!-- Mujin Shin -->
         <div class="img-column">
             <img src="/assets/people/mujin_shin.jpg" alg="" >
         </div>
@@ -601,6 +576,26 @@ If you want to change the style of the table, please look at the table tags in _
             </a>
             <br>
             <a href="https://github.com/moo-jin">
+            <i class="fab fa-github"></i>
+            <span>Github</span>
+            </a>
+        </div>
+
+        <!-- Jiung Yang -->
+        <div class="img-column">
+            <img src="/assets/people/jiung_yang.jpg" alg="" >
+        </div>
+        <div class="exp-column">
+            <b>Jiung Yang</b><br>            
+            School of Computing, 2020 <br>
+	    <i class="fa-solid fa-microscope"></i>
+            Reinforcement Learning, Imitation Learning<br>
+            <a href="mailto:kjg682534 [at] kaist.ac.kr">
+            <i class="far fa-envelope"></i>
+            <span class="username">kjg682534 [at] kaist.ac.kr</span>
+            </a>
+            <br>
+            <a href="https://github.com/Jiuuung">
             <i class="fab fa-github"></i>
             <span>Github</span>
             </a>
