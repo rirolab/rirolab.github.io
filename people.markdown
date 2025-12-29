@@ -581,6 +581,26 @@ If you want to change the style of the table, please look at the table tags in _
             </a>
         </div>
 
+        <!-- Wonhyeok Choi -->
+        <div class="img-column">
+            <img src="/assets/people/wonhyeok_choi.jpg" alg="" >
+        </div>
+        <div class="exp-column">
+            <b>Wonhyeok Choi</b><br>            
+            School of Computing, 2022 <br>
+	    <i class="fa-solid fa-microscope"></i>
+            Manipulation, Perception<br>
+            <a href="mailto:dnjsgur12271029 [at] kaist.ac.kr">
+            <i class="far fa-envelope"></i>
+            <span class="username">dnjsgur12271029 [at] kaist.ac.kr</span>
+            </a>
+            <br>
+            <a href="https://github.com/wonhyeok1029">
+            <i class="fab fa-github"></i>
+            <span>Github</span>
+            </a>
+        </div>
+
         <!-- Jiung Yang -->
         <div class="img-column">
             <img src="/assets/people/jiung_yang.jpg" alg="" >
