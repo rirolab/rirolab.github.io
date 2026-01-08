@@ -174,31 +174,6 @@ If you want to change the style of the table, please look at the table tags in _
 
         <div class="boundary-line"></div>
 
-        <!--황덕민  -->
-        <div class="img-column">
-            <img src="/assets/people/deokmin_hwang.jpg" alg="" >
-        </div>
-        <div class="exp-column">
-            <b>Deok-Min Hwang</b><br>
-            School of Computing, 2023 <br>
-	    <i class="fa-solid fa-microscope"></i>
-            Perception, Task Planning<br>
-            <a href="mailto:gsh04089 [at] kaist.ac.kr">
-            <i class="far fa-envelope"></i>
-            <span class="username">gsh04089 [at] kaist.ac.kr </span>
-            </a>
-            <br>
-            <a href="https://github.com/Deok-min">
-            <i class="fab fa-github"></i>
-            <span>Github</span>
-            </a>
-            <span> | </span>
-            <a href="https://scholar.google.com/citations?user=7LAjSt0AAAAJ&hl=ko&oi=sra">
-            <i class="fa fa-graduation-cap"></i>
-            <span>Scholar</span>
-            </a>        
-        </div>
-
         <!--Keonyoung Koh  -->
         <div class="img-column">
             <img src="/assets/people/keonyoung_koh.jpg" alg="" >
@@ -516,26 +491,6 @@ If you want to change the style of the table, please look at the table tags in _
 
         <div class="boundary-line"></div>
 
-        <!-- Soowon Kim -->
-        <div class="img-column">
-            <img src="/assets/people/soowon_kim.jpg" alg="" >
-        </div>
-        <div class="exp-column">
-            <b>Soowon Kim</b><br>            
-            Mechanical Engineering, 2021 <br>
-	    <i class="fa-solid fa-microscope"></i>
-            Locomotion, Manipulation<br>
-            <a href="mailto:soowonic2373 [at] kaist.ac.kr">
-            <i class="far fa-envelope"></i>
-            <span class="username">soowonic2373 [at] kaist.ac.kr</span>
-            </a>
-            <br>
-            <a href="https://github.com/soowonic">
-            <i class="fab fa-github"></i>
-            <span>Github</span>
-            </a>
-        </div>
-
         <!-- Wonjae Kang -->
         <div class="img-column">
             <img src="/assets/people/wonjae_kang.jpg" alg="" >
@@ -558,26 +513,6 @@ If you want to change the style of the table, please look at the table tags in _
             <a href="https://www.linkedin.com/in/heyits-willkang/">
             <i class="fab fa-linkedin"></i>
             <span>LinkedIn</span>
-            </a>
-        </div>
-
-        <!-- Mujin Shin -->
-        <div class="img-column">
-            <img src="/assets/people/mujin_shin.jpg" alg="" >
-        </div>
-        <div class="exp-column">
-            <b>Mujin Shin</b><br>            
-            Electrical Engineering, 2020 <br>
-	    <i class="fa-solid fa-microscope"></i>
-            Perception, Manipulation Models<br>
-            <a href="mailto:frank0216 [at] kaist.ac.kr">
-            <i class="far fa-envelope"></i>
-            <span class="username">frank0216 [at] kaist.ac.kr</span>
-            </a>
-            <br>
-            <a href="https://github.com/moo-jin">
-            <i class="fab fa-github"></i>
-            <span>Github</span>
             </a>
         </div>
 
@@ -683,6 +618,18 @@ If you want to change the style of the table, please look at the table tags in _
     <div class="people-container">
         <div class="boundary-line"></div>
 
+        <div class="img-column">
+            Deok-Min Hwang
+        </div>
+        <div class="exp-column">
+            T.B.D. <br>
+            <i class="fa fa-graduation-cap"></i> 
+            M.S. in School of Computing, 2026<br>
+            <!--a href="mailto:gsh04089 [at] kaist.ac.kr">
+            <i class="far fa-envelope"></i>
+            <span class="username">gsh04089 [at] kaist.ac.kr </span>
+            </a-->
+        </div>
 
         <div class="img-column">
             <a href="https://github.com/MinchoU">Minwoo Cho</a>
@@ -696,8 +643,6 @@ If you want to change the style of the table, please look at the table tags in _
             <span class="username">cmw9903 [at] kaist.ac.kr </span>
             </a-->
         </div>
-
-
 
         <div class="img-column">
             Jieun Choi
