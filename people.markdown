@@ -479,6 +479,26 @@ If you want to change the style of the table, please look at the table tags in _
             </a>
         </div>
 
+        <!--Geonwoo Kim -->
+        <div class="img-column">
+            <img src="/assets/people/geonwoo_kim.jpg" alg="" >
+        </div>
+        <div class="exp-column">
+            <b>Geonwoo Kim</b><br>
+            Robotics Program, 2026<br>
+	    <i class="fa-solid fa-microscope"></i>
+            Manipulation<br>
+            <a href="mailto:geonwookim [at] kaist.ac.kr">
+            <i class="far fa-envelope"></i>
+            <span class="username">geonwookim [at] kaist.ac.kr </span>
+            </a>
+            <br> 
+            <a href="https://github.com/bigbear1655">
+            <i class="fab fa-github"></i>
+            <span>Github</span>
+            </a>
+        </div>
+
         <div class="boundary-line"></div>
 
     </div>
