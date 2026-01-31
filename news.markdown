@@ -7,6 +7,8 @@ main_nav: true
 
  <div>
       <ul class="news-list">
+      <li>Keonyoung, Moonkyeong, Seungsup's SuReNav paper has been accepted to IEEE ICRA, 2026!! </li> 	      
+      <li>Nayoung, Jaehyung, Moonkyeong's DiSPo paper has been accepted to IEEE ICRA, 2026!! </li> 	      
       <li>Minwoo and Jaehwi's ILCL paper has been accepted to RA-L, 2025!! </li> 	      
       <li>Yeseung, Nayoung, Jun, Teetat's paper has been accepted to RiTA, 2025!! </li> 	      
 	  <li>Prof. Park provided a talk at the University Seminar Series of George Washington University, 2025</li>		  

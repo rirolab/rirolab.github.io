@@ -420,7 +420,7 @@ If you want to change the style of the table, please look at the publication tag
                Keonyoung Koh, Moonkyeong Jung, Samuel Seungsup Lee, Daehyung Park
           </div>
           <div class="publisher">
-               under review
+               IEEE International Conference on Robotics and Automation (ICRA), 2026
           </div>
           <div class="btn-links">
                <a class="btn btn-outline-primary btn-page-header btn-sm p-0 pr-2 pl-2 disabled"
@@ -455,7 +455,7 @@ If you want to change the style of the table, please look at the publication tag
                Yeseung Kim*, Nayoung Oh*, Jun Park*, Teetat Thamronglak*, Daehyung Park (*- authors contributed equally)
           </div>
           <div class="publisher">
-               Conference on Robot Intelligence Technology and Applications (RiTA) 2025 [Accepted]
+               Conference on Robot Intelligence Technology and Applications (RiTA), 2025
           </div>
           <div class="btn-links">
                <a class="btn btn-outline-primary btn-page-header btn-sm p-0 pr-2 pl-2 disabled"
@@ -528,7 +528,7 @@ If you want to change the style of the table, please look at the publication tag
                Nayoung Oh, Jaehyung Jang, Moonkyeong Jung, Daehyung Park
           </div>
           <div class="publisher">
-               under review
+               IEEE International Conference on Robotics and Automation (ICRA), 2026
           </div>
           <div class="btn-links">
                <a class="btn btn-outline-primary btn-page-header btn-sm p-0 pr-2 pl-2 disabled"
@@ -598,7 +598,7 @@ If you want to change the style of the table, please look at the publication tag
                Jinwoo Kim*, Keonyoung Koh*, Samuel Seungsup Lee, Yohan Park, Daehyung Park (*- authors contributed equally)
           </div>
           <div class="publisher">
-               Conference on Robot Intelligence Technology and Applications (RiTA) 2024
+               Conference on Robot Intelligence Technology and Applications (RiTA), 2024
           </div>
           <b style="color:red;">Best Student Paper Award</b><br>
           <div class="btn-links">
@@ -810,7 +810,7 @@ If you want to change the style of the table, please look at the publication tag
                Dohyun Kim*, Jinwoo Kim*, Minwoo Cho, Daehyung Park (*- authors contributed equally)
           </div>
           <div class="publisher">
-               Conference on Robot Intelligence Technology and Applications (RiTA) 2022
+               Conference on Robot Intelligence Technology and Applications (RiTA), 2022
           </div>
           <b style="color:red;">Best Student Paper Award</b><br>
           <div class="btn-links">
@@ -846,7 +846,7 @@ If you want to change the style of the table, please look at the publication tag
                Hyeongyeol Ryu, Minsung Yoon, Daehyung Park, Sung-eui Yoon
           </div>
           <div class="publisher">
-               IEEE International Conference on Robotics and Automation (ICRA) 2022
+               IEEE International Conference on Robotics and Automation (ICRA), 2022
           </div>
           <b style="color:red;">Outstanding Navigation Award Finalist</b><br>
           <div class="btn-links">
