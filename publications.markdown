@@ -407,6 +407,41 @@ If you want to change the style of the table, please look at the publication tag
 <div class="pub-title"> International Conference Articles </div>
 
 
+<!-- 2026 UR TBD -->
+<div class="pub-container">
+    <div class="img-column">
+        <img style="width: 85%" src="/assets/research/2026_UR_ParCo_SDF.png">
+     </div>
+     <div class="exp-column">
+          <div class="title">
+               ParCo-SDF: Learning Prior-Free Partial-to-Complete Signed Distance Fields of Deformable Objects
+          </div>
+          <div class="authors">
+               Deokmin Hwang, Minseok Song, Daehyung Park
+          </div>
+          <div class="publisher">
+               under review
+          </div>
+          <div class="btn-links">
+               <a class="btn btn-outline-primary btn-page-header btn-sm p-0 pr-2 pl-2 disabled"
+                  href=""
+                  target="_blank" rel="noopener">
+                  <i class="ion-ios-document mr-2"></i><span>Paper</span>
+               </a>
+               <a class="btn btn-outline-primary btn-page-header btn-sm p-0 pr-2 pl-2 disabled"
+                  href="" target="_blank" rel="noopener">
+                  <i class="ion-ios-document mr-2"></i><span>ePrint</span>
+               </a>
+               <a class="btn btn-outline-primary btn-page-header btn-sm p-0 pr-2 pl-2 disabled"
+                  href="" target="_blank" rel="noopener">
+                  <i class="ion-ios-globe mr-2"></i><span>Site</span>
+               </a>
+          </div>
+     </div>
+</div>
+
+<div class="boundary-line" ></div>
+
 <!-- 2026 ICRA SuReNav-->
 <div class="pub-container">
     <div class="img-column">
