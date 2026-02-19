@@ -204,36 +204,6 @@ If you want to change the style of the table, please look at the table tags in _
             </a>   
         </div>
 
-        <!--Nayoung Oh  -->
-        <div class="img-column">
-            <img src="/assets/people/nayoung_oh.jpg" alg="" >
-        </div>
-        <div class="exp-column">
-            <b>Nayoung Oh</b><br>
-            Graduate School of AI, 2024<br>
-	    <i class="fa-solid fa-microscope"></i>
-            Natural Language Grounding, HRI<br>
-            <a href="mailto:lightsalt [at] kaist.ac.kr">
-            <i class="far fa-envelope"></i>
-            <span class="username">lightsalt [at] kaist.ac.kr </span>
-            </a>
-            <br>
-            <a href="https://github.com/Nayoung-Oh">
-            <i class="fab fa-github"></i>
-            <span>Github</span>
-            </a>
-            <span> | </span>
-            <a href="https://scholar.google.com/citations?user=-OcdEJgAAAAJ">
-            <i class="fa fa-graduation-cap"></i>
-            <span>Scholar</span>
-            </a>
-            <span> | </span>
-            <a href="https://showy-moth-02a.notion.site/Nayoung-Oh-3738a8fbe90c444f8f27fef627218f8c">
-            <i class="fa fa-home"></i>
-            <span>Homepage</span>
-            </a>           
-        </div>
-
         <!-- Moonkyeong Jung  -->
         <div class="img-column">
             <img src="/assets/people/moonkyeong_jung.jpg" alg="" >
@@ -637,6 +607,19 @@ If you want to change the style of the table, please look at the table tags in _
     <div class="people-section">Alumni</div>
     <div class="people-container">
         <div class="boundary-line"></div>
+
+        <div class="img-column">
+            Nayoung Oh
+        </div>
+        <div class="exp-column">
+            T.B.D. <br>
+            <i class="fa fa-graduation-cap"></i>
+            M.S. in Artificial Intelligence, 2026<br>
+            <!--a href="mailto:lightsalt [at] kaist.ac.kr">
+            <i class="far fa-envelope"></i>
+            <span class="username">lightsalt [at] kaist.ac.kr </span>
+            </a-->
+        </div>
 
         <div class="img-column">
             Deok-Min Hwang
