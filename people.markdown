@@ -526,26 +526,6 @@ If you want to change the style of the table, please look at the table tags in _
             </a>
         </div>
 
-        <!-- Jiung Yang -->
-        <div class="img-column">
-            <img src="/assets/people/jiung_yang.jpg" alg="" >
-        </div>
-        <div class="exp-column">
-            <b>Jiung Yang</b><br>            
-            School of Computing, 2020 <br>
-	    <i class="fa-solid fa-microscope"></i>
-            Reinforcement Learning, Imitation Learning<br>
-            <a href="mailto:kjg682534 [at] kaist.ac.kr">
-            <i class="far fa-envelope"></i>
-            <span class="username">kjg682534 [at] kaist.ac.kr</span>
-            </a>
-            <br>
-            <a href="https://github.com/Jiuuung">
-            <i class="fab fa-github"></i>
-            <span>Github</span>
-            </a>
-        </div>
-
 
         <div class="img-column">
             <img src="" alg="" >
