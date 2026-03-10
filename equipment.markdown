@@ -64,6 +64,17 @@ If you want to change the style of the table, please look at the table tags in _
              </div>
         </div>
 
+        <div class="column">
+             <div class="item">
+                 <img src="/assets/equipment/ai_walker.png" alt="AI Walker"  style="width:80%">
+                 <div class="overlay"> AI Walker </div>
+             </div>
+             <div class="item">
+                 <img src="/assets/equipment/fr3.png" alt="FR3"  style="width:100%" >
+                 <div class="overlay"> FR3 </div>
+             </div>
+        </div>
+
     </div>
 
 

@@ -7,12 +7,14 @@ main_nav: true
 
 
 ## List of Available Graduate Schools
-1. <a href="https://cs.kaist.ac.kr/content?menu=41"> 전산학부 (School of Computing) </a>: 국비장학생, KAIST 장학생, International Students
-2. <a href="https://rp.kaist.ac.kr/home/admission"> 로봇학제전공 - 삼성전자 로보틱스 인재양성 프로그램 (REPS) </a>: KAIST 장학생 (연구실 TO외 우선선발)
-3. <a href="https://cs.kaist.ac.kr/content?menu=41"> 전산학부 (School of Computing) - KT AI 프로그램 </a>: KAIST 장학생 (연구실 TO외 우선선발)
-4. <a href="https://rp.kaist.ac.kr/home/admission"> 로봇학제전공 (Robotics Program) </a>: KAIST 장학생
-5. <a href="https://gsai.kaist.ac.kr/admission"> AI 대학원 (Kim Jaechul Graduate School) </a>: KAIST 장학생
-   
+1. <a href="https://cs.kaist.ac.kr/content?menu=41"> 전산학부 (School of Computing) </a>: 국비 장학생, KAIST 장학생, International Students
+2. <a href="https://aic.kaist.ac.kr/"> AI 컴퓨팅학과 (AI Computing) </a>: 국비 장학생
+3. <a href="https://rp.kaist.ac.kr/home/admission"> 로봇학제전공 (Robotics Program) </a>: KAIST 장학생
+4. <a href="https://gsai.kaist.ac.kr/admission"> AI 대학원 (Kim Jaechul Graduate School) </a>: KAIST 장학생
+5. <a href="https://rp.kaist.ac.kr/home/admission"> 삼성전자 로보틱스 인재양성 프로그램 (REPS) </a>: KAIST 장학생 (연구실 TO외 우선선발)
+6. <a href="https://cs.kaist.ac.kr/content?menu=41"> 전산학부 (School of Computing) - KT AI 프로그램 </a>: KAIST 장학생 (연구실 TO외 우선선발)
+
+
 ## Potential Research Topics
 1. Robot foundation model / vision-language action (VLA) model
 2. Humanoid navigation + whole-body manipulation 

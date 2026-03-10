@@ -39,12 +39,12 @@ main_nav: true
 <div class="professor-info">
   <h2>Dr. Daehyung Park (박대형)</h2>
   <p><strong>Associate Professor</strong>, School of Computing: Sept. 2024 ~ Present </p>
+  <p>Adjunct Professor, AI Computing: 2026 ~ Present </p>
   <p>Adjunct Professor, Graduate School of AI: 2020 ~ Present </p>
   <p>Adjunct Professor, KAIST Robotics Program: 2020 ~ Present </p>
   <p>Adjunct Professor, Graduate School of Advanced Security Science and Technology: 2023 ~ Present </p>
 
   <p><strong>Director</strong>, RIRO Lab (Robust Intelligence and Robotics Laboratory): 2020 ~ Present </p>
-  <p>Deputy Director, KI for Robotics: Sept. 2025 ~ Present </p>
 
   <hr>
   <p>Assistant Professor, School of Computing: Sept. 2020 ~ Aug. 2024 </p>
@@ -83,6 +83,7 @@ main_nav: true
 
   <h3>Professional Activities</h3>
   <ul>
+    <li>Deputy Director, KI for Robotics: Sept. 2025 </li>
     <li>Demo Chair, Conference on Robot Learning (CoRL) 2025</li>
     <li>Director, Korean Robotics Society 2025-Present</li>
     <li>Program Chair, The International Conference on Robot Intelligence Technology and Applications (RiTA) 2024</li>
