@@ -38,11 +38,11 @@ Note that a qualified applicant must have at least one 1st-author publication fr
 - 기간? 보통 4-5년으로 연구실내 졸업 요건 및 연구 완성도에 따라 결정됩니다.
 - 병역? 특례는 매년 1-2명이 가능합니다.
 - 인건비? 박사기준 연구실 인건비(200중반/월) + 일반 조교 수당(45/월)을 받게됩니다.
-- 석박통합 TO? 전산학부 입시 통과 여부에 달렸습니다. 
+- 석박통합 TO? 문의 요망. 
 
 
 ## Application Process for Master positions (석사지원)
-You can apply for a Master program in <b>School of Computing, Graduate School of AI, Robotics Program</b>, etc. Before or after the admission, 
+You can apply for the listed Master programs above. Before or after the admission, 
 
 1. Fill out a <a href="https://docs.google.com/forms/d/1fbOFI3ML3-3dVU44x4nC6wAQklnbhPCmnANIR2IJSFc/viewform?gxids=7628&edit_requested=true"> <U>pre-interview form</U></a>. If you are qualified, you will get a contact within 2 weeks.
 2. Get an interview with Dr. Park.
