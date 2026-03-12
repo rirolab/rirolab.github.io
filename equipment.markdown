@@ -34,8 +34,8 @@ If you want to change the style of the table, please look at the table tags in _
     
         <div class="column">
              <div class="item">
-                 <img src="/assets/equipment/ai_walker.png" alt="AI Walker" style="width:220px; height:220px; object-fit:contain;">
-                 <div class="overlay"> AI Walker </div>
+                 <img src="/assets/equipment/ai_worker.png" alt="AI Worker" style="width:220px; height:220px; object-fit:contain;">
+                 <div class="overlay"> AI Worker </div>
              </div>
              <div class="item">
                  <img src="/assets/equipment/panda.jpg" alt="Franka Emika Panda"  style="width:220px; height:220px; object-fit:contain;" >
@@ -99,6 +99,5 @@ If you want to change the style of the table, please look at the table tags in _
 
 
 </div>
-
 
 
