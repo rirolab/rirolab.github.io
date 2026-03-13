@@ -174,36 +174,6 @@ If you want to change the style of the table, please look at the table tags in _
 
         <div class="boundary-line"></div>
 
-        <!--Keonyoung Koh  -->
-        <div class="img-column">
-            <img src="/assets/people/keonyoung_koh.jpg" alg="" >
-        </div>
-        <div class="exp-column">
-            <b>Keonyoung Koh</b><br>
-            School of Computing, 2024 <br>
-	    <i class="fa-solid fa-microscope"></i>
-            Perception based Planning<br>
-            <a href="mailto:kkyjusikhoisa [at] kaist.ac.kr">
-            <i class="far fa-envelope"></i>
-            <span class="username">kkyjusikhoisa [at] kaist.ac.kr </span>
-            </a>
-            <br>
-            <a href="https://github.com/KeonyoungKoh">
-            <i class="fab fa-github"></i>
-            <span>Github</span>
-            </a>
-            <span> | </span>
-            <a href="https://scholar.google.com/citations?user=gI5KkPUAAAAJ">
-            <i class="fa fa-graduation-cap"></i>
-            <span>Scholar</span>
-            </a>
-            <span> | </span>
-            <a href="https://www.linkedin.com/in/keonyoungkoh/">
-            <i class="fab fa-linkedin"></i>
-            <span>LinkedIn</span>
-            </a>   
-        </div>
-
         <!-- Moonkyeong Jung  -->
         <div class="img-column">
             <img src="/assets/people/moonkyeong_jung.jpg" alg="" >
@@ -526,6 +496,26 @@ If you want to change the style of the table, please look at the table tags in _
             </a>
         </div>
 
+        <!-- Seongho Cho -->
+        <div class="img-column">
+            <img src="/assets/people/seongho_cho.jpg" alg="" >
+        </div>
+        <div class="exp-column">
+            <b>Seongho Cho</b><br>            
+            School of Computing, 2023 <br>
+	    <i class="fa-solid fa-microscope"></i>
+            Active perception, Manipulation<br>
+            <a href="mailto:rtfgcv0214 [at] kaist.ac.kr">
+            <i class="far fa-envelope"></i>
+            <span class="username">rtfgcv0214 [at] kaist.ac.kr</span>
+            </a>
+            <br>
+            <a href="https://github.com/rtfgcv0214">
+            <i class="fab fa-github"></i>
+            <span>Github</span>
+            </a>
+        </div>
+
 
         <div class="img-column">
             <img src="" alg="" >
@@ -587,6 +577,19 @@ If you want to change the style of the table, please look at the table tags in _
     <div class="people-section">Alumni</div>
     <div class="people-container">
         <div class="boundary-line"></div>
+
+        <div class="img-column">
+            Keonyoung Koh
+        </div>
+        <div class="exp-column">
+            T.B.D. <br>
+            <i class="fa fa-graduation-cap"></i>
+            M.S. in School of Computing, 2026<br>
+            <!--a href="mailto:kkyjusikhoisa [at] kaist.ac.kr">
+            <i class="far fa-envelope"></i>
+            <span class="username">kkyjusikhoisa [at] kaist.ac.kr </span>
+            </a-->
+        </div>
 
         <div class="img-column">
             Nayoung Oh
