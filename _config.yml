@@ -29,7 +29,8 @@ admin_email: daehyung [at] kaist.ac.kr
 # and never end with a slash. Set it to a blank value if hosting at the
 # root of your server.
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "https://rirolab.github.io" # the base hostname & protocol for your site
+url: "https://rirolab.kaist.ac.kr"
+#url: "https://rirolab.github.io" # the base hostname & protocol for your site
 cover: "/assets/header_image_opt.jpg"
 logo: "/assets/logo.png"
 
