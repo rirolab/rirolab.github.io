@@ -4,10 +4,11 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
   <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
-  <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
+  <meta name="author" content="{{ site.author }}">
+  <meta name="description" content="RIRO Lab at KAIST, led by Prof. Daehyung Park, focuses on Robust Intelligence, Physical AI, and Humanoid Robot Learning. We develop intelligent systems for real-world interaction.">
+  <meta name="keywords" content="KAIST, RIRO Lab, Robotics, Humanoid, Physical AI, Robot Learning, Daehyung Park, Manipulation, Imitation Learning, Reinforcement Learning, Vision Language Action, Machine Learning">
   {% if site.name %}
-  <meta name="author" content="{{ site.name }}">
-  <meta name="copyright" content="&copy; {{ site.name }} {{ site.time | date: '%Y' }}">
+	<meta name="copyright" content="&copy; {{ site.name }} {{ site.time | date: '%Y' }}">
   {% endif %}
 
   <!-- External libraries -->
@@ -44,11 +45,12 @@
 
   {% if site.protocols.fb_image %}
   <!-- Facebook OGP cards -->
-  <meta property="og:description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}" />
+  <meta property="og:image" content="{{ site.url }}/assets/lab_thumb.jpeg"> <meta property="og:url" content="{{ site.url }}{{ page.url }}">
   <meta property="og:url" content="{% if page.url %}{{ site.url }}{{ page.url }}{% else %}{{ site.url }}{% endif %}">
   <meta property="og:site_name" content="{{ site.title }}" />
-  <meta property="og:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}" />
   <meta property="og:type" content="website" />
+  <meta property="og:title" content="RIRO Lab @ KAIST | Robust Intelligence & Robotics Orchestration">
+  <meta property="og:description" content="Advancing the frontier of Physical AI and Humanoid Robotics. Check out our latest research on ILCL and high-performance manipulation.">	
   <meta property="og:image" content="{% if page.cover %}{{ page.cover | prepend: site.baseurl | prepend: site.url }}{% else %}{{ site.protocols.fb_image | prepend: site.baseurl | prepend: site.url }}{% endif %}" />
   <meta property="og:image:type" content="{{ site.protocols.fb_image_type }}" />
   <meta property="og:image:width" content="{{ site.protocols.fb_image_width }}" />
@@ -57,10 +59,10 @@
 
   {% if site.protocols.twitter_image %}
   <!-- Twitter: card tags -->
+  <meta name="twitter:title" content="RIRO Lab @ KAIST">
+  <meta name="twitter:description" content="Leading Research in Humanoid Robots and Intelligent Systems.">
+  <meta name="twitter:image" content="{{ site.url }}/assets/lab_thumb.jpeg">
   <meta name="twitter:card" content="summary">
-  <meta name="twitter:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
-  <meta name="twitter:description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
-  <meta name="twitter:image" content="{% if page.cover %}{{ page.cover | prepend: site.baseurl | prepend: site.url }}{% else %}{{ site.protocols.twitter_image | prepend: site.baseurl | prepend: site.url }}{% endif %}">
   <meta name="twitter:url" content="{% if page.url %}{{ site.url }}{{ page.url }}{% else %}{{ site.url }}{% endif %}">
   {% endif %}
 
@@ -78,7 +80,7 @@
   <link rel="stylesheet" href="/assets/css/bootstrap-buttons-20/css/style.css">
   <link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}">
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
-	<link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}" />
+  <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}" />
 	
 	<!-- Tooltips -->
 	<script type="text/javascript">
