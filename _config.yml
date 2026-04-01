@@ -13,15 +13,15 @@ exclude:
   - Gemfile.lock
 
 # Site settings
-title: Robust Intelligence and Robotics Laboratory 
-subtitle: 강인지능 로보틱스 연구실 (RIRO Lab)
+title: Robust Intelligence and Robotics Laboratory (RIRO Lab)
+subtitle: 강인지능 로보틱스 연구실 
+description: Robust Intelligence and Robotics Laboratory (RIRO Lab) at KAIST. KAIST 박대형 교수 연구팀의 RIRO Lab입니다. Research on mobile manipulation, vision-language action (VLA), physical AI.
 email: daehyung@kaist.ac.kr
 name: Daehyung Park
 department: School of Computing
 institute: Korea Advanced Institute of Science and Technology (KAIST)
 address1: "RIRO Lab., Room 2429"
 address2: 291 Daehak-ro Building E3-1, Yuseong, Daejeon (34141), Republic of Korea
-description: This is the webpage of Robust Intelligence and Robotics Laboratory at KAIST.
 admin: Daehyung Park
 admin_email: daehyung [at] kaist.ac.kr
   
