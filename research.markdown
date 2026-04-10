@@ -13,6 +13,24 @@ main_nav: true
 <!--br-->
 <br>
 
+<div class="research-highlight" style="background: #f4f7f9; padding: 25px; border-radius: 12px; margin-bottom: 40px; display: flex; align-items: center; border: 1px solid #e1e8ed; box-shadow: 0 4px 15px rgba(0,0,0,0.05);">
+    <div style="flex: 1; max-width: 180px; margin-right: 30px;">
+        <a href="/assets/document/2026_research_highlight.pdf" target="_blank">
+            <img src="/assets/document/2026_research_highlight.png" alt="Research Highlight Thumbnail" style="width: 100%; border-radius: 8px; box-shadow: 0 6px 12px rgba(0,0,0,0.15); transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
+        </a>
+    </div>
+    <div style="flex: 2;">
+        <h2 style="margin-top: 0; color: #004191; font-size: 1.5rem;">RIRO Lab Research Highlight (2026.04.10)</h2>
+        <p style="color: #444; line-height: 1.6; margin-bottom: 20px;">
+        This document provides a comprehensive overview of our three core research areas, highlighting our most recent breakthroughs and current laboratory status.
+        </p>
+        <a href="/assets/document/2026_research_highlight.pdf" target="_blank" style="display: inline-block; background: #004191; color: white; padding: 12px 24px; text-decoration: none; border-radius: 6px; font-weight: bold; font-size: 0.95rem; transition: background 0.3s;" onmouseover="this.style.background='#002d66'" onmouseout="this.style.background='#004191'">
+            📄 View Highlight (PDF)
+        </a>
+    </div>
+</div>
+<div class="boundary-line" style="margin-bottom: 40px;"></div>
+
 
 <div class="research">
 
