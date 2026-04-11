@@ -15,7 +15,7 @@ exclude:
 # Site settings
 title: Robust Intelligence and Robotics Laboratory (RIRO Lab)
 subtitle: 강인지능 로보틱스 연구실 
-description: Robust Intelligence and Robotics Laboratory (RIRO Lab) at KAIST. KAIST 박대형 교수 연구팀의 RIRO Lab입니다. Research on mobile manipulation, vision-language action (VLA), physical AI.
+description: RIRO Lab at KAIST, led by Prof. Daehyung Park, focuses on robot learning and interaction technologies (VLA, physical AI, Humanoids, etc) toward generalist humanoids. 카이스트 강인지능 로보틱스 연구실(RIRO Lab)은 박대형 교수 지도하에 제네럴리스트 휴머노이드를 향한 로봇 학습 및 상호작용 기술을 연구합니다.
 lang: en
 email: daehyung@kaist.ac.kr
 name: Daehyung Park
