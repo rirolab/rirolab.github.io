@@ -7,7 +7,7 @@
 	
   <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
   <meta name="author" content="{{ site.author }}">
-  <meta name="description" content="RIRO Lab at KAIST, led by Prof. Daehyung Park, focuses on robot learning and interaction technologies toward generalist humanoids. 카이스트 강인지능 로보틱스 연구실(RIRO Lab)은 박대형 교수 지도하에 제네럴리스트 휴머노이드를 향한 로봇 학습 및 상호작용 기술을 연구합니다.">
+  <meta name="description" content="{{ page.description | default: site.description | strip_html | normalize_whitespace | truncate: 160 }}">	
   <meta name="keywords" content="KAIST, RIRO Lab, Robotics, Humanoid, Physical AI, Robot Learning, Daehyung Park, Manipulation, Imitation Learning, Reinforcement Learning, Vision Language Action, Machine Learning">
   {% if site.name %}
 	<meta name="copyright" content="&copy; {{ site.name }} {{ site.time | date: '%Y' }}">
