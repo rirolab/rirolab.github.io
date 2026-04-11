@@ -2,6 +2,7 @@
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="alternate" hreflang="x-default" href="https://rirolab.kaist.ac.kr" />
 
   <meta http-equiv="content-language" content="en, ko">
 	
@@ -47,12 +48,11 @@
 
   {% if site.protocols.fb_image %}
   <!-- Facebook OGP cards -->
-  <meta property="og:image" content="{{ site.url }}/assets/lab_thumb.jpeg"> <meta property="og:url" content="{{ site.url }}{{ page.url }}">
-  <meta property="og:url" content="{% if page.url %}{{ site.url }}{{ page.url }}{% else %}{{ site.url }}{% endif %}">
   <meta property="og:site_name" content="{{ site.title }}" />
   <meta property="og:type" content="website" />
   <meta property="og:title" content="{{ page.title | default: site.title }}">	
   <meta property="og:description" content="{{ page.description | default: site.description }}">	
+  <meta property="og:url" content="{% if page.url %}{{ site.url }}{{ page.url }}{% else %}{{ site.url }}{% endif %}">
   <meta property="og:image" content="{{ site.url }}/assets/lab_thumb.jpeg" />
   <meta property="og:image:type" content="{{ site.protocols.fb_image_type }}" />
   <meta property="og:image:width" content="{{ site.protocols.fb_image_width }}" />
@@ -64,7 +64,7 @@
   <meta name="twitter:title" content="{{ page.title | default: site.title }}">
   <meta name="twitter:description" content="{{ page.description | default: site.description }}">
   <meta name="twitter:image" content="{{ site.url }}/assets/lab_thumb.jpeg">
-  <meta name="twitter:card" content="summary">
+  <meta name="twitter:card" content="summary_large_image">
   <meta name="twitter:url" content="{% if page.url %}{{ site.url }}{{ page.url }}{% else %}{{ site.url }}{% endif %}">
   {% endif %}
 
@@ -98,23 +98,24 @@
 
     gtag('config', 'G-RWFFB7F0RB');
   </script>  
+
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "EducationalOrganization",
+    "name": "KAIST RIRO Lab",
+    "alternateName": ["카이스트 강인지능 로보틱스 연구실", "RIRO Lab"],
+    "description": "Research laboratory at KAIST focusing on mobile
+    manipulation, humanoid robots, vision-language action (VLA),
+    and physical AI.",
+    "url": "https://rirolab.kaist.ac.kr",
+    "founder": {
+      "@type": "Person",
+      "name": "Daehyung Park"
+    }
+  }
+  </script>
+	
 </head>
 
-
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "EducationalOrganization",
-  "name": "KAIST RIRO Lab",
-  "alternateName": ["카이스트 강인지능 로보틱스 연구실", "RIRO Lab"],
-  "description": "Research laboratory at KAIST focusing on mobile
-  manipulation, humanoid robots, vision-language action (VLA),
-  and physical AI.",
-  "url": "https://rirolab.kaist.ac.kr",
-  "founder": {
-    "@type": "Person",
-    "name": "Daehyung Park"
-  }
-}
-</script>
 
