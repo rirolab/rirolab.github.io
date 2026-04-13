@@ -1,6 +1,10 @@
 // Primary site layout for Centrarium Theme
 
 
+/* 외부 폰트 임포트 */
+@import url('https://cdn.jsdelivr.net/gh/orioncactus/pretendard/dist/web/static/pretendard.css');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@700;800&family=Roboto+Slab:wght@400;700&display=swap');
+
 /*
 *	Variables
 */
@@ -25,6 +29,11 @@ html, body {
 	margin: 0;
 	padding: 0;
 	width: 100%;
+        /* 폰트 교체 및 가독성 향상 */
+        font-family: 'Pretendard', -apple-system, BlinkMacSystemFont, system-ui, Roboto, sans-serif;
+        line-height: 1.8; 
+        color: #333;
+        -webkit-font-smoothing: antialiased;        
 }
 
 ol.default {
@@ -111,17 +120,25 @@ pre code.hljs {
         }
 	.title {
             position: relative;
-            top: 20%;
-	    font-size: modular-scale(3);
+            /* 수정 부분 */
+            font-family: 'Montserrat', sans-serif;
+            font-weight: 800;
+            letter-spacing: -1.5px;
+            text-transform: uppercase;
+            /* 화면 너비의 8% 크기로 하되, 최소 1.5rem ~ 최대 4rem 사이 유지 */
+            font-size: clamp(1.0rem, 8vw, 2rem) !important;
+            word-break: keep-all; // 한글 단어 깨짐 방지            
+            /*font-size: 1.0rem !important;*/
 	    @include media($tablet) {
-		font-size: modular-scale(6);
+                top: 20%;
+                font-size: modular-scale(6) !important;
             }
 	}
 	.subtitle, .info {
             position: relative;
-            bottom: -20%;
 	    font-size: modular-scale(2);
 	    @include media($tablet) {
+                bottom: -20%;
 		font-size: modular-scale(3);
             }
 	}
@@ -336,10 +353,30 @@ pre code.hljs {
 	    @include outer-container(80%);
             padding: 1em;
         }
+
+        h1 {
+            font-family: 'Montserrat', sans-serif;
+            font-weight: 700;
+            font-size: 1.2rem !important;
+            color: #222;
+            /* 세련된 하단 라인 포인트 */
+            border-bottom: 3px solid #70aad0; 
+            display: inline-block;
+            padding-bottom: 5px;
+            @include media ($tablet) {
+                font-size: 1.8rem !important; // 모바일 본문 제목 크기 축소
+                margin-top: 2em;
+                margin-bottom: 1em;
+            }            
+        }
+
+        /* 국문/영문 설명 텍스트 스타일 */
+        font-size: 1.05rem;
+        word-break: keep-all; // 한글 줄바꿈 최적화
         
 	.news-list {
 	    margin: 0px 0px 0px 0px;
-	    padding-left: 1.5em;
+	    padding-left: 1em !important;
 	}
 	
 	.news-list > li {
@@ -502,6 +539,9 @@ pre code.hljs {
         height: 100px;
         width: 100%;
         justify-content: space-between; /* could also try with space-around */
+        align-items: flex-start; /* 아이콘들이 상단 정렬되도록 */
+        flex-wrap: nowrap;       /* 절대 줄바꿈 하지 않음 */
+        overflow: hidden;        /* 혹시나 넘치는 경우 방지 */
     }
 
     .flex-child {
@@ -512,6 +552,8 @@ pre code.hljs {
         flex-grow: 1;
         height: calc(100% - 20px); /* for demonstration purposes, subtracts top and bottom margin from height */
         margin: 10px; /* for demonstration purposes */
+        flex: 1;                /* 4개가 동일한 비율로 공간 차지 */
+        min-width: 0;           /* flex 아이템이 컨테이너를 뚫고 나가는 것 방지 */        
     }          
     /*
      *	Posts
@@ -978,4 +1020,16 @@ pre code.hljs {
 			text-decoration: underline;
 		}
 	}
+}
+
+
+/* 강조용 텍스트 박스 스타일 추가 */
+.highlight-intro {
+    background: #f8f9fa;
+    border-left: 5px solid #70aad0;
+    padding: 2em;
+    margin: 2em 0;
+    border-radius: 0 8px 8px 0;
+    font-style: italic;
+    color: #444;
 }
