@@ -360,9 +360,9 @@ pre code.hljs {
             font-size: 1.2rem !important;
             color: #222;
             /* 세련된 하단 라인 포인트 */
-            border-bottom: 3px solid #70aad0; 
-            display: inline-block;
-            padding-bottom: 5px;
+            border-bottom: 3px solid #70aad0 !important; 
+            display: inline-block !important;
+            padding-bottom: 5px !important;
             @include media ($tablet) {
                 font-size: 1.8rem !important; // 모바일 본문 제목 크기 축소
                 margin-top: 2em;
