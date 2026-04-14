@@ -451,31 +451,6 @@ If you want to change the style of the table, please look at the table tags in _
 
         <div class="boundary-line"></div>
 
-        <!-- Wonjae Kang -->
-        <div class="img-column">
-            <img src="/assets/people/wonjae_kang.jpg" alg="" >
-        </div>
-        <div class="exp-column">
-            <b>Wonjae Kang</b><br>            
-            School of Computing, 2024 <br>
-	    <i class="fa-solid fa-microscope"></i>
-            Manipulation, Foundation Models<br>
-            <a href="mailto:k1j24 [at] kaist.ac.kr">
-            <i class="far fa-envelope"></i>
-            <span class="username">k1j24 [at] kaist.ac.kr</span>
-            </a>
-            <br>
-            <a href="https://github.com/gssh1602">
-            <i class="fab fa-github"></i>
-            <span>Github</span>
-            </a>
-            <span> | </span>
-            <a href="https://www.linkedin.com/in/heyits-willkang/">
-            <i class="fab fa-linkedin"></i>
-            <span>LinkedIn</span>
-            </a>
-        </div>
-
         <!-- Wonhyeok Choi -->
         <div class="img-column">
             <img src="/assets/people/wonhyeok_choi.jpg" alg="" >
