@@ -58,7 +58,7 @@ main_nav: true
         <br>
         <b>Keywords</b>: Imitation learning, State-space models (SSM), Diffusion policy, Constraint learning, humanoid navigation
         <br>    
-        <b>Selected paper</b>: <a href="https://arxiv.org/abs/2409.14719" target="_blank">[under review]</a> 
+        <b>Selected paper</b>: <a href="https://arxiv.org/abs/2409.14719" target="_blank">[ICRA26a]</a> <a href="https://www.arxiv.org/abs/2602.06807" target="_blank">[ICRA26b]</a> 
     </div>
     <div class="boundary-line"></div>
     <br>
