@@ -45,6 +45,45 @@ If you want to change the style of the table, please look at the table tags in _
     </div>
     <br>
 
+    <!---------------- Postdoc --------------------->
+    <div class="people-section">Postdoctoral Researchers</div>
+    <div class="people-container">
+
+        <div class="boundary-line"></div>
+
+        <!-- Sehee Jung -->
+        <div class="img-column">
+            <img src="/assets/people/sehee_jung.jpg" alg="Sehee Jung" >
+        </div>
+        <div class="exp-column">
+            <b>Sehee Jung</b><br>
+            Postdoc (Ph.D., North Carolina State University), 2026<br>
+            <i class="fa-solid fa-microscope"></i>
+            Computer Vision, Planning<br>
+            <a href="mailto:apps.ehee [at] gmail.com">
+            <i class="far fa-envelope"></i>
+            <span class="username">apps.ehee [at] gmail.com</span>
+            </a>
+            <br>
+            <a href="https://github.com/s2h22">
+            <i class="fab fa-github"></i>
+            <span>Github</span>
+            </a>
+            <span> | </span>
+            <a href="https://scholar.google.com/citations?user=9hO_t08AAAAJ&hl=en">
+            <i class="fa fa-graduation-cap"></i>
+            <span>Scholar</span>
+            </a>
+            <span> | </span>
+            <a href="https://www.linkedin.com/in/sehee-jung">
+            <i class="fab fa-linkedin"></i>
+            <span>LinkedIn</span>
+            </a>
+        </div>
+        <div class="boundary-line"></div>
+    </div>
+    <br>
+
     <!---------------- Ph.D --------------------->
     <div class="people-section">Ph.D. Students</div>
     <div class="people-container">

@@ -491,7 +491,7 @@ If you want to change the style of the table, please look at the publication tag
                Deokmin Hwang, Minseok Song, Daehyung Park
           </div>
           <div class="publisher">
-               under review
+               International Conference on Ubiquitous Robots (UR), 2026
           </div>
           <div class="btn-links">
                <a class="btn btn-outline-primary btn-page-header btn-sm p-0 pr-2 pl-2 disabled"

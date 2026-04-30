@@ -7,8 +7,10 @@ main_nav: true
 
  <div>
       <ul class="news-list">
-      <li>Our research highlights are now available!! Please, check!! <a href="/assets/document/2026_research_highlight.pdf" target="_blank">[PDF]</a> </li> 	      
-      <li>Keonyoung, Moonkyeong, Seungsup's SuReNav paper has been accepted to IEEE ICRA, 2026!! </li> 	      
+      <li>Dr. Sehee Jung joined our lab as a Postdoc, 2026!! </li>
+      <li>Deokmin and Minseok's ParCo-SDF paper has been accepted to UR, 2026!! </li>
+      <li>Our research highlights are now available!! Please, check!! <a href="/assets/document/2026_research_highlight.pdf" target="_blank">[PDF]</a> </li>
+      <li>Keonyoung, Moonkyeong, Seungsup's SuReNav paper has been accepted to IEEE ICRA, 2026!! </li>
       <li>Nayoung, Jaehyung, Moonkyeong's DiSPo paper has been accepted to IEEE ICRA, 2026!! </li> 	      
       <li>Minwoo and Jaehwi's ILCL paper has been accepted to RA-L, 2025!! </li> 	      
       <li>Yeseung, Nayoung, Jun, Teetat's paper has been accepted to RiTA, 2025!! </li> 	      
