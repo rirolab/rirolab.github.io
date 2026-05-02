@@ -24,7 +24,7 @@ If you want to change the style of the table, please look at the table tags in _
         <div class="exp-column">
             <b>Daehyung Park (박대형)</b><br>
             Associate Professor at School of Computing<br>
-            Affiliated Asst. Prof. at Graduate School of AI<br>
+            Affiliated Asst. Prof. at AI Computing, Robotics Program, Graduate School of AI<br>
             <i class="fas fa-building" aria-hidden="true"></i> E3-1 #2429 at Main Campus <br>    
             <a href="mailto:daehyung [at] kaist.ac.kr">
             <i class="far fa-envelope"></i>
