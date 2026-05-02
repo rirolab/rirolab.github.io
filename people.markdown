@@ -57,12 +57,12 @@ If you want to change the style of the table, please look at the table tags in _
         </div>
         <div class="exp-column">
             <b>Sehee Jung</b><br>
-            Postdoc (Ph.D., North Carolina State University), 2026<br>
+            5D AI Robotics Initiative <br>
             <i class="fa-solid fa-microscope"></i>
             Computer Vision, Planning<br>
-            <a href="mailto:apps.ehee [at] gmail.com">
+            <a href="mailto:sjung9 [at] kaist.ac.kr">
             <i class="far fa-envelope"></i>
-            <span class="username">apps.ehee [at] gmail.com</span>
+            <span class="username">sjung9 [at] kaist.ac.kr </span>
             </a>
             <br>
             <a href="https://github.com/s2h22">
@@ -489,26 +489,6 @@ If you want to change the style of the table, please look at the table tags in _
     <div class="people-container">
 
         <div class="boundary-line"></div>
-
-        <!-- Wonhyeok Choi -->
-        <div class="img-column">
-            <img src="/assets/people/wonhyeok_choi.jpg" alg="" >
-        </div>
-        <div class="exp-column">
-            <b>Wonhyeok Choi</b><br>            
-            School of Computing, 2022 <br>
-	    <i class="fa-solid fa-microscope"></i>
-            Manipulation, Perception<br>
-            <a href="mailto:dnjsgur12271029 [at] kaist.ac.kr">
-            <i class="far fa-envelope"></i>
-            <span class="username">dnjsgur12271029 [at] kaist.ac.kr</span>
-            </a>
-            <br>
-            <a href="https://github.com/wonhyeok1029">
-            <i class="fab fa-github"></i>
-            <span>Github</span>
-            </a>
-        </div>
 
         <!-- Seongho Cho -->
         <div class="img-column">
