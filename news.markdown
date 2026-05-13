@@ -7,6 +7,7 @@ main_nav: true
 
  <div>
       <ul class="news-list">
+	  <li>Prof. Park provided a invited talk at the ME seminar of Seoul National University, 2026</li>
       <li>Dr. Sehee Jung joined our lab as a Postdoc, 2026!! </li>
       <li>Deokmin and Minseok's ParCo-SDF paper has been accepted to UR, 2026!! </li>
       <li>Our research highlights are now available!! Please, check!! <a href="/assets/document/2026_research_highlight.pdf" target="_blank">[PDF]</a> </li>
