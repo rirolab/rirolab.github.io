@@ -91,7 +91,7 @@ main_nav: true
     <li>Organizer, “Experiment-oriented Locomotion and Manipulation Research”, Workshop at RSS 2023</li>
     <li>Organizer, “Human-Agent/Robot Interaction in Healthcare and Medicine”, Special session at RO-MAN 2023</li>
     <li>Member, Award Subcommittee for ICRA  2022, 2023</li>
-    <li>Member, Organizing Committee for KRoC  2022-2024</li>
+    <li>Member, Organizing Committee for KRoC  2022-2024, 2026</li>
     <li>Member, Organizing Committee for RiTA  2022, 2025</li>
     <li>Member, Program Committee for the NeurIPS 2021 Workshop on Metacognition in the Age of AI                                           2021</li>
   </ul>
