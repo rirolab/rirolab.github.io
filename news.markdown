@@ -7,6 +7,7 @@ main_nav: true
 
  <div>
       <ul class="news-list">
+	  <li>Prof. Park provided a invited talk at KAIST ChoChunSik Graduate School of Mobility, 2026</li>
 	  <li>Prof. Park provided a invited talk at the ME seminar of Seoul National University, 2026</li>
       <li>Dr. Sehee Jung joined our lab as a Postdoc, 2026!! </li>
       <li>Deokmin and Minseok's ParCo-SDF paper has been accepted to UR, 2026!! </li>
