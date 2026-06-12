@@ -7,6 +7,7 @@ main_nav: true
 
  <div>
       <ul class="news-list">
+	  <li>Our Brain Pool proposal has been approved to host <a href="https://cse.umn.edu/ece/changhyun-choi" target="_blank">Dr. Changhyun Choi</a> (University of Minnesota) as a visiting faculty member for one year. </li>
 	  <li>Prof. Park provided a invited talk at KAIST ChoChunSik Graduate School of Mobility, 2026</li>
 	  <li>Prof. Park provided a invited talk at the ME seminar of Seoul National University, 2026</li>
       <li>Dr. Sehee Jung joined our lab as a Postdoc, 2026!! </li>
