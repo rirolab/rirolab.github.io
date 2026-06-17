@@ -417,10 +417,10 @@ If you want to change the style of the table, please look at the publication tag
                Sling2Sim2Real: One-Shot Elastic System Identification for Non-Destructive Slingshot Policy Learning
           </div>
           <div class="authors">
-               Wonjae Kang, Geonwoo Kim, Minseok Song, Daehyung Park
+               Wonjae Kang*, Geonwoo Kim*, Minseok Song, Daehyung Park (*- authors contributed equally)
           </div>
           <div class="publisher">
-               under review
+               IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2026 (accepted)
           </div>
           <div class="btn-links">
                <a class="btn btn-outline-primary btn-page-header btn-sm p-0 pr-2 pl-2 disabled"
