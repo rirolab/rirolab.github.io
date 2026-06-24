@@ -511,11 +511,69 @@ If you want to change the style of the table, please look at the table tags in _
         </div>
 
 
+        <!-- Injin Choi -->
         <div class="img-column">
-            <img src="" alg="" >
+            <img src="/assets/people/injin_choi.jpg" alg="" >
         </div>
         <div class="exp-column">
-   
+            <b>Injin Choi</b><br>
+            Department of Mathematical Sciences, 2021 <br>
+	    <i class="fa-solid fa-microscope"></i>
+            Planning, Navigation<br>
+            <a href="mailto:changing [at] kaist.ac.kr">
+            <i class="far fa-envelope"></i>
+            <span class="username">changing [at] kaist.ac.kr</span>
+            </a>
+            <br>
+            <a href="https://github.com/k65ghjh">
+            <i class="fab fa-github"></i>
+            <span>Github</span>
+            </a>
+        </div>
+
+        <!-- Joonwoo Hur -->
+        <div class="img-column">
+            <img src="/assets/people/joonwoo_hur.jpg" alg="" >
+        </div>
+        <div class="exp-column">
+            <b>Joonwoo Hur</b><br>
+            School of Computing, 2022 <br>
+	    <i class="fa-solid fa-microscope"></i>
+            Manipulation<br>
+            <a href="mailto:naljw [at] kaist.ac.kr">
+            <i class="far fa-envelope"></i>
+            <span class="username">naljw [at] kaist.ac.kr</span>
+            </a>
+            <br>
+            <a href="https://github.com/naljw04">
+            <i class="fab fa-github"></i>
+            <span>Github</span>
+            </a>
+        </div>
+
+        <!-- Taekgeun Nam -->
+        <div class="img-column">
+            <img src="/assets/people/taekgeun_nam.jpg" alg="" >
+        </div>
+        <div class="exp-column">
+            <b>Taekgeun Nam</b><br>
+            Mechanical Engineering, 2023 <br>
+	    <i class="fa-solid fa-microscope"></i>
+            Humanoid Whole-body Control<br>
+            <a href="mailto:namtg002 [at] kaist.ac.kr">
+            <i class="far fa-envelope"></i>
+            <span class="username">namtg002 [at] kaist.ac.kr</span>
+            </a>
+            <br>
+            <a href="https://github.com/namtg002-rgb">
+            <i class="fab fa-github"></i>
+            <span>Github</span>
+            </a>
+            <span> | </span>
+            <a href="https://www.linkedin.com/in/%ED%83%9D%EA%B7%BC-%EB%82%A8-5ba326363">
+            <i class="fab fa-linkedin"></i>
+            <span>LinkedIn</span>
+            </a>
         </div>
 
         <div class="boundary-line"></div>
