@@ -65,7 +65,7 @@ main_nav: true
 </li></div>
 
 <div class="pub-item"><li>
-        학생주도 창의자율과제 <b style="color:red;">우수상</b>, 빅데이터 엣지 클라우드서비스 연구센터, 2021-2023.
+        학생주도 창의자율과제 <b style="color:red;">우수상</b>, 빅데이터 엣지 클라우드서비스 연구센터, 2021-2023 & 2025.
 </li></div>
 
 <div class="pub-item"><li>
