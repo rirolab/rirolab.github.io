@@ -80,6 +80,16 @@ If you want to change the style of the table, please look at the table tags in _
             <span>LinkedIn</span>
             </a>
         </div>
+
+        <!-- Linan Deng -->
+        <div class="img-column">
+        	<img src="/assets/people/noname.jpg" alg="" >
+        </div>
+        <div class="exp-column">
+            <b>Coming Soon</b><br>
+            5D AI Robotics Initiative <br>
+        </div>
+		
         <div class="boundary-line"></div>
     </div>
     <br>
