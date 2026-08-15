@@ -20,7 +20,7 @@ main_nav: true
         </a>
     </div>
     <div style="flex: 2;">
-        <h2 style="margin-top: 0; color: #004191; font-size: 1.5rem;">RIRO Lab Research Highlight (2026.04.10)</h2>
+        <h2 style="margin-top: 0; color: #004191; font-size: 1.5rem;">RIRO Lab Research Highlight (2026.08.15)</h2>
         <p style="color: #444; line-height: 1.6; margin-bottom: 20px;">
         This document provides a comprehensive overview of our three core research areas, highlighting our most recent breakthroughs and current laboratory status.
         </p>
