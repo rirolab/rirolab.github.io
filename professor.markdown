@@ -83,6 +83,7 @@ main_nav: true
 
   <h3>Professional Activities</h3>
   <ul>
+    <li>Associate Editor for RA-L RSS, AURO, ISR, RiTA, etc. </li>
     <li>Deputy Director, KI for Robotics: Sept. 2025 </li>
     <li>Demo Chair, Conference on Robot Learning (CoRL) 2025</li>
     <li>Director, Korean Robotics Society 2025-Present</li>
@@ -90,6 +91,7 @@ main_nav: true
     <li>Organizer, “Designing Interactive Humanoids: Learning Tasks through Interaction with Humans”, Workshop at Humanoids 2024</li>
     <li>Organizer, “Experiment-oriented Locomotion and Manipulation Research”, Workshop at RSS 2023</li>
     <li>Organizer, “Human-Agent/Robot Interaction in Healthcare and Medicine”, Special session at RO-MAN 2023</li>
+    <li>Member, Organizing Committee for ICCAS  2026, 2026</li>
     <li>Member, Award Subcommittee for ICRA  2022, 2023</li>
     <li>Member, Organizing Committee for KRoC  2022-2024, 2026</li>
     <li>Member, Organizing Committee for RiTA  2022, 2025</li>

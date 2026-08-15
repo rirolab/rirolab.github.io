@@ -211,7 +211,16 @@ If you want to change the style of the table, please look at the table tags in _
             <span>Homepage</span>
             </a>
         </div>
-	
+
+        <!-- An Ning -->
+        <div class="img-column">
+        	<img src="/assets/people/noname.jpg" alg="" >
+        </div>
+        <div class="exp-column">
+            <b>An Ning</b><br>
+            School of Computing <br>
+        </div>
+
         <div class="boundary-line"></div>
     </div>
     <br>
@@ -463,6 +472,36 @@ If you want to change the style of the table, please look at the table tags in _
             </a>
         </div>
 
+        <!-- Injin Choi -->
+        <div class="img-column">
+            <img src="/assets/people/injin_choi.jpg" alg="" >
+        </div>
+        <div class="exp-column">
+            <b>Injin Choi</b><br>
+            Department of Mathematical Sciences, 2021 <br>
+	    <i class="fa-solid fa-microscope"></i>
+            Planning, Navigation<br>
+            <a href="mailto:changing [at] kaist.ac.kr">
+            <i class="far fa-envelope"></i>
+            <span class="username">changing [at] kaist.ac.kr</span>
+            </a>
+            <br>
+            <a href="https://github.com/k65ghjh">
+            <i class="fab fa-github"></i>
+            <span>Github</span>
+            </a>
+        </div>
+
+        <!-- Seoyul Jeon -->
+        <div class="img-column">
+        	<img src="/assets/people/noname.jpg" alg="" >
+        </div>
+        <div class="exp-column">
+            <b>Seoyul Jeon</b><br>
+            School of Computing <br>
+        </div>
+
+
         <div class="boundary-line"></div>
 
     </div>
@@ -495,26 +534,6 @@ If you want to change the style of the table, please look at the table tags in _
             </a>
         </div>
 
-
-        <!-- Injin Choi -->
-        <div class="img-column">
-            <img src="/assets/people/injin_choi.jpg" alg="" >
-        </div>
-        <div class="exp-column">
-            <b>Injin Choi</b><br>
-            Department of Mathematical Sciences, 2021 <br>
-	    <i class="fa-solid fa-microscope"></i>
-            Planning, Navigation<br>
-            <a href="mailto:changing [at] kaist.ac.kr">
-            <i class="far fa-envelope"></i>
-            <span class="username">changing [at] kaist.ac.kr</span>
-            </a>
-            <br>
-            <a href="https://github.com/k65ghjh">
-            <i class="fab fa-github"></i>
-            <span>Github</span>
-            </a>
-        </div>
 
         <!-- Joonwoo Hur -->
         <div class="img-column">
