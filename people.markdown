@@ -214,11 +214,27 @@ If you want to change the style of the table, please look at the table tags in _
 
         <!-- An Ning -->
         <div class="img-column">
-        	<img src="/assets/people/noname.jpg" alg="" >
+            <img src="/assets/people/an_ning.jpg" alg="" >
         </div>
         <div class="exp-column">
             <b>An Ning</b><br>
-            School of Computing <br>
+            School of Computing, 2026<br>
+	    <i class="fa-solid fa-microscope"></i>
+            Vision Language Action, Imitation Learning<br>
+            <a href="mailto:ansonning [at] kaist.ac.kr">
+            <i class="far fa-envelope"></i>
+            <span class="username">ansonning [at] kaist.ac.kr</span>
+            </a>
+            <br>
+            <a href="https://github.com/AnsonNing">
+            <i class="fab fa-github"></i>
+            <span>Github</span>
+            </a>
+            <span> | </span>
+            <a href="https://scholar.google.com/citations?hl=zh-TW&user=S8ev_A4AAAAJ">
+            <i class="fa fa-graduation-cap"></i>
+            <span>Scholar</span>
+            </a>
         </div>
 
         <div class="boundary-line"></div>
@@ -440,7 +456,7 @@ If you want to change the style of the table, please look at the table tags in _
             <b>Sangyun Won</b><br>
             School of Computing, 2026<br>
 	    <i class="fa-solid fa-microscope"></i>
-            Reinforcement Learning, Imitation Learning<br>
+            VLA, Imitation Learning<br>
             <a href="mailto:wonsang4232 [at] kaist.ac.kr">
             <i class="far fa-envelope"></i>
             <span class="username">wonsang4232 [at] kaist.ac.kr </span>
@@ -478,7 +494,7 @@ If you want to change the style of the table, please look at the table tags in _
         </div>
         <div class="exp-column">
             <b>Injin Choi</b><br>
-            Department of Mathematical Sciences, 2021 <br>
+            Department of AI Computing, 2026<br>
 	    <i class="fa-solid fa-microscope"></i>
             Planning, Navigation<br>
             <a href="mailto:changing [at] kaist.ac.kr">
@@ -494,13 +510,23 @@ If you want to change the style of the table, please look at the table tags in _
 
         <!-- Seoyul Jeon -->
         <div class="img-column">
-        	<img src="/assets/people/noname.jpg" alg="" >
+            <img src="/assets/people/seoyul_jeon.jpg" alg="" >
         </div>
         <div class="exp-column">
             <b>Seoyul Jeon</b><br>
-            School of Computing <br>
+            School of Computing, 2026<br>
+	    <i class="fa-solid fa-microscope"></i>
+            Physical AI, ML & DL<br>
+            <a href="mailto:jsy628496 [at] kaist.ac.kr">
+            <i class="far fa-envelope"></i>
+            <span class="username">jsy628496 [at] kaist.ac.kr</span>
+            </a>
+            <br>
+            <a href="https://github.com/0x4A656F6E2053656F79756C">
+            <i class="fab fa-github"></i>
+            <span>Github</span>
+            </a>
         </div>
-
 
         <div class="boundary-line"></div>
 
