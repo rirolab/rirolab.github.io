@@ -174,7 +174,7 @@ If you want to change the style of the table, please look at the table tags in _
 
          <!-- Junhyeong Bang -->
         <div class="img-column">
-            <img src="/assets/people/junhyeong_bang.png" alg="" >
+            <img src="/assets/people/junhyeong_bang.jpg" alg="" >
         </div>
         <div class="exp-column">
             <b>Junhyeong Bang</b><br>
@@ -271,7 +271,7 @@ If you want to change the style of the table, please look at the table tags in _
 
         <!-- Gyungjin Eo -->
         <div class="img-column">
-            <img src="/assets/people/gyungjin_eo.png" alg="" >
+            <img src="/assets/people/gyungjin_eo.jpg" alg="" >
         </div>
         <div class="exp-column">
             <b>Gyungjin Eo</b><br>
@@ -624,6 +624,46 @@ If you want to change the style of the table, please look at the table tags in _
             <a href="https://www.linkedin.com/in/%ED%83%9D%EA%B7%BC-%EB%82%A8-5ba326363">
             <i class="fab fa-linkedin"></i>
             <span>LinkedIn</span>
+            </a>
+        </div>
+
+        <!-- Hyunseo Lee -->
+        <div class="img-column">
+            <img src="/assets/people/hyunseo_lee.jpg" alg="" >
+        </div>
+        <div class="exp-column">
+            <b>Hyunseo Lee</b><br>
+            School of Computing, 2022 <br>
+	    <i class="fa-solid fa-microscope"></i>
+            Planning, Navigation<br>
+            <a href="mailto:caleb [at] kaist.ac.kr">
+            <i class="far fa-envelope"></i>
+            <span class="username">caleb [at] kaist.ac.kr</span>
+            </a>
+            <br>
+            <a href="https://github.com/leehyunseo03">
+            <i class="fab fa-github"></i>
+            <span>Github</span>
+            </a>
+        </div>
+
+        <!-- Yungeun Song -->
+        <div class="img-column">
+            <img src="/assets/people/yungeun_song.jpg" alg="" >
+        </div>
+        <div class="exp-column">
+            <b>Yungeun Song</b><br>
+            School of Computing, 2020 <br>
+	    <i class="fa-solid fa-microscope"></i>
+            Reinforcement Learning<br>
+            <a href="mailto:syg0610 [at] kaist.ac.kr">
+            <i class="far fa-envelope"></i>
+            <span class="username">syg0610 [at] kaist.ac.kr</span>
+            </a>
+            <br>
+            <a href="https://github.com/Diiligent">
+            <i class="fab fa-github"></i>
+            <span>Github</span>
             </a>
         </div>
 
