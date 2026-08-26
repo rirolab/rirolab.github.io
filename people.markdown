@@ -83,11 +83,32 @@ If you want to change the style of the table, please look at the table tags in _
 
         <!-- Linan Deng -->
         <div class="img-column">
-        	<img src="/assets/people/noname.jpg" alg="" >
+            <img src="/assets/people/linan_deng.jpg" alg="Linan Deng" >
         </div>
         <div class="exp-column">
-            <b>Coming Soon</b><br>
+            <b>Linan Deng</b><br>
             5D AI Robotics Initiative <br>
+            <i class="fa-solid fa-microscope"></i>
+            Manipulation, Tactile Sensing<br>
+            <a href="mailto:denglinandln [at] outlook.com">
+            <i class="far fa-envelope"></i>
+            <span class="username">denglinandln [at] outlook.com </span>
+            </a>
+            <br>
+            <a href="https://github.com/linan-deng">
+            <i class="fab fa-github"></i>
+            <span>Github</span>
+            </a>
+            <span> | </span>
+            <a href="https://scholar.google.com/citations?user=28u-d90AAAAJ&hl=en">
+            <i class="fa fa-graduation-cap"></i>
+            <span>Scholar</span>
+            </a>
+            <span> | </span>
+            <a href="https://linan-deng.github.io/">
+            <i class="fa fa-home"></i>
+            <span>Homepage</span>
+            </a>
         </div>
 		
         <div class="boundary-line"></div>
@@ -622,37 +643,13 @@ If you want to change the style of the table, please look at the table tags in _
 
 
     <!---------------- Visiting Scholars. --------------------->
-    <div class="people-section">Visiting Scholars</div>
+    <!--div class="people-section">Visiting Scholars</div>
     <div class="people-container">
+
         <div class="boundary-line"></div>
-		
-        <!--Seohee Choy-->
-        <div class="img-column">
-            <img src="/assets/people/seohee_choy.png" alg="Seohee Choy" >
-        </div>
-        <div class="exp-column">
-            <b>Seohee Choy</b><br>
-            Visiting Scholar (University of Wisconsin–Madison), 2025<br>
-	    <i class="fa-solid fa-microscope"></i>
-            Perception, Manipulation<br>
-            <a href="mailto:seohee.choy [at] kaist.ac.kr">
-            <i class="far fa-envelope"></i>
-            <span class="username">seohee.choy [at] kaist.ac.kr</span>
-            </a>
-            <br>
-            <a href="https://github.com/zseohee">
-            <i class="fab fa-github"></i>
-            <span>Github</span>
-            </a>
-            <span> | </span>
-            <a href="https://www.linkedin.com/in/seohee-choy/">
-            <i class="fab fa-linkedin"></i>
-            <span>LinkedIn</span>
-            </a>
-        </div>
-        <div class="boundary-line"></div>
+
     </div>
-    <br> 
+    <br-->
 
 
     <!---------------- Alum. --------------------->
@@ -811,6 +808,15 @@ If you want to change the style of the table, please look at the table tags in _
     <div class="people-section">Past RA & Visiting Scholars </div>
     <div class="people-container">
         <div class="boundary-line"></div>
+
+        <div class="img-column">
+            <a href="https://www.linkedin.com/in/seohee-choy/">Seohee Choy</a>
+        </div>
+        <div class="exp-column">
+            University of Wisconsin–Madison <br>
+            <i class="fa fa-graduation-cap"></i>
+            Visiting Scholar, 2025 <br>
+        </div>
 
         <div class="img-column">
             Teetat Thamronglak
