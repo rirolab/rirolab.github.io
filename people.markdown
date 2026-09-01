@@ -561,27 +561,6 @@ If you want to change the style of the table, please look at the table tags in _
 
         <div class="boundary-line"></div>
 
-        <!-- Seongho Cho -->
-        <div class="img-column">
-            <img src="/assets/people/seongho_cho.jpg" alg="" >
-        </div>
-        <div class="exp-column">
-            <b>Seongho Cho</b><br>            
-            School of Computing, 2023 <br>
-	    <i class="fa-solid fa-microscope"></i>
-            Active perception, Manipulation<br>
-            <a href="mailto:rtfgcv0214 [at] kaist.ac.kr">
-            <i class="far fa-envelope"></i>
-            <span class="username">rtfgcv0214 [at] kaist.ac.kr</span>
-            </a>
-            <br>
-            <a href="https://github.com/rtfgcv0214">
-            <i class="fab fa-github"></i>
-            <span>Github</span>
-            </a>
-        </div>
-
-
         <!-- Joonwoo Hur -->
         <div class="img-column">
             <img src="/assets/people/joonwoo_hur.jpg" alg="" >
