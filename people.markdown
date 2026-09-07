@@ -83,11 +83,32 @@ If you want to change the style of the table, please look at the table tags in _
 
         <!-- Linan Deng -->
         <div class="img-column">
-        	<img src="/assets/people/noname.jpg" alg="" >
+            <img src="/assets/people/linan_deng.jpg" alg="Linan Deng" >
         </div>
         <div class="exp-column">
-            <b>Coming Soon</b><br>
+            <b>Linan Deng</b><br>
             5D AI Robotics Initiative <br>
+            <i class="fa-solid fa-microscope"></i>
+            Manipulation, Tactile Sensing<br>
+            <a href="mailto:denglinandln [at] outlook.com">
+            <i class="far fa-envelope"></i>
+            <span class="username">denglinandln [at] outlook.com </span>
+            </a>
+            <br>
+            <a href="https://github.com/linan-deng">
+            <i class="fab fa-github"></i>
+            <span>Github</span>
+            </a>
+            <span> | </span>
+            <a href="https://scholar.google.com/citations?user=28u-d90AAAAJ&hl=en">
+            <i class="fa fa-graduation-cap"></i>
+            <span>Scholar</span>
+            </a>
+            <span> | </span>
+            <a href="https://linan-deng.github.io/">
+            <i class="fa fa-home"></i>
+            <span>Homepage</span>
+            </a>
         </div>
 		
         <div class="boundary-line"></div>
@@ -153,7 +174,7 @@ If you want to change the style of the table, please look at the table tags in _
 
          <!-- Junhyeong Bang -->
         <div class="img-column">
-            <img src="/assets/people/junhyeong_bang.png" alg="" >
+            <img src="/assets/people/junhyeong_bang.jpg" alg="" >
         </div>
         <div class="exp-column">
             <b>Junhyeong Bang</b><br>
@@ -214,11 +235,27 @@ If you want to change the style of the table, please look at the table tags in _
 
         <!-- An Ning -->
         <div class="img-column">
-        	<img src="/assets/people/noname.jpg" alg="" >
+            <img src="/assets/people/an_ning.jpg" alg="" >
         </div>
         <div class="exp-column">
             <b>An Ning</b><br>
-            School of Computing <br>
+            School of Computing, 2026<br>
+	    <i class="fa-solid fa-microscope"></i>
+            Vision Language Action, Imitation Learning<br>
+            <a href="mailto:ansonning [at] kaist.ac.kr">
+            <i class="far fa-envelope"></i>
+            <span class="username">ansonning [at] kaist.ac.kr</span>
+            </a>
+            <br>
+            <a href="https://github.com/AnsonNing">
+            <i class="fab fa-github"></i>
+            <span>Github</span>
+            </a>
+            <span> | </span>
+            <a href="https://scholar.google.com/citations?hl=zh-TW&user=S8ev_A4AAAAJ">
+            <i class="fa fa-graduation-cap"></i>
+            <span>Scholar</span>
+            </a>
         </div>
 
         <div class="boundary-line"></div>
@@ -234,7 +271,7 @@ If you want to change the style of the table, please look at the table tags in _
 
         <!-- Gyungjin Eo -->
         <div class="img-column">
-            <img src="/assets/people/gyungjin_eo.png" alg="" >
+            <img src="/assets/people/gyungjin_eo.jpg" alg="" >
         </div>
         <div class="exp-column">
             <b>Gyungjin Eo</b><br>
@@ -440,7 +477,7 @@ If you want to change the style of the table, please look at the table tags in _
             <b>Sangyun Won</b><br>
             School of Computing, 2026<br>
 	    <i class="fa-solid fa-microscope"></i>
-            Reinforcement Learning, Imitation Learning<br>
+            VLA, Imitation Learning<br>
             <a href="mailto:wonsang4232 [at] kaist.ac.kr">
             <i class="far fa-envelope"></i>
             <span class="username">wonsang4232 [at] kaist.ac.kr </span>
@@ -478,7 +515,7 @@ If you want to change the style of the table, please look at the table tags in _
         </div>
         <div class="exp-column">
             <b>Injin Choi</b><br>
-            Department of Mathematical Sciences, 2021 <br>
+            Department of AI Computing, 2026<br>
 	    <i class="fa-solid fa-microscope"></i>
             Planning, Navigation<br>
             <a href="mailto:changing [at] kaist.ac.kr">
@@ -494,13 +531,23 @@ If you want to change the style of the table, please look at the table tags in _
 
         <!-- Seoyul Jeon -->
         <div class="img-column">
-        	<img src="/assets/people/noname.jpg" alg="" >
+            <img src="/assets/people/seoyul_jeon.jpg" alg="" >
         </div>
         <div class="exp-column">
             <b>Seoyul Jeon</b><br>
-            School of Computing <br>
+            School of Computing, 2026<br>
+	    <i class="fa-solid fa-microscope"></i>
+            Physical AI, ML & DL<br>
+            <a href="mailto:jsy628496 [at] kaist.ac.kr">
+            <i class="far fa-envelope"></i>
+            <span class="username">jsy628496 [at] kaist.ac.kr</span>
+            </a>
+            <br>
+            <a href="https://github.com/0x4A656F6E2053656F79756C">
+            <i class="fab fa-github"></i>
+            <span>Github</span>
+            </a>
         </div>
-
 
         <div class="boundary-line"></div>
 
@@ -513,27 +560,6 @@ If you want to change the style of the table, please look at the table tags in _
     <div class="people-container">
 
         <div class="boundary-line"></div>
-
-        <!-- Seongho Cho -->
-        <div class="img-column">
-            <img src="/assets/people/seongho_cho.jpg" alg="" >
-        </div>
-        <div class="exp-column">
-            <b>Seongho Cho</b><br>            
-            School of Computing, 2023 <br>
-	    <i class="fa-solid fa-microscope"></i>
-            Active perception, Manipulation<br>
-            <a href="mailto:rtfgcv0214 [at] kaist.ac.kr">
-            <i class="far fa-envelope"></i>
-            <span class="username">rtfgcv0214 [at] kaist.ac.kr</span>
-            </a>
-            <br>
-            <a href="https://github.com/rtfgcv0214">
-            <i class="fab fa-github"></i>
-            <span>Github</span>
-            </a>
-        </div>
-
 
         <!-- Joonwoo Hur -->
         <div class="img-column">
@@ -580,6 +606,46 @@ If you want to change the style of the table, please look at the table tags in _
             </a>
         </div>
 
+        <!-- Hyunseo Lee -->
+        <div class="img-column">
+            <img src="/assets/people/hyunseo_lee.jpg" alg="" >
+        </div>
+        <div class="exp-column">
+            <b>Hyunseo Lee</b><br>
+            School of Computing, 2022 <br>
+	    <i class="fa-solid fa-microscope"></i>
+            Planning, Navigation<br>
+            <a href="mailto:caleb [at] kaist.ac.kr">
+            <i class="far fa-envelope"></i>
+            <span class="username">caleb [at] kaist.ac.kr</span>
+            </a>
+            <br>
+            <a href="https://github.com/leehyunseo03">
+            <i class="fab fa-github"></i>
+            <span>Github</span>
+            </a>
+        </div>
+
+        <!-- Yungeun Song -->
+        <div class="img-column">
+            <img src="/assets/people/yungeun_song.jpg" alg="" >
+        </div>
+        <div class="exp-column">
+            <b>Yungeun Song</b><br>
+            School of Computing, 2020 <br>
+	    <i class="fa-solid fa-microscope"></i>
+            Reinforcement Learning<br>
+            <a href="mailto:syg0610 [at] kaist.ac.kr">
+            <i class="far fa-envelope"></i>
+            <span class="username">syg0610 [at] kaist.ac.kr</span>
+            </a>
+            <br>
+            <a href="https://github.com/Diiligent">
+            <i class="fab fa-github"></i>
+            <span>Github</span>
+            </a>
+        </div>
+
         <div class="boundary-line"></div>
     </div>
     <br>
@@ -596,37 +662,13 @@ If you want to change the style of the table, please look at the table tags in _
 
 
     <!---------------- Visiting Scholars. --------------------->
-    <div class="people-section">Visiting Scholars</div>
+    <!--div class="people-section">Visiting Scholars</div>
     <div class="people-container">
+
         <div class="boundary-line"></div>
-		
-        <!--Seohee Choy-->
-        <div class="img-column">
-            <img src="/assets/people/seohee_choy.png" alg="Seohee Choy" >
-        </div>
-        <div class="exp-column">
-            <b>Seohee Choy</b><br>
-            Visiting Scholar (University of Wisconsin–Madison), 2025<br>
-	    <i class="fa-solid fa-microscope"></i>
-            Perception, Manipulation<br>
-            <a href="mailto:seohee.choy [at] kaist.ac.kr">
-            <i class="far fa-envelope"></i>
-            <span class="username">seohee.choy [at] kaist.ac.kr</span>
-            </a>
-            <br>
-            <a href="https://github.com/zseohee">
-            <i class="fab fa-github"></i>
-            <span>Github</span>
-            </a>
-            <span> | </span>
-            <a href="https://www.linkedin.com/in/seohee-choy/">
-            <i class="fab fa-linkedin"></i>
-            <span>LinkedIn</span>
-            </a>
-        </div>
-        <div class="boundary-line"></div>
+
     </div>
-    <br> 
+    <br-->
 
 
     <!---------------- Alum. --------------------->
@@ -785,6 +827,15 @@ If you want to change the style of the table, please look at the table tags in _
     <div class="people-section">Past RA & Visiting Scholars </div>
     <div class="people-container">
         <div class="boundary-line"></div>
+
+        <div class="img-column">
+            <a href="https://www.linkedin.com/in/seohee-choy/">Seohee Choy</a>
+        </div>
+        <div class="exp-column">
+            University of Wisconsin–Madison <br>
+            <i class="fa fa-graduation-cap"></i>
+            Visiting Scholar, 2025 <br>
+        </div>
 
         <div class="img-column">
             Teetat Thamronglak
