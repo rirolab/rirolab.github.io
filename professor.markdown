@@ -80,6 +80,12 @@ main_nav: true
     <li>Government-sponsored full scholarship by Japanese and Korean governments 2001-2006</li>
   </ul>
 
+  <h3>Selected Talks and Media Appearances</h3>
+  <ul>
+    <li>Invited talk, "<a href="https://youtu.be/K9fXDUjkVyA">Robot may not work as we want</a>", KAIST CCS Mobility Seminar 2026 </li>
+    <li>Invited talk, "<a href="https://www.youtube.com/embed/vhvYRXtfD_I">Robotic Companion</a>", Workshop on Articulate Robots at RSS 2023 </li>
+  </ul>
+
 
   <h3>Professional Activities</h3>
   <ul>
