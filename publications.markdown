@@ -31,8 +31,8 @@ If you want to change the style of the table, please look at the publication tag
                Intelligent Service Robotics, 2026 (Accepted)
           </div>
           <div class="btn-links">
-               <a class="btn btn-outline-primary btn-page-header btn-sm p-0 pr-2 pl-2 disabled"
-                  href="http://ieeexplore.ieee.org/document/8279425/"
+               <a class="btn btn-outline-primary btn-page-header btn-sm p-0 pr-2 pl-2"
+                  href="https://link.springer.com/article/10.1007/s11370-026-00729-y?utm_source=rct_congratemailt&utm_medium=email&utm_campaign=oa_20260916&utm_content=10.1007/s11370-026-00729-y"
                   target="_blank" rel="noopener">
                   <i class="ion-ios-document mr-2"></i><span>Paper</span>
                </a>
