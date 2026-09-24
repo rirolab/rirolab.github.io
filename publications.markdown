@@ -443,6 +443,41 @@ If you want to change the style of the table, please look at the publication tag
 <div class="pub-title"> International Conference Articles </div>
 
 
+<!-- 2027 ICRA SmoothBT -->
+<div class="pub-container">
+    <div class="img-column">
+        <img style="width: 85%" src="/assets/research/2027_ICRA_SmoothBT.gif">
+     </div>
+     <div class="exp-column">
+          <div class="title">
+               SmoothBT: A Behavior Tree-Based Execution Framework for Smooth Transitions Between Heterogeneous Manipulation Behaviors
+          </div>
+          <div class="authors">
+               Yeseung Kim, Jun Park, Daehyung Park
+          </div>
+          <div class="publisher">
+               under review
+          </div>
+          <div class="btn-links">
+               <a class="btn btn-outline-primary btn-page-header btn-sm p-0 pr-2 pl-2 disabled"
+                  href=""
+                  target="_blank" rel="noopener">
+                  <i class="ion-ios-document mr-2"></i><span>Paper</span>
+               </a>
+               <a class="btn btn-outline-primary btn-page-header btn-sm p-0 pr-2 pl-2 disabled"
+                  href="" target="_blank" rel="noopener">
+                  <i class="ion-ios-document mr-2"></i><span>ePrint</span>
+               </a>
+               <a class="btn btn-outline-primary btn-page-header btn-sm p-0 pr-2 pl-2"
+                  href="https://www.youtube.com/watch?v=lpEkldZqSck" target="_blank" rel="noopener">
+                  <i class="ion-ios-globe mr-2"></i><span>Site</span>
+               </a>
+          </div>
+     </div>
+</div>
+
+<div class="boundary-line" ></div>
+
 <!-- 2026 IROS Sling2Sim2Real -->
 <div class="pub-container">
     <div class="img-column">
