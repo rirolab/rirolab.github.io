@@ -443,6 +443,41 @@ If you want to change the style of the table, please look at the publication tag
 <div class="pub-title"> International Conference Articles </div>
 
 
+<!-- 2026 RiTA PortableGaze -->
+<div class="pub-container">
+    <div class="img-column">
+        <img style="width: 85%" src="/assets/research/2026_RiTA_PortableGaze.png">
+     </div>
+     <div class="exp-column">
+          <div class="title">
+               A Portable Data Collection System with Human Gaze toward Coarse-to-Fine Imitation Learning
+          </div>
+          <div class="authors">
+               Joonwoo Hur, Linan Deng, Jiung Yang, Nayoung Oh, Kyunggeune Oh, Daehyung Park
+          </div>
+          <div class="publisher">
+               under review
+          </div>
+          <div class="btn-links">
+               <a class="btn btn-outline-primary btn-page-header btn-sm p-0 pr-2 pl-2 disabled"
+                  href=""
+                  target="_blank" rel="noopener">
+                  <i class="ion-ios-document mr-2"></i><span>Paper</span>
+               </a>
+               <a class="btn btn-outline-primary btn-page-header btn-sm p-0 pr-2 pl-2 disabled"
+                  href="" target="_blank" rel="noopener">
+                  <i class="ion-ios-document mr-2"></i><span>ePrint</span>
+               </a>
+               <a class="btn btn-outline-primary btn-page-header btn-sm p-0 pr-2 pl-2 disabled"
+                  href="" target="_blank" rel="noopener">
+                  <i class="ion-ios-globe mr-2"></i><span>Site</span>
+               </a>
+          </div>
+     </div>
+</div>
+
+<div class="boundary-line" ></div>
+
 <!-- 2027 ICRA FloSPo-VLA -->
 <div class="pub-container">
     <div class="img-column">
