@@ -8,9 +8,10 @@ main_nav: true
 # We are always looking for highly motivated undergrads! 
 
 ## Potential topics (연구 토픽)
-- Robot foundation model (RFM) for humanoid robots
+- Deformable object simulation and sim2real transfer learning (highest priority, long-term only)
+- Multiview remote camera development + manipulation (hardware skill!)
+- Vision language action model for dual-arm manipulation, hand manipulation, or humanoid robots
 - Large-language model-based mobile manipulation
-- Constraint-based Quadruped robot navigation
 - Deformable object manipulation via reinforcement learning (RL)
 - Inverse constraint learning (inverse reinforcement learning)
 
@@ -23,9 +24,9 @@ After building the above systems, you will be asked to control it by applying re
 3. You can then join our lab.
 
 ### Note
-- We are looking for domestic undergrads only at this moment. 
-- We will provide a desk and a computer.
+- We only accept interns who intend to apply to our graduate programs.
 - Internship students will be paid during Summer and Winter vacations.
+
 
 
 ## Frequently Asked Questions
