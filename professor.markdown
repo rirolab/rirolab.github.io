@@ -82,6 +82,7 @@ main_nav: true
 
   <h3>Selected Talks and Media Appearances</h3>
   <ul>
+    <li>Interview, "<a href="https://www.youtube.com/watch?v=AmL0meJwiPg&t=161s"> Researchers' Stories Season 2 on the Future of Physical AI</a>", NRF 2026 </li>
     <li>Invited talk, "<a href="https://youtu.be/K9fXDUjkVyA">Robot may not work as we want</a>", KAIST CCS Mobility Seminar 2026 </li>
     <li>Invited talk, "<a href="https://www.youtube.com/embed/vhvYRXtfD_I">Robotic Companion</a>", Workshop on Articulate Robots at RSS 2023 </li>
   </ul>
@@ -89,7 +90,7 @@ main_nav: true
 
   <h3>Professional Activities</h3>
   <ul>
-    <li>Associate Editor for RA-L RSS, AURO, ISR, RiTA, etc. </li>
+    <li>Associate Editor (Area Chair) for RA-L, RSS, AURO, ISR, RiTA, etc. </li>
     <li>Deputy Director, KI for Robotics: Sept. 2025 </li>
     <li>Demo Chair, Conference on Robot Learning (CoRL) 2025</li>
     <li>Director, Korean Robotics Society 2025-Present</li>
@@ -97,10 +98,10 @@ main_nav: true
     <li>Organizer, “Designing Interactive Humanoids: Learning Tasks through Interaction with Humans”, Workshop at Humanoids 2024</li>
     <li>Organizer, “Experiment-oriented Locomotion and Manipulation Research”, Workshop at RSS 2023</li>
     <li>Organizer, “Human-Agent/Robot Interaction in Healthcare and Medicine”, Special session at RO-MAN 2023</li>
-    <li>Member, Organizing Committee for ICCAS  2026, 2026</li>
-    <li>Member, Award Subcommittee for ICRA  2022, 2023</li>
+    <li>Member, Organizing Committee for ICCAS  2026 </li>
+    <li>Member, Award Sub-committee for ICRA  2022, 2023</li>
     <li>Member, Organizing Committee for KRoC  2022-2024, 2026</li>
-    <li>Member, Organizing Committee for RiTA  2022, 2025</li>
+    <li>Member, Organizing Committee for RiTA  2022, 2025-2026</li>
     <li>Member, Program Committee for the NeurIPS 2021 Workshop on Metacognition in the Age of AI                                           2021</li>
   </ul>
 
