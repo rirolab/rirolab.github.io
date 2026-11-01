@@ -24,7 +24,7 @@ If you want to change the style of the table, please look at the table tags in _
         <div class="exp-column">
             <b>Daehyung Park (박대형)</b><br>
             Associate Professor at School of Computing<br>
-            Affiliated at AI Computing, Robotics Program, Graduate School of AI<br>
+            Affiliated at AIC, Robotics Program, Graduate School of AI<br>
             <i class="fas fa-building" aria-hidden="true"></i> E3-1 #2429 at Main Campus <br>    
             <a href="mailto:daehyung [at] kaist.ac.kr">
             <i class="far fa-envelope"></i>
@@ -37,6 +37,29 @@ If you want to change the style of the table, please look at the table tags in _
             </a>
             <span> | </span>
             <a href="/advisor">
+            <i class="fa fa-home"></i>
+            <span>Homepage</span>
+            </a>           
+        </div>
+
+		<div class="img-column">
+            <img src="/assets/people/changhyun_choi.jpg" alt="Changhyun Choi" >
+        </div>
+        <div class="exp-column">
+            <b>Changhyun Choi</b><br>
+			Visiting Professor <br>
+            Associate Professor at University of Minnesota (UMN) <br>
+            <a href="mailto:cchoi [at] umn.edu">
+            <i class="far fa-envelope"></i>
+            <span class="username"> cchoi [at] umn.edu </span>
+            </a>
+            <br>
+            <a href="https://scholar.google.co.kr/citations?user=WOsQx6EAAAAJ&hl">
+            <i class="fa fa-graduation-cap"></i>
+            <span>Scholar</span>
+            </a>
+            <span> | </span>
+            <a href="https://cse.umn.edu/ece/changhyun-choi">
             <i class="fa fa-home"></i>
             <span>Homepage</span>
             </a>           
