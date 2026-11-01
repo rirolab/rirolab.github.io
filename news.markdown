@@ -7,7 +7,7 @@ main_nav: true
 
  <div>
       <ul class="news-list">
-	  <li>Dr. <a href="https://cse.umn.edu/ece/changhyun-choi target="_blank">Changhyun Choi</a> from the University of Minnesota (UMN) has joined our lab as a visiting faculty member!! </li>
+	  <li>Dr. <a href="https://cse.umn.edu/ece/changhyun-choi" target="_blank">Changhyun Choi</a> from the University of Minnesota (UMN) has joined our lab as a visiting faculty member!! </li>
 	  <li>We are organizing the <a href="https://emprise.cs.cornell.edu/phyrc/challenge-2027/" target="_blank">PhyRC Challenge</a> in collaboration with the EmPRISE Lab at Cornell Univ, 2026</li>		  
       <li>Our joint ASPIRE League Partnership Seed Fund proposal with NTU and Tokyo Tech has been accepted., 2026</li>
 	  <li>Prof. Park featured in NRF's <a href="https://www.youtube.com/watch?v=AmL0meJwiPg&t=161s" target="_blank">Researchers' Stories Season 2 on the Future of Physical AI </a>, 2026</li>	  
