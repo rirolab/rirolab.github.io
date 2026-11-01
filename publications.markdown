@@ -583,6 +583,42 @@ If you want to change the style of the table, please look at the publication tag
 
 <div class="boundary-line" ></div>
 
+<!-- 2026 CVPR  -->
+<div class="pub-container">
+    <div class="img-column">
+        <img style="width: 85%" src="/assets/research/2026_CVPR_DynamicHOI.jpg">
+    </div>
+    <div class="exp-column">
+        <div class="title">
+            Dynamic Full-body Motion Agent with Object Interaction via Blending Pre-trained Modular Controllers
+        </div>
+        <div class="authors">
+            Sanghyeok Nam*, Byoungjun Kim*, Daehyung Park, Tae-Kyun Kim (*- authors contributed equally)
+        </div>
+        <div class="publisher">
+            IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2026 (Findings Track)
+        </div>
+        <div class="btn-links">
+            <a class="btn btn-outline-primary btn-page-header btn-sm p-0 pr-2 pl-2"
+               href="https://openreview.net/forum?id=sTqq8a2lhN"
+               target="_blank" rel="noopener">
+                <i class="ion-ios-document mr-2"></i><span>Paper</span>
+            </a>
+            <a class="btn btn-outline-primary btn-page-header btn-sm p-0 pr-2 pl-2"
+               href="https://arxiv.org/abs/2605.11369"
+               target="_blank" rel="noopener">
+                <i class="ion-ios-document mr-2"></i><span>ePrint</span>
+            </a>
+            <a class="btn btn-outline-primary btn-page-header btn-sm p-0 pr-2 pl-2"
+               href="https://yurangja99.github.io/dynamic-hoi/"
+               target="_blank" rel="noopener">
+                <i class="ion-ios-globe mr-2"></i><span>Site</span>
+            </a>
+        </div>
+    </div>
+</div>
+
+<div class="boundary-line" ></div>
 <!-- 2026 UR ParCo-SDF -->
 <div class="pub-container">
     <div class="img-column">
