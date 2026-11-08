@@ -7,6 +7,8 @@ main_nav: true
 
  <div>
       <ul class="news-list">
+    <li>Prof. Park provides an invited talk at NUS Robotics Seminar, 2026</li>
+    <li>Our <a href="https://emprise.cs.cornell.edu/phyrc/challenge-2027/" target="_blank">PhyRC Challenge</a> proposal is accepted to ICRA2027! Thanks, Sehee, Injin, and Seoyul!</li>	  
 	  <li>Dr. <a href="https://cse.umn.edu/ece/changhyun-choi" target="_blank">Changhyun Choi</a> from the University of Minnesota (UMN) has joined our lab as a visiting faculty member!! </li>
 	  <li>We are organizing the <a href="https://emprise.cs.cornell.edu/phyrc/challenge-2027/" target="_blank">PhyRC Challenge</a> in collaboration with the EmPRISE Lab at Cornell Univ, 2026</li>		  
       <li>Dr. Linan Deng has joined our lab as a Postdoc, 2026!! </li>		  

@@ -42,13 +42,13 @@ main_nav: true
         <br>
         <div class="img-multi-container">
              <div class="responsive-img">
-                  <img src="/assets/equipment/fm_goal.png" alt="High-precision task for Humanoid Robot ">
+                  <img style="width: 85%" src="/assets/research/2027_ICRA_FloSPoVLA.gif">
              </div>
              <div class="responsive-img">
                   <img style="width: 85%" src="/assets/research/research_humanoid_nav.png">
              </div>
              <div class="responsive-img">
-                  <img style="width: 85%" src="/assets/research/2024_ISR_LLM.png">
+                  <img style="width: 85%" src="/assets/research/2025_CoRL_DisPo.gif">
              </div>
         </div>
 
@@ -74,7 +74,7 @@ main_nav: true
                   <img style="width: 100%" src="/assets/research/2025_RSS_INR_DOM.gif">
              </div>
              <div class="responsive-img">
-                  <img style="width: 85%" src="/assets/research/2025_RSS_ILCL.png">
+                  <img style="width: 85%" src="/assets/research/2026_IROS_Sling2Sim2Real.gif">
              </div>
              <div class="responsive-img">
                   <img src="/assets/research/research_iitp.png" alt="Deformable object manipulation + Inverse constraint learning">
