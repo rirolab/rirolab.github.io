@@ -71,6 +71,10 @@ If you want to change the style of the table, please look at the table tags in _
                  <img src="/assets/equipment/rbq.png" alt="RBQ-3"  style="width:220px; height:220px; object-fit:contain;" >
                  <div class="overlay"> RBQ-3 </div>
              </div>
+             <div class="item">
+                 <img src="/assets/equipment/aria_glass2.png" alt="Aria Gen2"  style="width:220px; height:220px; object-fit:contain;" >
+                 <div class="overlay"> Aria Gen2 from Meta</div>
+             </div>
         </div>
 
     </div>
